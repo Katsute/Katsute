@@ -27,23 +27,35 @@
     src="https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=3278be"
     alt="Java">
 <img 
+    src="https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=3278be"
+    alt="HTML">
+<img 
+    src="https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css-wizardry&logoColor=white&color=3278be"
+    alt="CSS">
+<img 
+    src="https://img.shields.io/badge/Code-SASS-informational?style=flat-square&logo=css-wizardry&logoColor=white&color=3278be"
+    alt="SASS">
+<img 
     src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=3278be"
     alt="JavaScript">
+<img 
+    src="https://img.shields.io/badge/Tools-Maven-informational?style=flat-square&logo=apache-maven&logoColor=white&color=3278be"
+    alt="Maven">
 
 ## 📊 GitHub Statistics
 
 <div align="center">
     <img 
-        src="https://github-readme-stats.vercel.app/api?username=katsute&hide=stars&show_icons=true&count_private=true&include_all_commits=true&title_color=3278be&text_color=F3F2F1&icon_color=3278be&bg_color=202020"
+        src="https://github-readme-stats.vercel.app/api?username=katsute&hide=stars&show_icons=true&count_private=true&include_all_commits=true&title_color=3278be&icon_color=3278be&text_color=202020"
         alt="stats">
     <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsute&layout=default&title_color=3278be&text_color=F3F2F1&icon_color=3278be&bg_color=202020"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsute&layout=default&title_color=3278be&icon_color=3278be&text_color=202020"
         alt="languages">
 </div>
 
 ## 👩‍💻 Repositories Being Worked On
 
 <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ktt-development&repo=webdir&show_owner=true&title_color=3278be&text_color=F3F2F1&icon_color=3278be&bg_color=202020">
+    src="https://github-readme-stats.vercel.app/api/pin/?username=ktt-development&repo=webdir&show_owner=true&title_color=3278be&text_color=202020">
 
 ## 📦 Featured Repositories
