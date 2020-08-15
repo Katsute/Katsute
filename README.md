@@ -55,7 +55,9 @@
 
 ## 👩‍💻 Repositories Being Worked On
 
-<img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ktt-development&repo=webdir&show_owner=true&title_color=3278be&text_color=202020">
+<a href="https://github.com/Ktt-Development/webdir">
+    <img
+        src="https://github-readme-stats.vercel.app/api/pin/?username=ktt-development&repo=webdir&show_owner=true&title_color=3278be&text_color=202020">
+</a>
 
 ## 📦 Featured Repositories
