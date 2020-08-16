@@ -54,14 +54,15 @@
 </div>
 
 ## 👩‍💻 Repositories Being Worked On
-
-<a href="https://github.com/Ktt-Development/webdir">
-    <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=ktt-development&repo=webdir&show_owner=true&title_color=3278be&text_color=202020">
-</a>
-<a href="https://github.com/Katsute/CoreWD">
-    <img
-        src="https://github-readme-stats.vercel.app/api/pin/?username=katsute&repo=CoreWD&show_owner=true&title_color=3278be&text_color=202020">
-</a>
+<div align="center">
+    <a href="https://github.com/Ktt-Development/webdir">
+        <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=ktt-development&repo=webdir&show_owner=true&title_color=3278be&text_color=202020">
+    </a>
+    <a href="https://github.com/Katsute/CoreWD">
+        <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=katsute&repo=CoreWD&show_owner=true&title_color=3278be&text_color=202020">
+    </a>
+</div>
 
 ## 📦 Featured Repositories
