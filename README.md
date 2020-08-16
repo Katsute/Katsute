@@ -33,7 +33,7 @@
     src="https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css-wizardry&logoColor=white&color=3278be"
     alt="CSS">
 <img 
-    src="https://img.shields.io/badge/Code-SASS-informational?style=flat-square&logo=css-wizardry&logoColor=white&color=3278be"
+    src="https://img.shields.io/badge/Code-SASS-informational?style=flat-square&logo=sass&logoColor=white&color=3278be"
     alt="SASS">
 <img 
     src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=3278be"
