@@ -21,7 +21,7 @@
     src="https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=3278be"
     alt="IntelliJ-IDE">
 <img 
-    src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=3278be"
+    src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat-square&logo=Visual-Studio-Code&logoColor=white&color=3278be"
     alt="Visual-Studio-Code-IDE">
 <img 
     src="https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=3278be"
