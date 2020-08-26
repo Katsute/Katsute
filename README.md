@@ -53,15 +53,15 @@
         alt="languages">
 </div>
 
-## 👩‍💻 Repositories Being Worked On
+## 👨‍💻 Repositories Being Worked On Currently
 <div align="center">
     <a href="https://github.com/Ktt-Development/webdir">
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=ktt-development&repo=webdir&show_owner=true&title_color=3278be&text_color=202020">
     </a>
-    <a href="https://github.com/Katsute/katsute.github.io">
+    <a href="https://github.com/Ktt-Development/docs.kttdevelopment.com">
         <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=katsute&repo=katsute.github.io&show_owner=true&title_color=3278be&text_color=202020">
+            src="https://github-readme-stats.vercel.app/api/pin/?username=ktt-development&repo=docs.kttdevelopment.com&show_owner=true&title_color=3278be&text_color=202020">
     </a>
 </div>
 
