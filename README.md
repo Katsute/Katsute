@@ -59,6 +59,10 @@
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=ktt-development&repo=webdir&show_owner=true&title_color=3278be&text_color=202020">
     </a>
+    <a href="https://github.com/Katsute/Baruch-CIS-2300-Assignments">
+        <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=katsute&repo=baruch-cis-2300-assignments&show_owner=true&title_color=3278be&text_color=202020">
+    </a>
     <a href="https://github.com/Ktt-Development/docs.kttdevelopment.com">
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=ktt-development&repo=docs.kttdevelopment.com&show_owner=true&title_color=3278be&text_color=202020">
