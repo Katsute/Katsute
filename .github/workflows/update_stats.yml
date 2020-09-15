@@ -1,0 +1,22 @@
+name: Update Statistics
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    # Run daily
+    - cron:  '0 0 * * *'
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📦 Prepare Git Repo
+        uses: actions/checkout@v2
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+
+      - name: 📄 Update Statistics
+        run: python gist.py ${{ secrets.GITHUB_TOKEN }}
