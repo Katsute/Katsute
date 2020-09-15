@@ -49,7 +49,7 @@
         src="https://github-readme-stats.vercel.app/api?username=katsute&hide=stars&show_icons=true&count_private=true&include_all_commits=true&title_color=3278be&icon_color=3278be&text_color=202020"
         alt="stats">
     <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsute&layout=default&title_color=3278be&icon_color=3278be&text_color=202020&hide=javascript"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsute&layout=default&title_color=3278be&icon_color=3278be&text_color=202020"
         alt="languages">
 </div>
 
