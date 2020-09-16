@@ -18,8 +18,8 @@ def main():
     map_lang = dict()
     int_commits = int_pulls = int_issues = int_contributions = 0
 
-    for repo in user.get_repos(type="all"):
-        if g_boolean_include_private and repo.private:
+    for repo in user.get_repos():
+        if repo.private and not g_boolean_include_private:
             continue
 
         # contributions
@@ -58,7 +58,7 @@ def main():
 
     for gist in user.get_gists():
         for name, file in gist.files.items():
-            if file.filename == "📊 GitHub Stat":
+            if file.filename == "📊 GitHub Stats":
                 gist.edit(files={file.filename: InputFileContent(content=str_gist)})
 
     print(str_gist)
@@ -73,7 +73,7 @@ def main():
         int_bar = int(percent/100*20)
         str_bar = ('█' * int_bar) + ('░' * (20-int_bar))
 
-        str_gist += f"{lang:11}{str_bar} {percent:05.2f}%\n"
+        str_gist += f"{lang:20}{str_bar} {percent:05.2f}%\n"
 
     for gist in user.get_gists():
         for name, file in gist.files.items():
