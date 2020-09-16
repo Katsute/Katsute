@@ -54,7 +54,7 @@ def main():
 
     str_gist = ""
     for k, v in map_stats.items():
-        str_gist += f"{k + ':':20}{v}\n"
+        str_gist += f"{k:15}: {v}\n"
 
     for gist in user.get_gists():
         for name, file in gist.files.items():
@@ -73,7 +73,7 @@ def main():
         int_bar = int(percent/100*20)
         str_bar = ('█' * int_bar) + ('░' * (20-int_bar))
 
-        str_gist += f"{lang:15}{str_bar:25}{percent:05.2f}%\n"
+        str_gist += f"{lang:11}{str_bar} {percent:05.2f}%\n"
 
     for gist in user.get_gists():
         for name, file in gist.files.items():
