@@ -42,17 +42,6 @@
     src="https://img.shields.io/badge/Tools-Maven-informational?style=flat-square&logo=apache-maven&logoColor=white&color=3278be"
     alt="Maven">
 
-## 📊 GitHub Statistics
-
-<div align="center">
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=katsute&hide=stars&show_icons=true&count_private=true&include_all_commits=true&title_color=3278be&icon_color=3278be&text_color=202020"
-        alt="stats">
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsute&layout=default&title_color=3278be&icon_color=3278be&text_color=202020"
-        alt="languages">
-</div>
-
 ## 👨‍💻 Repositories Being Worked On Currently
 <div align="center">
     <a href="https://github.com/Ktt-Development/ktt-development.github.io">
@@ -60,5 +49,3 @@
             src="https://github-readme-stats.vercel.app/api/pin/?username=ktt-development&repo=ktt-development.github.io&show_owner=true&title_color=3278be&text_color=202020">
     </a>
 </div>
-
-## 📦 Featured Repositories

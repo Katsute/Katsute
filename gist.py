@@ -5,13 +5,13 @@ from github import Github, InputFileContent
 
 # configuration
 g_boolean_include_private = True
-g_arr_hide_lang = []
+g_arr_hide_lang = ["HTML", "JavaScript", "CSS"]
 
 
 # first arg is python compile; second arg is oauth
 def main():
-    github = Github(sys.argv[1])
-    user = github.get_user()
+    g = Github(sys.argv[1])
+    user = g.get_user()
     int_userid = user.id
     date_year = datetime.datetime.combine(datetime.date(datetime.date.today().year, 1, 1), datetime.time.min)
 
@@ -56,6 +56,11 @@ def main():
     for k, v in map_stats.items():
         str_gist += f"{k + ':':20}{v}\n"
 
+    for gist in user.get_gists():
+        for name, file in gist.files.items():
+            if file.filename == "📊 GitHub Stat":
+                gist.edit(files={file.filename: InputFileContent(content=str_gist)})
+
     print(str_gist)
     # lang gist
     double_total = sum(map_lang.values())
@@ -65,15 +70,15 @@ def main():
 
     for i in map_lang:
         lang, percent = i[0], float(i[1]) * 100 / double_total
-        int_bar = int(percent/10) * 2
+        int_bar = int(percent/100*20)
         str_bar = ('█' * int_bar) + ('░' * (20-int_bar))
 
         str_gist += f"{lang:15}{str_bar:25}{percent:05.2f}%\n"
 
-    # for gist in user.get_gists():
-    #     for name, file in gist.files.items():
-    #         if file.filename == "📊 Top Languages":
-    #             gist.edit(files=[InputFileContent(new_name=file.filename, content=str_gist)])
+    for gist in user.get_gists():
+        for name, file in gist.files.items():
+            if file.filename == "📊 Top Languages":
+                gist.edit(files={file.filename: InputFileContent(content=str_gist)})
     print(str_gist)
     return
 
