@@ -24,4 +24,4 @@ jobs:
           pip install -r requirements.txt
 
       - name: 📄 Update Statistics
-        run: python gist.py ${{ secrets.Katsute }}
+        run: python gist.py ${{ secrets.GIST_KEY }}
