@@ -73,7 +73,7 @@ def main():
         int_bar = int(percent/100*20)
         str_bar = ('█' * int_bar) + ('░' * (20-int_bar))
 
-        str_gist += f"{lang:20}{str_bar} {percent:05.2f}%\n"
+        str_gist += f"{lang:11}{str_bar} {percent:05.2f}%\n"
 
     for gist in user.get_gists():
         for name, file in gist.files.items():
