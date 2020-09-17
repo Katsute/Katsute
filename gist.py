@@ -70,7 +70,7 @@ def main():
 
     for i in map_lang:
         lang, percent = i[0], float(i[1]) * 100 / double_total
-        int_bar = int(percent/(100*20))
+        int_bar = int((percent/100)*20)
         str_bar = ('█' * int_bar) + ('░' * (20-int_bar))
 
         str_gist += f"{lang:11}{str_bar} {percent:05.2f}%\n"
