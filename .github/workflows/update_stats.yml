@@ -4,7 +4,7 @@ on:
     branches:
       - master
   schedule:
-    # Run daily
+    # Run daily at midnight est
     - cron:  '0 4 * * *'
 jobs:
   update:
