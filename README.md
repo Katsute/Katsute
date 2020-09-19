@@ -48,4 +48,8 @@
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=ktt-development&repo=ktt-development.github.io&show_owner=true&title_color=3278be&text_color=202020">
     </a>
+    <a href="https://github.com/Katsute/Remote-Parental-Control">
+        <img
+            src="https://github-readme-stats.vercel.app/api/pin/?username=Katsute&repo=Remote-Parental-Control&show_owner=true&title_color=3278be&text_color=202020">
+    </a>
 </div>
