@@ -2,7 +2,7 @@ import codecs, re, sys
 
 from github import Github
 
-history = 10
+history = 5
 
 
 # first arg is python compile; second arg is oauth
