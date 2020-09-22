@@ -58,15 +58,16 @@
 ## ⚡ Recent Activity
 
 
+ - Added commit [d8e5d80](https://github.com/Katsute/Katsute/commit/d8e5d8000ff0d471f301d8ca30d1a37025e52241) to repository [Katsute/Katsute](https://github.com/Katsute/Katsute)
+  > Syntax changes
  - Added commit [d4b683d](https://github.com/Katsute/Katsute/commit/d4b683d440007d4f0a32511a0b31f115f451bbc3) to repository [Katsute/Katsute](https://github.com/Katsute/Katsute)
-   > Lowered history count          
-    >           
-    > Lowered history to 5 to make profile more readable ...
+  > Lowered history count          
+  >  >           
+  >  > Lowered history to 5 to make profile more readable ...
  - Added commit [e82074d](https://github.com/Katsute/Katsute/commit/e82074db50b6ce110dcb904575b078c8b864e210) to repository [Katsute/Katsute](https://github.com/Katsute/Katsute)
-   > Add automated readme          
-    >           
-    > - README now derives from template          
-    > - README now lists last 10 events ...
+  > Add automated readme          
+  >  >           
+  >  > - README now derives from template          
+  >  > - README now lists last 10 events ...
  - Closed issue [Archive Project? (#64)](https://github.com/Ktt-Development/mediaworks/issues/64) from repository [Ktt-Development/mediaworks](https://github.com/Ktt-Development/mediaworks)
  - Closed issue [More visual progression (#58)](https://github.com/Ktt-Development/mediaworks/issues/58) from repository [Ktt-Development/mediaworks](https://github.com/Ktt-Development/mediaworks)
- - Closed issue [Implement IME for inputs. (#57)](https://github.com/Ktt-Development/mediaworks/issues/57) from repository [Ktt-Development/mediaworks](https://github.com/Ktt-Development/mediaworks)
