@@ -58,6 +58,10 @@
 ## ⚡ Recent Activity
 
 
+ - Added commit [d4b683d](https://github.com/Katsute/Katsute/commit/d4b683d440007d4f0a32511a0b31f115f451bbc3) to repository [Katsute/Katsute](https://github.com/Katsute/Katsute)
+   > Lowered history count          
+    >           
+    > Lowered history to 5 to make profile more readable ...
  - Added commit [e82074d](https://github.com/Katsute/Katsute/commit/e82074db50b6ce110dcb904575b078c8b864e210) to repository [Katsute/Katsute](https://github.com/Katsute/Katsute)
    > Add automated readme          
     >           
@@ -66,22 +70,3 @@
  - Closed issue [Archive Project? (#64)](https://github.com/Ktt-Development/mediaworks/issues/64) from repository [Ktt-Development/mediaworks](https://github.com/Ktt-Development/mediaworks)
  - Closed issue [More visual progression (#58)](https://github.com/Ktt-Development/mediaworks/issues/58) from repository [Ktt-Development/mediaworks](https://github.com/Ktt-Development/mediaworks)
  - Closed issue [Implement IME for inputs. (#57)](https://github.com/Ktt-Development/mediaworks/issues/57) from repository [Ktt-Development/mediaworks](https://github.com/Ktt-Development/mediaworks)
- - Added commit [662a4cf](https://github.com/Ktt-Development/simplehttpserver/commit/662a4cf63a6b430b226df258e59b0886c173acc7) to repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)
-   > Bump maven-resources-plugin from 3.1.0 to 3.2.0          
-    >           
-    > Bumps [maven-resources-plugin](https://github.com/apache/maven-resources-plugin) from 3.1.0 to 3.2.0.          
-    > - [Release notes](https://github.com/apache/maven-resources-plugin/releases)          
-    > - [Commits](https://github.com/apache/maven-resources-plugin/compare/maven-resources-plugin-3.1.0...maven-resources-plugin-3.2.0)          
-    >           
-    > Signed-off-by: dependabot[bot] <support@github.com> ...
- - Closed pull request [Bump maven-resources-plugin from 3.1.0 to 3.2.0 (#91)](https://github.com/Ktt-Development/simplehttpserver/pull/91) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)
- - Added commit [8600560](https://github.com/Ktt-Development/rexedia/commit/860056077ea36d4f8cc1b152609277d84d70d9ae) to repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)
-   > add some utility classes
- - Added commit [fe6281b](https://github.com/Katsute/GitHub-Downloader/commit/fe6281b67433dca8fd3de91bf00b43396ca7515a) to repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)
-   > fix no file exception issue          
-    >           
-    > Fixes flawed zip issue that causes empty array to fail ...
- - Added commit [e9d50af](https://github.com/Ktt-Development/rexedia/commit/e9d50af7919518d8775797e547aab59e0603260e) to repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)
-   > argument tweaks
- - Added commit [e408413](https://github.com/Ktt-Development/simplehttpserver/commit/e40841397f4cd2837613db8e19aa06cfe888a8c0) to repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)
-   > fix manifest
