@@ -125,7 +125,7 @@ def eventAsString(event):  # no switch statements :(
 
 def quote(message, repo_url):
     s2 = message.replace('\n', '\n> ')
-    return '\n > ' + truncate(re.sub(r'#(\d+)', '[#\\1](' + repo_url + '/issues/\\1)', s2.replace('\n', '\n' + '  ')), int_max_len) if s2 else ''
+    return '\n> ' + truncate(re.sub(r'#(\d+)', '[#\\1](' + repo_url + '/issues/\\1)', s2.replace('\n', '\n>  ')), int_max_len) if s2 else ''
 
 
 def truncate(string, max_len):
