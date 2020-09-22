@@ -149,7 +149,7 @@ def contains(arr, string):
 
 
 def getTimePassed(time, now):
-    passed = (now - time).total_seconds()
+    passed = int((now - time).total_seconds())
     inYears = int(passed / 31_536_000)
     inMonths = int(passed / 2_628_000)
     inDays = int(passed / 86400)
