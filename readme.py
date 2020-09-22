@@ -111,7 +111,8 @@ def eventAsString(event):  # no switch statements :(
         commit = payload['commits'][0]
         message = commit['message']
         return f"Added commit [{commit['sha'][0:7]}]({event.repo.html_url}/commit/{commit['sha']}) " \
-               f"to repository {str_repo_name}" + \
+               f"to branch [{payload['ref'][11:]}]({event.repo.html_url}/tree/{payload['ref'][11:]}) " + \
+               f"in repository {str_repo_name}" + \
                quote(message, event.repo.html_url)
     elif event.type == "ReleaseEvent":
         return f"{payload['action'].capitalize()} release {payload['release']['name']} in {str_repo_name}"
