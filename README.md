@@ -58,6 +58,10 @@
 ## ⚡ Recent Activity
 
 
+ - Added commit [2e41fb1](https://github.com/Ktt-Development/repository.kttdevelopment.com/commit/2e41fb17e9d1fb913081a0054268e5af00bf3563) to repository [Ktt-Development/repository.kttdevelopment.com](https://github.com/Ktt-Development/repository.kttdevelopment.com)
+   > Skip commit on no changes
+ - Added commit [0ace950](https://github.com/Ktt-Development/ktt-development.github.io/commit/0ace950d9610313d335770aeb7f353d26b2d816a) to repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)
+   > skip non changes
  - Added commit [b83bdaf](https://github.com/Katsute/Katsute/commit/b83bdafe923206a4e548a38d81995650cf8d401e) to repository [Katsute/Katsute](https://github.com/Katsute/Katsute)
    > Minor tweaks
    >  > - Change truncate to line limit
@@ -67,8 +71,3 @@
  - Added commit [d4b683d](https://github.com/Katsute/Katsute/commit/d4b683d440007d4f0a32511a0b31f115f451bbc3) to repository [Katsute/Katsute](https://github.com/Katsute/Katsute)
    > Lowered history count
    >  > Lowered history to 5 to make profile more readable
- - Added commit [e82074d](https://github.com/Katsute/Katsute/commit/e82074db50b6ce110dcb904575b078c8b864e210) to repository [Katsute/Katsute](https://github.com/Katsute/Katsute)
-   > Add automated readme
-   >  > - README now derives from template
-   >  > - README now lists last 10 events
- - Closed issue [Archive Project? (#64)](https://github.com/Ktt-Development/mediaworks/issues/64) from repository [Ktt-Development/mediaworks](https://github.com/Ktt-Development/mediaworks)
