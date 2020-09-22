@@ -58,16 +58,11 @@
 ## ⚡ Recent Activity
 
 
+ - Opened pull request [Add shutdown no delay@f297ecf (#1)](https://github.com/Katsute/Remote-Parental-Control/pull/1) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)
+ - Added commit [6565065](https://github.com/Katsute/Remote-Parental-Control/commit/656506581f64eabaf2d586fd3bbcc44cc0d3caad) to repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)
+   > Update index.html
+ - Added commit [f7fcb90](https://github.com/Katsute/Remote-Parental-Control/commit/f7fcb90223f75cb53449380a54fd7729654c79fe) to repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)
+   > add shutdown no delay
+ - Created branch [add-shutdown-no-delay@f297ecf](https://github.com/Katsute/Remote-Parental-Control/tree/add-shutdown-no-delay@f297ecf) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)
  - Added commit [2e41fb1](https://github.com/Ktt-Development/repository.kttdevelopment.com/commit/2e41fb17e9d1fb913081a0054268e5af00bf3563) to repository [Ktt-Development/repository.kttdevelopment.com](https://github.com/Ktt-Development/repository.kttdevelopment.com)
    > Skip commit on no changes
- - Added commit [0ace950](https://github.com/Ktt-Development/ktt-development.github.io/commit/0ace950d9610313d335770aeb7f353d26b2d816a) to repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)
-   > skip non changes
- - Added commit [b83bdaf](https://github.com/Katsute/Katsute/commit/b83bdafe923206a4e548a38d81995650cf8d401e) to repository [Katsute/Katsute](https://github.com/Katsute/Katsute)
-   > Minor tweaks
-   >  > - Change truncate to line limit
-   >  > - Fix workflow to ignore no changes
- - Added commit [d8e5d80](https://github.com/Katsute/Katsute/commit/d8e5d8000ff0d471f301d8ca30d1a37025e52241) to repository [Katsute/Katsute](https://github.com/Katsute/Katsute)
-   > Syntax changes
- - Added commit [d4b683d](https://github.com/Katsute/Katsute/commit/d4b683d440007d4f0a32511a0b31f115f451bbc3) to repository [Katsute/Katsute](https://github.com/Katsute/Katsute)
-   > Lowered history count
-   >  > Lowered history to 5 to make profile more readable
