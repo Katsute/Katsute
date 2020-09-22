@@ -29,7 +29,7 @@ def main():
     return
 
 
-int_max_len = 50
+int_max_lines = 4
 
 
 def eventAsString(event):  # no switch statements :(
@@ -124,13 +124,16 @@ def eventAsString(event):  # no switch statements :(
 
 
 def quote(message, repo_url):
-    s2 = message.replace('\n', '\n> ')
-    return '\n> ' + truncate(re.sub(r'#(\d+)', '[#\\1](' + repo_url + '/issues/\\1)', s2.replace('\n', '\n>  ')), int_max_len) if s2 else ''
+    s2 = re.sub(r'\n\s*\n', '\n', message).replace('\n', '\n> ')
+    return '\n > ' + truncate(re.sub(r'#(\d+)', '[#\\1](' + repo_url + '/issues/\\1)', s2.replace('\n', '\n >  ')), int_max_lines) if s2 else ''
 
 
-def truncate(string, max_len):
-    s2 = string.replace('\n', '          \n')  # make new lines weighted more
-    return s2 if len(s2) <= max_len else s2 + ' ...'
+def truncate(string, max_lines):
+    lines = string.split('\n', 1)
+    if len(lines) > max_lines:
+        return lines[0] + '\n' + lines[1] + '\n' + lines[2] + '\n' + lines[3]
+    else:
+        return string
 
 
 def contains(arr, string):
@@ -138,6 +141,7 @@ def contains(arr, string):
         if s == string:
             return True
     return False
+
 
 if __name__ == "__main__":
     main()
