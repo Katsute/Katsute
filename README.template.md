@@ -11,6 +11,7 @@
 
 ## ⭐ Information
 
+ - Currently taking Computer Information Systems (CIS) at Baruch College
 
 ## 🔧 Technologies & Tools
 
@@ -53,3 +54,7 @@
             src="https://github-readme-stats.vercel.app/api/pin/?username=Ktt-Development&repo=rexedia&show_owner=true&title_color=3278be&text_color=202020">
     </a>
 </div>
+
+## ⚡ Recent Activity
+
+{{ activity }}

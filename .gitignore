@@ -2,3 +2,6 @@
 /.idea/
 /Pipfile
 /Pipfile.lock
+
+# Template Output
+/README.md
