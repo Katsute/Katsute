@@ -58,12 +58,13 @@
 ## ⚡ Recent Activity
 
 
- - Added commit [bb984c5](https://github.com/Katsute/Katsute/commit/bb984c5737342cc6a55eadb1e7cccbabac0ecd58) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`3 hours ago`*
+ - Deleted branch [add-shutdown-no-delay@f297ecf](https://github.com/Katsute/Remote-Parental-Control/tree/add-shutdown-no-delay@f297ecf) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control) *`5 minutes ago`*
+ - Added commit [f7fcb90](https://github.com/Katsute/Remote-Parental-Control/commit/f7fcb90223f75cb53449380a54fd7729654c79fe) to branch [master](https://github.com/Katsute/Remote-Parental-Control/tree/master) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`5 minutes ago`*
+   > add shutdown no delay
+ - Closed pull request [Add-new-shutdown-features@f297ecf (#1)](https://github.com/Katsute/Remote-Parental-Control/pull/1) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`5 minutes ago`*
+ - Added commit [420b4ee](https://github.com/Katsute/Remote-Parental-Control/commit/420b4ee181b5db0a8705391e58c5380794b351d7) to branch [add-shutdown-no-delay@f297ecf](https://github.com/Katsute/Remote-Parental-Control/tree/add-shutdown-no-delay@f297ecf) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`17 minutes ago`*
+   > Bug fixes
+   >  > - Fixed incompatible flags
+   >  > - Fixes git bootup issue
+ - Added commit [bb984c5](https://github.com/Katsute/Katsute/commit/bb984c5737342cc6a55eadb1e7cccbabac0ecd58) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`4 hours ago`*
    > remove trailing digits
- - Added commit [f45ffdf](https://github.com/Katsute/Katsute/commit/f45ffdf2c758ae52b7a8ed2779f4481301f51d69) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`4 hours ago`*
-   > Added timestamps
- - Added commit [66b6baf](https://github.com/Katsute/Remote-Parental-Control/commit/66b6baf56c142168d609376fd16d16344f924c07) to branch [add-shutdown-no-delay@f297ecf](https://github.com/Katsute/Remote-Parental-Control/tree/add-shutdown-no-delay@f297ecf) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`4 hours ago`*
-   > Additional shutdown actions (untested)
- - Added commit [aa0d823](https://github.com/Katsute/Katsute/commit/aa0d823b282138dacc3ba2bc4968bc849b4f29ae) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`6 hours ago`*
-   > Add branch commit
- - Opened pull request [Add shutdown no delay@f297ecf (#1)](https://github.com/Katsute/Remote-Parental-Control/pull/1) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`9 hours ago`*
