@@ -37,7 +37,7 @@ int_max_lines = 4
 def eventAsString(event, now):  # no switch statements :(
     payload = event.payload
     str_repo_name = f"[{event.repo.name}]({event.repo.html_url})"
-    ago = f" *`{getTimePassed(event.created_at, now)} ago`*"
+    ago = f" *`{getTimePassed(event.created_at, now)} ago`*"
     if event.type == "CommitCommentEvent":
         comment = payload["comment"]
         return f"Commented on commit [{comment['commit']['sha'][0:7]}]({comment.html_url}) " \
@@ -157,17 +157,17 @@ def getTimePassed(time, now):
     inMinutes = int(passed / 60)
 
     if inYears > 0:
-        return f"{inYears} year{'s' if inYears != 1 else ''}"
+        return f"{inYears} year{'s' if inYears != 1 else ''}"
     elif inMonths > 0:
-        return f"{inMonths} month{'s' if inMonths != 1 else ''}"
+        return f"{inMonths} month{'s' if inMonths != 1 else ''}"
     elif inDays > 0:
-        return f"{inDays} day{'s' if inDays != 1 else ''}"
+        return f"{inDays} day{'s' if inDays != 1 else ''}"
     elif inHours > 0:
-        return f"{inHours} hour{'s' if inHours != 1 else ''}"
+        return f"{inHours} hour{'s' if inHours != 1 else ''}"
     elif inMinutes > 0:
-        return f"{inMinutes} minute{'s' if inMinutes != 1 else ''}"
+        return f"{inMinutes} minute{'s' if inMinutes != 1 else ''}"
     else:
-        return f"{passed} second{'s' if passed != 1 else ''}"
+        return f"{passed} second{'s' if passed != 1 else ''}"
 
 
 if __name__ == "__main__":
