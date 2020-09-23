@@ -4,8 +4,8 @@ on:
     branches:
       - master
   schedule:
-    # Run hourly
-    - cron:  '0 * * * *'
+    # Run every 15 minutes during EST daylight hours. (7AM-12AM)
+    - cron:  '*/15 0,1,2,3,4,11,12,13,14,15,16,17,18,19,20,21,21,23,2 * * *'
 jobs:
   update:
     runs-on: ubuntu-latest
