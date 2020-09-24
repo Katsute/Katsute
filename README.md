@@ -59,10 +59,10 @@
 
 
  - Starred repository [Rapptz/discord.py](https://github.com/Rapptz/discord.py)  *`1 hour ago`*
- - Added commit [91fb8c8](https://github.com/Katsute/Katsute/commit/91fb8c84520a66bc3d275a5ab42a9ef906abaf47) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`8 hours ago`*
+ - Added commit [91fb8c8](https://github.com/Katsute/Katsute/commit/91fb8c84520a66bc3d275a5ab42a9ef906abaf47) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`9 hours ago`*
    > minor changes
- - Opened pull request [Move statistics gist to readme (#1)](https://github.com/Katsute/Katsute/pull/1) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`19 hours ago`*
- - Added commit [000d06c](https://github.com/Katsute/Katsute/commit/000d06ce03808a710a43cd2c61a760e2cdd5d4ae) to branch [move-stats-to-readme@dc87a0b](https://github.com/Katsute/Katsute/tree/move-stats-to-readme@dc87a0b) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`19 hours ago`*
+ - Opened pull request [Move statistics gist to readme (#1)](https://github.com/Katsute/Katsute/pull/1) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`20 hours ago`*
+ - Added commit [000d06c](https://github.com/Katsute/Katsute/commit/000d06ce03808a710a43cd2c61a760e2cdd5d4ae) to branch [move-stats-to-readme@dc87a0b](https://github.com/Katsute/Katsute/tree/move-stats-to-readme@dc87a0b) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`20 hours ago`*
    > WIP: image based contributions and languages
- - Added commit [b96bfa7](https://github.com/Katsute/Katsute/commit/b96bfa7ee8aca373bf8af8dc93d73e8905f71761) to branch [move-stats-to-readme@dc87a0b](https://github.com/Katsute/Katsute/tree/move-stats-to-readme@dc87a0b) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`20 hours ago`*
+ - Added commit [b96bfa7](https://github.com/Katsute/Katsute/commit/b96bfa7ee8aca373bf8af8dc93d73e8905f71761) to branch [move-stats-to-readme@dc87a0b](https://github.com/Katsute/Katsute/tree/move-stats-to-readme@dc87a0b) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`21 hours ago`*
    > optimize events and add last updated
