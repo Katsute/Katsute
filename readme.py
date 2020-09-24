@@ -1,15 +1,19 @@
 import codecs
 import re
 import sys
+import imgkit
 
 from datetime import datetime
 from pytz import timezone
 from github import Github
 
 import utility
+import ghStats
 
 int_history   = 5
 int_max_lines = 4
+boolean_include_private = True
+arr_hide_lang = ["HTML", "JavaScript", "CSS"]
 
 
 # first arg is python compile; second arg is oauth
@@ -19,6 +23,21 @@ def main():
     now  = datetime.utcnow()
 
     str_template = codecs.open("README.template.md", "r", encoding="utf-8").read()
+
+    stats = ghStats.getStatistics({
+        'gh_user'           : user,
+        'include_private'   : boolean_include_private,
+        'hide_lang'         : arr_hide_lang
+    })
+    config = imgkit.config(wkhtmltoimage='C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltoimage.exe')
+
+    # contributions todo: add html for contributions image
+    str_html = codecs.open("contributions.html", "r", encoding="utf-8").read()
+    imgkit.from_string(str_html, 'contributions.png', config=config)
+
+    # languages todo: add html for languages image
+    str_html = codecs.open("languages.html", "r", encoding="utf-8").read()
+    imgkit.from_string(str_html, 'language.png', config=config)
 
     # {{ activity }}
 

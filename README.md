@@ -57,15 +57,15 @@
 
 ## ⚡ Recent Activity
 
- - Created branch [move-stats-to-readme@dc87a0b](https://api.github.com/repos/Katsute/Katsute/tree/move-stats-to-readme@dc87a0b) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute) *`52 minutes ago`*
- - Added commit [ad547f5](https://api.github.com/repos/Katsute/Katsute/commit/ad547f588cd12765d29dcd077bac215cf5a8391a) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`22 hours ago`*
+ - Added commit [b96bfa7](https://api.github.com/repos/Katsute/Katsute/commit/b96bfa7ee8aca373bf8af8dc93d73e8905f71761) to branch [move-stats-to-readme@dc87a0b](https://api.github.com/repos/Katsute/Katsute/tree/move-stats-to-readme@dc87a0b) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`1 hour ago`*
+  > optimize events and add last updated
+ - Created branch [move-stats-to-readme@dc87a0b](https://api.github.com/repos/Katsute/Katsute/tree/move-stats-to-readme@dc87a0b) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute) *`1 hour ago`*
+ - Added commit [ad547f5](https://api.github.com/repos/Katsute/Katsute/commit/ad547f588cd12765d29dcd077bac215cf5a8391a) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`23 hours ago`*
   > &nbsp;
- - Added commit [3d79b01](https://api.github.com/repos/Katsute/Katsute/commit/3d79b015e6761a134793dff175b8ef48a25bc6cc) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`22 hours ago`*
+ - Added commit [3d79b01](https://api.github.com/repos/Katsute/Katsute/commit/3d79b015e6761a134793dff175b8ef48a25bc6cc) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`23 hours ago`*
   > Increase runtime to every 15 minutes
   >  > ~76 daily runs
- - Deleted branch [add-shutdown-no-delay@f297ecf](https://api.github.com/repos/Katsute/Remote-Parental-Control/tree/add-shutdown-no-delay@f297ecf) in repository [Katsute/Remote-Parental-Control](https://api.github.com/repos/Katsute/Remote-Parental-Control) *`22 hours ago`*
- - Added commit [f7fcb90](https://api.github.com/repos/Katsute/Remote-Parental-Control/commit/f7fcb90223f75cb53449380a54fd7729654c79fe) to branch [master](https://api.github.com/repos/Katsute/Remote-Parental-Control/tree/master) in repository [Katsute/Remote-Parental-Control](https://api.github.com/repos/Katsute/Remote-Parental-Control)  *`22 hours ago`*
-  > add shutdown no delay
+ - Deleted branch [add-shutdown-no-delay@f297ecf](https://api.github.com/repos/Katsute/Remote-Parental-Control/tree/add-shutdown-no-delay@f297ecf) in repository [Katsute/Remote-Parental-Control](https://api.github.com/repos/Katsute/Remote-Parental-Control) *`23 hours ago`*
 
 ---
-<p style="align: right">Last updated September 23, 2020 at 09:42 PM (EST)</p>
+<p style="align: right">Last updated September 23, 2020 at 10:49 PM (EST)</p>

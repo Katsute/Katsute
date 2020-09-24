@@ -1,10 +1,10 @@
-name: Update Readme
+name: Update README.md
 on:
   push:
     branches:
       - master
   schedule:
-    # Run every 15 minutes during EST daylight hours. (7AM-12AM)
+    # Run every hour
     - cron:  '0 * * * *'
 jobs:
   update:
@@ -20,6 +20,8 @@ jobs:
 
       - name: 📚 Install Dependencies
         run: |
+          sudo apt-get install wkhtmltopdf
+
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
@@ -32,5 +34,7 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add -f "README.md"
+          git add -f "languages.png"
+          git add -f "contributions.png"
           git diff-index --quiet HEAD || git commit -m 'Update README.md'
           git push
