@@ -58,3 +58,6 @@
 ## ⚡ Recent Activity
 
 {{ activity }}
+
+---
+<p style="align: right">Last updated {{ updated }}</p>
