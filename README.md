@@ -58,8 +58,8 @@
 ## ⚡ Recent Activity
 
 
- - Opened pull request [Move statistics gist to readme (#1)](https://github.com/Katsute/Katsute/pull/1) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`17 minutes ago`*
- - Added commit [000d06c](https://github.com/Katsute/Katsute/commit/000d06ce03808a710a43cd2c61a760e2cdd5d4ae) to branch [move-stats-to-readme@dc87a0b](https://github.com/Katsute/Katsute/tree/move-stats-to-readme@dc87a0b) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`18 minutes ago`*
+ - Opened pull request [Move statistics gist to readme (#1)](https://github.com/Katsute/Katsute/pull/1) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`30 minutes ago`*
+ - Added commit [000d06c](https://github.com/Katsute/Katsute/commit/000d06ce03808a710a43cd2c61a760e2cdd5d4ae) to branch [move-stats-to-readme@dc87a0b](https://github.com/Katsute/Katsute/tree/move-stats-to-readme@dc87a0b) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`32 minutes ago`*
    > WIP: image based contributions and languages
  - Added commit [b96bfa7](https://github.com/Katsute/Katsute/commit/b96bfa7ee8aca373bf8af8dc93d73e8905f71761) to branch [move-stats-to-readme@dc87a0b](https://github.com/Katsute/Katsute/tree/move-stats-to-readme@dc87a0b) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`1 hour ago`*
    > optimize events and add last updated
