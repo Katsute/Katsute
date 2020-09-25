@@ -1,1 +1,4 @@
 PyGithub
+pytz
+imgkit
+Pillow

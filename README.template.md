@@ -43,6 +43,16 @@
     src="https://img.shields.io/badge/Tools-Maven-informational?style=flat-square&logo=apache-maven&logoColor=white&color=3278be"
     alt="Maven">
 
+## 📊 Statistics
+<div align="center">
+    <a href="https://github.com/Katsute/Katsute/">
+        <img src="https://github.com/Katsute/Katsute/blob/master/contributions.png">
+    </a>
+    <a href="https://github.com/Katsute/Katsute/">
+        <img src="https://github.com/Katsute/Katsute/blob/master/languages.png">
+    </a>
+</div>
+
 ## 👨‍💻 Repositories Being Worked On Currently
 <div align="center">
     <a href="https://github.com/Ktt-Development/ktt-development.github.io">
@@ -58,3 +68,6 @@
 ## ⚡ Recent Activity
 
 {{ activity }}
+
+---
+<p style="align: right">Last updated {{ updated }}</p>
