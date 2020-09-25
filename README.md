@@ -67,16 +67,16 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [1bf6548](https://api.github.com/repos/Katsute/Katsute/commit/1bf65487965e58d73159f1a69f313fd2125771d9) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`48 seconds ago`*
+ - Added commit [bc35108](https://api.github.com/repos/Katsute/Katsute/commit/bc3510894498094fb1aabf0d58af1d3093c67f9c) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`1 minute ago`*
+  > Fix poor ubuntu resolution
+ - Added commit [1bf6548](https://api.github.com/repos/Katsute/Katsute/commit/1bf65487965e58d73159f1a69f313fd2125771d9) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`13 minutes ago`*
   > Fix ubuntu quirks again
- - Added commit [5a25d2b](https://api.github.com/repos/Katsute/Katsute/commit/5a25d2b468b47f208d67554f07c087ce4102fec7) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`9 minutes ago`*
+ - Added commit [5a25d2b](https://api.github.com/repos/Katsute/Katsute/commit/5a25d2b468b47f208d67554f07c087ce4102fec7) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`22 minutes ago`*
   > Fix IndexOutOfBounds
- - Added commit [cefa762](https://api.github.com/repos/Katsute/Katsute/commit/cefa76247a3d4fc27e54c255d229d2c4e6d8b9e2) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`12 minutes ago`*
+ - Added commit [cefa762](https://api.github.com/repos/Katsute/Katsute/commit/cefa76247a3d4fc27e54c255d229d2c4e6d8b9e2) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`24 minutes ago`*
   > Fix weird ubuntu rendering quirks
- - Added commit [1c67df2](https://api.github.com/repos/Katsute/Katsute/commit/1c67df27821a674551930d2844cc82ef8dd3a43c) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`18 minutes ago`*
+ - Added commit [1c67df2](https://api.github.com/repos/Katsute/Katsute/commit/1c67df27821a674551930d2844cc82ef8dd3a43c) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`31 minutes ago`*
   > Minor back-end tweaks
- - Added commit [7cc402a](https://api.github.com/repos/Katsute/Katsute/commit/7cc402a99050db9604db99c3ea12c997735ee97d) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`14 hours ago`*
-  > Final commit for the night
 
 ---
-<p align="right">Last updated September 25, 2020 at 01:22 PM (EST)</p>
+<p align="right">Last updated September 25, 2020 at 01:35 PM (EST)</p>
