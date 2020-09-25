@@ -67,16 +67,16 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [ca9f1a7](https://api.github.com/repos/Katsute/Katsute/commit/ca9f1a70c72ddfcc84a7ad213b706f60dfdfc13e) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`1 minute ago`*
+ - Added commit [7cc402a](https://api.github.com/repos/Katsute/Katsute/commit/7cc402a99050db9604db99c3ea12c997735ee97d) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`1 minute ago`*
+  > Final commit for the night
+ - Added commit [ca9f1a7](https://api.github.com/repos/Katsute/Katsute/commit/ca9f1a70c72ddfcc84a7ad213b706f60dfdfc13e) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`3 minutes ago`*
   > fix weird styling by ubuntu
- - Added commit [4881f97](https://api.github.com/repos/Katsute/Katsute/commit/4881f97618ba613ca24d3cdbb01ceaaaa5234011) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`6 minutes ago`*
+ - Added commit [4881f97](https://api.github.com/repos/Katsute/Katsute/commit/4881f97618ba613ca24d3cdbb01ceaaaa5234011) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`9 minutes ago`*
   > Update readme.py
- - Added commit [82e3714](https://api.github.com/repos/Katsute/Katsute/commit/82e371415bde36d67f54aca526c960e02dbd7504) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`9 minutes ago`*
+ - Added commit [82e3714](https://api.github.com/repos/Katsute/Katsute/commit/82e371415bde36d67f54aca526c960e02dbd7504) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`11 minutes ago`*
   > " x2
- - Added commit [6e7e410](https://api.github.com/repos/Katsute/Katsute/commit/6e7e4107b680606eed4647bc64b3496156648832) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`11 minutes ago`*
+ - Added commit [6e7e410](https://api.github.com/repos/Katsute/Katsute/commit/6e7e4107b680606eed4647bc64b3496156648832) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`14 minutes ago`*
   > workflow fix attempt
- - Added commit [d835a1e](https://api.github.com/repos/Katsute/Katsute/commit/d835a1ec447d15fe0822f62ca3171e660c7f7fe5) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`18 minutes ago`*
-  > directory fix
 
 ---
-<p align="right">Last updated September 24, 2020 at 11:17 PM (EST)</p>
+<p align="right">Last updated September 24, 2020 at 11:20 PM (EST)</p>
