@@ -67,14 +67,14 @@
 
 ## ⚡ Recent Activity
 
- - Deleted branch [use-java-for-html-render@39254b0](https://api.github.com/repos/Katsute/Katsute/tree/use-java-for-html-render@39254b0) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute) *`1 hour ago`*
- - Created branch [use-java-for-html-render@39254b0](https://api.github.com/repos/Katsute/Katsute/tree/use-java-for-html-render@39254b0) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute) *`2 hours ago`*
- - Added commit [bc35108](https://api.github.com/repos/Katsute/Katsute/commit/bc3510894498094fb1aabf0d58af1d3093c67f9c) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`2 hours ago`*
-  > Fix poor ubuntu resolution
- - Added commit [1bf6548](https://api.github.com/repos/Katsute/Katsute/commit/1bf65487965e58d73159f1a69f313fd2125771d9) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`2 hours ago`*
-  > Fix ubuntu quirks again
- - Added commit [5a25d2b](https://api.github.com/repos/Katsute/Katsute/commit/5a25d2b468b47f208d67554f07c087ce4102fec7) to branch [master](https://api.github.com/repos/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://api.github.com/repos/Katsute/Katsute)  *`2 hours ago`*
-  > Fix IndexOutOfBounds
+ - Added commit [de0b1a6](https://github.com/Katsute/Katsute/commit/de0b1a6cdd36fa2a10357f8087357558c6c300d1) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`52 seconds ago`*
+  > &
+ - Added commit [b4bc49f](https://github.com/Katsute/Katsute/commit/b4bc49ff5321dea86cd1e9806fef7d08eda5a121) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`2 minutes ago`*
+  > bugfix
+ - Added commit [08a42be](https://github.com/Katsute/Katsute/commit/08a42be43acea08cd82bc88a9675bc170c3e3d28) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`7 minutes ago`*
+  > FIx incorrect repo url
+ - Deleted branch [use-java-for-html-render@39254b0](https://github.com/Katsute/Katsute/tree/use-java-for-html-render@39254b0) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute) *`2 hours ago`*
+ - Created branch [use-java-for-html-render@39254b0](https://github.com/Katsute/Katsute/tree/use-java-for-html-render@39254b0) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute) *`3 hours ago`*
 
 ---
-<p align="right">Last updated September 25, 2020 at 03:51 PM (EST)</p>
+<p align="right">Last updated September 25, 2020 at 04:51 PM (EST)</p>
