@@ -54,7 +54,7 @@ def main():
         "quality": 100,
     }
 
-    int_threshold = 135
+    int_threshold = 140
     # contributions
     str_file = "contributions"
 
