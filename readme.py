@@ -36,7 +36,7 @@ def main():
     })
 
     # local installation
-    config = imgkit.config(wkhtmltoimage='C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltoimage.exe')  # fix imgkit defect
+    # config = imgkit.config(wkhtmltoimage='C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltoimage.exe')  # fix imgkit defect
 
     int_threshold = 130
     # contributions
@@ -49,7 +49,7 @@ def main():
         .replace("{{ total_issues }}" , str(map_statistics['issues'])) \
         .replace("{{ contributions }}", str(map_statistics['contributions']))
 
-    imgkit.from_string(str_html, str_file, config=config)
+    imgkit.from_string(str_html, str_file) #, config=config)
     if os.path.exists(f"{str_file}.png"):
         os.remove(f"{str_file}.png")
     os.rename(str_file, f"{str_file}.png")  # defective imgkit hotfix
@@ -65,7 +65,7 @@ def main():
         str_languages += str_language.replace("{{ language }}", lang).replace("{{ percent }}", format(percent, ".2f"))
 
     str_html = codecs.open(f"{str_file}.html", "r", encoding="utf-8").read().replace("{{ languages }}", str_languages)
-    imgkit.from_string(str_html, str_file, config=config)
+    imgkit.from_string(str_html, str_file) #, config=config)
     if os.path.exists(f"{str_file}.png"):
         os.remove(f"{str_file}.png")
     os.rename(str_file, f"{str_file}.png")  # defective imgkit hotfix

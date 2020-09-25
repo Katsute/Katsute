@@ -70,4 +70,4 @@
 {{ activity }}
 
 ---
-<p style="align: right">Last updated {{ updated }}</p>
+<p align="right">Last updated {{ updated }}</p>
