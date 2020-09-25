@@ -45,7 +45,7 @@ def main():
     # local installation
     # noinspection SpellCheckingInspection
     config  = None  # if not len(sys.argv) >= 2 and not bool(sys.argv[2]) else imgkit.config(wkhtmltoimage='C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltoimage.exe')  # fix wkhtmltoimage defect
-    display = None if len(sys.argv) >= 2 and bool(sys.argv[2]) else Display().start()  # virtual display for workflow
+    display = None if len(sys.argv) >= 3 and bool(sys.argv[2]) else Display().start()  # virtual display for workflow
 
     options = {
         "enable-local-file-access": None,
