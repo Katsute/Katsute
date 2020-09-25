@@ -22,11 +22,15 @@ int_langs = 8
 int_history   = 5
 int_max_lines = 4
 
+
 # first arg is python compile; second arg is oauth
 def main():
     g    = Github(sys.argv[1])
     user = g.get_user()
     now  = datetime.utcnow()
+
+    req = g.get_rate_limit().core.remaining
+    print("Requests remaining:", req)
 
     str_template = codecs.open("README.template.md", "r", encoding="utf-8").read()
 
@@ -36,11 +40,20 @@ def main():
         'hide_lang'         : arr_hide_lang
     })
 
-    # local installation
-    # config = imgkit.config(wkhtmltoimage='C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltoimage.exe')  # fix imgkit defect
+    print("Requests used:", req - g.get_rate_limit().core.remaining)
 
-    int_threshold = 130
-    display = Display().start()
+    # local installation
+    config  = None # if not sys.argv[2] else imgkit.config(wkhtmltoimage='C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltoimage.exe')  # fix wkhtmltoimage defect
+    display = None if sys.argv[2] else Display().start()  # virtual display for workflow
+
+    options = {
+        "enable-local-file-access": None,
+        "format": "png",
+        "width": 400,
+        "quality": 100,
+    }
+
+    int_threshold = 135
     # contributions
     str_file = "contributions"
 
@@ -51,7 +64,7 @@ def main():
         .replace("{{ total_issues }}" , str(map_statistics['issues'])) \
         .replace("{{ contributions }}", str(map_statistics['contributions']))
 
-    imgkit.from_string(str_html, str_file) #, config=config)
+    imgkit.from_string(str_html, str_file, config=config, options=options)
     if os.path.exists(f"{str_file}.png"):
         os.remove(f"{str_file}.png")
     os.rename(str_file, f"{str_file}.png")  # defective imgkit hotfix
@@ -67,7 +80,7 @@ def main():
         str_languages += str_language.replace("{{ language }}", lang).replace("{{ percent }}", format(percent, ".2f"))
 
     str_html = codecs.open(f"{str_file}.html", "r", encoding="utf-8").read().replace("{{ languages }}", str_languages)
-    imgkit.from_string(str_html, str_file) #, config=config)
+    imgkit.from_string(str_html, str_file, config=config, options=options)
     if os.path.exists(f"{str_file}.png"):
         os.remove(f"{str_file}.png")
     os.rename(str_file, f"{str_file}.png")  # defective imgkit hotfix
@@ -95,7 +108,9 @@ def main():
     # write
 
     codecs.open("README.md", "w", encoding="utf-8").write(str_template)
-    display.stop()
+
+    if display:
+        display.stop()
 
     return
 

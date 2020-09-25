@@ -51,8 +51,6 @@ def getStatistics(config):
     for i in map_lang_contrib:
         map_lang[i[0]] = float(i[1]) * 100 / double_total
 
-    # str_gist += f"{lang:11}{str_bar} {percent:05.2f}%\n"
-
     return {
         'languages': map_lang,
         'statistics': map_stats
