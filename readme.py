@@ -2,6 +2,7 @@ import codecs
 import re
 import sys
 import imgkit
+import os
 
 from datetime import datetime
 from pytz import timezone
@@ -10,16 +11,20 @@ from github import Github
 import utility
 import ghStats
 
-int_history   = 5
-int_max_lines = 4
+# global settings
+
 boolean_include_private = True
 arr_hide_lang = ["HTML", "JavaScript", "CSS"]
 
+int_langs = 8
+
+int_history   = 5
+int_max_lines = 4
 
 # first arg is python compile; second arg is oauth
 def main():
     g    = Github(sys.argv[1])
-    user = g.get_user(g.get_user().login)
+    user = g.get_user()
     now  = datetime.utcnow()
 
     str_template = codecs.open("README.template.md", "r", encoding="utf-8").read()
@@ -29,17 +34,33 @@ def main():
         'include_private'   : boolean_include_private,
         'hide_lang'         : arr_hide_lang
     })
+
+    # local installation
     config = imgkit.config(wkhtmltoimage='C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltoimage.exe')
 
     # contributions todo: add html for contributions image
-    str_html = codecs.open("contributions.html", "r", encoding="utf-8").read()
-    imgkit.from_string(str_html, 'contributions.png', config=config)
+    # str_html = codecs.open("contributions.html", "r", encoding="utf-8").read()
+    # imgkit.from_string(str_html, 'contributions.png', config=config)
 
-    # languages todo: add html for languages image
-    str_html = codecs.open("languages.html", "r", encoding="utf-8").read()
-    imgkit.from_string(str_html, 'language.png', config=config)
+    # languages
+    str_file      = "languages"
+    str_languages = ""
+    str_language  = codecs.open("language.liquid", "r", encoding="utf-8").read()
+    index = 0
+    for lang, percent in stats['languages'].items():
+        if index >= int_langs: break
+        str_languages += str_language.replace("{{ language }}", lang).replace("{{ percent }}", format(percent, ".2f"))
+
+    str_html = codecs.open(f"{str_file}.html", "r", encoding="utf-8").read().replace("{{ languages }}", str_languages)
+    imgkit.from_string(str_html, str_file, config=config)
+    if os.path.exists(f"{str_file}.png"):
+        os.remove(f"{str_file}.png")
+    os.rename(str_file, f"{str_file}.png")  # defective imgkit hotfix
+    utility.removeColor(f"{str_file}.png", 0, 255, 0, 70)
 
     # {{ activity }}
+
+    user = g.get_user(user.login)
 
     str_list = ""
     for i in range(int_history):

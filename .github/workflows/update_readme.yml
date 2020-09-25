@@ -4,8 +4,8 @@ on:
     branches:
       - master
   schedule:
-    # Run every hour
-    - cron:  '0 * * * *'
+    # Run every hour at an off-peak minute
+    - cron:  '47 * * * *'
 jobs:
   update:
     runs-on: ubuntu-latest

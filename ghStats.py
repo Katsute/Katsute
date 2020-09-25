@@ -31,7 +31,7 @@ def getStatistics(config):
         if repo.owner.id != int_user_id:
             map_stats['contributions'] += 1  # no ++ :(
         # issues
-        map_stats['issues'] += repo.get_issues(since=date_init_year, state="all", creator=gh_user.name).totalCount
+        map_stats['issues']       += repo.get_issues(since=date_init_year, state="all", creator=gh_user.name).totalCount
         map_stats['issues_today'] += repo.get_issues(since=date_init_today, state="all", creator=gh_user.name).totalCount
         # pulls
         for pull in repo.get_pulls(state="all"):
@@ -40,11 +40,11 @@ def getStatistics(config):
                 if pull.updated_at >= date_init_today:
                     map_stats['pulls_today'] += 1
         # commits
-        map_stats['commits'] += repo.get_commits(author=gh_user.name).totalCount
-        map_stats['commits_today'] += repo.get_commits(author=gh_user.name,since=date_init_today).totalCount
+        map_stats['commits']       += repo.get_commits(since=date_init_year, author=gh_user.name).totalCount
+        map_stats['commits_today'] += repo.get_commits(since=date_init_today, author=gh_user.name).totalCount
 
         # language statistics
-        double_contrib = map_stats['commits'] / repo.get_commits().totalCount  # what % of commits is made by this gh_User
+        double_contrib = repo.get_commits(author=gh_user.name).totalCount / repo.get_commits().totalCount  # what % of commits is made by this user
         for lang, count in repo.get_languages().items():
             if not (lang in arr_hideLang):  # remove hidden config
                 if not (lang in map_lang_contrib.keys()):
@@ -52,8 +52,7 @@ def getStatistics(config):
                 else:
                     map_lang_contrib[lang] += count * double_contrib
 
-    # lang gist
-    double_total = sum(map_lang_contrib.values())
+    double_total     = sum(map_lang_contrib.values())
     map_lang_contrib = sorted(map_lang_contrib.items(), key=lambda x: x[1], reverse=True)
 
     map_lang = {}
