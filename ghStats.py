@@ -1,5 +1,6 @@
 import datetime
 
+
 # noinspection PyPep8Naming
 def getStatistics(config):
     gh_user                = config['gh_user']

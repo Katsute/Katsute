@@ -43,8 +43,9 @@ def main():
     print("Requests used:", req - g.get_rate_limit().core.remaining)
 
     # local installation
-    config  = None # if not sys.argv[2] else imgkit.config(wkhtmltoimage='C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltoimage.exe')  # fix wkhtmltoimage defect
-    display = None if sys.argv[2] else Display().start()  # virtual display for workflow
+    # noinspection SpellCheckingInspection
+    config  = None  # if not len(sys.argv) >= 2 and not bool(sys.argv[2]) else imgkit.config(wkhtmltoimage='C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltoimage.exe')  # fix wkhtmltoimage defect
+    display = None if len(sys.argv) >= 2 and bool(sys.argv[2]) else Display().start()  # virtual display for workflow
 
     options = {
         "enable-local-file-access": None,
