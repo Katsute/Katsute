@@ -44,8 +44,8 @@ def main():
 
     # local installation
     # noinspection SpellCheckingInspection
-    config  = None  # if not len(sys.argv) >= 2 and not bool(sys.argv[2]) else imgkit.config(wkhtmltoimage='C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltoimage.exe')  # fix wkhtmltoimage defect
-    display = None if len(sys.argv) >= 3 and bool(sys.argv[2]) else Display(size=(1920, 1080)).start()  # virtual display for workflow
+    config  = None  # if len(sys.argv) < 3 or not bool(sys.argv[3]) else imgkit.config(wkhtmltoimage='C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltoimage.exe')  # fix wkhtmltoimage defect
+    display = None if len(sys.argv) < 3 or not bool(sys.argv[3]) else Display(size=(1920, 1080)).start()  # virtual display for workflow
 
     options = {
         "enable-local-file-access": None,
@@ -96,7 +96,7 @@ def main():
         event = user.get_public_events()[i]
 
         str_list += '\n' if i > 0 else ''  # add new line before each except first
-        str_list += " - " + eventAsString(event, now).replace('\n', '\n' + ' ')
+        str_list += " - " + eventAsString(g, event, now).replace('\n', '\n' + ' ')
     str_template = str_template.replace("{{ activity }}", str_list)
 
     # {{ updated }}
@@ -113,18 +113,20 @@ def main():
     if display:
         display.stop()
 
+    print("Requests remaining:", g.get_rate_limit().core.remaining)
+
     return
 
 
 # for sake of readability, f-strings can be used even when they are not needed
 # (this program is small enough that it won't lose any performance)
 # noinspection PyPep8Naming
-def eventAsString(event, now):  # no switch statements :(
+def eventAsString(github, event, now):  # no switch statements :(
     payload = event.payload
     # noinspection SpellCheckingInspection
     etype   = event.type
 
-    str_repo_url = event.repo.url
+    str_repo_url = github.get_repo(event.repo.id).html_url
 
     str_repo_name = f"[{event.repo.name}]({str_repo_url})"
     str_time_ago  = f" *`{getTimePassed(event.created_at, now)} ago`*"
