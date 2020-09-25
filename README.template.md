@@ -44,7 +44,10 @@
     alt="Maven">
 
 ## 📊 Statistics
-<div>
+<div align="center">
+    <a href="https://github.com/Katsute/Katsute/">
+        <img src="https://github.com/Katsute/Katsute/blob/master/contributions.png">
+    </a>
     <a href="https://github.com/Katsute/Katsute/">
         <img src="https://github.com/Katsute/Katsute/blob/master/languages.png">
     </a>

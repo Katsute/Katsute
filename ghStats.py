@@ -1,6 +1,5 @@
 import datetime
 
-
 # noinspection PyPep8Naming
 def getStatistics(config):
     gh_user                = config['gh_user']
@@ -10,17 +9,13 @@ def getStatistics(config):
     int_user_id = gh_user.id
 
     date_init_year  = datetime.datetime.combine(datetime.date(datetime.date.today().year, 1, 1), datetime.time.min)
-    date_init_today = datetime.datetime.combine(datetime.date.today(), datetime.time())
 
     map_lang_contrib = {}
     map_stats = {
-        "commits"            : 0,
-        "commits_today"      : 0,
-        "pulls"              : 0,
-        "pulls_today"        : 0,
-        "issues"             : 0,
-        "issues_today"       : 0,
-        "contributions"      : 0
+        "commits"      : 0,
+        "pulls"        : 0,
+        "issues"       : 0,
+        "contributions": 0
     }
 
     for repo in gh_user.get_repos():
@@ -31,17 +26,13 @@ def getStatistics(config):
         if repo.owner.id != int_user_id:
             map_stats['contributions'] += 1  # no ++ :(
         # issues
-        map_stats['issues']       += repo.get_issues(since=date_init_year, state="all", creator=gh_user.name).totalCount
-        map_stats['issues_today'] += repo.get_issues(since=date_init_today, state="all", creator=gh_user.name).totalCount
+        map_stats['issues'] += repo.get_issues(since=date_init_year, state="all", creator=gh_user.name).totalCount
         # pulls
         for pull in repo.get_pulls(state="all"):
             if pull.user.id == gh_user.id and pull.updated_at >= date_init_year:
                 map_stats['pulls'] += 1
-                if pull.updated_at >= date_init_today:
-                    map_stats['pulls_today'] += 1
         # commits
-        map_stats['commits']       += repo.get_commits(since=date_init_year, author=gh_user.name).totalCount
-        map_stats['commits_today'] += repo.get_commits(since=date_init_today, author=gh_user.name).totalCount
+        map_stats['commits'] += repo.get_commits(since=date_init_year, author=gh_user.name).totalCount
 
         # language statistics
         double_contrib = repo.get_commits(author=gh_user.name).totalCount / repo.get_commits().totalCount  # what % of commits is made by this user

@@ -36,11 +36,24 @@ def main():
     })
 
     # local installation
-    config = imgkit.config(wkhtmltoimage='C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltoimage.exe')
+    config = imgkit.config(wkhtmltoimage='C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltoimage.exe')  # fix imgkit defect
 
-    # contributions todo: add html for contributions image
-    # str_html = codecs.open("contributions.html", "r", encoding="utf-8").read()
-    # imgkit.from_string(str_html, 'contributions.png', config=config)
+    int_threshold = 130
+    # contributions
+    str_file = "contributions"
+
+    map_statistics = stats['statistics']
+    str_html = codecs.open(f"{str_file}.html", "r", encoding="utf-8").read() \
+        .replace("{{ total_commits }}", str(map_statistics['commits'])) \
+        .replace("{{ total_pulls }}"  , str(map_statistics['pulls'])) \
+        .replace("{{ total_issues }}" , str(map_statistics['issues'])) \
+        .replace("{{ contributions }}", str(map_statistics['contributions']))
+
+    imgkit.from_string(str_html, str_file, config=config)
+    if os.path.exists(f"{str_file}.png"):
+        os.remove(f"{str_file}.png")
+    os.rename(str_file, f"{str_file}.png")  # defective imgkit hotfix
+    utility.removeColor(f"{str_file}.png", 0, 255, 0, int_threshold)
 
     # languages
     str_file      = "languages"
@@ -56,7 +69,7 @@ def main():
     if os.path.exists(f"{str_file}.png"):
         os.remove(f"{str_file}.png")
     os.rename(str_file, f"{str_file}.png")  # defective imgkit hotfix
-    utility.removeColor(f"{str_file}.png", 0, 255, 0, 70)
+    utility.removeColor(f"{str_file}.png", 0, 255, 0, int_threshold)
 
     # {{ activity }}
 
