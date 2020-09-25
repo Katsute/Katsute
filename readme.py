@@ -7,6 +7,7 @@ import os
 from datetime import datetime
 from pytz import timezone
 from github import Github
+from pyvirtualdisplay import Display
 
 import utility
 import ghStats
@@ -39,6 +40,7 @@ def main():
     # config = imgkit.config(wkhtmltoimage='C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltoimage.exe')  # fix imgkit defect
 
     int_threshold = 130
+    display.start()
     # contributions
     str_file = "contributions"
 
@@ -93,6 +95,7 @@ def main():
     # write
 
     codecs.open("README.md", "w", encoding="utf-8").write(str_template)
+    display.stop()
 
     return
 

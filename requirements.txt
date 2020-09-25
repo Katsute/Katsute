@@ -2,3 +2,4 @@ PyGithub
 pytz
 imgkit
 Pillow
+pyvirtualdisplay
