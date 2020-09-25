@@ -40,7 +40,7 @@ def main():
     # config = imgkit.config(wkhtmltoimage='C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltoimage.exe')  # fix imgkit defect
 
     int_threshold = 130
-    display.start()
+    display = Display().start()
     # contributions
     str_file = "contributions"
 
