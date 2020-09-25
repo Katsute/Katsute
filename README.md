@@ -11,7 +11,7 @@
 
 ## ⭐ Information
 
- - Currently taking Computer Information Systems (CIS) at Baruch College
+ - Currently majoring in Computer Information Systems (CIS) at Baruch College
 
 ## 🔧 Technologies & Tools
 
@@ -67,5 +67,5 @@
   >  > ~76 daily runs
  - Deleted branch [add-shutdown-no-delay@f297ecf](https://api.github.com/repos/Katsute/Remote-Parental-Control/tree/add-shutdown-no-delay@f297ecf) in repository [Katsute/Remote-Parental-Control](https://api.github.com/repos/Katsute/Remote-Parental-Control) *`23 hours ago`*
 
----
+
 <p style="align: right">Last updated September 23, 2020 at 10:49 PM (EST)</p>

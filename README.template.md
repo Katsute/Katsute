@@ -11,7 +11,7 @@
 
 ## ⭐ Information
 
- - Currently taking Computer Information Systems (CIS) at Baruch College
+ - Currently majoring in Computer Information Systems (CIS) at Baruch College
 
 ## 🔧 Technologies & Tools
 
