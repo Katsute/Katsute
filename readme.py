@@ -169,7 +169,7 @@ def eventAsString(github, event, now):  # no switch statements :(
         str_action = payload["action"]
 
         if utility.contains(arr_pull_state, str_action):  # open/closed
-            return f"{str_action.capitalize()}" \
+            return f"{str_action.capitalize()} " \
                    f"issue {str_pull_and_repo} " \
                    f"{str_time_ago}"
         elif utility.contains(arr_pull_assign, str_action):  # assign/unassign
