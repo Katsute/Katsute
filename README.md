@@ -67,12 +67,13 @@
 
 ## ⚡ Recent Activity
 
- - Created branch [make-html-absolute@f4c0ced](https://github.com/Katsute/Katsute/tree/make-html-absolute@f4c0ced) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute) *`53 seconds ago`*
- - Starred repository [decorators-squad/eo-yaml](https://github.com/decorators-squad/eo-yaml)  *`13 hours ago`*
- - Opened issue [Automate releases with workflow (#93)](https://github.com/Ktt-Development/simplehttpserver/issues/93) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`15 hours ago`*
- - Added commit [903ba5a](https://github.com/Katsute/Katsute/commit/903ba5af50843f2c166103fced673a14ad08b4f7) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`15 hours ago`*
+ - Added commit [593402f](https://github.com/Ktt-Development/rexedia/commit/593402f7e6e3cef5782f48aca4c5ddbd22b547e2) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`40 minutes ago`*
+  > Replace stringf with regxp back reference
+ - Created branch [make-html-absolute@f4c0ced](https://github.com/Katsute/Katsute/tree/make-html-absolute@f4c0ced) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute) *`1 hour ago`*
+ - Starred repository [decorators-squad/eo-yaml](https://github.com/decorators-squad/eo-yaml)  *`14 hours ago`*
+ - Opened issue [Automate releases with workflow (#93)](https://github.com/Ktt-Development/simplehttpserver/issues/93) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`16 hours ago`*
+ - Added commit [903ba5a](https://github.com/Katsute/Katsute/commit/903ba5af50843f2c166103fced673a14ad08b4f7) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`16 hours ago`*
   > spacing
- - Opened issue [Adapt project for Java 9 modules. (#92)](https://github.com/Ktt-Development/simplehttpserver/issues/92) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`16 hours ago`*
 
 ---
-<p align="right">Last updated September 26, 2020 at 01:51 PM (EST)</p>
+<p align="right">Last updated September 26, 2020 at 02:51 PM (EST)</p>
