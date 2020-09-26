@@ -67,13 +67,13 @@
 
 ## ⚡ Recent Activity
 
- - Created branch [theme@17b9908](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/theme@17b9908) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`5 minutes ago`*
- - Created branch [add-rexedia-docs@17b9908](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/add-rexedia-docs@17b9908) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`5 minutes ago`*
- - Deleted branch [docs-links@132453b](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/docs-links@132453b) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`6 minutes ago`*
- - Added commit [097b9e4](https://github.com/Ktt-Development/rexedia/commit/097b9e4ee9c514a38ec388ccd53fb34b851af139) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`13 minutes ago`*
+ - Created branch [theme@17b9908](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/theme@17b9908) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`1 hour ago`*
+ - Created branch [add-rexedia-docs@17b9908](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/add-rexedia-docs@17b9908) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`1 hour ago`*
+ - Deleted branch [docs-links@132453b](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/docs-links@132453b) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`1 hour ago`*
+ - Added commit [097b9e4](https://github.com/Ktt-Development/rexedia/commit/097b9e4ee9c514a38ec388ccd53fb34b851af139) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
   > preset tests
- - Added commit [593402f](https://github.com/Ktt-Development/rexedia/commit/593402f7e6e3cef5782f48aca4c5ddbd22b547e2) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Added commit [593402f](https://github.com/Ktt-Development/rexedia/commit/593402f7e6e3cef5782f48aca4c5ddbd22b547e2) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
   > Replace stringf with regxp back reference
 
 ---
-<p align="right">Last updated September 26, 2020 at 03:52 PM (EST)</p>
+<p align="right">Last updated September 26, 2020 at 04:51 PM (EST)</p>
