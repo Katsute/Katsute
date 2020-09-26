@@ -67,7 +67,9 @@
 
 ## ⚡ Recent Activity
 
- - Openedissue [Adapt project for Java 9 modules. (#92)](https://github.com/Ktt-Development/simplehttpserver/issues/92) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 minute ago`*
+ - Added commit [903ba5a](https://github.com/Katsute/Katsute/commit/903ba5af50843f2c166103fced673a14ad08b4f7) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`51 seconds ago`*
+  > spacing
+ - Opened issue [Adapt project for Java 9 modules. (#92)](https://github.com/Ktt-Development/simplehttpserver/issues/92) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`5 minutes ago`*
  - Added commit [dbbf73b](https://github.com/Ktt-Development/rexedia/commit/dbbf73b1f6bc9ed444c5af0caf8afcb116b47c0f) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 hours ago`*
   > Configuration changes
   >  > - remove manual preset
@@ -78,8 +80,6 @@
   > &
  - Added commit [b4bc49f](https://github.com/Katsute/Katsute/commit/b4bc49ff5321dea86cd1e9806fef7d08eda5a121) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`5 hours ago`*
   > bugfix
- - Added commit [08a42be](https://github.com/Katsute/Katsute/commit/08a42be43acea08cd82bc88a9675bc170c3e3d28) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`5 hours ago`*
-  > FIx incorrect repo url
 
 ---
-<p align="right">Last updated September 25, 2020 at 09:51 PM (EST)</p>
+<p align="right">Last updated September 25, 2020 at 09:55 PM (EST)</p>
