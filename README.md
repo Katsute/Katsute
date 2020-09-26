@@ -67,19 +67,18 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [903ba5a](https://github.com/Katsute/Katsute/commit/903ba5af50843f2c166103fced673a14ad08b4f7) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`51 seconds ago`*
+ - Opened issue [Automate releases with workflow (#93)](https://github.com/Ktt-Development/simplehttpserver/issues/93) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`53 minutes ago`*
+ - Added commit [903ba5a](https://github.com/Katsute/Katsute/commit/903ba5af50843f2c166103fced673a14ad08b4f7) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`56 minutes ago`*
   > spacing
- - Opened issue [Adapt project for Java 9 modules. (#92)](https://github.com/Ktt-Development/simplehttpserver/issues/92) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`5 minutes ago`*
- - Added commit [dbbf73b](https://github.com/Ktt-Development/rexedia/commit/dbbf73b1f6bc9ed444c5af0caf8afcb116b47c0f) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 hours ago`*
+ - Opened issue [Adapt project for Java 9 modules. (#92)](https://github.com/Ktt-Development/simplehttpserver/issues/92) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+ - Added commit [dbbf73b](https://github.com/Ktt-Development/rexedia/commit/dbbf73b1f6bc9ed444c5af0caf8afcb116b47c0f) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`5 hours ago`*
   > Configuration changes
   >  > - remove manual preset
   >  > - add crash logging
   >  > - add release workflow (untested)
   >  > - added partition utility
- - Added commit [de0b1a6](https://github.com/Katsute/Katsute/commit/de0b1a6cdd36fa2a10357f8087357558c6c300d1) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`5 hours ago`*
+ - Added commit [de0b1a6](https://github.com/Katsute/Katsute/commit/de0b1a6cdd36fa2a10357f8087357558c6c300d1) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`6 hours ago`*
   > &
- - Added commit [b4bc49f](https://github.com/Katsute/Katsute/commit/b4bc49ff5321dea86cd1e9806fef7d08eda5a121) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`5 hours ago`*
-  > bugfix
 
 ---
-<p align="right">Last updated September 25, 2020 at 09:55 PM (EST)</p>
+<p align="right">Last updated September 25, 2020 at 10:51 PM (EST)</p>
