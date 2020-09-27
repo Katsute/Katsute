@@ -67,13 +67,13 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [36ebc52](https://github.com/Ktt-Development/rexedia/commit/36ebc527c67b1b7c80cecc566eee1f0feadb14fd) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Added commit [36ebc52](https://github.com/Ktt-Development/rexedia/commit/36ebc527c67b1b7c80cecc566eee1f0feadb14fd) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
   > bug fixes & regxp fixes
- - Added commit [91e8061](https://github.com/Ktt-Development/rexedia/commit/91e806157550761c99dad265c53120da44debff4) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 hours ago`*
+ - Added commit [91e8061](https://github.com/Ktt-Development/rexedia/commit/91e806157550761c99dad265c53120da44debff4) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`5 hours ago`*
   > Finish cli args tests
- - Created branch [theme@17b9908](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/theme@17b9908) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`7 hours ago`*
- - Created branch [add-rexedia-docs@17b9908](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/add-rexedia-docs@17b9908) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`7 hours ago`*
- - Deleted branch [docs-links@132453b](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/docs-links@132453b) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`7 hours ago`*
+ - Created branch [theme@17b9908](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/theme@17b9908) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`8 hours ago`*
+ - Created branch [add-rexedia-docs@17b9908](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/add-rexedia-docs@17b9908) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`8 hours ago`*
+ - Deleted branch [docs-links@132453b](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/docs-links@132453b) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`8 hours ago`*
 
 ---
-<p align="right">Last updated September 26, 2020 at 10:52 PM (EST)</p>
+<p align="right">Last updated September 26, 2020 at 11:51 PM (EST)</p>
