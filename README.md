@@ -67,14 +67,17 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [f64291e](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/f64291ec788a1528718a7f3df81b22275d356d70) to branch [theme@17b9908](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/theme@17b9908) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 hour ago`*
-  > content layout changes
- - Created tag [v1.0](https://github.com/Katsute/Remote-Parental-Control/tree/v1.0) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control) *`3 hours ago`*
- - Published release [v1.0](https://github.com/Katsute/Remote-Parental-Control/releases/tag/v1.0) in [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`3 hours ago`*
- - Deleted tag [v1.0](https://github.com/Katsute/Remote-Parental-Control/tree/v1.0) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control) *`3 hours ago`*
- - Added commit [d3855e0](https://github.com/Katsute/Remote-Parental-Control/commit/d3855e04a74f289ef34ed8d9a98f0735aa3643e4) to branch [master](https://github.com/Katsute/Remote-Parental-Control/tree/master) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`3 hours ago`*
-  > ?
+ - Added commit [c26df76](https://github.com/Katsute/Katsute/commit/c26df763421d3816dafd020de717f2dd1e767ffe) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`1 minute ago`*
+  > Add status badge
+ - Created branch [add-rexedia@abbfd4d](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/add-rexedia@abbfd4d) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`5 minutes ago`*
+ - Deleted branch [theme@17b9908](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/theme@17b9908) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`5 minutes ago`*
+ - Added commit [abbfd4d](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/abbfd4dd82645b8a94dbd29d75d309481215993a) to branch [master](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/master) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`5 minutes ago`*
+  > Update theme ([#4](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/4))
+  >  > * content layout changes
+  >  > * Add left navigation
+  >  > * Add top navigation
+  >  > * minor spacing tweaks
+ - Closed pull request [Update theme (#4)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/pull/4) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`5 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg">
-<p align="right">Last updated September 28, 2020 at 04:51 PM (EST)</p>
+<p align="right">Last updated September 28, 2020 at 06:06 PM (EST)</p>
