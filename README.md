@@ -67,16 +67,14 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [893ee0d](https://github.com/Ktt-Development/rexedia/commit/893ee0d9e3940852be02ed1157d55d011ada06da) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`5 minutes ago`*
-  > add missing ubuntu dependencies
- - Added commit [37cb910](https://github.com/Ktt-Development/rexedia/commit/37cb91042b2144226a6315f94bbcdd341ec4ac44) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 hours ago`*
-  > wip ffmpeg fixes
- - Added commit [4104945](https://github.com/Ktt-Development/rexedia/commit/410494512f8dcb931dfc82cdf23b78da6d786df4) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 hours ago`*
-  > fix ignored test
- - Added commit [fea4a4a](https://github.com/Ktt-Development/rexedia/commit/fea4a4a5880db4515f8b6817ff8391813e2988ec) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 hours ago`*
-  > Update ffmpeg binaries
- - Added commit [61130cc](https://github.com/Ktt-Development/rexedia/commit/61130cc85858b0d78f11f155cf114a3a6ed83cdd) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`7 hours ago`*
-  > FFMPEG operations & code cleanup
+ - Created tag [e24be18](https://github.com/Katsute/Remote-Parental-Control/tree/e24be18) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control) *`3 minutes ago`*
+ - Published release @e24be18 in [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`3 minutes ago`*
+ - Added commit [e24be18](https://github.com/Katsute/Remote-Parental-Control/commit/e24be189b7a926c2e91eda2b53b7443708ec1432) to branch [master](https://github.com/Katsute/Remote-Parental-Control/tree/master) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`6 minutes ago`*
+  > Update release.yml
+ - Added commit [dd7569e](https://github.com/Katsute/Remote-Parental-Control/commit/dd7569edf23e8cbe07adbf56e5fdcd6ec84b1ed7) to branch [master](https://github.com/Katsute/Remote-Parental-Control/tree/master) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`9 minutes ago`*
+  > Create release.yml
+ - Added commit [35b0dfc](https://github.com/Ktt-Development/rexedia/commit/35b0dfce9bf59b9e6ce4a0770f726fd1d232ab18) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`35 minutes ago`*
+  > fix incorrect project name
 
 ---
-<p align="right">Last updated September 27, 2020 at 09:13 PM (EST)</p>
+<p align="right">Last updated September 27, 2020 at 09:51 PM (EST)</p>
