@@ -67,14 +67,14 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [dad991c](https://github.com/Katsute/Remote-Parental-Control/commit/dad991c45d783af36c8cf3c62b4e7f5ba364d998) to branch [master](https://github.com/Katsute/Remote-Parental-Control/tree/master) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`41 minutes ago`*
+ - Added commit [dad991c](https://github.com/Katsute/Remote-Parental-Control/commit/dad991c45d783af36c8cf3c62b4e7f5ba364d998) to branch [master](https://github.com/Katsute/Remote-Parental-Control/tree/master) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`1 hour ago`*
   > Update README.md
- - Opened issue [Mobile navigation issues (#5)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/5) from repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`47 minutes ago`*
- - Closed issue [Bad footer placement (#3)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/3) from repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`50 minutes ago`*
- - Commented on issue [Bad footer placement (#3)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/3#issuecomment-700311055) from repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`50 minutes ago`*
+ - Opened issue [Mobile navigation issues (#5)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/5) from repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 hour ago`*
+ - Closed issue [Bad footer placement (#3)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/3) from repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 hour ago`*
+ - Commented on issue [Bad footer placement (#3)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/3#issuecomment-700311055) from repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 hour ago`*
   > Fixed in [#4](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/4) 
- - Added commit [d9f3350](https://github.com/Katsute/Katsute/commit/d9f33505038c063a3c213bbc99886e5c1f991634) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`53 minutes ago`*
+ - Added commit [d9f3350](https://github.com/Katsute/Katsute/commit/d9f33505038c063a3c213bbc99886e5c1f991634) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`1 hour ago`*
   > Update README.template.md
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 28, 2020 at 07:02 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 28, 2020 at 07:52 PM (EST)</p>
