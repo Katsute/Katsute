@@ -67,16 +67,16 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [37cb910](https://github.com/Ktt-Development/rexedia/commit/37cb91042b2144226a6315f94bbcdd341ec4ac44) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Added commit [893ee0d](https://github.com/Ktt-Development/rexedia/commit/893ee0d9e3940852be02ed1157d55d011ada06da) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`5 minutes ago`*
+  > add missing ubuntu dependencies
+ - Added commit [37cb910](https://github.com/Ktt-Development/rexedia/commit/37cb91042b2144226a6315f94bbcdd341ec4ac44) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 hours ago`*
   > wip ffmpeg fixes
- - Added commit [4104945](https://github.com/Ktt-Development/rexedia/commit/410494512f8dcb931dfc82cdf23b78da6d786df4) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 hours ago`*
+ - Added commit [4104945](https://github.com/Ktt-Development/rexedia/commit/410494512f8dcb931dfc82cdf23b78da6d786df4) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 hours ago`*
   > fix ignored test
- - Added commit [fea4a4a](https://github.com/Ktt-Development/rexedia/commit/fea4a4a5880db4515f8b6817ff8391813e2988ec) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 hours ago`*
+ - Added commit [fea4a4a](https://github.com/Ktt-Development/rexedia/commit/fea4a4a5880db4515f8b6817ff8391813e2988ec) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 hours ago`*
   > Update ffmpeg binaries
- - Added commit [61130cc](https://github.com/Ktt-Development/rexedia/commit/61130cc85858b0d78f11f155cf114a3a6ed83cdd) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`6 hours ago`*
+ - Added commit [61130cc](https://github.com/Ktt-Development/rexedia/commit/61130cc85858b0d78f11f155cf114a3a6ed83cdd) to branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`7 hours ago`*
   > FFMPEG operations & code cleanup
- - Commented on issue [Implement caching system (#80)](https://github.com/Ktt-Development/simplehttpserver/issues/80#issuecomment-699635259) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`10 hours ago`*
-  > FileCache should be a class that is added to the handler.
 
 ---
-<p align="right">Last updated September 27, 2020 at 07:51 PM (EST)</p>
+<p align="right">Last updated September 27, 2020 at 09:13 PM (EST)</p>
