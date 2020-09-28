@@ -240,7 +240,7 @@ def eventAsString(github, event, now):  # no switch statements :(
                quote(message, str_repo_url)
     elif etype == "ReleaseEvent":
         return f"{payload['action'].capitalize()} " \
-               f"release {payload['release']['name']} in " \
+               f"release [{payload['release']['name']}]({payload['release']['html_url']}) in " \
                f"{str_repo_name} " \
                f"{str_time_ago}"
     elif etype == "SponsorshipEvent":
