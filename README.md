@@ -67,13 +67,12 @@
 
 ## ⚡ Recent Activity
 
- - Created tag [4490841](https://github.com/Katsute/Remote-Parental-Control/tree/4490841) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control) *`-15 seconds ago`*
- - Published release [4490841](https://github.com/Katsute/Remote-Parental-Control/releases/tag/4490841) in [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`-14 seconds ago`*
- - Deleted tag [e24be18](https://github.com/Katsute/Remote-Parental-Control/tree/e24be18) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control) *`0 seconds ago`*
- - Added commit [675995b](https://github.com/Katsute/Katsute/commit/675995bb28959437a39814504744b1bf02e045a3) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`1 minute ago`*
-  > add missing url
- - Added commit [4490841](https://github.com/Katsute/Remote-Parental-Control/commit/44908412f516bca0dbc196e9df4bcb1cfe0ac36d) to branch [master](https://github.com/Katsute/Remote-Parental-Control/tree/master) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`5 minutes ago`*
-  > run with windows
+ - Deleted tag [4490841](https://github.com/Katsute/Remote-Parental-Control/tree/4490841) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control) *`50 minutes ago`*
+ - Added commit [48910d3](https://github.com/Katsute/Remote-Parental-Control/commit/48910d30ffbcbe82959fd8b15bc4ec50d300ff5b) to branch [master](https://github.com/Katsute/Remote-Parental-Control/tree/master) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`51 minutes ago`*
+  > Update release.yml
+ - Created tag [4490841](https://github.com/Katsute/Remote-Parental-Control/tree/4490841) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control) *`52 minutes ago`*
+ - Published release [4490841](https://github.com/Katsute/Remote-Parental-Control/releases/tag/4490841) in [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`52 minutes ago`*
+ - Deleted tag [e24be18](https://github.com/Katsute/Remote-Parental-Control/tree/e24be18) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control) *`52 minutes ago`*
 
 ---
-<p align="right">Last updated September 27, 2020 at 09:59 PM (EST)</p>
+<p align="right">Last updated September 27, 2020 at 10:51 PM (EST)</p>
