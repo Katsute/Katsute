@@ -76,4 +76,5 @@
   > ?
 
 ---
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg">
 <p align="right">Last updated September 28, 2020 at 04:51 PM (EST)</p>
