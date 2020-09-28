@@ -67,13 +67,13 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [f64291e](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/f64291ec788a1528718a7f3df81b22275d356d70) to branch [theme@17b9908](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/theme@17b9908) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`8 minutes ago`*
+ - Added commit [f64291e](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/f64291ec788a1528718a7f3df81b22275d356d70) to branch [theme@17b9908](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/theme@17b9908) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 hour ago`*
   > content layout changes
- - Created tag [v1.0](https://github.com/Katsute/Remote-Parental-Control/tree/v1.0) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control) *`2 hours ago`*
- - Published release [v1.0](https://github.com/Katsute/Remote-Parental-Control/releases/tag/v1.0) in [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`2 hours ago`*
- - Deleted tag [v1.0](https://github.com/Katsute/Remote-Parental-Control/tree/v1.0) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control) *`2 hours ago`*
- - Added commit [d3855e0](https://github.com/Katsute/Remote-Parental-Control/commit/d3855e04a74f289ef34ed8d9a98f0735aa3643e4) to branch [master](https://github.com/Katsute/Remote-Parental-Control/tree/master) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`2 hours ago`*
+ - Created tag [v1.0](https://github.com/Katsute/Remote-Parental-Control/tree/v1.0) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control) *`3 hours ago`*
+ - Published release [v1.0](https://github.com/Katsute/Remote-Parental-Control/releases/tag/v1.0) in [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`3 hours ago`*
+ - Deleted tag [v1.0](https://github.com/Katsute/Remote-Parental-Control/tree/v1.0) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control) *`3 hours ago`*
+ - Added commit [d3855e0](https://github.com/Katsute/Remote-Parental-Control/commit/d3855e04a74f289ef34ed8d9a98f0735aa3643e4) to branch [master](https://github.com/Katsute/Remote-Parental-Control/tree/master) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`3 hours ago`*
   > ?
 
 ---
-<p align="right">Last updated September 28, 2020 at 03:51 PM (EST)</p>
+<p align="right">Last updated September 28, 2020 at 04:51 PM (EST)</p>
