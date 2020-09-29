@@ -67,8 +67,8 @@
 
 ## ⚡ Recent Activity
 
- - Closed issue [Duplicate contexts do not throw IllegalArgumentException [EXTERNAL ISSUE] (#86)](https://github.com/Ktt-Development/simplehttpserver/issues/86) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`26 minutes ago`*
- - Commented on issue [Duplicate contexts do not throw IllegalArgumentException [EXTERNAL ISSUE] (#86)](https://github.com/Ktt-Development/simplehttpserver/issues/86#issuecomment-700357752) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`26 minutes ago`*
+ - Closed issue [Duplicate contexts do not throw IllegalArgumentException [EXTERNAL ISSUE] (#86)](https://github.com/Ktt-Development/simplehttpserver/issues/86) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+ - Commented on issue [Duplicate contexts do not throw IllegalArgumentException [EXTERNAL ISSUE] (#86)](https://github.com/Ktt-Development/simplehttpserver/issues/86#issuecomment-700357752) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
   > According to the source code an `IllegalArgumentException` is **never thrown** for duplicate contexts. The documentation on this method is invalid.
   >  > `sun.net.httpserver.ServerImpl`
   >  > ```java
@@ -103,8 +103,8 @@
   >  >     }
   >  > ...
   >  > ```
- - Closed issue [Can not remove extended HttpContext contexts [EXTERNAL ISSUE] (#87)](https://github.com/Ktt-Development/simplehttpserver/issues/87) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`31 minutes ago`*
- - Commented on issue [Can not remove extended HttpContext contexts [EXTERNAL ISSUE] (#87)](https://github.com/Ktt-Development/simplehttpserver/issues/87#issuecomment-700356595) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`31 minutes ago`*
+ - Closed issue [Can not remove extended HttpContext contexts [EXTERNAL ISSUE] (#87)](https://github.com/Ktt-Development/simplehttpserver/issues/87) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+ - Commented on issue [Can not remove extended HttpContext contexts [EXTERNAL ISSUE] (#87)](https://github.com/Ktt-Development/simplehttpserver/issues/87#issuecomment-700356595) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
   > `sun.net.httpserver.ServerImpl`
   >  > ```java
   >  > ...
@@ -118,7 +118,7 @@
   >  >     }
   >  > ...
   >  > ```
- - Created branch [cleanup-and-optimizations@c8ab217](https://github.com/Katsute/Katsute/tree/cleanup-and-optimizations@c8ab217) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute) *`55 minutes ago`*
+ - Created branch [cleanup-and-optimizations@c8ab217](https://github.com/Katsute/Katsute/tree/cleanup-and-optimizations@c8ab217) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute) *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 28, 2020 at 09:11 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 28, 2020 at 09:51 PM (EST)</p>
