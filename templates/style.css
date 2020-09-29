@@ -1,0 +1,58 @@
+html{
+    background-color: rgb(0, 255, 0);  /* chroma remove */
+}
+
+* {
+    font-family: Helvetica, Sans-serif;
+}
+
+small{
+    font-size: 13px;
+}
+
+p,i,b {
+    font-size: 16px;
+    margin: 4px 0px;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 600;
+    border-bottom: 1px solid #dee2de;
+    margin: 0px 0px 4px 0px;
+
+    color: #0366d6;
+}
+
+body {
+    width: 400px;
+    margin: 0px;
+
+    background-color: #F3F2F1;
+    border: 2px solid #dee2e6;
+    border-radius: 15px;
+}
+
+#content {
+    padding: 16px 24px;
+}
+
+.left{
+    display: inline-block;
+    width: 150px;
+}
+
+.right{
+    display: inline-block;
+}
+
+.progress{
+    background-color: #d9dcdf;
+    border-radius: 4px;
+    overflow: hidden;
+    height: 16px;
+}
+
+.progress .bar{
+    background-color: #0366d6;
+}
