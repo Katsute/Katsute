@@ -41,6 +41,11 @@ jobs:
     runs-on: ubuntu-latest
     needs: update_readme
     steps:
+      - name: 🕕 Wait for local to catch up
+        uses: jakejarvis/wait-action@master
+        with:
+          time: '30s'
+
       - name: 📦 Prepare Git Repo
         uses: actions/checkout@v2
 
