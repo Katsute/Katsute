@@ -46,10 +46,10 @@
 ## 📊 Statistics
 <div align="center">
     <a href="https://github.com/Katsute/">
-        <img src="https://github.com/Katsute/Katsute/blob/master/contributions.png">
+        <img src="https://github.com/Katsute/Katsute/blob/main/contributions.png">
     </a>
     <a href="https://github.com/Katsute/">
-        <img src="https://github.com/Katsute/Katsute/blob/master/languages.png">
+        <img src="https://github.com/Katsute/Katsute/blob/main/languages.png">
     </a>
 </div>
 
