@@ -67,7 +67,9 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [7ec2550](https://github.com/Katsute/Katsute/commit/7ec255025bc9a3601e7653ca356cdbea6f76a9d2) to branch [cleanup-and-optimizations@c8ab217](https://github.com/Katsute/Katsute/tree/cleanup-and-optimizations@c8ab217) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`12 hours ago`*
+ - Added commit [49f24e3](https://github.com/Katsute/Katsute/commit/49f24e3ac51de1eb5a883da87704fcc1cba998a0) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`1 minute ago`*
+  > fix line limit
+ - Added commit [7ec2550](https://github.com/Katsute/Katsute/commit/7ec255025bc9a3601e7653ca356cdbea6f76a9d2) to branch [cleanup-and-optimizations@c8ab217](https://github.com/Katsute/Katsute/tree/cleanup-and-optimizations@c8ab217) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`13 hours ago`*
   > Optimizations and cleanup
  - Closed issue [Duplicate contexts do not throw IllegalArgumentException [EXTERNAL ISSUE] (#86)](https://github.com/Ktt-Development/simplehttpserver/issues/86) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`15 hours ago`*
  - Commented on issue [Duplicate contexts do not throw IllegalArgumentException [EXTERNAL ISSUE] (#86)](https://github.com/Ktt-Development/simplehttpserver/issues/86#issuecomment-700357752) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`15 hours ago`*
@@ -75,51 +77,7 @@
   >  > `sun.net.httpserver.ServerImpl`
   >  > ```java
   >  > ...
-  >  >     public synchronized HttpContextImpl createContext (String path, HttpHandler handler) {
-  >  >         if (handler == null || path == null) {
-  >  >             throw new NullPointerException ("null handler, or path parameter");
-  >  >         }
-  >  >         HttpContextImpl context = new HttpContextImpl (protocol, path, handler, this);
-  >  >         contexts.add (context);
-  >  >         logger.log (Level.DEBUG, "context created: " + path);
-  >  >         return context;
-  >  >     }
-  >  > ...
-  >  > ```
-  >  > `sun.net.httpserver.HttpContextImpl`
-  >  > ```java
-  >  > ...
-  >  >     HttpContextImpl (String protocol, String path, HttpHandler cb, ServerImpl server) {
-  >  >         if (path == null || protocol == null || path.length() < 1 || path.charAt(0) != '/') {
-  >  >             throw new IllegalArgumentException ("Illegal value for path or protocol");
-  >  >         }
-  >  >         this.protocol = protocol.toLowerCase();
-  >  >         this.path = path;
-  >  >         if (!this.protocol.equals ("http") && !this.protocol.equals ("https")) {
-  >  >             throw new IllegalArgumentException ("Illegal value for protocol");
-  >  >         }
-  >  >         this.handler = cb;
-  >  >         this.server = server;
-  >  >         authfilter = new AuthFilter(null);
-  >  >         sfilters.add (authfilter);
-  >  >     }
-  >  > ...
-  >  > ```
  - Closed issue [Can not remove extended HttpContext contexts [EXTERNAL ISSUE] (#87)](https://github.com/Ktt-Development/simplehttpserver/issues/87) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`15 hours ago`*
- - Commented on issue [Can not remove extended HttpContext contexts [EXTERNAL ISSUE] (#87)](https://github.com/Ktt-Development/simplehttpserver/issues/87#issuecomment-700356595) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`15 hours ago`*
-  > `sun.net.httpserver.ServerImpl`
-  >  > ```java
-  >  > ...
-  >  >     public synchronized void removeContext (HttpContext context) throws IllegalArgumentException {
-  >  >         if (!(context instanceof HttpContextImpl)) {
-  >  >                                         ^ here
-  >  >             throw new IllegalArgumentException ("wrong HttpContext type");
-  >  >         }
-  >  >         contexts.remove ((HttpContextImpl)context);
-  >  >         logger.log (Level.DEBUG, "context removed: " + context.getPath());
-  >  >     }
-  >  > ...
-  >  > ```
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 29, 2020 at 11:51 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 29, 2020 at 12:05 PM (EST)</p>
