@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">&nbsp;
     <img 
         src="https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&color=3278be"
         alt="Windows-OS">
