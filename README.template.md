@@ -58,4 +58,4 @@
 {{ activity }}
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20Statistics/badge.svg"><p align="right">Last updated {{ updated }}</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated {{ updated }}</p>
