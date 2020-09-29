@@ -9,7 +9,7 @@ def contains(arr, string):
 
 
 def truncate(string, max_lines):
-    lines = string.split('\n', 1)
+    lines = str.splitlines(string)
     if len(lines) > max_lines:
         return lines[0] + '\n' + lines[1] + '\n' + lines[2] + '\n' + lines[3]
     else:
