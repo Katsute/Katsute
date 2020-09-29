@@ -55,15 +55,17 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [560e619](https://github.com/Katsute/Katsute/commit/560e619b63ca5830b89419f4dd2697cbcdca2799) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`38 seconds ago`*
+ - Added commit [f646d45](https://github.com/Katsute/Katsute/commit/f646d456cef77557527ec228d0b47714284b9dc7) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`25 seconds ago`*
+   > Revert "Update update_images.py"
+   >  > This reverts commit 36c59010679018c8764a855de4ed22973e78eb2c.
+ - Added commit [560e619](https://github.com/Katsute/Katsute/commit/560e619b63ca5830b89419f4dd2697cbcdca2799) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`5 minutes ago`*
    > wait for local to catch up
- - Added commit [4eff67e](https://github.com/Katsute/Katsute/commit/4eff67e8d2964db120c67aa5ab4877ff557e94ee) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`5 minutes ago`*
+ - Added commit [4eff67e](https://github.com/Katsute/Katsute/commit/4eff67e8d2964db120c67aa5ab4877ff557e94ee) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`10 minutes ago`*
    > Fixed clashing actions
- - Added commit [ec1a8e7](https://github.com/Katsute/Katsute/commit/ec1a8e77de5921acd22fbc65b333b7f7e6287e6d) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`13 minutes ago`*
+ - Added commit [ec1a8e7](https://github.com/Katsute/Katsute/commit/ec1a8e77de5921acd22fbc65b333b7f7e6287e6d) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`17 minutes ago`*
    > force action to update local
- - Added commit [36c5901](https://github.com/Katsute/Katsute/commit/36c59010679018c8764a855de4ed22973e78eb2c) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`18 minutes ago`*
+ - Added commit [36c5901](https://github.com/Katsute/Katsute/commit/36c59010679018c8764a855de4ed22973e78eb2c) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`23 minutes ago`*
    > Update update_images.py
- - Deleted branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute) *`22 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 29, 2020 at 05:41 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 29, 2020 at 05:46 PM (EST)</p>
