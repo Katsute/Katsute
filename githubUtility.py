@@ -37,8 +37,7 @@ def getStatistics(config):
         map_stats['commits'] += repo.get_commits(since=date_init_year, author=gh_user.name).totalCount
 
         # language statistics
-        double_contrib = repo.get_commits(
-            author=gh_user.name).totalCount / repo.get_commits().totalCount  # what % of commits is made by this user
+        double_contrib = repo.get_commits(author=gh_user.name).totalCount / repo.get_commits().totalCount  # what % of commits is made by this user
         for lang, count in repo.get_languages().items():
             if not (lang in arr_hideLang):  # remove hidden config
                 if not (lang in map_lang_contrib.keys()):
@@ -49,11 +48,13 @@ def getStatistics(config):
     double_total     = sum(map_lang_contrib.values())
     map_lang_contrib = sorted(map_lang_contrib.items(), key=lambda x: x[1], reverse=True)
 
-    map_lang = {}
+    map_lang = []
 
     for i in map_lang_contrib:
-        map_lang[i[0]] = float(i[1]) * 100 / double_total  # as percent
-        map_lang[i[0]] = int(map_lang[i[0]] * 100) / 100  # as two point float
+        map_lang.append({
+            "name": i[0],
+            "percent": int((float(i[1]) * 100 / double_total) * 100) / 100  # as two point float
+        })
 
     return {
         'languages' : map_lang,

@@ -1,14 +1,14 @@
-name: Update README.md
+name: Update Statistics
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     # Run daily at midnight (EST)
     - cron:  '0 4 * * *'
 jobs:
   update:
-    name: Update Images
+    name: Update Statistics
     runs-on: ubuntu-latest
     steps:
       - name: 📦 Prepare Git Repo

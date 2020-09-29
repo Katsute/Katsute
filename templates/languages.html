@@ -1,18 +1,26 @@
 <!DOCTYPE html>
 <html>
     <head>
+        {% comment %}
         <link rel="stylesheet" href="style.css" type="text/css">
+        {% endcomment %}
+        <style>
+            {{ css }}
+        </style>
     </head>
     <body>
         <div id="content">
             <h1>Languages</h1>
-            <div style="margin-top: 8px; min-height: 18px;">
-                <small style="float:left;">Java</small>
-                <small style="float:right;">93.82%</small>
-                <div class="progress" style="margin-top: 16px;">
-                    <div class="bar" style="width: 50%">&nbsp;</div>
+            {% for language in languages %}
+                <div style="margin-top: 8px; min-height: 18px;">
+                    <small style="float:left;">{{ language.name }}</small>
+                    <small style="float:right;">{{ language.percent }}%</small>
+                    <br>
+                    <div class="progress">
+                        <div class="bar" style="width: {{ language.percent }}%">&nbsp;</div>
+                    </div>
                 </div>
-            </div>
+            {% endfor %}
         </div>
     </body>
 </html>

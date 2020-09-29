@@ -2,7 +2,7 @@ name: Update README.md
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     # Run every hour at an off-peak minute
     - cron:  '47 * * * *'

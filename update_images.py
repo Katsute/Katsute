@@ -17,7 +17,6 @@ arr_hide_lang = ["HTML", "JavaScript", "CSS"]
 int_threshold = 130
 
 render_options = {
-    "enable-local-file-access": None,  # true
     "format"    : "png",
     "width"     : 400,
     "quality"   : 100,
@@ -26,13 +25,13 @@ render_options = {
 
 def main():
     github = Github(sys.argv[1])
-    user   = github.get_user(github.get_user().login)  # get named user (auth user is missing methods)
+    user   = github.get_user()
 
     req = github.get_rate_limit().core.remaining
     print("Initial requests:", req)
 
     # create a virtual display if on workflow
-    display = None if len(sys.argv) >= 3 and bool(sys.argv[3]) else Display(size=(1920, 1080)).start()
+    display = None if len(sys.argv) >= 2 and bool(sys.argv[2]) else Display(size=(1920, 1080)).start()
 
     map_statistics = githubUtility.getStatistics({
         'gh_user'           : user,
@@ -40,21 +39,22 @@ def main():
         'hide_lang'         : arr_hide_lang
     })
 
+    css = codecs.open("templates/style.css", "r", encoding="utf-8").read()
+
     # <contributions>
     str_file = "contributions"
-    str_template = codecs.open("/templates/contributions.html", "r", encoding="utf-8").read()
-    str_html = Liquid(str_template, statistics=map_statistics['statistics']).render()
-    __HTML2Image(str_html, f"/templates/{str_file}", options=render_options)
-    __removeColor(f"/templates{str_file}.png", 0, 255, 0, int_threshold)
+    str_template = codecs.open("templates/contributions.html", "r", encoding="utf-8").read()
+    str_html = Liquid(str_template, statistics=map_statistics['statistics'], css=css).render()
+
+    __HTML2Image(str_html, str_file, options=render_options)
+    __removeColor(f"{str_file}.png", 0, 255, 0, int_threshold)
 
     # <languages>
     str_file = "languages"
-    str_template = codecs.open("/templates/languages.html", "r", encoding="utf-8").read()
-    str_html = Liquid(str_template, statistics=map_statistics['languages']).render()
-    __HTML2Image(str_html, f"/templates/{str_file}", options=render_options)
-    __removeColor(f"/templates{str_file}.png", 0, 255, 0, int_threshold)
-
-    # <working on> TODO - get which repos have most total recent commits (~3 day avg)
+    str_template = codecs.open("templates/languages.html", "r", encoding="utf-8").read()
+    str_html = Liquid(str_template, languages=map_statistics['languages'], css=css).render()
+    __HTML2Image(str_html, str_file, options=render_options)
+    __removeColor(f"{str_file}.png", 0, 255, 0, int_threshold)
 
     # cleanup
 

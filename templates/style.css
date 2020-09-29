@@ -29,7 +29,7 @@ body {
     margin: 0px;
 
     background-color: #F3F2F1;
-    border: 1px solid #dee2e6;
+    border: 2px solid #dee2e6;
     border-radius: 15px;
 }
 
@@ -47,11 +47,12 @@ body {
 }
 
 .progress{
-    background-color: #e9ecef;
-    border-radius: 8px;
+    background-color: #d9dcdf;
+    border-radius: 4px;
+    overflow: hidden;
     height: 16px;
 }
 
 .progress .bar{
-    background-color: #0366d6; 
+    background-color: #0366d6;
 }
