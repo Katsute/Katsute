@@ -31,7 +31,7 @@ def main():
     print("Initial requests:", req)
 
     # create a virtual display if on workflow
-    display = None if len(sys.argv) >= 2 and bool(sys.argv[2]) else Display(size=(1920, 1080)).start()
+    display = None if len(sys.argv) >= 3 and bool(sys.argv[2]) else Display(size=(1920, 1080)).start()
 
     map_statistics = githubUtility.getStatistics({
         'gh_user'           : user,
