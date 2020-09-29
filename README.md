@@ -67,17 +67,11 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [49f24e3](https://github.com/Katsute/Katsute/commit/49f24e3ac51de1eb5a883da87704fcc1cba998a0) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`1 hour ago`*
-  > fix line limit
- - Added commit [7ec2550](https://github.com/Katsute/Katsute/commit/7ec255025bc9a3601e7653ca356cdbea6f76a9d2) to branch [cleanup-and-optimizations@c8ab217](https://github.com/Katsute/Katsute/tree/cleanup-and-optimizations@c8ab217) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`14 hours ago`*
-  > Optimizations and cleanup
- - Closed issue [Duplicate contexts do not throw IllegalArgumentException [EXTERNAL ISSUE] (#86)](https://github.com/Ktt-Development/simplehttpserver/issues/86) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`17 hours ago`*
- - Commented on issue [Duplicate contexts do not throw IllegalArgumentException [EXTERNAL ISSUE] (#86)](https://github.com/Ktt-Development/simplehttpserver/issues/86#issuecomment-700357752) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`17 hours ago`*
-  > According to the source code an `IllegalArgumentException` is **never thrown** for duplicate contexts. The documentation on this method is invalid.
-  >  > `sun.net.httpserver.ServerImpl`
-  >  > ```java
-  >  > ...
- - Closed issue [Can not remove extended HttpContext contexts [EXTERNAL ISSUE] (#87)](https://github.com/Ktt-Development/simplehttpserver/issues/87) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`17 hours ago`*
+ - Deleted branch [master](https://github.com/Ktt-Development/rexedia/tree/master) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`1 minute ago`*
+ - Created branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`2 minutes ago`*
+ - Deleted branch [master](https://github.com/Ktt-Development/simplehttpserver/tree/master) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`3 minutes ago`*
+ - Created branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`4 minutes ago`*
+ - Deleted branch [master](https://github.com/Katsute/katsute.github.io/tree/master) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io) *`5 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 29, 2020 at 01:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 29, 2020 at 02:51 PM (EST)</p>
