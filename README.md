@@ -67,14 +67,58 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [dad991c](https://github.com/Katsute/Remote-Parental-Control/commit/dad991c45d783af36c8cf3c62b4e7f5ba364d998) to branch [master](https://github.com/Katsute/Remote-Parental-Control/tree/master) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`1 hour ago`*
-  > Update README.md
- - Opened issue [Mobile navigation issues (#5)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/5) from repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 hour ago`*
- - Closed issue [Bad footer placement (#3)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/3) from repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 hour ago`*
- - Commented on issue [Bad footer placement (#3)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/3#issuecomment-700311055) from repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 hour ago`*
-  > Fixed in [#4](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/4) 
- - Added commit [d9f3350](https://github.com/Katsute/Katsute/commit/d9f33505038c063a3c213bbc99886e5c1f991634) to branch [master](https://github.com/Katsute/Katsute/tree/master) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`1 hour ago`*
-  > Update README.template.md
+ - Closed issue [Duplicate contexts do not throw IllegalArgumentException [EXTERNAL ISSUE] (#86)](https://github.com/Ktt-Development/simplehttpserver/issues/86) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`26 minutes ago`*
+ - Commented on issue [Duplicate contexts do not throw IllegalArgumentException [EXTERNAL ISSUE] (#86)](https://github.com/Ktt-Development/simplehttpserver/issues/86#issuecomment-700357752) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`26 minutes ago`*
+  > According to the source code an `IllegalArgumentException` is **never thrown** for duplicate contexts. The documentation on this method is invalid.
+  >  > `sun.net.httpserver.ServerImpl`
+  >  > ```java
+  >  > ...
+  >  >     public synchronized HttpContextImpl createContext (String path, HttpHandler handler) {
+  >  >         if (handler == null || path == null) {
+  >  >             throw new NullPointerException ("null handler, or path parameter");
+  >  >         }
+  >  >         HttpContextImpl context = new HttpContextImpl (protocol, path, handler, this);
+  >  >         contexts.add (context);
+  >  >         logger.log (Level.DEBUG, "context created: " + path);
+  >  >         return context;
+  >  >     }
+  >  > ...
+  >  > ```
+  >  > `sun.net.httpserver.HttpContextImpl`
+  >  > ```java
+  >  > ...
+  >  >     HttpContextImpl (String protocol, String path, HttpHandler cb, ServerImpl server) {
+  >  >         if (path == null || protocol == null || path.length() < 1 || path.charAt(0) != '/') {
+  >  >             throw new IllegalArgumentException ("Illegal value for path or protocol");
+  >  >         }
+  >  >         this.protocol = protocol.toLowerCase();
+  >  >         this.path = path;
+  >  >         if (!this.protocol.equals ("http") && !this.protocol.equals ("https")) {
+  >  >             throw new IllegalArgumentException ("Illegal value for protocol");
+  >  >         }
+  >  >         this.handler = cb;
+  >  >         this.server = server;
+  >  >         authfilter = new AuthFilter(null);
+  >  >         sfilters.add (authfilter);
+  >  >     }
+  >  > ...
+  >  > ```
+ - Closed issue [Can not remove extended HttpContext contexts [EXTERNAL ISSUE] (#87)](https://github.com/Ktt-Development/simplehttpserver/issues/87) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`31 minutes ago`*
+ - Commented on issue [Can not remove extended HttpContext contexts [EXTERNAL ISSUE] (#87)](https://github.com/Ktt-Development/simplehttpserver/issues/87#issuecomment-700356595) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`31 minutes ago`*
+  > `sun.net.httpserver.ServerImpl`
+  >  > ```java
+  >  > ...
+  >  >     public synchronized void removeContext (HttpContext context) throws IllegalArgumentException {
+  >  >         if (!(context instanceof HttpContextImpl)) {
+  >  >                                         ^ here
+  >  >             throw new IllegalArgumentException ("wrong HttpContext type");
+  >  >         }
+  >  >         contexts.remove ((HttpContextImpl)context);
+  >  >         logger.log (Level.DEBUG, "context removed: " + context.getPath());
+  >  >     }
+  >  > ...
+  >  > ```
+ - Created branch [cleanup-and-optimizations@c8ab217](https://github.com/Katsute/Katsute/tree/cleanup-and-optimizations@c8ab217) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute) *`55 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 28, 2020 at 07:52 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 28, 2020 at 09:11 PM (EST)</p>
