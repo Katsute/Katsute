@@ -4,11 +4,11 @@ on:
     branches:
       - master
   schedule:
-    # Run every hour at an off-peak minute
-    - cron:  '47 * * * *'
+    # Run daily at midnight (EST)
+    - cron:  '0 4 * * *'
 jobs:
   update:
-    name: Update README.md
+    name: Update Images
     runs-on: ubuntu-latest
     steps:
       - name: 📦 Prepare Git Repo
@@ -21,17 +21,20 @@ jobs:
 
       - name: 📚 Install Dependencies
         run: |
+          sudo apt-get install wkhtmltopdf
+
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: 📄 Update Statistics
-        run: python update_readme.py ${{ secrets.REPO_KEY }}
+        run: python update_images.py ${{ secrets.REPO_KEY }}
 
       - name: 💾 Push to Repo
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add -f "README.md"
-          git diff-index --quiet HEAD || git commit -m 'Update README.md'
+          git add -f "languages.png"
+          git add -f "contributions.png"
+          git diff-index --quiet HEAD || git commit -m 'Update images'
           git push

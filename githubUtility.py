@@ -1,135 +1,76 @@
-import codecs
+import datetime as datetime
 import re
-import sys
-import imgkit
-import os
-
-from datetime import datetime
-from pytz import timezone
-from github import Github
-from pyvirtualdisplay import Display
-
-import utility
-import ghStats
-
-# global settings
-
-boolean_include_private = True
-arr_hide_lang = ["HTML", "JavaScript", "CSS"]
-
-int_langs = 8
-
-int_history   = 5
-int_max_lines = 4
 
 
-# first arg is python compile; second arg is oauth
-def main():
-    g    = Github(sys.argv[1])
-    user = g.get_user()
-    now  = datetime.utcnow()
+# noinspection PyPep8Naming
+def getStatistics(config):
+    gh_user = config['gh_user']
+    boolean_includePrivate = config['include_private']
+    arr_hideLang = config['hide_lang']
 
-    req = g.get_rate_limit().core.remaining
-    print("Requests remaining:", req)
+    int_user_id = gh_user.id
 
-    str_template = codecs.open("README.template.md", "r", encoding="utf-8").read()
+    date_init_year = datetime.datetime.combine(datetime.date(datetime.date.today().year, 1, 1), datetime.time.min)
 
-    stats = ghStats.getStatistics({
-        'gh_user'           : user,
-        'include_private'   : boolean_include_private,
-        'hide_lang'         : arr_hide_lang
-    })
-
-    print("Requests used:", req - g.get_rate_limit().core.remaining)
-
-    # local installation
-    # noinspection SpellCheckingInspection
-    config  = None  # if len(sys.argv) < 3 or not bool(sys.argv[3]) else imgkit.config(wkhtmltoimage='C:\\Program Files\\wkhtmltopdf\\bin\\wkhtmltoimage.exe')  # fix wkhtmltoimage defect
-    display = None if len(sys.argv) >= 3 and bool(sys.argv[3]) else Display(size=(1920, 1080)).start()  # virtual display for workflow
-
-    options = {
-        "enable-local-file-access": None,
-        "format": "png",
-        "width": 400,
-        "quality": 100,
+    map_lang_contrib = {}
+    map_stats = {
+        "commits"      : 0,
+        "pulls"        : 0,
+        "issues"       : 0,
+        "contributions": 0
     }
 
-    int_threshold = 130
-    # contributions
-    str_file = "contributions"
+    for repo in gh_user.get_repos():
+        if repo.private and not boolean_includePrivate:
+            continue
 
-    map_statistics = stats['statistics']
-    str_html = codecs.open(f"{str_file}.html", "r", encoding="utf-8").read() \
-        .replace("{{ total_commits }}", str(map_statistics['commits'])) \
-        .replace("{{ total_pulls }}"  , str(map_statistics['pulls'])) \
-        .replace("{{ total_issues }}" , str(map_statistics['issues'])) \
-        .replace("{{ contributions }}", str(map_statistics['contributions']))
+        # contributions
+        if repo.owner.id != int_user_id:
+            map_stats['contributions'] += 1  # no ++ :(
+        # issues
+        map_stats['issues'] += repo.get_issues(since=date_init_year, state="all", creator=gh_user.name).totalCount
+        # pulls
+        for pull in repo.get_pulls(state="all"):
+            if pull.user.id == gh_user.id and pull.updated_at >= date_init_year:
+                map_stats['pulls'] += 1
+        # commits
+        map_stats['commits'] += repo.get_commits(since=date_init_year, author=gh_user.name).totalCount
 
-    imgkit.from_string(str_html, str_file, config=config, options=options)
-    if os.path.exists(f"{str_file}.png"):
-        os.remove(f"{str_file}.png")
-    os.rename(str_file, f"{str_file}.png")  # defective imgkit hotfix
-    utility.removeColor(f"{str_file}.png", 0, 255, 0, int_threshold)
+        # language statistics
+        double_contrib = repo.get_commits(
+            author=gh_user.name).totalCount / repo.get_commits().totalCount  # what % of commits is made by this user
+        for lang, count in repo.get_languages().items():
+            if not (lang in arr_hideLang):  # remove hidden config
+                if not (lang in map_lang_contrib.keys()):
+                    map_lang_contrib[lang] = count * double_contrib
+                else:
+                    map_lang_contrib[lang] += count * double_contrib
 
-    # languages
-    str_file      = "languages"
-    str_languages = ""
-    str_language  = codecs.open("language.liquid", "r", encoding="utf-8").read()
-    index = 0
-    for lang, percent in stats['languages'].items():
-        if index >= int_langs: break
-        str_languages += str_language.replace("{{ language }}", lang).replace("{{ percent }}", format(percent, ".2f"))
+    double_total     = sum(map_lang_contrib.values())
+    map_lang_contrib = sorted(map_lang_contrib.items(), key=lambda x: x[1], reverse=True)
 
-    str_html = codecs.open(f"{str_file}.html", "r", encoding="utf-8").read().replace("{{ languages }}", str_languages)
-    imgkit.from_string(str_html, str_file, config=config, options=options)
-    if os.path.exists(f"{str_file}.png"):
-        os.remove(f"{str_file}.png")
-    os.rename(str_file, f"{str_file}.png")  # defective imgkit hotfix
-    utility.removeColor(f"{str_file}.png", 0, 255, 0, int_threshold)
+    map_lang = {}
 
-    # {{ activity }}
+    for i in map_lang_contrib:
+        map_lang[i[0]] = float(i[1]) * 100 / double_total  # as percent
+        map_lang[i[0]] = int(map_lang[i[0]] * 100) / 100  # as two point float
 
-    user = g.get_user(user.login)
-
-    str_list = ""
-    for i in range(int_history):
-        event = user.get_public_events()[i]
-
-        str_list += '\n' if i > 0 else ''  # add new line before each except first
-        str_list += " - " + eventAsString(g, event, now).replace('\n', '\n' + ' ')
-    str_template = str_template.replace("{{ activity }}", str_list)
-
-    # {{ updated }}
-
-    eastern   = timezone('US/Eastern')
-    localized = datetime.now(eastern)
-    sdf       = '%B %d, %Y at %I:%M %p (EST)'
-    str_template = str_template.replace("{{ updated }}", localized.strftime(sdf))
-
-    # write
-
-    codecs.open("README.md", "w", encoding="utf-8").write(str_template)
-
-    if display:
-        display.stop()
-
-    print("Requests remaining:", g.get_rate_limit().core.remaining)
-
-    return
+    return {
+        'languages' : map_lang,
+        'statistics': map_stats
+    }
 
 
-# for sake of readability, f-strings can be used even when they are not needed
-# (this program is small enough that it won't lose any performance)
 # noinspection PyPep8Naming
-def eventAsString(github, event, now):  # no switch statements :(
+def getEventAsMarkdown(github, event, now, max_lines=4):
     payload = event.payload
     # noinspection SpellCheckingInspection
-    etype   = event.type
+    etype = event.type
 
     str_repo_url = github.get_repo(event.repo.id).html_url
 
     str_repo_name = f"[{event.repo.name}]({str_repo_url})"
-    str_time_ago  = f" *`{getTimePassed(event.created_at, now)} ago`*"
+    str_time_ago = f" *`{__getTimePassed(event.created_at, now)} ago`*"
 
     if etype == "CommitCommentEvent":
         comment = payload["comment"]
@@ -137,7 +78,7 @@ def eventAsString(github, event, now):  # no switch statements :(
                f"[{comment['commit']['sha'][0:7]}]({comment.html_url}) " \
                f"in repository {str_repo_name} " \
                f"{str_time_ago}" + \
-               quote(comment['body'], str_repo_url)
+               __quote(comment['body'], str_repo_url, max_lines)
     elif etype == "CreateEvent" or etype == "DeleteEvent":
         str_name = payload['ref']
         return f"{'Created' if etype == 'CreateEvent' else 'Deleted'} {payload['ref_type']} " \
@@ -158,9 +99,9 @@ def eventAsString(github, event, now):  # no switch statements :(
                f"[{payload['issue']['title']} (#{payload['issue']['number']})]({payload['comment']['html_url']}) " \
                f"from repository {str_repo_name} " \
                f"{str_time_ago}" + \
-               quote(comment['body'], str_repo_url)
+               __quote(comment['body'], str_repo_url, max_lines)
     elif etype == "IssuesEvent":
-        arr_pull_state  = ["opened", "closed", "reopened"]
+        arr_pull_state = ["opened", "closed", "reopened"]
         arr_pull_assign = ["assigned", "unassigned"]
 
         # link around issue name/no.
@@ -168,11 +109,11 @@ def eventAsString(github, event, now):  # no switch statements :(
                             f"from repository {str_repo_name}"
         str_action = payload["action"]
 
-        if utility.contains(arr_pull_state, str_action):  # open/closed
+        if __arrayContainsString(arr_pull_state, str_action):  # open/closed
             return f"{str_action.capitalize()} " \
                    f"issue {str_pull_and_repo} " \
                    f"{str_time_ago}"
-        elif utility.contains(arr_pull_assign, str_action):  # assign/unassign
+        elif __arrayContainsString(arr_pull_assign, str_action):  # assign/unassign
             return f"{str_action.capitalize()} {payload['assignee']['name']} " \
                    f"{'to' if str_action == 'assigned' else 'from'} " \
                    f"issue {str_pull_and_repo} " \
@@ -192,30 +133,30 @@ def eventAsString(github, event, now):  # no switch statements :(
         return f"Set repository {str_repo_name} to public " \
                f"{str_time_ago}"
     elif etype == "PullRequestEvent":
-        arr_pull_state   = ["opened", "closed", "reopened"]
-        arr_pull_assign  = ["assigned", "unassigned"]
+        arr_pull_state = ["opened", "closed", "reopened"]
+        arr_pull_assign = ["assigned", "unassigned"]
         arr_pull_labeled = ["labeled", "unlabeled"]
-        arr_pull_review  = ["review_requested", "review_request_removed"]
+        arr_pull_review = ["review_requested", "review_request_removed"]
 
         str_pull_and_repo = f"[{payload['pull_request']['title']} (#{payload['pull_request']['number']})]({payload['pull_request']['html_url']}) " \
                             f"in repository {str_repo_name}"
         str_action = payload["action"]
-        if utility.contains(arr_pull_state, str_action):  # opened/closed
+        if __arrayContainsString(arr_pull_state, str_action):  # opened/closed
             return f"{str_action.capitalize()} " \
                    f"pull request {str_pull_and_repo} " \
                    f"{str_time_ago}"
-        elif utility.contains(arr_pull_assign, str_action):  # assigned
+        elif __arrayContainsString(arr_pull_assign, str_action):  # assigned
             return f"{str_action.capitalize()} " \
                    f"{payload['assignee']['name']} " \
                    f"{'to' if str_action == 'assigned' else 'from'} " \
                    f"pull request {str_pull_and_repo} " \
                    f"{str_time_ago}"
-        elif utility.contains(arr_pull_labeled, str_action):  # labeled
+        elif __arrayContainsString(arr_pull_labeled, str_action):  # labeled
             return f"{'Added' if str_action == 'labeled' else 'Removed'} label {payload['label']['name']} " \
                    f"{'to' if str_action == 'labeled' else 'from'} " \
                    f"pull request {str_pull_and_repo} " \
                    f"{str_time_ago}"
-        elif utility.contains(arr_pull_review, str_action):  # reviewed
+        elif __arrayContainsString(arr_pull_review, str_action):  # reviewed
             return f"{'Requested review' if str_action == 'review_requested' else 'Redacted review request'} " \
                    f"for {str_action.capitalize()} " \
                    f"pull request {str_pull_and_repo} " \
@@ -230,14 +171,14 @@ def eventAsString(github, event, now):  # no switch statements :(
                f"([#{payload['issue']['number']})]({payload['comment']['html_url']}) " \
                f"in repository {str_repo_name} " \
                f"{str_time_ago}" + \
-               quote(comment['body'], str_repo_url)
+               __quote(comment['body'], str_repo_url, max_lines)
     elif etype == "PushEvent":
-        commit  = payload['commits'][0]
+        commit = payload['commits'][0]
         message = commit['message']
         return f"Added commit [{commit['sha'][0:7]}]({str_repo_url}/commit/{commit['sha']}) " \
                f"to branch [{payload['ref'][11:]}]({str_repo_url}/tree/{payload['ref'][11:]}) " + \
                f"in repository {str_repo_name} {str_time_ago}" + \
-               quote(message, str_repo_url)
+               __quote(message, str_repo_url, max_lines)
     elif etype == "ReleaseEvent":
         return f"{payload['action'].capitalize()} " \
                f"release [{payload['release']['name']}]({payload['release']['html_url']}) in " \
@@ -253,20 +194,42 @@ def eventAsString(github, event, now):  # no switch statements :(
         return f"*No template has been created for {etype}*"  # wtf?
 
 
-def quote(message, repo_url):
-    s2 = re.sub(r'\n\s*\n', '\n', message).replace('\n', '\n> ')
-    return '\n > ' + utility.truncate(re.sub(r'#(\d+)', '[#\\1](' + repo_url + '/issues/\\1)', s2.replace('\n', '\n >  ')),int_max_lines) if s2 else ''
+#
+#   Utility methods
+#
 
 
 # noinspection PyPep8Naming
-def getTimePassed(time, now):
+def __arrayContainsString(arr, string):
+    for s in arr:
+        if s == string:
+            return True
+    return False
+
+
+# noinspection PyPep8Naming
+def __capLines(string, max_lines):
+    lines = str.splitlines(string)
+    if len(lines) > max_lines:
+        return lines[0] + '\n' + lines[1] + '\n' + lines[2] + '\n' + lines[3]
+    else:
+        return string
+
+
+def __quote(message, repo_url, max_lines):
+    s2 = re.sub(r'\n\s*\n', '\n', message).replace('\n', '\n> ')
+    return '\n  > ' + __capLines(re.sub(r'#(\d+)', '[#\\1](' + repo_url + '/issues/\\1)', s2.replace('\n', '\n  >  ')), max_lines) if s2 else ''
+
+
+# noinspection PyPep8Naming
+def __getTimePassed(time, now):
     passed = int((now - time).total_seconds())
 
     passed = {
-        'years'  : int(passed / 31_536_000),
-        'months' : int(passed / 2_628_000),
-        'days'   : int(passed / 86_400),
-        'hours'  : int(passed / 3_600),
+        'years': int(passed / 31_536_000),
+        'months': int(passed / 2_628_000),
+        'days': int(passed / 86_400),
+        'hours': int(passed / 3_600),
         'minutes': int(passed / 60),
         'seconds': passed
     }
@@ -275,6 +238,3 @@ def getTimePassed(time, now):
         if v > 0 or k == 'seconds':
             return f"{v} {k[:(-1 if v == 1 else len(k))]}"
 
-
-if __name__ == "__main__":
-    main()
