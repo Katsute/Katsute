@@ -46,26 +46,25 @@
 ## 📊 Statistics
 <div align="center">
     <a href="https://github.com/Katsute/">
-        <img src="https://github.com/Katsute/Katsute/blob/master/contributions.png">
+        <img src="https://github.com/Katsute/Katsute/blob/main/contributions.png">
     </a>
     <a href="https://github.com/Katsute/">
-        <img src="https://github.com/Katsute/Katsute/blob/master/languages.png">
+        <img src="https://github.com/Katsute/Katsute/blob/main/languages.png">
     </a>
 </div>
 
 ## ⚡ Recent Activity
 
- - Added commit [8d344d2](https://github.com/Katsute/Katsute/commit/8d344d2be2e78ab1260297e8fd736c089018a4cc) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`51 seconds ago`*
-   > wtf I fixed this already
- - Added commit [c79dcc1](https://github.com/Katsute/Katsute/commit/c79dcc140b3d5f9f81d7c8a858a79806881d2216) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`2 minutes ago`*
-   > fixme
- - Added commit [77a25b6](https://github.com/Katsute/Katsute/commit/77a25b64d4f6e2de334528b4c1d79b7087f0b513) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`5 minutes ago`*
+ - Added commit [fc32da3](https://github.com/Katsute/Katsute/commit/fc32da3e0d04948df3f1785c8b875981546c0d21) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`47 seconds ago`*
+   > main is now the preferred default branch
+ - Added commit [12afa2f](https://github.com/Katsute/Katsute/commit/12afa2f5481dd1c2ce50a0029070d7eae40fe169) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`1 minute ago`*
    > Update README.template.md
- - Added commit [f646d45](https://github.com/Katsute/Katsute/commit/f646d456cef77557527ec228d0b47714284b9dc7) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`6 minutes ago`*
-   > Revert "Update update_images.py"
-   >  > This reverts commit 36c59010679018c8764a855de4ed22973e78eb2c.
- - Added commit [560e619](https://github.com/Katsute/Katsute/commit/560e619b63ca5830b89419f4dd2697cbcdca2799) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`11 minutes ago`*
-   > wait for local to catch up
+ - Added commit [b0c59d4](https://github.com/Katsute/Katsute/commit/b0c59d449f2fe13253ed54c1ec047b7669102315) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`2 minutes ago`*
+   > Update style.css
+ - Added commit [8d344d2](https://github.com/Katsute/Katsute/commit/8d344d2be2e78ab1260297e8fd736c089018a4cc) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`5 minutes ago`*
+   > wtf I fixed this already
+ - Added commit [c79dcc1](https://github.com/Katsute/Katsute/commit/c79dcc140b3d5f9f81d7c8a858a79806881d2216) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`6 minutes ago`*
+   > fixme
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20Statistics/badge.svg"><p align="right">Last updated September 29, 2020 at 05:52 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 29, 2020 at 05:56 PM (EST)</p>
