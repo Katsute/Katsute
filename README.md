@@ -55,14 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [e619ba4](https://github.com/Ktt-Development/rexedia/commit/e619ba4322de1ff0062630f5324a974545b0980f) to branch [remove-defective-ffmpeg-wrapper@4d9513e](https://github.com/Ktt-Development/rexedia/tree/remove-defective-ffmpeg-wrapper@4d9513e) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`45 minutes ago`*
+ - Added commit [1faae3f](https://github.com/Ktt-Development/rexedia/commit/1faae3fb5870f8899dbd3a867a7a885037c54ea2) to branch [remove-defective-ffmpeg-wrapper@4d9513e](https://github.com/Ktt-Development/rexedia/tree/remove-defective-ffmpeg-wrapper@4d9513e) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`29 minutes ago`*
+   > CI debug
+ - Added commit [e619ba4](https://github.com/Ktt-Development/rexedia/commit/e619ba4322de1ff0062630f5324a974545b0980f) to branch [remove-defective-ffmpeg-wrapper@4d9513e](https://github.com/Ktt-Development/rexedia/tree/remove-defective-ffmpeg-wrapper@4d9513e) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > local installation
- - Opened issue [FFMPEG will not write to new files (#1)](https://github.com/Ktt-Development/rexedia/issues/1) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`46 minutes ago`*
- - Added commit [8b11a29](https://github.com/Ktt-Development/rexedia/commit/8b11a291ade2618b87d9ae9f5e8285eb70f90f23) to branch [remove-defective-ffmpeg-wrapper@4d9513e](https://github.com/Ktt-Development/rexedia/tree/remove-defective-ffmpeg-wrapper@4d9513e) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`48 minutes ago`*
+ - Opened issue [FFMPEG will not write to new files (#1)](https://github.com/Ktt-Development/rexedia/issues/1) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Added commit [8b11a29](https://github.com/Ktt-Development/rexedia/commit/8b11a291ade2618b87d9ae9f5e8285eb70f90f23) to branch [remove-defective-ffmpeg-wrapper@4d9513e](https://github.com/Ktt-Development/rexedia/tree/remove-defective-ffmpeg-wrapper@4d9513e) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > Test tweaks
- - Added commit [d877998](https://github.com/Ktt-Development/rexedia/commit/d8779985d1b176cd497a463508ce620c3116633c) to branch [remove-defective-ffmpeg-wrapper@4d9513e](https://github.com/Ktt-Development/rexedia/tree/remove-defective-ffmpeg-wrapper@4d9513e) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`15 hours ago`*
+ - Added commit [d877998](https://github.com/Ktt-Development/rexedia/commit/d8779985d1b176cd497a463508ce620c3116633c) to branch [remove-defective-ffmpeg-wrapper@4d9513e](https://github.com/Ktt-Development/rexedia/tree/remove-defective-ffmpeg-wrapper@4d9513e) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`16 hours ago`*
    > Use self developed ffmpeg wrapper
- - Created branch [remove-defective-ffmpeg-wrapper@4d9513e](https://github.com/Ktt-Development/rexedia/tree/remove-defective-ffmpeg-wrapper@4d9513e) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`17 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 30, 2020 at 02:50 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 30, 2020 at 03:51 PM (EST)</p>
