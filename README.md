@@ -55,15 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [d877998](https://github.com/Ktt-Development/rexedia/commit/d8779985d1b176cd497a463508ce620c3116633c) to branch [remove-defective-ffmpeg-wrapper@4d9513e](https://github.com/Ktt-Development/rexedia/tree/remove-defective-ffmpeg-wrapper@4d9513e) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`9 hours ago`*
+ - Added commit [d877998](https://github.com/Ktt-Development/rexedia/commit/d8779985d1b176cd497a463508ce620c3116633c) to branch [remove-defective-ffmpeg-wrapper@4d9513e](https://github.com/Ktt-Development/rexedia/tree/remove-defective-ffmpeg-wrapper@4d9513e) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`10 hours ago`*
    > Use self developed ffmpeg wrapper
- - Created branch [remove-defective-ffmpeg-wrapper@4d9513e](https://github.com/Ktt-Development/rexedia/tree/remove-defective-ffmpeg-wrapper@4d9513e) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`11 hours ago`*
- - Added commit [4d9513e](https://github.com/Ktt-Development/rexedia/commit/4d9513e57f8050f5692856c0ea5a5e26981a43df) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`11 hours ago`*
+ - Created branch [remove-defective-ffmpeg-wrapper@4d9513e](https://github.com/Ktt-Development/rexedia/tree/remove-defective-ffmpeg-wrapper@4d9513e) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`12 hours ago`*
+ - Added commit [4d9513e](https://github.com/Ktt-Development/rexedia/commit/4d9513e57f8050f5692856c0ea5a5e26981a43df) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`12 hours ago`*
    > typo
- - Added commit [fc32da3](https://github.com/Katsute/Katsute/commit/fc32da3e0d04948df3f1785c8b875981546c0d21) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`14 hours ago`*
+ - Added commit [fc32da3](https://github.com/Katsute/Katsute/commit/fc32da3e0d04948df3f1785c8b875981546c0d21) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`15 hours ago`*
    > main is now the preferred default branch
- - Added commit [12afa2f](https://github.com/Katsute/Katsute/commit/12afa2f5481dd1c2ce50a0029070d7eae40fe169) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`14 hours ago`*
+ - Added commit [12afa2f](https://github.com/Katsute/Katsute/commit/12afa2f5481dd1c2ce50a0029070d7eae40fe169) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`15 hours ago`*
    > Update README.template.md
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 30, 2020 at 08:50 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 30, 2020 at 09:50 AM (EST)</p>
