@@ -55,8 +55,8 @@
 
 ## ⚡ Recent Activity
 
- - Created branch [remove-defective-ffmpeg-wrapper@4d9513e](https://github.com/Ktt-Development/rexedia/tree/remove-defective-ffmpeg-wrapper@4d9513e) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`16 minutes ago`*
- - Added commit [4d9513e](https://github.com/Ktt-Development/rexedia/commit/4d9513e57f8050f5692856c0ea5a5e26981a43df) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`16 minutes ago`*
+ - Created branch [remove-defective-ffmpeg-wrapper@4d9513e](https://github.com/Ktt-Development/rexedia/tree/remove-defective-ffmpeg-wrapper@4d9513e) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`56 minutes ago`*
+ - Added commit [4d9513e](https://github.com/Ktt-Development/rexedia/commit/4d9513e57f8050f5692856c0ea5a5e26981a43df) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`56 minutes ago`*
    > typo
  - Added commit [fc32da3](https://github.com/Katsute/Katsute/commit/fc32da3e0d04948df3f1785c8b875981546c0d21) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`3 hours ago`*
    > main is now the preferred default branch
@@ -66,4 +66,4 @@
    > Update style.css
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 29, 2020 at 09:11 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 29, 2020 at 09:51 PM (EST)</p>
