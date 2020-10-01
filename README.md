@@ -55,17 +55,17 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [0dabc3e](https://github.com/Ktt-Development/rexedia/commit/0dabc3e5f8be35a181043f433ec90c08cb18f253) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`5 minutes ago`*
+ - Added commit [0dabc3e](https://github.com/Ktt-Development/rexedia/commit/0dabc3e5f8be35a181043f433ec90c08cb18f253) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`42 minutes ago`*
    > Use window based CI
    >  > This should resolve the abs path issue on ubuntu
- - Added commit [98bb22e](https://github.com/Ktt-Development/rexedia/commit/98bb22ede48074f3a45bc2273e105a66b8516bcb) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`12 minutes ago`*
+ - Added commit [98bb22e](https://github.com/Ktt-Development/rexedia/commit/98bb22ede48074f3a45bc2273e105a66b8516bcb) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`49 minutes ago`*
    > toString + code cleanup
- - Added commit [8cb1eb3](https://github.com/Ktt-Development/rexedia/commit/8cb1eb3243111987b1521c60626fa368fa9a7370) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`32 minutes ago`*
+ - Added commit [8cb1eb3](https://github.com/Ktt-Development/rexedia/commit/8cb1eb3243111987b1521c60626fa368fa9a7370) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > Remove multithreading; add progression tracker
- - Added commit [f8246d2](https://github.com/Ktt-Development/rexedia/commit/f8246d2bd5c45e6e05bb862fc30f80c687712e1d) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
+ - Added commit [f8246d2](https://github.com/Ktt-Development/rexedia/commit/f8246d2bd5c45e6e05bb862fc30f80c687712e1d) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 hours ago`*
    > Test tweaks
  - Added commit [7e84090](https://github.com/Ktt-Development/rexedia/commit/7e8409002d3f852558de3427583aff3e2447fc63) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 hours ago`*
    > started work on progress tracker
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 30, 2020 at 09:14 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 30, 2020 at 09:51 PM (EST)</p>
