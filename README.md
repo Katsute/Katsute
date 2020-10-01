@@ -55,17 +55,17 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [f8246d2](https://github.com/Ktt-Development/rexedia/commit/f8246d2bd5c45e6e05bb862fc30f80c687712e1d) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Added commit [0dabc3e](https://github.com/Ktt-Development/rexedia/commit/0dabc3e5f8be35a181043f433ec90c08cb18f253) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`5 minutes ago`*
+   > Use window based CI
+   >  > This should resolve the abs path issue on ubuntu
+ - Added commit [98bb22e](https://github.com/Ktt-Development/rexedia/commit/98bb22ede48074f3a45bc2273e105a66b8516bcb) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`12 minutes ago`*
+   > toString + code cleanup
+ - Added commit [8cb1eb3](https://github.com/Ktt-Development/rexedia/commit/8cb1eb3243111987b1521c60626fa368fa9a7370) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`32 minutes ago`*
+   > Remove multithreading; add progression tracker
+ - Added commit [f8246d2](https://github.com/Ktt-Development/rexedia/commit/f8246d2bd5c45e6e05bb862fc30f80c687712e1d) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
    > Test tweaks
- - Added commit [7e84090](https://github.com/Ktt-Development/rexedia/commit/7e8409002d3f852558de3427583aff3e2447fc63) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Added commit [7e84090](https://github.com/Ktt-Development/rexedia/commit/7e8409002d3f852558de3427583aff3e2447fc63) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 hours ago`*
    > started work on progress tracker
- - Deleted branch [remove-defective-ffmpeg-wrapper@4d9513e](https://github.com/Ktt-Development/rexedia/tree/remove-defective-ffmpeg-wrapper@4d9513e) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`3 hours ago`*
- - Added commit [2f25f91](https://github.com/Ktt-Development/rexedia/commit/2f25f91ef64f2d5cec58c89eb77dd8b251205c71) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 hours ago`*
-   > Remove defective ffmpeg wrapper@4d9513e ([#2](https://github.com/Ktt-Development/rexedia/issues/2))
-   >  > * Use self developed ffmpeg wrapper
-   >  > * Test tweaks
-   >  > * local installation
- - Closed pull request [Remove defective ffmpeg wrapper@4d9513e (#2)](https://github.com/Ktt-Development/rexedia/pull/2) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 30, 2020 at 07:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 30, 2020 at 09:14 PM (EST)</p>
