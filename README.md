@@ -55,17 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [0dabc3e](https://github.com/Ktt-Development/rexedia/commit/0dabc3e5f8be35a181043f433ec90c08cb18f253) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`42 minutes ago`*
-   > Use window based CI
-   >  > This should resolve the abs path issue on ubuntu
- - Added commit [98bb22e](https://github.com/Ktt-Development/rexedia/commit/98bb22ede48074f3a45bc2273e105a66b8516bcb) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`49 minutes ago`*
-   > toString + code cleanup
- - Added commit [8cb1eb3](https://github.com/Ktt-Development/rexedia/commit/8cb1eb3243111987b1521c60626fa368fa9a7370) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
-   > Remove multithreading; add progression tracker
- - Added commit [f8246d2](https://github.com/Ktt-Development/rexedia/commit/f8246d2bd5c45e6e05bb862fc30f80c687712e1d) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 hours ago`*
-   > Test tweaks
- - Added commit [7e84090](https://github.com/Ktt-Development/rexedia/commit/7e8409002d3f852558de3427583aff3e2447fc63) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 hours ago`*
-   > started work on progress tracker
+ - Added commit [bebc09d](https://github.com/Ktt-Development/.github/commit/bebc09ded87eedcb0bbfa0ecf40474367f0e2e5a) to branch [master](https://github.com/Ktt-Development/.github/tree/master) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github)  *`2 minutes ago`*
+   > Add CI
+ - Added commit [02bbeea](https://github.com/Ktt-Development/simplehttpserver/commit/02bbeea275dfcbdbaa932bc844ef522b8d625a42) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`18 minutes ago`*
+   > switch to local CI
+ - Added commit [912afce](https://github.com/Ktt-Development/rexedia/commit/912afce2de2fadef424526a9cb94e44f075ae578) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`33 minutes ago`*
+   > Fixed thread hold on command execution
+ - Opened issue [ffmpeg tests are unable to get cover image (#4)](https://github.com/Ktt-Development/rexedia/issues/4) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`34 minutes ago`*
+ - Opened issue [Removing cover image corrupts video. (#3)](https://github.com/Ktt-Development/rexedia/issues/3) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`34 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 30, 2020 at 09:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated September 30, 2020 at 10:51 PM (EST)</p>
