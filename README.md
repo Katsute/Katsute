@@ -55,13 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Created branch [main](https://github.com/Ktt-Development/repository.kttdevelopment.com/tree/main) in repository [Ktt-Development/repository.kttdevelopment.com](https://github.com/Ktt-Development/repository.kttdevelopment.com) *`1 hour ago`*
- - Created branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`1 hour ago`*
- - Closed issue [Automate releases with workflow (#93)](https://github.com/Ktt-Development/simplehttpserver/issues/93) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`3 hours ago`*
- - Added commit [e5e7e15](https://github.com/Ktt-Development/simplehttpserver/commit/e5e7e153f2ef41e35f873f2b4afe315cf0e8b833) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`3 hours ago`*
+ - Created branch [main](https://github.com/Ktt-Development/repository.kttdevelopment.com/tree/main) in repository [Ktt-Development/repository.kttdevelopment.com](https://github.com/Ktt-Development/repository.kttdevelopment.com) *`2 hours ago`*
+ - Created branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`2 hours ago`*
+ - Closed issue [Automate releases with workflow (#93)](https://github.com/Ktt-Development/simplehttpserver/issues/93) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`4 hours ago`*
+ - Added commit [e5e7e15](https://github.com/Ktt-Development/simplehttpserver/commit/e5e7e153f2ef41e35f873f2b4afe315cf0e8b833) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`4 hours ago`*
    > Update CI
- - Added commit [aef64b2](https://github.com/Ktt-Development/.github/commit/aef64b28532836e4ace9daa5b2a87fa3243303bd) to branch [master](https://github.com/Ktt-Development/.github/tree/master) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github)  *`4 hours ago`*
+ - Added commit [aef64b2](https://github.com/Ktt-Development/.github/commit/aef64b28532836e4ace9daa5b2a87fa3243303bd) to branch [master](https://github.com/Ktt-Development/.github/tree/master) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github)  *`5 hours ago`*
    > Update java-ci.yml
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 01, 2020 at 04:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 01, 2020 at 05:50 PM (EST)</p>
