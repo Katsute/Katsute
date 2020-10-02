@@ -55,18 +55,18 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [3de4f76](https://github.com/Ktt-Development/rexedia/commit/3de4f76bbe82da07480698277255292589de9c4c) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`43 minutes ago`*
+ - Added commit [3de4f76](https://github.com/Ktt-Development/rexedia/commit/3de4f76bbe82da07480698277255292589de9c4c) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > progress/format changes
    >  > - Fixed thread hold on `#waitFor()`
    >  > - Removed progress tracker (too volatile)
    >  > - Added verify/backup methods
- - Added commit [370d08d](https://github.com/Ktt-Development/rexedia/commit/370d08d8760df7cb4aeaf86c6021844b5d01dd60) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 hours ago`*
+ - Added commit [370d08d](https://github.com/Ktt-Development/rexedia/commit/370d08d8760df7cb4aeaf86c6021844b5d01dd60) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`5 hours ago`*
    > Fixed missing wait; test progress tracker
- - Added commit [ecc5280](https://github.com/Ktt-Development/simplehttpserver/commit/ecc52801635d7d3fb297a4abc71b58d9a5a26e90) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`5 hours ago`*
+ - Added commit [ecc5280](https://github.com/Ktt-Development/simplehttpserver/commit/ecc52801635d7d3fb297a4abc71b58d9a5a26e90) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`6 hours ago`*
    > Add missing pom.xml
- - Closed issue [artifact changes (#1)](https://github.com/Ktt-Development/core/issues/1) from repository [Ktt-Development/core](https://github.com/Ktt-Development/core)  *`5 hours ago`*
- - Commented on issue [artifact changes (#1)](https://github.com/Ktt-Development/core/issues/1#issuecomment-702847591) from repository [Ktt-Development/core](https://github.com/Ktt-Development/core)  *`5 hours ago`*
+ - Closed issue [artifact changes (#1)](https://github.com/Ktt-Development/core/issues/1) from repository [Ktt-Development/core](https://github.com/Ktt-Development/core)  *`6 hours ago`*
+ - Commented on issue [artifact changes (#1)](https://github.com/Ktt-Development/core/issues/1#issuecomment-702847591) from repository [Ktt-Development/core](https://github.com/Ktt-Development/core)  *`6 hours ago`*
    > added in b6e2518
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 02, 2020 at 06:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 02, 2020 at 07:51 PM (EST)</p>
