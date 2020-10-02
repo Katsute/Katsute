@@ -55,15 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [ecc5280](https://github.com/Ktt-Development/simplehttpserver/commit/ecc52801635d7d3fb297a4abc71b58d9a5a26e90) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`30 minutes ago`*
+ - Added commit [370d08d](https://github.com/Ktt-Development/rexedia/commit/370d08d8760df7cb4aeaf86c6021844b5d01dd60) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`44 minutes ago`*
+   > Fixed missing wait; test progress tracker
+ - Added commit [ecc5280](https://github.com/Ktt-Development/simplehttpserver/commit/ecc52801635d7d3fb297a4abc71b58d9a5a26e90) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
    > Add missing pom.xml
- - Closed issue [artifact changes (#1)](https://github.com/Ktt-Development/core/issues/1) from repository [Ktt-Development/core](https://github.com/Ktt-Development/core)  *`47 minutes ago`*
- - Commented on issue [artifact changes (#1)](https://github.com/Ktt-Development/core/issues/1#issuecomment-702847591) from repository [Ktt-Development/core](https://github.com/Ktt-Development/core)  *`47 minutes ago`*
+ - Closed issue [artifact changes (#1)](https://github.com/Ktt-Development/core/issues/1) from repository [Ktt-Development/core](https://github.com/Ktt-Development/core)  *`1 hour ago`*
+ - Commented on issue [artifact changes (#1)](https://github.com/Ktt-Development/core/issues/1#issuecomment-702847591) from repository [Ktt-Development/core](https://github.com/Ktt-Development/core)  *`1 hour ago`*
    > added in b6e2518
- - Added commit [44b607a](https://github.com/Ktt-Development/.github/commit/44b607a63ee49464999b19798cb9224b822ec9d3) to branch [master](https://github.com/Ktt-Development/.github/tree/master) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github)  *`48 minutes ago`*
+ - Added commit [44b607a](https://github.com/Ktt-Development/.github/commit/44b607a63ee49464999b19798cb9224b822ec9d3) to branch [master](https://github.com/Ktt-Development/.github/tree/master) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github)  *`1 hour ago`*
    > Skip tests on release; fix artifact scope
- - Added commit [b6e2518](https://github.com/Ktt-Development/core/commit/b6e2518546df8493053caacb83d4f316a6ea3789) to branch [main](https://github.com/Ktt-Development/core/tree/main) in repository [Ktt-Development/core](https://github.com/Ktt-Development/core)  *`51 minutes ago`*
-   > Impl [#1](https://github.com/Ktt-Development/core/issues/1)
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 02, 2020 at 01:50 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 02, 2020 at 02:50 PM (EST)</p>
