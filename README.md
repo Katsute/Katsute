@@ -55,14 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [869702b](https://github.com/Ktt-Development/rexedia/commit/869702b7cfa5bdd179bfdbbcc2dd58563f2c17a2) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`30 minutes ago`*
-   > Extend timeout
-   >  > Command executor is now more reliable
- - Reopened issue [ffmpeg tests are unable to get cover image (#4)](https://github.com/Ktt-Development/rexedia/issues/4) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
- - Reopened issue [Removing cover image corrupts video. (#3)](https://github.com/Ktt-Development/rexedia/issues/3) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
- - Added commit [945b983](https://github.com/Ktt-Development/rexedia/commit/945b9837733cf7a786948c0d88e8399de89b1732) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
-   > Fix [#5](https://github.com/Ktt-Development/rexedia/issues/5)
- - Closed issue [Fix waitFor correctly (#5)](https://github.com/Ktt-Development/rexedia/issues/5) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Commented on issue [Fix waitFor correctly (#5)](https://github.com/Ktt-Development/rexedia/issues/5#issuecomment-703148080) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 minutes ago`*
+   > This issue only occurs on the CI for some reason
+ - Reopened issue [Fix waitFor correctly (#5)](https://github.com/Ktt-Development/rexedia/issues/5) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 minutes ago`*
+ - Added commit [3705228](https://github.com/Ktt-Development/rexedia/commit/3705228d87db5ca8dafab892f5b30a35d8908c08) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`8 minutes ago`*
+   > wheres my debug logging
+ - Added commit [6235bcc](https://github.com/Ktt-Development/rexedia/commit/6235bcce607153fa6d60109a04b4e2d06ba3e4bb) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`14 minutes ago`*
+   > debug logging
+ - Added commit [841eec7](https://github.com/Ktt-Development/rexedia/commit/841eec78dd133d5ce5dad0a972ef001a38783751) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`19 minutes ago`*
+   > Unknown thread hold caused by CI
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 03, 2020 at 01:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 03, 2020 at 02:51 PM (EST)</p>
