@@ -62,11 +62,11 @@
    >  > - Added verify/backup methods
  - Added commit [370d08d](https://github.com/Ktt-Development/rexedia/commit/370d08d8760df7cb4aeaf86c6021844b5d01dd60) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`7 hours ago`*
    > Fixed missing wait; test progress tracker
- - Added commit [ecc5280](https://github.com/Ktt-Development/simplehttpserver/commit/ecc52801635d7d3fb297a4abc71b58d9a5a26e90) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`7 hours ago`*
+ - Added commit [ecc5280](https://github.com/Ktt-Development/simplehttpserver/commit/ecc52801635d7d3fb297a4abc71b58d9a5a26e90) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`8 hours ago`*
    > Add missing pom.xml
  - Closed issue [artifact changes (#1)](https://github.com/Ktt-Development/core/issues/1) from repository [Ktt-Development/core](https://github.com/Ktt-Development/core)  *`8 hours ago`*
  - Commented on issue [artifact changes (#1)](https://github.com/Ktt-Development/core/issues/1#issuecomment-702847591) from repository [Ktt-Development/core](https://github.com/Ktt-Development/core)  *`8 hours ago`*
    > added in b6e2518
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 02, 2020 at 09:13 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 02, 2020 at 09:51 PM (EST)</p>
