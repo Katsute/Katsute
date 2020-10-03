@@ -55,13 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Deleted branch [master](https://github.com/Ktt-Development/.github/tree/master) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github) *`1 hour ago`*
- - Created branch [main](https://github.com/Ktt-Development/.github/tree/main) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github) *`1 hour ago`*
- - Added commit [0d9ac54](https://github.com/Ktt-Development/mediaworks/commit/0d9ac54c19a298e73e83f2591ac33f3c33ff8843) to branch [main](https://github.com/Ktt-Development/mediaworks/tree/main) in repository [Ktt-Development/mediaworks](https://github.com/Ktt-Development/mediaworks)  *`1 hour ago`*
+ - Deleted branch [master](https://github.com/Ktt-Development/.github/tree/master) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github) *`2 hours ago`*
+ - Created branch [main](https://github.com/Ktt-Development/.github/tree/main) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github) *`2 hours ago`*
+ - Added commit [0d9ac54](https://github.com/Ktt-Development/mediaworks/commit/0d9ac54c19a298e73e83f2591ac33f3c33ff8843) to branch [main](https://github.com/Ktt-Development/mediaworks/tree/main) in repository [Ktt-Development/mediaworks](https://github.com/Ktt-Development/mediaworks)  *`2 hours ago`*
    > master -> main
- - Deleted branch [master](https://github.com/Ktt-Development/mediaworks/tree/master) in repository [Ktt-Development/mediaworks](https://github.com/Ktt-Development/mediaworks) *`1 hour ago`*
- - Added commit [0b25580](https://github.com/Ktt-Development/mediaworks/commit/0b2558069e768e3f15911beb824cac05740038fe) to branch [main](https://github.com/Ktt-Development/mediaworks/tree/main) in repository [Ktt-Development/mediaworks](https://github.com/Ktt-Development/mediaworks)  *`1 hour ago`*
+ - Deleted branch [master](https://github.com/Ktt-Development/mediaworks/tree/master) in repository [Ktt-Development/mediaworks](https://github.com/Ktt-Development/mediaworks) *`2 hours ago`*
+ - Added commit [0b25580](https://github.com/Ktt-Development/mediaworks/commit/0b2558069e768e3f15911beb824cac05740038fe) to branch [main](https://github.com/Ktt-Development/mediaworks/tree/main) in repository [Ktt-Development/mediaworks](https://github.com/Ktt-Development/mediaworks)  *`2 hours ago`*
    > Update .travis.yml
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 02, 2020 at 11:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 03, 2020 at 12:51 AM (EST)</p>
