@@ -55,12 +55,12 @@
 
 ## ⚡ Recent Activity
 
- - Opened issue [Fix waitFor correctly (#5)](https://github.com/Ktt-Development/rexedia/issues/5) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`23 minutes ago`*
- - Deleted branch [master](https://github.com/Ktt-Development/.github/tree/master) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github) *`13 hours ago`*
- - Created branch [main](https://github.com/Ktt-Development/.github/tree/main) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github) *`13 hours ago`*
- - Added commit [0d9ac54](https://github.com/Ktt-Development/mediaworks/commit/0d9ac54c19a298e73e83f2591ac33f3c33ff8843) to branch [main](https://github.com/Ktt-Development/mediaworks/tree/main) in repository [Ktt-Development/mediaworks](https://github.com/Ktt-Development/mediaworks)  *`13 hours ago`*
-   > master -> main
- - Deleted branch [master](https://github.com/Ktt-Development/mediaworks/tree/master) in repository [Ktt-Development/mediaworks](https://github.com/Ktt-Development/mediaworks) *`13 hours ago`*
+ - Reopened issue [ffmpeg tests are unable to get cover image (#4)](https://github.com/Ktt-Development/rexedia/issues/4) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`49 minutes ago`*
+ - Reopened issue [Removing cover image corrupts video. (#3)](https://github.com/Ktt-Development/rexedia/issues/3) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`49 minutes ago`*
+ - Added commit [945b983](https://github.com/Ktt-Development/rexedia/commit/945b9837733cf7a786948c0d88e8399de89b1732) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`55 minutes ago`*
+   > Fix [#5](https://github.com/Ktt-Development/rexedia/issues/5)
+ - Closed issue [Fix waitFor correctly (#5)](https://github.com/Ktt-Development/rexedia/issues/5) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`55 minutes ago`*
+ - Opened issue [Fix waitFor correctly (#5)](https://github.com/Ktt-Development/rexedia/issues/5) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 03, 2020 at 11:51 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 03, 2020 at 12:51 PM (EST)</p>
