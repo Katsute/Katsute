@@ -55,15 +55,16 @@
 
 ## ⚡ Recent Activity
 
- - Commented on issue [Fix waitFor correctly (#5)](https://github.com/Ktt-Development/rexedia/issues/5#issuecomment-703148080) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 minutes ago`*
+ - Added commit [b2414ea](https://github.com/Ktt-Development/rexedia/commit/b2414ea49c7c35c701b90c3784a1756828e4aa04) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`39 minutes ago`*
+   > wtf is freezing this thread
+ - Added commit [f50e3bc](https://github.com/Ktt-Development/rexedia/commit/f50e3bcfac682fbe88697388c018a998e7622529) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`50 minutes ago`*
+   > Still unclear what is causing thread hold
+ - Added commit [4adc51c](https://github.com/Ktt-Development/rexedia/commit/4adc51ce9aeaf162886e9082a810a69245d8df8f) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`58 minutes ago`*
+   > Exact cause for thread hold is unclear
+   >  > Test freezes on CI only. Local tests unaffected.
+ - Commented on issue [Fix waitFor correctly (#5)](https://github.com/Ktt-Development/rexedia/issues/5#issuecomment-703148080) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > This issue only occurs on the CI for some reason
- - Reopened issue [Fix waitFor correctly (#5)](https://github.com/Ktt-Development/rexedia/issues/5) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 minutes ago`*
- - Added commit [3705228](https://github.com/Ktt-Development/rexedia/commit/3705228d87db5ca8dafab892f5b30a35d8908c08) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`8 minutes ago`*
-   > wheres my debug logging
- - Added commit [6235bcc](https://github.com/Ktt-Development/rexedia/commit/6235bcce607153fa6d60109a04b4e2d06ba3e4bb) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`14 minutes ago`*
-   > debug logging
- - Added commit [841eec7](https://github.com/Ktt-Development/rexedia/commit/841eec78dd133d5ce5dad0a972ef001a38783751) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`19 minutes ago`*
-   > Unknown thread hold caused by CI
+ - Reopened issue [Fix waitFor correctly (#5)](https://github.com/Ktt-Development/rexedia/issues/5) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 03, 2020 at 02:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 03, 2020 at 03:51 PM (EST)</p>
