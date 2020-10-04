@@ -55,20 +55,16 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [b1fc9eb](https://github.com/Ktt-Development/rexedia/commit/b1fc9ebc164bc5a580d5055b99112f3ab966c2c3) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 minutes ago`*
-   > identified issue?
- - Added commit [287a33c](https://github.com/Ktt-Development/rexedia/commit/287a33c9435d655e32e6bd6a53b876ad76566bbd) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`11 minutes ago`*
-   > even more debug
- - Commented on issue [Fix waitFor correctly (#5)](https://github.com/Ktt-Development/rexedia/issues/5#issuecomment-703302541) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`33 minutes ago`*
-   > CI Logs for reference
-   >  > ```
-   >  > Sun, 04 Oct 2020 18:01:43 GMT
-   >  > [FINEST] [26@com.kttdevelopment.rexedia.format.CommandExecutor#lambda$execute$0] b4 future
- - Commented on issue [Fix waitFor correctly (#5)](https://github.com/Ktt-Development/rexedia/issues/5#issuecomment-703301424) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`42 minutes ago`*
-   > https://github.com/Ktt-Development/rexedia/blob/361b6446b80fd88641bf6adbf3bfc9cbcb88991e/src/main/java/com/kttdevelopment/rexedia/format/CommandExecutor.java#L50-L71
-   >  > CI freezes after line 59 despite there being no possible way this method can freeze at that point.
- - Added commit [361b644](https://github.com/Ktt-Development/rexedia/commit/361b6446b80fd88641bf6adbf3bfc9cbcb88991e) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
-   > even more debug
+ - Added commit [08c3ce3](https://github.com/Katsute/Katsute/commit/08c3ce33996e8abed38978f4888e5a9358468037) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`56 seconds ago`*
+   > …
+ - Added commit [e4671b0](https://github.com/Ktt-Development/rexedia/commit/e4671b007596b9976a8f5687d20ab16d9b0b6d89) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 minute ago`*
+   > 🐞
+ - Added commit [5f7a77f](https://github.com/Ktt-Development/rexedia/commit/5f7a77f2c65afe29eed9cabed264471921367cf6) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`9 minutes ago`*
+   > runtime is somehow preventing this method from returning
+ - Added commit [1114c5a](https://github.com/Ktt-Development/rexedia/commit/1114c5afab702f382167b4c769c7e96c9cfd8033) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`16 minutes ago`*
+   > return rellies on output string (skip waitFor)
+ - Added commit [bf03291](https://github.com/Ktt-Development/rexedia/commit/bf0329116f8b70748d52b47755e9daf1acaa2a27) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`39 minutes ago`*
+   > echo done
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 03:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 04:40 PM (EST)</p>
