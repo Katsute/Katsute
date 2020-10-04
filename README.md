@@ -55,12 +55,12 @@
 
 ## ⚡ Recent Activity
 
- - Starred repository [TobseF/HelloMaven](https://github.com/TobseF/HelloMaven)  *`17 minutes ago`*
- - Created tag [tr-06](https://github.com/Ktt-Development/simplehttpserver/tree/tr-06) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`33 minutes ago`*
- - Published release [test-release6-please-disregard](https://github.com/Ktt-Development/simplehttpserver/releases/tag/tr-06) in [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`33 minutes ago`*
- - Added commit [208ce88](https://github.com/Ktt-Development/simplehttpserver/commit/208ce88147b70adb5946eff2b20ae2b08e812796) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`33 minutes ago`*
+ - Starred repository [TobseF/HelloMaven](https://github.com/TobseF/HelloMaven)  *`1 hour ago`*
+ - Created tag [tr-06](https://github.com/Ktt-Development/simplehttpserver/tree/tr-06) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
+ - Published release [test-release6-please-disregard](https://github.com/Ktt-Development/simplehttpserver/releases/tag/tr-06) in [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+ - Added commit [208ce88](https://github.com/Ktt-Development/simplehttpserver/commit/208ce88147b70adb5946eff2b20ae2b08e812796) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
    > is github packages even a real thing
- - Deleted tag [tr-06](https://github.com/Ktt-Development/simplehttpserver/tree/tr-06) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`39 minutes ago`*
+ - Deleted tag [tr-06](https://github.com/Ktt-Development/simplehttpserver/tree/tr-06) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 06:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 07:51 PM (EST)</p>
