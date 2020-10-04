@@ -212,7 +212,7 @@ def __arrayContainsString(arr, string):
 def __capLines(string, max_lines):
     lines = str.splitlines(string)
     if len(lines) > max_lines:
-        return lines[0] + '\n' + lines[1] + '\n' + lines[2] + '\n' + lines[3]
+        return lines[0] + '\n' + lines[1] + '\n' + lines[2] + '\n' + lines[3] + '…'
     else:
         return string
 
