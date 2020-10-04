@@ -55,17 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [5efbb9b](https://github.com/Ktt-Development/rexedia/commit/5efbb9b375ed1a909afe2c8423fa72a53a6df629) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`13 hours ago`*
-   > fix
- - Added commit [015b05e](https://github.com/Katsute/Remote-Parental-Control/commit/015b05ec8d4f7ded2761009cbeac2b18c7dafe16) to branch [main](https://github.com/Katsute/Remote-Parental-Control/tree/main) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`16 hours ago`*
-   > deployment failure
- - Added commit [b2414ea](https://github.com/Ktt-Development/rexedia/commit/b2414ea49c7c35c701b90c3784a1756828e4aa04) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`21 hours ago`*
-   > wtf is freezing this thread
- - Added commit [f50e3bc](https://github.com/Ktt-Development/rexedia/commit/f50e3bcfac682fbe88697388c018a998e7622529) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`21 hours ago`*
-   > Still unclear what is causing thread hold
- - Added commit [4adc51c](https://github.com/Ktt-Development/rexedia/commit/4adc51ce9aeaf162886e9082a810a69245d8df8f) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`21 hours ago`*
-   > Exact cause for thread hold is unclear
-   >  > Test freezes on CI only. Local tests unaffected.
+ - Added commit [e95dbab](https://github.com/Ktt-Development/rexedia/commit/e95dbabc02556db3d7b85f3a2287286448087f6c) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`33 seconds ago`*
+   > closer debug
+ - Added commit [02be985](https://github.com/Ktt-Development/rexedia/commit/02be9850ec37af72a81bcc7d9d6dd7aa670671ff) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`7 minutes ago`*
+   > issue persists only on CI
+ - Opened issue [Switch to eo-yaml (#54)](https://github.com/Ktt-Development/webdir/issues/54) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`15 minutes ago`*
+ - Opened issue [Use glob syntax instead of strict */! (#53)](https://github.com/Ktt-Development/webdir/issues/53) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`17 minutes ago`*
+ - Added commit [1f893ce](https://github.com/Ktt-Development/rexedia/commit/1f893cebd638379113e899fed6359c8066380399) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`30 minutes ago`*
+   > move logging to foreign thread
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 12:50 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 01:51 PM (EST)</p>
