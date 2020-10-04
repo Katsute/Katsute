@@ -55,17 +55,17 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [5efbb9b](https://github.com/Ktt-Development/rexedia/commit/5efbb9b375ed1a909afe2c8423fa72a53a6df629) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`5 hours ago`*
+ - Added commit [5efbb9b](https://github.com/Ktt-Development/rexedia/commit/5efbb9b375ed1a909afe2c8423fa72a53a6df629) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`6 hours ago`*
    > fix
- - Added commit [015b05e](https://github.com/Katsute/Remote-Parental-Control/commit/015b05ec8d4f7ded2761009cbeac2b18c7dafe16) to branch [main](https://github.com/Katsute/Remote-Parental-Control/tree/main) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`8 hours ago`*
+ - Added commit [015b05e](https://github.com/Katsute/Remote-Parental-Control/commit/015b05ec8d4f7ded2761009cbeac2b18c7dafe16) to branch [main](https://github.com/Katsute/Remote-Parental-Control/tree/main) in repository [Katsute/Remote-Parental-Control](https://github.com/Katsute/Remote-Parental-Control)  *`9 hours ago`*
    > deployment failure
- - Added commit [b2414ea](https://github.com/Ktt-Development/rexedia/commit/b2414ea49c7c35c701b90c3784a1756828e4aa04) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`13 hours ago`*
+ - Added commit [b2414ea](https://github.com/Ktt-Development/rexedia/commit/b2414ea49c7c35c701b90c3784a1756828e4aa04) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`14 hours ago`*
    > wtf is freezing this thread
- - Added commit [f50e3bc](https://github.com/Ktt-Development/rexedia/commit/f50e3bcfac682fbe88697388c018a998e7622529) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`13 hours ago`*
+ - Added commit [f50e3bc](https://github.com/Ktt-Development/rexedia/commit/f50e3bcfac682fbe88697388c018a998e7622529) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`14 hours ago`*
    > Still unclear what is causing thread hold
- - Added commit [4adc51c](https://github.com/Ktt-Development/rexedia/commit/4adc51ce9aeaf162886e9082a810a69245d8df8f) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`13 hours ago`*
+ - Added commit [4adc51c](https://github.com/Ktt-Development/rexedia/commit/4adc51ce9aeaf162886e9082a810a69245d8df8f) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`14 hours ago`*
    > Exact cause for thread hold is unclear
    >  > Test freezes on CI only. Local tests unaffected.
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 04:51 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 05:50 AM (EST)</p>
