@@ -55,14 +55,20 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [361b644](https://github.com/Ktt-Development/rexedia/commit/361b6446b80fd88641bf6adbf3bfc9cbcb88991e) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`51 minutes ago`*
+ - Added commit [b1fc9eb](https://github.com/Ktt-Development/rexedia/commit/b1fc9ebc164bc5a580d5055b99112f3ab966c2c3) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 minutes ago`*
+   > identified issue?
+ - Added commit [287a33c](https://github.com/Ktt-Development/rexedia/commit/287a33c9435d655e32e6bd6a53b876ad76566bbd) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`11 minutes ago`*
    > even more debug
- - Added commit [e95dbab](https://github.com/Ktt-Development/rexedia/commit/e95dbabc02556db3d7b85f3a2287286448087f6c) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
-   > closer debug
- - Added commit [02be985](https://github.com/Ktt-Development/rexedia/commit/02be9850ec37af72a81bcc7d9d6dd7aa670671ff) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
-   > issue persists only on CI
- - Opened issue [Switch to eo-yaml (#54)](https://github.com/Ktt-Development/webdir/issues/54) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
- - Opened issue [Use glob syntax instead of strict */! (#53)](https://github.com/Ktt-Development/webdir/issues/53) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+ - Commented on issue [Fix waitFor correctly (#5)](https://github.com/Ktt-Development/rexedia/issues/5#issuecomment-703302541) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`33 minutes ago`*
+   > CI Logs for reference
+   >  > ```
+   >  > Sun, 04 Oct 2020 18:01:43 GMT
+   >  > [FINEST] [26@com.kttdevelopment.rexedia.format.CommandExecutor#lambda$execute$0] b4 future
+ - Commented on issue [Fix waitFor correctly (#5)](https://github.com/Ktt-Development/rexedia/issues/5#issuecomment-703301424) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`42 minutes ago`*
+   > https://github.com/Ktt-Development/rexedia/blob/361b6446b80fd88641bf6adbf3bfc9cbcb88991e/src/main/java/com/kttdevelopment/rexedia/format/CommandExecutor.java#L50-L71
+   >  > CI freezes after line 59 despite there being no possible way this method can freeze at that point.
+ - Added commit [361b644](https://github.com/Ktt-Development/rexedia/commit/361b6446b80fd88641bf6adbf3bfc9cbcb88991e) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+   > even more debug
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 02:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 03:51 PM (EST)</p>
