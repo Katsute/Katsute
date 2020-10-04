@@ -55,14 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [e95dbab](https://github.com/Ktt-Development/rexedia/commit/e95dbabc02556db3d7b85f3a2287286448087f6c) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`33 seconds ago`*
+ - Added commit [361b644](https://github.com/Ktt-Development/rexedia/commit/361b6446b80fd88641bf6adbf3bfc9cbcb88991e) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`51 minutes ago`*
+   > even more debug
+ - Added commit [e95dbab](https://github.com/Ktt-Development/rexedia/commit/e95dbabc02556db3d7b85f3a2287286448087f6c) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > closer debug
- - Added commit [02be985](https://github.com/Ktt-Development/rexedia/commit/02be9850ec37af72a81bcc7d9d6dd7aa670671ff) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`7 minutes ago`*
+ - Added commit [02be985](https://github.com/Ktt-Development/rexedia/commit/02be9850ec37af72a81bcc7d9d6dd7aa670671ff) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > issue persists only on CI
- - Opened issue [Switch to eo-yaml (#54)](https://github.com/Ktt-Development/webdir/issues/54) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`15 minutes ago`*
- - Opened issue [Use glob syntax instead of strict */! (#53)](https://github.com/Ktt-Development/webdir/issues/53) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`17 minutes ago`*
- - Added commit [1f893ce](https://github.com/Ktt-Development/rexedia/commit/1f893cebd638379113e899fed6359c8066380399) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`30 minutes ago`*
-   > move logging to foreign thread
+ - Opened issue [Switch to eo-yaml (#54)](https://github.com/Ktt-Development/webdir/issues/54) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+ - Opened issue [Use glob syntax instead of strict */! (#53)](https://github.com/Ktt-Development/webdir/issues/53) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 01:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 02:51 PM (EST)</p>
