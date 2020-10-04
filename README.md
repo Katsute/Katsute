@@ -55,16 +55,12 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [08c3ce3](https://github.com/Katsute/Katsute/commit/08c3ce33996e8abed38978f4888e5a9358468037) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`11 minutes ago`*
-   > …
- - Added commit [e4671b0](https://github.com/Ktt-Development/rexedia/commit/e4671b007596b9976a8f5687d20ab16d9b0b6d89) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`11 minutes ago`*
-   > 🐞
- - Added commit [5f7a77f](https://github.com/Ktt-Development/rexedia/commit/5f7a77f2c65afe29eed9cabed264471921367cf6) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`19 minutes ago`*
-   > runtime is somehow preventing this method from returning
- - Added commit [1114c5a](https://github.com/Ktt-Development/rexedia/commit/1114c5afab702f382167b4c769c7e96c9cfd8033) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`26 minutes ago`*
-   > return rellies on output string (skip waitFor)
- - Added commit [bf03291](https://github.com/Ktt-Development/rexedia/commit/bf0329116f8b70748d52b47755e9daf1acaa2a27) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`49 minutes ago`*
-   > echo done
+ - Created tag [tr-04](https://github.com/Ktt-Development/simplehttpserver/tree/tr-04) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`8 minutes ago`*
+ - Published release [test-release4-please-disregard](https://github.com/Ktt-Development/simplehttpserver/releases/tag/tr-04) in [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`8 minutes ago`*
+ - Deleted tag [tr-03](https://github.com/Ktt-Development/simplehttpserver/tree/tr-03) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`8 minutes ago`*
+ - Added commit [a78c4f7](https://github.com/Ktt-Development/simplehttpserver/commit/a78c4f7174fe710c732f7f4ae847f73b7dee6ad8) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`9 minutes ago`*
+   > update access token
+ - Created tag [tr-03](https://github.com/Ktt-Development/simplehttpserver/tree/tr-03) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`17 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 04:50 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 05:51 PM (EST)</p>
