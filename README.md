@@ -55,12 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Created tag [03.06.05](https://github.com/Ktt-Development/simplehttpserver/tree/03.06.05) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`27 minutes ago`*
- - Published release [03.06.05](https://github.com/Ktt-Development/simplehttpserver/releases/tag/03.06.05) in [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`27 minutes ago`*
- - Added commit [6dd4cab](https://github.com/Ktt-Development/simplehttpserver/commit/6dd4cabd30558c07816cc4f7838acadc87336c1d) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`27 minutes ago`*
-   > fixed missing settings
- - Deleted tag [03.06.05](https://github.com/Ktt-Development/simplehttpserver/tree/03.06.05) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`28 minutes ago`*
- - Created tag [03.06.05](https://github.com/Ktt-Development/simplehttpserver/tree/03.06.05) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`31 minutes ago`*
+ - Added commit [28987d1](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/28987d1c980457d121253ee76d0b70048601bc12) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`27 minutes ago`*
+   > Adjust hierarchy
+ - Added commit [81c7d35](https://github.com/Ktt-Development/simplehttpserver/commit/81c7d35ef6141afcf88f7196a3e56165a771480c) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`39 minutes ago`*
+   > Update README.md
+ - Added commit [d77e52b](https://github.com/Ktt-Development/webdir/commit/d77e52b481d2cca1f782adbb92a4bfea9e926bd0) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`59 minutes ago`*
+   > simplehttpserver is now on maven
+ - Created tag [03.06.05](https://github.com/Ktt-Development/simplehttpserver/tree/03.06.05) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
+ - Published release [03.06.05](https://github.com/Ktt-Development/simplehttpserver/releases/tag/03.06.05) in [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 05, 2020 at 02:50 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 05, 2020 at 03:51 PM (EST)</p>
