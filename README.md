@@ -55,12 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Starred repository [TobseF/HelloMaven](https://github.com/TobseF/HelloMaven)  *`1 hour ago`*
- - Created tag [tr-06](https://github.com/Ktt-Development/simplehttpserver/tree/tr-06) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
- - Published release [test-release6-please-disregard](https://github.com/Ktt-Development/simplehttpserver/releases/tag/tr-06) in [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
- - Added commit [208ce88](https://github.com/Ktt-Development/simplehttpserver/commit/208ce88147b70adb5946eff2b20ae2b08e812796) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
-   > is github packages even a real thing
- - Deleted tag [tr-06](https://github.com/Ktt-Development/simplehttpserver/tree/tr-06) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
+ - Opened issue [GitHub Packages pom failure (#94)](https://github.com/Ktt-Development/simplehttpserver/issues/94) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`13 minutes ago`*
+ - Added commit [b2912bd](https://github.com/Ktt-Development/webdir/commit/b2912bddf77c0465638bf75c06a0ab0c5d842384) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`23 minutes ago`*
+   > simplehttpserver is now on ghp
+ - Starred repository [TobseF/HelloMaven](https://github.com/TobseF/HelloMaven)  *`49 minutes ago`*
+ - Added commit [26ceb7f](https://github.com/Ktt-Development/simplehttpserver/commit/26ceb7ff63e314bf5d5b9825a09c43babd83a028) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`49 minutes ago`*
+   > fixed pom issue
+ - Deleted tag [tr-07](https://github.com/Ktt-Development/simplehttpserver/tree/tr-07) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 07:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 09:15 PM (EST)</p>
