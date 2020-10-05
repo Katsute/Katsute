@@ -55,13 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Opened issue [GitHub Packages pom failure (#94)](https://github.com/Ktt-Development/simplehttpserver/issues/94) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`13 minutes ago`*
- - Added commit [b2912bd](https://github.com/Ktt-Development/webdir/commit/b2912bddf77c0465638bf75c06a0ab0c5d842384) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`23 minutes ago`*
+ - Added commit [76413d0](https://github.com/Ktt-Development/simplehttpserver/commit/76413d0098e1df4690e28aa82b1a5d3a454284b2) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`10 minutes ago`*
+   > actually upload to central
+ - Added commit [02f6c51](https://github.com/Ktt-Development/simplehttpserver/commit/02f6c515cc220e2059c3a6cc4a8735f4e980cfad) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`36 minutes ago`*
+   > fixed pom issue hopefully
+ - Opened issue [GitHub Packages pom failure (#94)](https://github.com/Ktt-Development/simplehttpserver/issues/94) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`50 minutes ago`*
+ - Added commit [b2912bd](https://github.com/Ktt-Development/webdir/commit/b2912bddf77c0465638bf75c06a0ab0c5d842384) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`59 minutes ago`*
    > simplehttpserver is now on ghp
- - Starred repository [TobseF/HelloMaven](https://github.com/TobseF/HelloMaven)  *`49 minutes ago`*
- - Added commit [26ceb7f](https://github.com/Ktt-Development/simplehttpserver/commit/26ceb7ff63e314bf5d5b9825a09c43babd83a028) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`49 minutes ago`*
-   > fixed pom issue
- - Deleted tag [tr-07](https://github.com/Ktt-Development/simplehttpserver/tree/tr-07) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
+ - Starred repository [TobseF/HelloMaven](https://github.com/TobseF/HelloMaven)  *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 09:15 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 09:52 PM (EST)</p>
