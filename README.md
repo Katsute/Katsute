@@ -55,14 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [76413d0](https://github.com/Ktt-Development/simplehttpserver/commit/76413d0098e1df4690e28aa82b1a5d3a454284b2) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`10 minutes ago`*
+ - Added commit [80f9dc7](https://github.com/Ktt-Development/simplehttpserver/commit/80f9dc72e045ef58f875e3cc4886d3ed26e86356) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`4 minutes ago`*
+   > Deploy to maven
+ - Added commit [5bdffe8](https://github.com/Ktt-Development/simplehttpserver/commit/5bdffe8efbaaae333f9d08ec2d0b6bf7b7b4d24d) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`58 minutes ago`*
+   > what is even going on with github packages
+ - Added commit [76413d0](https://github.com/Ktt-Development/simplehttpserver/commit/76413d0098e1df4690e28aa82b1a5d3a454284b2) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
    > actually upload to central
- - Added commit [02f6c51](https://github.com/Ktt-Development/simplehttpserver/commit/02f6c515cc220e2059c3a6cc4a8735f4e980cfad) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`36 minutes ago`*
+ - Added commit [02f6c51](https://github.com/Ktt-Development/simplehttpserver/commit/02f6c515cc220e2059c3a6cc4a8735f4e980cfad) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
    > fixed pom issue hopefully
- - Opened issue [GitHub Packages pom failure (#94)](https://github.com/Ktt-Development/simplehttpserver/issues/94) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`50 minutes ago`*
- - Added commit [b2912bd](https://github.com/Ktt-Development/webdir/commit/b2912bddf77c0465638bf75c06a0ab0c5d842384) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`59 minutes ago`*
-   > simplehttpserver is now on ghp
- - Starred repository [TobseF/HelloMaven](https://github.com/TobseF/HelloMaven)  *`1 hour ago`*
+ - Opened issue [GitHub Packages pom failure (#94)](https://github.com/Ktt-Development/simplehttpserver/issues/94) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 09:52 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 04, 2020 at 10:51 PM (EST)</p>
