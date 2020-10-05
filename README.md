@@ -55,12 +55,12 @@
 
 ## ⚡ Recent Activity
 
- - Closed issue [GitHub Packages pom failure (#94)](https://github.com/Ktt-Development/simplehttpserver/issues/94) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`10 minutes ago`*
- - Commented on issue [GitHub Packages pom failure (#94)](https://github.com/Ktt-Development/simplehttpserver/issues/94#issuecomment-703782594) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`10 minutes ago`*
-   > github packages doesn't make any sense for public; switching to maven
- - Deleted tag [03.06.05](https://github.com/Ktt-Development/simplehttpserver/tree/03.06.05) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
- - Created tag [03.06.05](https://github.com/Ktt-Development/simplehttpserver/tree/03.06.05) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
- - Published release [03.06.05](https://github.com/Ktt-Development/simplehttpserver/releases/tag/03.06.05) in [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+ - Created tag [03.06.05](https://github.com/Ktt-Development/simplehttpserver/tree/03.06.05) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`27 minutes ago`*
+ - Published release [03.06.05](https://github.com/Ktt-Development/simplehttpserver/releases/tag/03.06.05) in [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`27 minutes ago`*
+ - Added commit [6dd4cab](https://github.com/Ktt-Development/simplehttpserver/commit/6dd4cabd30558c07816cc4f7838acadc87336c1d) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`27 minutes ago`*
+   > fixed missing settings
+ - Deleted tag [03.06.05](https://github.com/Ktt-Development/simplehttpserver/tree/03.06.05) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`28 minutes ago`*
+ - Created tag [03.06.05](https://github.com/Ktt-Development/simplehttpserver/tree/03.06.05) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`31 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 05, 2020 at 01:50 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 05, 2020 at 02:50 PM (EST)</p>
