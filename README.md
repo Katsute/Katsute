@@ -55,14 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [eb0303c](https://github.com/Ktt-Development/rexedia/commit/eb0303ce67142423dd9ab61f100219ea43705d92) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`50 minutes ago`*
+ - Added commit [eb0303c](https://github.com/Ktt-Development/rexedia/commit/eb0303ce67142423dd9ab61f100219ea43705d92) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > Update CommandExecutor.java
- - Added commit [ee941a7](https://github.com/Ktt-Development/rexedia/commit/ee941a704119e5d23f17dbba2b1cbd8835dc8dbc) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`58 minutes ago`*
+ - Added commit [ee941a7](https://github.com/Ktt-Development/rexedia/commit/ee941a704119e5d23f17dbba2b1cbd8835dc8dbc) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > Fixed [#6](https://github.com/Ktt-Development/rexedia/issues/6)
- - Closed issue [-c copy doesn't copy all tracks (#6)](https://github.com/Ktt-Development/rexedia/issues/6) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`58 minutes ago`*
- - Opened issue [-c copy doesn't copy all tracks (#6)](https://github.com/Ktt-Development/rexedia/issues/6) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
- - Added commit [618bb67](https://github.com/Ktt-Development/rexedia/commit/618bb678060293a4e873f24bdc34593a49b293ff) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Closed issue [-c copy doesn't copy all tracks (#6)](https://github.com/Ktt-Development/rexedia/issues/6) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Opened issue [-c copy doesn't copy all tracks (#6)](https://github.com/Ktt-Development/rexedia/issues/6) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
+ - Added commit [618bb67](https://github.com/Ktt-Development/rexedia/commit/618bb678060293a4e873f24bdc34593a49b293ff) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
    > Fixed [#4](https://github.com/Ktt-Development/rexedia/issues/4)
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 05, 2020 at 11:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 06, 2020 at 12:50 AM (EST)</p>
