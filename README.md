@@ -55,14 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Starred repository [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg)  *`3 hours ago`*
- - Opened issue [Map multipart/form-data to an Object (#95)](https://github.com/Ktt-Development/simplehttpserver/issues/95) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`3 hours ago`*
- - Added commit [28987d1](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/28987d1c980457d121253ee76d0b70048601bc12) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`4 hours ago`*
+ - Added commit [24c040f](https://github.com/Ktt-Development/simplehttpserver/commit/24c040f0e62f33019a0662b65bfc0e4d921131da) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+   > Update pom.xml
+ - Added commit [a3701c6](https://github.com/Ktt-Development/simplehttpserver/commit/a3701c6a7917a3a1cd4372f9e7904e4ecaba2c4c) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+   > Update pom.xml
+ - Starred repository [crazy-max/ghaction-import-gpg](https://github.com/crazy-max/ghaction-import-gpg)  *`5 hours ago`*
+ - Opened issue [Map multipart/form-data to an Object (#95)](https://github.com/Ktt-Development/simplehttpserver/issues/95) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`5 hours ago`*
+ - Added commit [28987d1](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/28987d1c980457d121253ee76d0b70048601bc12) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`5 hours ago`*
    > Adjust hierarchy
- - Added commit [81c7d35](https://github.com/Ktt-Development/simplehttpserver/commit/81c7d35ef6141afcf88f7196a3e56165a771480c) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`4 hours ago`*
-   > Update README.md
- - Added commit [d77e52b](https://github.com/Ktt-Development/webdir/commit/d77e52b481d2cca1f782adbb92a4bfea9e926bd0) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`4 hours ago`*
-   > simplehttpserver is now on maven
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 05, 2020 at 07:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 05, 2020 at 09:14 PM (EST)</p>
