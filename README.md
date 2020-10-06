@@ -55,14 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Deleted branch [add-rexedia@abbfd4d](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/add-rexedia@abbfd4d) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`1 hour ago`*
- - Added commit [85baf97](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/85baf97a7e8fb45c7db4126c45df478c842dcbbd) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 hour ago`*
+ - Deleted branch [add-rexedia@abbfd4d](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/add-rexedia@abbfd4d) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`2 hours ago`*
+ - Added commit [85baf97](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/85baf97a7e8fb45c7db4126c45df478c842dcbbd) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`2 hours ago`*
    > simplehttpserver is now on Maven central
- - Added commit [64f08a4](https://github.com/Katsute/Katsute/commit/64f08a49719e4255298ad051f598d1cc886e8efd) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`1 hour ago`*
+ - Added commit [64f08a4](https://github.com/Katsute/Katsute/commit/64f08a49719e4255298ad051f598d1cc886e8efd) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`2 hours ago`*
    > apt-get update
- - Closed issue [Mobile navigation issues (#5)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/5) from repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 hour ago`*
- - Commented on issue [Mobile navigation issues (#5)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/5#issuecomment-704373361) from repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 hour ago`*
+ - Closed issue [Mobile navigation issues (#5)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/5) from repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`2 hours ago`*
+ - Commented on issue [Mobile navigation issues (#5)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/5#issuecomment-704373361) from repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`2 hours ago`*
    > Fixed in 7e7308f
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 06, 2020 at 01:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 06, 2020 at 02:50 PM (EST)</p>
