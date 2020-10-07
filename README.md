@@ -55,14 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Created branch [multipart-schema@24c040f](https://github.com/Ktt-Development/simplehttpserver/tree/multipart-schema@24c040f) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`4 minutes ago`*
- - Added commit [3c0281c](https://github.com/Ktt-Development/rexedia/commit/3c0281cc559ac5bae1170f410a20bccc55523667) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`31 minutes ago`*
+ - Created branch [multipart-schema@24c040f](https://github.com/Ktt-Development/simplehttpserver/tree/multipart-schema@24c040f) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
+ - Added commit [3c0281c](https://github.com/Ktt-Development/rexedia/commit/3c0281cc559ac5bae1170f410a20bccc55523667) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > fix false positive
- - Commented on issue [Private repositories still returns true for false wikis (#6)](https://github.com/Katsute/GitHub-Downloader/issues/6#issuecomment-704520551) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`6 hours ago`*
+ - Commented on issue [Private repositories still returns true for false wikis (#6)](https://github.com/Katsute/GitHub-Downloader/issues/6#issuecomment-704520551) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`7 hours ago`*
    > This issue has not yet been resolved `10/06/2020`
- - Deleted branch [add-rexedia@abbfd4d](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/add-rexedia@abbfd4d) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`10 hours ago`*
- - Added commit [85baf97](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/85baf97a7e8fb45c7db4126c45df478c842dcbbd) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`10 hours ago`*
+ - Deleted branch [add-rexedia@abbfd4d](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/add-rexedia@abbfd4d) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`11 hours ago`*
+ - Added commit [85baf97](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/85baf97a7e8fb45c7db4126c45df478c842dcbbd) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`11 hours ago`*
    > simplehttpserver is now on Maven central
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 06, 2020 at 10:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 06, 2020 at 11:51 PM (EST)</p>
