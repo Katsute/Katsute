@@ -65,4 +65,4 @@
  - Closed issue [Mobile navigation issues (#5)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/5) from repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`9 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 06, 2020 at 09:15 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 06, 2020 at 09:51 PM (EST)</p>
