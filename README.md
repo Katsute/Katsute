@@ -55,16 +55,16 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [98e3e55](https://github.com/Ktt-Development/rexedia/commit/98e3e554de18cf685194369e3c6bcf8e2431af76) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Added commit [98e3e55](https://github.com/Ktt-Development/rexedia/commit/98e3e554de18cf685194369e3c6bcf8e2431af76) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
    > syntax highlighting
- - Added commit [0de325c](https://github.com/Ktt-Development/rexedia/commit/0de325c19f9e2fd6c23b0488564cbf591df20b1f) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
+ - Added commit [0de325c](https://github.com/Ktt-Development/rexedia/commit/0de325c19f9e2fd6c23b0488564cbf591df20b1f) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 hours ago`*
    > update binaries
- - Commented on issue [Specify output file using regxp (#7)](https://github.com/Ktt-Development/rexedia/issues/7#issuecomment-705658759) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`5 hours ago`*
+ - Commented on issue [Specify output file using regxp (#7)](https://github.com/Ktt-Development/rexedia/issues/7#issuecomment-705658759) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`6 hours ago`*
    > Use initial file extension if regxp/br doesn't specify one. `.`
- - Added commit [534f7a1](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/534f7a123a2eff8508d14067355d21d8a58ecd42) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`17 hours ago`*
+ - Added commit [534f7a1](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/534f7a123a2eff8508d14067355d21d8a58ecd42) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`18 hours ago`*
    > Update sidebar.html
- - Added commit [ffeefd2](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/ffeefd267ea8e3dca2feac0655618f41f4a939c9) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`18 hours ago`*
+ - Added commit [ffeefd2](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/ffeefd267ea8e3dca2feac0655618f41f4a939c9) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`19 hours ago`*
    > Update README.md
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 08, 2020 at 04:50 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 08, 2020 at 05:51 PM (EST)</p>
