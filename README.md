@@ -55,16 +55,16 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [534f7a1](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/534f7a123a2eff8508d14067355d21d8a58ecd42) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`2 hours ago`*
+ - Added commit [534f7a1](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/534f7a123a2eff8508d14067355d21d8a58ecd42) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`3 hours ago`*
    > Update sidebar.html
- - Added commit [ffeefd2](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/ffeefd267ea8e3dca2feac0655618f41f4a939c9) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`3 hours ago`*
+ - Added commit [ffeefd2](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/ffeefd267ea8e3dca2feac0655618f41f4a939c9) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`4 hours ago`*
    > Update README.md
- - Added commit [d5947fe](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/d5947fe0ce1db20d78115387fa9bccb38f2bd417) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`3 hours ago`*
+ - Added commit [d5947fe](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/d5947fe0ce1db20d78115387fa9bccb38f2bd417) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`4 hours ago`*
    > Update nav.yml
- - Added commit [b9b33bd](https://github.com/Katsute/Katsute/commit/b9b33bd2a5725ef1eee83e90e9d1839d022d932a) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`3 hours ago`*
+ - Added commit [b9b33bd](https://github.com/Katsute/Katsute/commit/b9b33bd2a5725ef1eee83e90e9d1839d022d932a) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`4 hours ago`*
    > img & css
- - Added commit [3465fe3](https://github.com/Ktt-Development/.github/commit/3465fe38cb6e1b21b9dc4edf36b82aef926b2d58) to branch [main](https://github.com/Ktt-Development/.github/tree/main) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github)  *`3 hours ago`*
+ - Added commit [3465fe3](https://github.com/Ktt-Development/.github/commit/3465fe38cb6e1b21b9dc4edf36b82aef926b2d58) to branch [main](https://github.com/Ktt-Development/.github/tree/main) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github)  *`4 hours ago`*
    > Delete java-LTS.yml
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 08, 2020 at 01:51 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 08, 2020 at 02:51 AM (EST)</p>
