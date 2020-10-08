@@ -22,26 +22,26 @@
     src="https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=3278be"
     alt="IntelliJ-IDE">
 <img 
+    src="https://img.shields.io/badge/Editor-PyCharm-informational?style=flat-square&logo=pycharm&logoColor=white&color=3278be"
+    alt="PyCharm-IDE">
+<img 
     src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat-square&logo=Visual-Studio-Code&logoColor=white&color=3278be"
     alt="Visual-Studio-Code-IDE">
 <img 
     src="https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=3278be"
     alt="Java">
 <img 
+    src="https://img.shields.io/badge/Tools-Maven-informational?style=flat-square&logo=apache-maven&logoColor=white&color=3278be"
+    alt="Maven">
+<img 
+    src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=3278be"
+    alt="Python">
+<img 
     src="https://img.shields.io/badge/Code-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=3278be"
     alt="HTML">
 <img 
     src="https://img.shields.io/badge/Code-CSS-informational?style=flat-square&logo=css-wizardry&logoColor=white&color=3278be"
     alt="CSS">
-<img 
-    src="https://img.shields.io/badge/Code-SASS-informational?style=flat-square&logo=sass&logoColor=white&color=3278be"
-    alt="SASS">
-<img 
-    src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=3278be"
-    alt="JavaScript">
-<img 
-    src="https://img.shields.io/badge/Tools-Maven-informational?style=flat-square&logo=apache-maven&logoColor=white&color=3278be"
-    alt="Maven">
 
 ## 📊 Statistics
 <div align="center">
