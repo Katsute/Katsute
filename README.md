@@ -55,13 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Created repository [None](https://github.com/Ktt-Development/gitflow/tree/None) in repository [Ktt-Development/gitflow](https://github.com/Ktt-Development/gitflow) *`59 seconds ago`*
- - Commented on issue [Remove cover image removes wrong video track (#3)](https://github.com/Ktt-Development/rexedia/issues/3#issuecomment-705932129) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`19 hours ago`*
+ - Created branch [main](https://github.com/Ktt-Development/gitflow/tree/main) in repository [Ktt-Development/gitflow](https://github.com/Ktt-Development/gitflow) *`57 minutes ago`*
+ - Created repository [None](https://github.com/Ktt-Development/gitflow/tree/None) in repository [Ktt-Development/gitflow](https://github.com/Ktt-Development/gitflow) *`1 hour ago`*
+ - Commented on issue [Remove cover image removes wrong video track (#3)](https://github.com/Ktt-Development/rexedia/issues/3#issuecomment-705932129) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`20 hours ago`*
    > Fix probes file for video streams with `attached_pic=1` and removes those specific streams.
- - Closed issue [Specify output file using regxp (#7)](https://github.com/Ktt-Development/rexedia/issues/7) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`19 hours ago`*
- - Added commit [df9097f](https://github.com/Ktt-Development/rexedia/commit/df9097ff2b71f498f557c277ab5cc03d81e137aa) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`19 hours ago`*
+ - Closed issue [Specify output file using regxp (#7)](https://github.com/Ktt-Development/rexedia/issues/7) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`20 hours ago`*
+ - Added commit [df9097f](https://github.com/Ktt-Development/rexedia/commit/df9097ff2b71f498f557c277ab5cc03d81e137aa) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`20 hours ago`*
    > Fixed [#3](https://github.com/Ktt-Development/rexedia/issues/3) 🎉
- - Closed issue [Remove cover image removes wrong video track (#3)](https://github.com/Ktt-Development/rexedia/issues/3) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`19 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 09, 2020 at 05:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 09, 2020 at 06:50 PM (EST)</p>
