@@ -55,19 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [7f97a29](https://github.com/Ktt-Development/rexedia/commit/7f97a29d7dda28326ab359aa002132d3ad19ee04) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`13 minutes ago`*
+ - Commented on issue [Remove cover image removes wrong video track (#3)](https://github.com/Ktt-Development/rexedia/issues/3#issuecomment-705932129) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`14 minutes ago`*
+   > Fix probes file for video streams with `attached_pic=1` and removes those specific streams.
+ - Closed issue [Specify output file using regxp (#7)](https://github.com/Ktt-Development/rexedia/issues/7) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`15 minutes ago`*
+ - Added commit [df9097f](https://github.com/Ktt-Development/rexedia/commit/df9097ff2b71f498f557c277ab5cc03d81e137aa) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`15 minutes ago`*
+   > Fixed [#3](https://github.com/Ktt-Development/rexedia/issues/3) 🎉
+ - Closed issue [Remove cover image removes wrong video track (#3)](https://github.com/Ktt-Development/rexedia/issues/3) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`15 minutes ago`*
+ - Added commit [7f97a29](https://github.com/Ktt-Development/rexedia/commit/7f97a29d7dda28326ab359aa002132d3ad19ee04) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > Fixed incorrect regex/backref order
- - Added commit [d098fa5](https://github.com/Ktt-Development/rexedia/commit/d098fa54a53219222fb2ae7b96bc979a13e04740) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`19 minutes ago`*
-   > spacing
- - Added commit [2de5f47](https://github.com/Ktt-Development/rexedia/commit/2de5f4785e06d40632b35164dd47784d37165549) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`24 minutes ago`*
-   > Bug fixes; Implement [#7](https://github.com/Ktt-Development/rexedia/issues/7)
-   >  > - Added input=output warning
-   >  > - Optimized metadata formatter
-   >  > - Fixed indexoutofbounds exception on verify…
- - Added commit [98e3e55](https://github.com/Ktt-Development/rexedia/commit/98e3e554de18cf685194369e3c6bcf8e2431af76) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`6 hours ago`*
-   > syntax highlighting
- - Added commit [0de325c](https://github.com/Ktt-Development/rexedia/commit/0de325c19f9e2fd6c23b0488564cbf591df20b1f) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`7 hours ago`*
-   > update binaries
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 08, 2020 at 09:52 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 08, 2020 at 10:51 PM (EST)</p>
