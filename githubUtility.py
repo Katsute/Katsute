@@ -81,10 +81,11 @@ def getEventAsMarkdown(github, event, now, max_lines=4):
                f"{str_time_ago}" + \
                __quote(comment['body'], str_repo_url, max_lines)
     elif etype == "CreateEvent" or etype == "DeleteEvent":
+        is_repo = payload['ref_type'] == "repository"
         str_name = payload['ref']
         return f"{'Created' if etype == 'CreateEvent' else 'Deleted'} {payload['ref_type']} " \
-               f"[{str_name}]({str_repo_url}/tree/{str_name}) " \
-               f"in repository {str_repo_name}" + \
+               f"[{str_name if not is_repo else event.repo.name}]({str_repo_url}{'/tree/' + str_name if not is_repo else ''}) " \
+               f"{'in repository ' + str_repo_name if not is_repo else ''}" + \
                f"{str_time_ago}"
     elif etype == "ForkEvent":
         return f"Forked repository " \
