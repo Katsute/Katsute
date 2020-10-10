@@ -55,13 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Created branch [main](https://github.com/Ktt-Development/gitflow/tree/main) in repository [Ktt-Development/gitflow](https://github.com/Ktt-Development/gitflow) *`1 hour ago`*
- - Created repository [None](https://github.com/Ktt-Development/gitflow/tree/None) in repository [Ktt-Development/gitflow](https://github.com/Ktt-Development/gitflow) *`2 hours ago`*
- - Commented on issue [Remove cover image removes wrong video track (#3)](https://github.com/Ktt-Development/rexedia/issues/3#issuecomment-705932129) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`21 hours ago`*
+ - Added commit [8312064](https://github.com/Katsute/Katsute/commit/83120642097e151966f5d2acbc8d7a6440222f76) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`1 minute ago`*
+   > Fixed repository syntax
+ - Created branch [main](https://github.com/Ktt-Development/gitflow/tree/main) in repository [Ktt-Development/gitflow](https://github.com/Ktt-Development/gitflow) *`3 hours ago`*
+ - Created repository [Ktt-Development/gitflow](https://github.com/Ktt-Development/gitflow)  *`3 hours ago`*
+ - Commented on issue [Remove cover image removes wrong video track (#3)](https://github.com/Ktt-Development/rexedia/issues/3#issuecomment-705932129) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`22 hours ago`*
    > Fix probes file for video streams with `attached_pic=1` and removes those specific streams.
- - Closed issue [Specify output file using regxp (#7)](https://github.com/Ktt-Development/rexedia/issues/7) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`21 hours ago`*
- - Added commit [df9097f](https://github.com/Ktt-Development/rexedia/commit/df9097ff2b71f498f557c277ab5cc03d81e137aa) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`21 hours ago`*
-   > Fixed [#3](https://github.com/Ktt-Development/rexedia/issues/3) 🎉
+ - Closed issue [Specify output file using regxp (#7)](https://github.com/Ktt-Development/rexedia/issues/7) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`22 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 09, 2020 at 07:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 09, 2020 at 09:08 PM (EST)</p>
