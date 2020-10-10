@@ -55,7 +55,7 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [8312064](https://github.com/Katsute/Katsute/commit/83120642097e151966f5d2acbc8d7a6440222f76) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`1 minute ago`*
+ - Added commit [8312064](https://github.com/Katsute/Katsute/commit/83120642097e151966f5d2acbc8d7a6440222f76) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`9 minutes ago`*
    > Fixed repository syntax
  - Created branch [main](https://github.com/Ktt-Development/gitflow/tree/main) in repository [Ktt-Development/gitflow](https://github.com/Ktt-Development/gitflow) *`3 hours ago`*
  - Created repository [Ktt-Development/gitflow](https://github.com/Ktt-Development/gitflow)  *`3 hours ago`*
@@ -64,4 +64,4 @@
  - Closed issue [Specify output file using regxp (#7)](https://github.com/Ktt-Development/rexedia/issues/7) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`22 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 09, 2020 at 09:08 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 09, 2020 at 09:16 PM (EST)</p>
