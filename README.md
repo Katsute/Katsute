@@ -55,14 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [28488b4](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/28488b474eaa2feb493266e71ca07f163253f6ad) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`20 hours ago`*
+ - Opened issue [Remove leading zeroes from sematic versioning (#96)](https://github.com/Ktt-Development/simplehttpserver/issues/96) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`23 minutes ago`*
+ - Added commit [28488b4](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/28488b474eaa2feb493266e71ca07f163253f6ad) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`21 hours ago`*
    > sidebar
- - Added commit [8312064](https://github.com/Katsute/Katsute/commit/83120642097e151966f5d2acbc8d7a6440222f76) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`20 hours ago`*
+ - Added commit [8312064](https://github.com/Katsute/Katsute/commit/83120642097e151966f5d2acbc8d7a6440222f76) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`21 hours ago`*
    > Fixed repository syntax
- - Created branch [main](https://github.com/Ktt-Development/gitflow/tree/main) in repository [Ktt-Development/gitflow](https://github.com/Ktt-Development/gitflow) *`23 hours ago`*
+ - Created branch [main](https://github.com/Ktt-Development/gitflow/tree/main) in repository [Ktt-Development/gitflow](https://github.com/Ktt-Development/gitflow) *`1 day ago`*
  - Created repository [Ktt-Development/gitflow](https://github.com/Ktt-Development/gitflow)  *`1 day ago`*
- - Commented on issue [Remove cover image removes wrong video track (#3)](https://github.com/Ktt-Development/rexedia/issues/3#issuecomment-705932129) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 day ago`*
-   > Fix probes file for video streams with `attached_pic=1` and removes those specific streams.
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 10, 2020 at 05:50 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 10, 2020 at 06:51 PM (EST)</p>
