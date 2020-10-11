@@ -55,13 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Opened issue [Remove leading zeroes from sematic versioning (#96)](https://github.com/Ktt-Development/simplehttpserver/issues/96) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
- - Added commit [28488b4](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/28488b474eaa2feb493266e71ca07f163253f6ad) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`22 hours ago`*
+ - Opened issue [Remove leading zeroes from sematic versioning (#96)](https://github.com/Ktt-Development/simplehttpserver/issues/96) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
+ - Added commit [28488b4](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/28488b474eaa2feb493266e71ca07f163253f6ad) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 day ago`*
    > sidebar
- - Added commit [8312064](https://github.com/Katsute/Katsute/commit/83120642097e151966f5d2acbc8d7a6440222f76) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`22 hours ago`*
+ - Added commit [8312064](https://github.com/Katsute/Katsute/commit/83120642097e151966f5d2acbc8d7a6440222f76) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`1 day ago`*
    > Fixed repository syntax
  - Created branch [main](https://github.com/Ktt-Development/gitflow/tree/main) in repository [Ktt-Development/gitflow](https://github.com/Ktt-Development/gitflow) *`1 day ago`*
  - Created repository [Ktt-Development/gitflow](https://github.com/Ktt-Development/gitflow)  *`1 day ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 10, 2020 at 07:50 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 10, 2020 at 09:20 PM (EST)</p>
