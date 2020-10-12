@@ -55,16 +55,16 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [ee1afda](https://github.com/Ktt-Development/rexedia/commit/ee1afda9ab4beca7b0da758eeeadd53404f4e0cf) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`5 minutes ago`*
+ - Added commit [ee1afda](https://github.com/Ktt-Development/rexedia/commit/ee1afda9ab4beca7b0da758eeeadd53404f4e0cf) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > finish tests (needs further testing)
    >  > the infamous permissions denied bug is preventing local testing
- - Added commit [1cf5bf3](https://github.com/Ktt-Development/rexedia/commit/1cf5bf34974e550f96370845313ab6e29ec08aee) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`53 minutes ago`*
+ - Added commit [1cf5bf3](https://github.com/Ktt-Development/rexedia/commit/1cf5bf34974e550f96370845313ab6e29ec08aee) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > fixed format logic, added main logging tests
- - Added commit [3147ab4](https://github.com/Ktt-Development/rexedia/commit/3147ab4330f71b4a0f53aad3d5381e9b3910e1ec) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`23 hours ago`*
+ - Added commit [3147ab4](https://github.com/Ktt-Development/rexedia/commit/3147ab4330f71b4a0f53aad3d5381e9b3910e1ec) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 day ago`*
    > setup required tests; skip directories
  - Opened issue [Remove leading zeroes from sematic versioning (#96)](https://github.com/Ktt-Development/simplehttpserver/issues/96) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 day ago`*
  - Added commit [28488b4](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/28488b474eaa2feb493266e71ca07f163253f6ad) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`2 days ago`*
    > sidebar
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 11, 2020 at 09:55 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 11, 2020 at 10:51 PM (EST)</p>
