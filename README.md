@@ -55,21 +55,21 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [6d5fdc8](https://github.com/Ktt-Development/webdir/commit/6d5fdc84d510fc686c184b8c39d9518be0a8a379) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`10 minutes ago`*
+ - Added commit [6d5fdc8](https://github.com/Ktt-Development/webdir/commit/6d5fdc84d510fc686c184b8c39d9518be0a8a379) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
    > Bump junit from 4.13 to 4.13.1 in /webdir-generator
    >  > Bumps [junit](https://github.com/junit-team/junit4) from 4.13 to 4.13.1.
    >  > - [Release notes](https://github.com/junit-team/junit4/releases)
    >  > - [Changelog](https://github.com/junit-team/junit4/blob/main/doc/ReleaseNotes4.13.1.md)…
- - Closed pull request [Bump junit from 4.13 to 4.13.1 in /webdir-generator (#56)](https://github.com/Ktt-Development/webdir/pull/56) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`10 minutes ago`*
- - Added commit [b06ed62](https://github.com/Ktt-Development/webdir/commit/b06ed62542cf33f0f18f4cf5cff7cf0d10403a20) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`11 minutes ago`*
+ - Closed pull request [Bump junit from 4.13 to 4.13.1 in /webdir-generator (#56)](https://github.com/Ktt-Development/webdir/pull/56) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+ - Added commit [b06ed62](https://github.com/Ktt-Development/webdir/commit/b06ed62542cf33f0f18f4cf5cff7cf0d10403a20) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
    > Bump junit from 4.13 to 4.13.1 in /webdir-server
    >  > Bumps [junit](https://github.com/junit-team/junit4) from 4.13 to 4.13.1.
    >  > - [Release notes](https://github.com/junit-team/junit4/releases)
    >  > - [Changelog](https://github.com/junit-team/junit4/blob/main/doc/ReleaseNotes4.13.1.md)…
- - Closed pull request [Bump junit from 4.13 to 4.13.1 in /webdir-server (#57)](https://github.com/Ktt-Development/webdir/pull/57) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`11 minutes ago`*
- - Added commit [9321c74](https://github.com/Ktt-Development/ktt-development.github.io/commit/9321c74aee9bd41df99d7a82fb4764819a5702b4) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`11 minutes ago`*
+ - Closed pull request [Bump junit from 4.13 to 4.13.1 in /webdir-server (#57)](https://github.com/Ktt-Development/webdir/pull/57) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+ - Added commit [9321c74](https://github.com/Ktt-Development/ktt-development.github.io/commit/9321c74aee9bd41df99d7a82fb4764819a5702b4) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`1 hour ago`*
    > cleanup workspace
    >  > site is being redesigned
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 12, 2020 at 05:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 12, 2020 at 06:50 PM (EST)</p>
