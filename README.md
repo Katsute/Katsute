@@ -55,14 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [3147ab4](https://github.com/Ktt-Development/rexedia/commit/3147ab4330f71b4a0f53aad3d5381e9b3910e1ec) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`21 hours ago`*
+ - Added commit [1cf5bf3](https://github.com/Ktt-Development/rexedia/commit/1cf5bf34974e550f96370845313ab6e29ec08aee) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`17 minutes ago`*
+   > fixed format logic, added main logging tests
+ - Added commit [3147ab4](https://github.com/Ktt-Development/rexedia/commit/3147ab4330f71b4a0f53aad3d5381e9b3910e1ec) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`23 hours ago`*
    > setup required tests; skip directories
  - Opened issue [Remove leading zeroes from sematic versioning (#96)](https://github.com/Ktt-Development/simplehttpserver/issues/96) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 day ago`*
- - Added commit [28488b4](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/28488b474eaa2feb493266e71ca07f163253f6ad) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 day ago`*
+ - Added commit [28488b4](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/28488b474eaa2feb493266e71ca07f163253f6ad) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`2 days ago`*
    > sidebar
- - Added commit [8312064](https://github.com/Katsute/Katsute/commit/83120642097e151966f5d2acbc8d7a6440222f76) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`1 day ago`*
+ - Added commit [8312064](https://github.com/Katsute/Katsute/commit/83120642097e151966f5d2acbc8d7a6440222f76) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`2 days ago`*
    > Fixed repository syntax
- - Created branch [main](https://github.com/Ktt-Development/gitflow/tree/main) in repository [Ktt-Development/gitflow](https://github.com/Ktt-Development/gitflow) *`2 days ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 11, 2020 at 07:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 11, 2020 at 09:19 PM (EST)</p>
