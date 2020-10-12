@@ -55,16 +55,16 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [ee1afda](https://github.com/Ktt-Development/rexedia/commit/ee1afda9ab4beca7b0da758eeeadd53404f4e0cf) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`14 hours ago`*
-   > finish tests (needs further testing)
-   >  > the infamous permissions denied bug is preventing local testing
- - Added commit [1cf5bf3](https://github.com/Ktt-Development/rexedia/commit/1cf5bf34974e550f96370845313ab6e29ec08aee) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`14 hours ago`*
-   > fixed format logic, added main logging tests
- - Added commit [3147ab4](https://github.com/Ktt-Development/rexedia/commit/3147ab4330f71b4a0f53aad3d5381e9b3910e1ec) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 day ago`*
-   > setup required tests; skip directories
- - Opened issue [Remove leading zeroes from sematic versioning (#96)](https://github.com/Ktt-Development/simplehttpserver/issues/96) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 day ago`*
- - Added commit [28488b4](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/28488b474eaa2feb493266e71ca07f163253f6ad) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`2 days ago`*
-   > sidebar
+ - Commented on issue [Bump junit from 4.13 to 4.13.1 (#2)](https://github.com/Ktt-Development/core/pull/2#issuecomment-707225621) from repository [Ktt-Development/core](https://github.com/Ktt-Development/core)  *`14 minutes ago`*
+   > @dependabot rebase
+ - Created branch [update-test-cases@0cc196e](https://github.com/Ktt-Development/simplehttpserver/tree/update-test-cases@0cc196e) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`18 minutes ago`*
+ - Added commit [b568d23](https://github.com/Ktt-Development/simplehttpserver/commit/b568d231e0b20d45d2caef000d20daf98edc96e9) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`19 minutes ago`*
+   > Bump junit from 4.13 to 4.13.1
+   >  > Bumps [junit](https://github.com/junit-team/junit4) from 4.13 to 4.13.1.
+   >  > - [Release notes](https://github.com/junit-team/junit4/releases)
+   >  > - [Changelog](https://github.com/junit-team/junit4/blob/main/doc/ReleaseNotes4.13.1.md)…
+ - Closed pull request [Bump junit from 4.13 to 4.13.1 (#97)](https://github.com/Ktt-Development/simplehttpserver/pull/97) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`19 minutes ago`*
+ - Deleted branch [multipart-schema@24c040f](https://github.com/Ktt-Development/simplehttpserver/tree/multipart-schema@24c040f) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`19 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 12, 2020 at 11:50 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 12, 2020 at 12:51 PM (EST)</p>
