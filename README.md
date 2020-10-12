@@ -55,10 +55,10 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [ee1afda](https://github.com/Ktt-Development/rexedia/commit/ee1afda9ab4beca7b0da758eeeadd53404f4e0cf) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`13 hours ago`*
+ - Added commit [ee1afda](https://github.com/Ktt-Development/rexedia/commit/ee1afda9ab4beca7b0da758eeeadd53404f4e0cf) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`14 hours ago`*
    > finish tests (needs further testing)
    >  > the infamous permissions denied bug is preventing local testing
- - Added commit [1cf5bf3](https://github.com/Ktt-Development/rexedia/commit/1cf5bf34974e550f96370845313ab6e29ec08aee) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`13 hours ago`*
+ - Added commit [1cf5bf3](https://github.com/Ktt-Development/rexedia/commit/1cf5bf34974e550f96370845313ab6e29ec08aee) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`14 hours ago`*
    > fixed format logic, added main logging tests
  - Added commit [3147ab4](https://github.com/Ktt-Development/rexedia/commit/3147ab4330f71b4a0f53aad3d5381e9b3910e1ec) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 day ago`*
    > setup required tests; skip directories
@@ -67,4 +67,4 @@
    > sidebar
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 12, 2020 at 10:51 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 12, 2020 at 11:50 AM (EST)</p>
