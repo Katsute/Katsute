@@ -55,16 +55,12 @@
 
 ## ⚡ Recent Activity
 
- - Commented on issue [Bump junit from 4.13 to 4.13.1 (#2)](https://github.com/Ktt-Development/core/pull/2#issuecomment-707225621) from repository [Ktt-Development/core](https://github.com/Ktt-Development/core)  *`14 minutes ago`*
-   > @dependabot rebase
- - Created branch [update-test-cases@0cc196e](https://github.com/Ktt-Development/simplehttpserver/tree/update-test-cases@0cc196e) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`18 minutes ago`*
- - Added commit [b568d23](https://github.com/Ktt-Development/simplehttpserver/commit/b568d231e0b20d45d2caef000d20daf98edc96e9) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`19 minutes ago`*
-   > Bump junit from 4.13 to 4.13.1
-   >  > Bumps [junit](https://github.com/junit-team/junit4) from 4.13 to 4.13.1.
-   >  > - [Release notes](https://github.com/junit-team/junit4/releases)
-   >  > - [Changelog](https://github.com/junit-team/junit4/blob/main/doc/ReleaseNotes4.13.1.md)…
- - Closed pull request [Bump junit from 4.13 to 4.13.1 (#97)](https://github.com/Ktt-Development/simplehttpserver/pull/97) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`19 minutes ago`*
- - Deleted branch [multipart-schema@24c040f](https://github.com/Ktt-Development/simplehttpserver/tree/multipart-schema@24c040f) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`19 minutes ago`*
+ - Created branch [multipart/form-dataschema@b564272](https://github.com/Ktt-Development/simplehttpserver/tree/multipart/form-dataschema@b564272) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`18 minutes ago`*
+ - Deleted branch [modular@a5c6648](https://github.com/Ktt-Development/simplehttpserver/tree/modular@a5c6648) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`20 minutes ago`*
+ - Added commit [f871d6b](https://github.com/Ktt-Development/simplehttpserver/commit/f871d6bdac2bfb53636965f1c521bc2deb9bb73c) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`20 minutes ago`*
+   > convert simplehttpserver to modular
+ - Closed pull request [Convert simplehttpserver to modular project (#98)](https://github.com/Ktt-Development/simplehttpserver/pull/98) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`20 minutes ago`*
+ - Closed issue [Remove leading zeroes from semantic versioning (#96)](https://github.com/Ktt-Development/simplehttpserver/issues/96) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`20 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 12, 2020 at 12:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 12, 2020 at 01:51 PM (EST)</p>
