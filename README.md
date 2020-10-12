@@ -55,17 +55,21 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [cb8700a](https://github.com/Ktt-Development/rexedia/commit/cb8700a960974e66d2e018ec232f00f209df03e9) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`6 minutes ago`*
-   > bin installation fixes
- - Added commit [f4e3a4d](https://github.com/Ktt-Development/rexedia/commit/f4e3a4d8496a4998d7e1ee8de777b6c9354fa623) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`17 minutes ago`*
-   > fixed testing issues
- - Added commit [0936246](https://github.com/Ktt-Development/rexedia/commit/0936246a8f7cc5bfdd949c3b8678515e333cab7a) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`51 minutes ago`*
-   > ✔ Local tests passed
-   >  > It is unclear what is causing CI test failures
- - Added commit [26fccc2](https://github.com/Ktt-Development/rexedia/commit/26fccc23f375ad737b33f8bf4847186ab9416c2a) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
-   > test fixes
- - Added commit [d6b309a](https://github.com/Ktt-Development/core/commit/d6b309a8f82fdfff067c4a6f064f150d766d2c54) to branch [main](https://github.com/Ktt-Development/core/tree/main) in repository [Ktt-Development/core](https://github.com/Ktt-Development/core)  *`1 hour ago`*
-   > Update TestUtil.java
+ - Added commit [6d5fdc8](https://github.com/Ktt-Development/webdir/commit/6d5fdc84d510fc686c184b8c39d9518be0a8a379) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`10 minutes ago`*
+   > Bump junit from 4.13 to 4.13.1 in /webdir-generator
+   >  > Bumps [junit](https://github.com/junit-team/junit4) from 4.13 to 4.13.1.
+   >  > - [Release notes](https://github.com/junit-team/junit4/releases)
+   >  > - [Changelog](https://github.com/junit-team/junit4/blob/main/doc/ReleaseNotes4.13.1.md)…
+ - Closed pull request [Bump junit from 4.13 to 4.13.1 in /webdir-generator (#56)](https://github.com/Ktt-Development/webdir/pull/56) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`10 minutes ago`*
+ - Added commit [b06ed62](https://github.com/Ktt-Development/webdir/commit/b06ed62542cf33f0f18f4cf5cff7cf0d10403a20) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`11 minutes ago`*
+   > Bump junit from 4.13 to 4.13.1 in /webdir-server
+   >  > Bumps [junit](https://github.com/junit-team/junit4) from 4.13 to 4.13.1.
+   >  > - [Release notes](https://github.com/junit-team/junit4/releases)
+   >  > - [Changelog](https://github.com/junit-team/junit4/blob/main/doc/ReleaseNotes4.13.1.md)…
+ - Closed pull request [Bump junit from 4.13 to 4.13.1 in /webdir-server (#57)](https://github.com/Ktt-Development/webdir/pull/57) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`11 minutes ago`*
+ - Added commit [9321c74](https://github.com/Ktt-Development/ktt-development.github.io/commit/9321c74aee9bd41df99d7a82fb4764819a5702b4) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`11 minutes ago`*
+   > cleanup workspace
+   >  > site is being redesigned
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 12, 2020 at 04:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 12, 2020 at 05:51 PM (EST)</p>
