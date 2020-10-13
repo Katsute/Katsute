@@ -55,16 +55,16 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [e83941d](https://github.com/Ktt-Development/ktt-development.github.io/commit/e83941de2caa4337e2c5c92d0c034e0663958edb) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`9 hours ago`*
+ - Added commit [e83941d](https://github.com/Ktt-Development/ktt-development.github.io/commit/e83941de2caa4337e2c5c92d0c034e0663958edb) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`10 hours ago`*
    > start site development; dependencies
- - Added commit [653e008](https://github.com/Ktt-Development/simplehttpserver/commit/653e008d9442a6fcd8b88cffb1b050393e11e9ff) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`11 hours ago`*
+ - Added commit [653e008](https://github.com/Ktt-Development/simplehttpserver/commit/653e008d9442a6fcd8b88cffb1b050393e11e9ff) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`12 hours ago`*
    > typo
- - Added commit [5d8f60d](https://github.com/Ktt-Development/rexedia/commit/5d8f60d1ec60709541deb0dfcf380310f770366b) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`11 hours ago`*
+ - Added commit [5d8f60d](https://github.com/Ktt-Development/rexedia/commit/5d8f60d1ec60709541deb0dfcf380310f770366b) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`12 hours ago`*
    > typo
- - Added commit [a2a8cc1](https://github.com/Ktt-Development/rexedia/commit/a2a8cc16b47afc3227cef7a4203822c582132228) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`11 hours ago`*
+ - Added commit [a2a8cc1](https://github.com/Ktt-Development/rexedia/commit/a2a8cc16b47afc3227cef7a4203822c582132228) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`12 hours ago`*
    > Add release drafter
- - Added commit [79e8dae](https://github.com/Ktt-Development/webdir/commit/79e8daefb3866e8bff145fcee2682e5fbdb4b07c) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`11 hours ago`*
+ - Added commit [79e8dae](https://github.com/Ktt-Development/webdir/commit/79e8daefb3866e8bff145fcee2682e5fbdb4b07c) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`12 hours ago`*
    > Create release_drafter.yml
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 13, 2020 at 07:50 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 13, 2020 at 08:52 AM (EST)</p>
