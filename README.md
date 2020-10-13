@@ -55,15 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [b1b683c](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/b1b683ce2248738e8d1acbd702245f6c727e7782) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`16 minutes ago`*
+ - Closed issue [CircularDependencyChecker false positive (#52)](https://github.com/Ktt-Development/webdir/issues/52) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`38 minutes ago`*
+ - Commented on issue [CircularDependencyChecker false positive (#52)](https://github.com/Ktt-Development/webdir/issues/52#issuecomment-707951676) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`38 minutes ago`*
+   > Fixed in 457377c
+ - Added commit [b1b683c](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/b1b683ce2248738e8d1acbd702245f6c727e7782) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 hour ago`*
    > typo
- - Opened issue [Upgrade to OpenJDK15 (#8)](https://github.com/Ktt-Development/rexedia/issues/8) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
- - Added commit [e83941d](https://github.com/Ktt-Development/ktt-development.github.io/commit/e83941de2caa4337e2c5c92d0c034e0663958edb) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`16 hours ago`*
+ - Opened issue [Upgrade to OpenJDK15 (#8)](https://github.com/Ktt-Development/rexedia/issues/8) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
+ - Added commit [e83941d](https://github.com/Ktt-Development/ktt-development.github.io/commit/e83941de2caa4337e2c5c92d0c034e0663958edb) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`17 hours ago`*
    > start site development; dependencies
- - Added commit [653e008](https://github.com/Ktt-Development/simplehttpserver/commit/653e008d9442a6fcd8b88cffb1b050393e11e9ff) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`18 hours ago`*
-   > typo
- - Added commit [5d8f60d](https://github.com/Ktt-Development/rexedia/commit/5d8f60d1ec60709541deb0dfcf380310f770366b) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`18 hours ago`*
-   > typo
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 13, 2020 at 02:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 13, 2020 at 03:50 PM (EST)</p>
