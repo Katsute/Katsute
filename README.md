@@ -55,21 +55,16 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [6d5fdc8](https://github.com/Ktt-Development/webdir/commit/6d5fdc84d510fc686c184b8c39d9518be0a8a379) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
-   > Bump junit from 4.13 to 4.13.1 in /webdir-generator
-   >  > Bumps [junit](https://github.com/junit-team/junit4) from 4.13 to 4.13.1.
-   >  > - [Release notes](https://github.com/junit-team/junit4/releases)
-   >  > - [Changelog](https://github.com/junit-team/junit4/blob/main/doc/ReleaseNotes4.13.1.md)…
- - Closed pull request [Bump junit from 4.13 to 4.13.1 in /webdir-generator (#56)](https://github.com/Ktt-Development/webdir/pull/56) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
- - Added commit [b06ed62](https://github.com/Ktt-Development/webdir/commit/b06ed62542cf33f0f18f4cf5cff7cf0d10403a20) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
-   > Bump junit from 4.13 to 4.13.1 in /webdir-server
-   >  > Bumps [junit](https://github.com/junit-team/junit4) from 4.13 to 4.13.1.
-   >  > - [Release notes](https://github.com/junit-team/junit4/releases)
-   >  > - [Changelog](https://github.com/junit-team/junit4/blob/main/doc/ReleaseNotes4.13.1.md)…
- - Closed pull request [Bump junit from 4.13 to 4.13.1 in /webdir-server (#57)](https://github.com/Ktt-Development/webdir/pull/57) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
- - Added commit [9321c74](https://github.com/Ktt-Development/ktt-development.github.io/commit/9321c74aee9bd41df99d7a82fb4764819a5702b4) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`2 hours ago`*
-   > cleanup workspace
-   >  > site is being redesigned
+ - Added commit [653e008](https://github.com/Ktt-Development/simplehttpserver/commit/653e008d9442a6fcd8b88cffb1b050393e11e9ff) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`57 minutes ago`*
+   > typo
+ - Added commit [5d8f60d](https://github.com/Ktt-Development/rexedia/commit/5d8f60d1ec60709541deb0dfcf380310f770366b) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`58 minutes ago`*
+   > typo
+ - Added commit [a2a8cc1](https://github.com/Ktt-Development/rexedia/commit/a2a8cc16b47afc3227cef7a4203822c582132228) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+   > Add release drafter
+ - Added commit [79e8dae](https://github.com/Ktt-Development/webdir/commit/79e8daefb3866e8bff145fcee2682e5fbdb4b07c) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+   > Create release_drafter.yml
+ - Added commit [7a4a8c9](https://github.com/Ktt-Development/.github/commit/7a4a8c9bec5c37d50b0dac4ee09841628ac998ff) to branch [main](https://github.com/Ktt-Development/.github/tree/main) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github)  *`1 hour ago`*
+   > Delete release_drafter.yml
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 12, 2020 at 07:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 12, 2020 at 09:19 PM (EST)</p>
