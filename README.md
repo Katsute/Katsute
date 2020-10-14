@@ -55,12 +55,12 @@
 
 ## ⚡ Recent Activity
 
- - Created branch [junit@653e008](https://github.com/Ktt-Development/simplehttpserver/tree/junit@653e008) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
- - Opened issue [Switch to JUnit test methods. (#100)](https://github.com/Ktt-Development/simplehttpserver/issues/100) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
- - Opened issue [Switch to JUnit test methods. (#9)](https://github.com/Ktt-Development/rexedia/issues/9) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
- - Added commit [36715f9](https://github.com/Ktt-Development/ktt-development.github.io/commit/36715f9ae57bffd965cfcd60a39d82d7ea979f58) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`13 hours ago`*
+ - Created branch [junit@653e008](https://github.com/Ktt-Development/simplehttpserver/tree/junit@653e008) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`2 hours ago`*
+ - Opened issue [Switch to JUnit test methods. (#100)](https://github.com/Ktt-Development/simplehttpserver/issues/100) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
+ - Opened issue [Switch to JUnit test methods. (#9)](https://github.com/Ktt-Development/rexedia/issues/9) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
+ - Added commit [36715f9](https://github.com/Ktt-Development/ktt-development.github.io/commit/36715f9ae57bffd965cfcd60a39d82d7ea979f58) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`14 hours ago`*
    > github & repo
- - Opened issue [Send files (#99)](https://github.com/Ktt-Development/simplehttpserver/issues/99) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`15 hours ago`*
+ - Opened issue [Send files (#99)](https://github.com/Ktt-Development/simplehttpserver/issues/99) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`16 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 14, 2020 at 12:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 14, 2020 at 01:51 PM (EST)</p>
