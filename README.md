@@ -55,14 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Commented on issue [Map multipart/form-data to an Object (#95)](https://github.com/Ktt-Development/simplehttpserver/issues/95#issuecomment-708575417) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
-   > - All fields can be required.
-   >  > - Input stream is parsed with UTF-8 encoding.
- - Created branch [junit@653e008](https://github.com/Ktt-Development/simplehttpserver/tree/junit@653e008) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`5 hours ago`*
- - Opened issue [Switch to JUnit test methods. (#100)](https://github.com/Ktt-Development/simplehttpserver/issues/100) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`5 hours ago`*
- - Opened issue [Switch to JUnit test methods. (#9)](https://github.com/Ktt-Development/rexedia/issues/9) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`5 hours ago`*
- - Added commit [36715f9](https://github.com/Ktt-Development/ktt-development.github.io/commit/36715f9ae57bffd965cfcd60a39d82d7ea979f58) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`17 hours ago`*
-   > github & repo
+ - Created branch [files@c416245](https://github.com/Ktt-Development/simplehttpserver/tree/files@c416245) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`32 minutes ago`*
+ - Deleted branch [junit@653e008](https://github.com/Ktt-Development/simplehttpserver/tree/junit@653e008) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`32 minutes ago`*
+ - Added commit [c416245](https://github.com/Ktt-Development/simplehttpserver/commit/c4162457574cdb5a2ee1ac5dea43fa5c6fe4915a) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`32 minutes ago`*
+   > Use JUnit for temporary folders and files. ([#101](https://github.com/Ktt-Development/simplehttpserver/issues/101))
+   >  > * replace core with junit
+   >  > * fix faulty import
+   >  > * Fix missing directory
+ - Closed pull request [Use JUnit for temporary folders and files. (#101)](https://github.com/Ktt-Development/simplehttpserver/pull/101) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`32 minutes ago`*
+ - Closed issue [Switch to JUnit test methods. (#100)](https://github.com/Ktt-Development/simplehttpserver/issues/100) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`32 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 14, 2020 at 04:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 14, 2020 at 05:50 PM (EST)</p>
