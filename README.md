@@ -55,16 +55,16 @@
 
 ## ⚡ Recent Activity
 
- - Deleted branch [junit@5d8f60d](https://github.com/Ktt-Development/rexedia/tree/junit@5d8f60d) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`18 minutes ago`*
- - Added commit [b2214e7](https://github.com/Ktt-Development/rexedia/commit/b2214e7998e63f93fb8e8a180170a324a26e4405) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`18 minutes ago`*
+ - Added commit [d015a57](https://github.com/Ktt-Development/ktt-development.github.io/commit/d015a57cba5493b992a5303964b3bf4e2851b753) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`56 minutes ago`*
+   > rexedia
+ - Deleted branch [junit@5d8f60d](https://github.com/Ktt-Development/rexedia/tree/junit@5d8f60d) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`1 hour ago`*
+ - Added commit [b2214e7](https://github.com/Ktt-Development/rexedia/commit/b2214e7998e63f93fb8e8a180170a324a26e4405) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > Use JUnit temporary folders. ([#10](https://github.com/Ktt-Development/rexedia/issues/10))
    >  > * use junit temporary folders
    >  > * fix local not recognizing missing import
    >  > * fix test cases
- - Closed pull request [Use JUnit temporary folders. (#10)](https://github.com/Ktt-Development/rexedia/pull/10) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`18 minutes ago`*
- - Closed issue [Switch to JUnit test methods. (#9)](https://github.com/Ktt-Development/rexedia/issues/9) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`18 minutes ago`*
- - Added commit [f23f861](https://github.com/Ktt-Development/rexedia/commit/f23f861b269b6358abf196a8efd8873769dc84ff) to branch [junit@5d8f60d](https://github.com/Ktt-Development/rexedia/tree/junit@5d8f60d) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`20 minutes ago`*
-   > fix test cases
+ - Closed pull request [Use JUnit temporary folders. (#10)](https://github.com/Ktt-Development/rexedia/pull/10) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Closed issue [Switch to JUnit test methods. (#9)](https://github.com/Ktt-Development/rexedia/issues/9) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 14, 2020 at 10:50 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 14, 2020 at 11:51 PM (EST)</p>
