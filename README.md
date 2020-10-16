@@ -55,12 +55,12 @@
 
 ## ⚡ Recent Activity
 
- - Deleted branch [junit5@b2214e7](https://github.com/Ktt-Development/rexedia/tree/junit5@b2214e7) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`6 hours ago`*
- - Added commit [3101ecc](https://github.com/Ktt-Development/rexedia/commit/3101eccb1e75e05e308058719ded80950f52f2ac) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`6 hours ago`*
+ - Deleted branch [junit5@b2214e7](https://github.com/Ktt-Development/rexedia/tree/junit5@b2214e7) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`7 hours ago`*
+ - Added commit [3101ecc](https://github.com/Ktt-Development/rexedia/commit/3101eccb1e75e05e308058719ded80950f52f2ac) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`7 hours ago`*
    > Convert tests to JUnit5 + 🧹 ([#12](https://github.com/Ktt-Development/rexedia/issues/12))
- - Closed pull request [Convert tests to JUnit5 (#12)](https://github.com/Ktt-Development/rexedia/pull/12) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`6 hours ago`*
- - Closed issue [Upgrade to JUnit5 (#11)](https://github.com/Ktt-Development/rexedia/issues/11) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`6 hours ago`*
- - Opened pull request [Convert tests to JUnit5 + 🧹 (#12)](https://github.com/Ktt-Development/rexedia/pull/12) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`6 hours ago`*
+ - Closed pull request [Convert tests to JUnit5 (#12)](https://github.com/Ktt-Development/rexedia/pull/12) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`7 hours ago`*
+ - Closed issue [Upgrade to JUnit5 (#11)](https://github.com/Ktt-Development/rexedia/issues/11) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`7 hours ago`*
+ - Opened pull request [Convert tests to JUnit5 + 🧹 (#12)](https://github.com/Ktt-Development/rexedia/pull/12) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`7 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 16, 2020 at 04:51 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 16, 2020 at 05:51 AM (EST)</p>
