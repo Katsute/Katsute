@@ -55,12 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Created branch [multipart/form-data@37692cc](https://github.com/Ktt-Development/simplehttpserver/tree/multipart/form-data@37692cc) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`59 minutes ago`*
- - Deleted branch [multipart/form-data@9f89507](https://github.com/Ktt-Development/simplehttpserver/tree/multipart/form-data@9f89507) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`59 minutes ago`*
- - Deleted branch [junit5@b2214e7](https://github.com/Ktt-Development/rexedia/tree/junit5@b2214e7) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`14 hours ago`*
- - Added commit [3101ecc](https://github.com/Ktt-Development/rexedia/commit/3101eccb1e75e05e308058719ded80950f52f2ac) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`14 hours ago`*
-   > Convert tests to JUnit5 + 🧹 ([#12](https://github.com/Ktt-Development/rexedia/issues/12))
- - Closed pull request [Convert tests to JUnit5 (#12)](https://github.com/Ktt-Development/rexedia/pull/12) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`14 hours ago`*
+ - Added commit [b3ed98c](https://github.com/Ktt-Development/simplehttpserver/commit/b3ed98c4b0ad783bdd8d6cc98bcc87090c72178a) to branch [multipart/form-data@37692cc](https://github.com/Ktt-Development/simplehttpserver/tree/multipart/form-data@37692cc) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`8 minutes ago`*
+   > Added required documentation
+ - Opened pull request [Add multipart/form-data class. Fixed map issue. (#105)](https://github.com/Ktt-Development/simplehttpserver/pull/105) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`28 minutes ago`*
+ - Added commit [bd7d756](https://github.com/Ktt-Development/simplehttpserver/commit/bd7d756c8072ebe66c750cab6603c85d672a4731) to branch [multipart/form-data@37692cc](https://github.com/Ktt-Development/simplehttpserver/tree/multipart/form-data@37692cc) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`31 minutes ago`*
+   > Add multipart/form-data class and subclasses
+ - Created branch [multipart/form-data@37692cc](https://github.com/Ktt-Development/simplehttpserver/tree/multipart/form-data@37692cc) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
+ - Deleted branch [multipart/form-data@9f89507](https://github.com/Ktt-Development/simplehttpserver/tree/multipart/form-data@9f89507) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 16, 2020 at 12:50 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 16, 2020 at 01:51 PM (EST)</p>
