@@ -55,15 +55,12 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [a24731e](https://github.com/Ktt-Development/rexedia/commit/a24731ee147b5173ae3c804944d3ff7a169c40b6) to branch [junit5@b2214e7](https://github.com/Ktt-Development/rexedia/tree/junit5@b2214e7) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 seconds ago`*
-   > Convert tests to JUnit5 + 🧹
- - Deleted branch [junit5@9f89507](https://github.com/Ktt-Development/simplehttpserver/tree/junit5@9f89507) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`21 minutes ago`*
- - Added commit [37692cc](https://github.com/Ktt-Development/simplehttpserver/commit/37692cc7e31e0bb6f46b36e1ba51c921cdf69603) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`22 minutes ago`*
-   > code styling
-   >  > remove extra space on type parameters
- - Closed issue [Upgrade to JUnit5 (#103)](https://github.com/Ktt-Development/simplehttpserver/issues/103) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`29 minutes ago`*
- - Commented on issue [Upgrade to JUnit5 (#103)](https://github.com/Ktt-Development/simplehttpserver/issues/103#issuecomment-709674686) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`29 minutes ago`*
-   > Closed in [#104](https://github.com/Ktt-Development/simplehttpserver/issues/104) 
+ - Deleted branch [junit5@b2214e7](https://github.com/Ktt-Development/rexedia/tree/junit5@b2214e7) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`4 hours ago`*
+ - Added commit [3101ecc](https://github.com/Ktt-Development/rexedia/commit/3101eccb1e75e05e308058719ded80950f52f2ac) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 hours ago`*
+   > Convert tests to JUnit5 + 🧹 ([#12](https://github.com/Ktt-Development/rexedia/issues/12))
+ - Closed pull request [Convert tests to JUnit5 (#12)](https://github.com/Ktt-Development/rexedia/pull/12) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 hours ago`*
+ - Closed issue [Upgrade to JUnit5 (#11)](https://github.com/Ktt-Development/rexedia/issues/11) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 hours ago`*
+ - Opened pull request [Convert tests to JUnit5 + 🧹 (#12)](https://github.com/Ktt-Development/rexedia/pull/12) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 15, 2020 at 09:56 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 16, 2020 at 02:55 AM (EST)</p>
