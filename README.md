@@ -55,12 +55,12 @@
 
 ## ⚡ Recent Activity
 
- - Deleted branch [simplehttpserver-4.0.0@cf30665](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/simplehttpserver-4.0.0@cf30665) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`6 minutes ago`*
- - Created branch [simplehttpserver-4.0.0@cf30665](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/simplehttpserver-4.0.0@cf30665) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`16 minutes ago`*
- - Deleted branch [simplehttpserver-4.0.0@3101ecc](https://github.com/Ktt-Development/rexedia/tree/simplehttpserver-4.0.0@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`17 minutes ago`*
- - Created branch [simplehttpserver-4.0.0@3101ecc](https://github.com/Ktt-Development/rexedia/tree/simplehttpserver-4.0.0@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`18 minutes ago`*
- - Added commit [cf30665](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/cf306658151c5e59853ef1d60df19e1370efce35) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`23 minutes ago`*
-   > fix link color
+ - Added commit [4788a57](https://github.com/Ktt-Development/simplehttpserver/commit/4788a57adc4795d55a266fb2d9413af7f3b8ed01) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`55 minutes ago`*
+   > Fix toString
+ - Deleted branch [simplehttpserver-4.0.0@cf30665](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/simplehttpserver-4.0.0@cf30665) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`1 hour ago`*
+ - Created branch [simplehttpserver-4.0.0@cf30665](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/simplehttpserver-4.0.0@cf30665) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`1 hour ago`*
+ - Deleted branch [simplehttpserver-4.0.0@3101ecc](https://github.com/Ktt-Development/rexedia/tree/simplehttpserver-4.0.0@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`1 hour ago`*
+ - Created branch [simplehttpserver-4.0.0@3101ecc](https://github.com/Ktt-Development/rexedia/tree/simplehttpserver-4.0.0@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 16, 2020 at 05:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 16, 2020 at 06:51 PM (EST)</p>
