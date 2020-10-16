@@ -55,14 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [d9411f0](https://github.com/Ktt-Development/simplehttpserver/commit/d9411f087f17bad882f6ba887538d558b0d8ce19) to branch [junit5@9f89507](https://github.com/Ktt-Development/simplehttpserver/tree/junit5@9f89507) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`4 minutes ago`*
-   > Fix code style issues
- - Opened pull request [Upgrade tests to JUnit5 (#104)](https://github.com/Ktt-Development/simplehttpserver/pull/104) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`8 minutes ago`*
- - Added commit [76694a3](https://github.com/Ktt-Development/simplehttpserver/commit/76694a30ef9fb8ee0fefbcb3362d501850d5ed95) to branch [junit5@9f89507](https://github.com/Ktt-Development/simplehttpserver/tree/junit5@9f89507) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`9 minutes ago`*
-   > Add temporary dir
- - Added commit [fd01dc3](https://github.com/Ktt-Development/simplehttpserver/commit/fd01dc3e4ae666a1c9aa02522528e3e826742d65) to branch [junit5@9f89507](https://github.com/Ktt-Development/simplehttpserver/tree/junit5@9f89507) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`24 minutes ago`*
-   > upgrade tests except temporary folder
- - Created branch [junit5@b2214e7](https://github.com/Ktt-Development/rexedia/tree/junit5@b2214e7) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`1 hour ago`*
+ - Added commit [a24731e](https://github.com/Ktt-Development/rexedia/commit/a24731ee147b5173ae3c804944d3ff7a169c40b6) to branch [junit5@b2214e7](https://github.com/Ktt-Development/rexedia/tree/junit5@b2214e7) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 seconds ago`*
+   > Convert tests to JUnit5 + 🧹
+ - Deleted branch [junit5@9f89507](https://github.com/Ktt-Development/simplehttpserver/tree/junit5@9f89507) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`21 minutes ago`*
+ - Added commit [37692cc](https://github.com/Ktt-Development/simplehttpserver/commit/37692cc7e31e0bb6f46b36e1ba51c921cdf69603) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`22 minutes ago`*
+   > code styling
+   >  > remove extra space on type parameters
+ - Closed issue [Upgrade to JUnit5 (#103)](https://github.com/Ktt-Development/simplehttpserver/issues/103) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`29 minutes ago`*
+ - Commented on issue [Upgrade to JUnit5 (#103)](https://github.com/Ktt-Development/simplehttpserver/issues/103#issuecomment-709674686) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`29 minutes ago`*
+   > Closed in [#104](https://github.com/Ktt-Development/simplehttpserver/issues/104) 
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 15, 2020 at 09:22 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 15, 2020 at 09:56 PM (EST)</p>
