@@ -63,4 +63,4 @@
  - Opened pull request [Convert tests to JUnit5 + 🧹 (#12)](https://github.com/Ktt-Development/rexedia/pull/12) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`11 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 16, 2020 at 09:02 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 16, 2020 at 09:52 AM (EST)</p>
