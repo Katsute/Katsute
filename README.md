@@ -55,13 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [b3ed98c](https://github.com/Ktt-Development/simplehttpserver/commit/b3ed98c4b0ad783bdd8d6cc98bcc87090c72178a) to branch [multipart/form-data@37692cc](https://github.com/Ktt-Development/simplehttpserver/tree/multipart/form-data@37692cc) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`8 minutes ago`*
-   > Added required documentation
- - Opened pull request [Add multipart/form-data class. Fixed map issue. (#105)](https://github.com/Ktt-Development/simplehttpserver/pull/105) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`28 minutes ago`*
- - Added commit [bd7d756](https://github.com/Ktt-Development/simplehttpserver/commit/bd7d756c8072ebe66c750cab6603c85d672a4731) to branch [multipart/form-data@37692cc](https://github.com/Ktt-Development/simplehttpserver/tree/multipart/form-data@37692cc) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`31 minutes ago`*
-   > Add multipart/form-data class and subclasses
- - Created branch [multipart/form-data@37692cc](https://github.com/Ktt-Development/simplehttpserver/tree/multipart/form-data@37692cc) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
- - Deleted branch [multipart/form-data@9f89507](https://github.com/Ktt-Development/simplehttpserver/tree/multipart/form-data@9f89507) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
+ - Created branch [cache@fe4f21a](https://github.com/Ktt-Development/simplehttpserver/tree/cache@fe4f21a) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`13 minutes ago`*
+ - Deleted branch [multipart/form-data@37692cc](https://github.com/Ktt-Development/simplehttpserver/tree/multipart/form-data@37692cc) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`41 minutes ago`*
+ - Added commit [fe4f21a](https://github.com/Ktt-Development/simplehttpserver/commit/fe4f21ad682ab9eb298d448f7449f3688bdb119c) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`41 minutes ago`*
+   > Add multipart/form-data class. Fixed map issue. ([#105](https://github.com/Ktt-Development/simplehttpserver/issues/105))
+   >  > * Add multipart/form-data class and subclasses
+   >  > * Added required documentation
+   >  > * Bug fixes, added required tests…
+ - Closed pull request [Add multipart/form-data class. Fixed map issue. (#105)](https://github.com/Ktt-Development/simplehttpserver/pull/105) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`41 minutes ago`*
+ - Closed issue [Map multipart/form-data to an Object (#95)](https://github.com/Ktt-Development/simplehttpserver/issues/95) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`41 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 16, 2020 at 01:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 16, 2020 at 02:50 PM (EST)</p>
