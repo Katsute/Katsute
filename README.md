@@ -55,12 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [ff75c33](https://github.com/Ktt-Development/rexedia/commit/ff75c3374f376855d08ec987ead2c0d513a12f42) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`13 hours ago`*
+ - Commented on issue [Logger is not printing to console. (#14)](https://github.com/Ktt-Development/rexedia/issues/14#issuecomment-711043949) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 minutes ago`*
+   > Issue is most likely caused by console logger being created AFTER command line args are parsed.
+ - Opened issue [Logger is not printing to console. (#14)](https://github.com/Ktt-Development/rexedia/issues/14) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`10 minutes ago`*
+ - Opened issue [Application can not be deployed as modular. (#13)](https://github.com/Ktt-Development/rexedia/issues/13) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`40 minutes ago`*
+ - Added commit [ff75c33](https://github.com/Ktt-Development/rexedia/commit/ff75c3374f376855d08ec987ead2c0d513a12f42) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`14 hours ago`*
    > wip
- - Created branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`13 hours ago`*
- - Deleted branch [cache@fe4f21a](https://github.com/Ktt-Development/simplehttpserver/tree/cache@fe4f21a) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`14 hours ago`*
- - Created branch [cache@fe4f21a](https://github.com/Ktt-Development/simplehttpserver/tree/cache@fe4f21a) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`14 hours ago`*
- - Created branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`14 hours ago`*
+ - Created branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`14 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 17, 2020 at 11:51 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 17, 2020 at 12:51 PM (EST)</p>
