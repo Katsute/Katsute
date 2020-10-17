@@ -55,11 +55,12 @@
 
 ## ⚡ Recent Activity
 
- - Deleted branch [cache@fe4f21a](https://github.com/Ktt-Development/simplehttpserver/tree/cache@fe4f21a) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`35 minutes ago`*
- - Created branch [cache@fe4f21a](https://github.com/Ktt-Development/simplehttpserver/tree/cache@fe4f21a) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`35 minutes ago`*
- - Created branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`37 minutes ago`*
- - Deleted branch [cache@fe4f21a](https://github.com/Ktt-Development/simplehttpserver/tree/cache@fe4f21a) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`38 minutes ago`*
- - Opened issue [Replace WatchLoad (#106)](https://github.com/Ktt-Development/simplehttpserver/issues/106) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`38 minutes ago`*
+ - Added commit [ff75c33](https://github.com/Ktt-Development/rexedia/commit/ff75c3374f376855d08ec987ead2c0d513a12f42) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`54 minutes ago`*
+   > wip
+ - Created branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`55 minutes ago`*
+ - Deleted branch [cache@fe4f21a](https://github.com/Ktt-Development/simplehttpserver/tree/cache@fe4f21a) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
+ - Created branch [cache@fe4f21a](https://github.com/Ktt-Development/simplehttpserver/tree/cache@fe4f21a) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
+ - Created branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 16, 2020 at 09:56 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 16, 2020 at 10:51 PM (EST)</p>
