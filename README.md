@@ -55,13 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Commented on issue [Logger is not printing to console. (#14)](https://github.com/Ktt-Development/rexedia/issues/14#issuecomment-711043949) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 minutes ago`*
+ - Added commit [8c481c6](https://github.com/Ktt-Development/rexedia/commit/8c481c659e981f1aaacfaa1e92c920f4b2afb6ee) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`13 minutes ago`*
+   > help parameter
+ - Commented on issue [jpackage causes logging to fail. (#14)](https://github.com/Ktt-Development/rexedia/issues/14#issuecomment-711053011) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`23 minutes ago`*
+   > This issue was indeed caused by jpackager. Fixed by adding the `--win-console` flag.
+ - Commented on issue [Logger is not printing to console. (#14)](https://github.com/Ktt-Development/rexedia/issues/14#issuecomment-711043949) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > Issue is most likely caused by console logger being created AFTER command line args are parsed.
- - Opened issue [Logger is not printing to console. (#14)](https://github.com/Ktt-Development/rexedia/issues/14) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`10 minutes ago`*
- - Opened issue [Application can not be deployed as modular. (#13)](https://github.com/Ktt-Development/rexedia/issues/13) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`40 minutes ago`*
- - Added commit [ff75c33](https://github.com/Ktt-Development/rexedia/commit/ff75c3374f376855d08ec987ead2c0d513a12f42) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`14 hours ago`*
-   > wip
- - Created branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`14 hours ago`*
+ - Opened issue [Logger is not printing to console. (#14)](https://github.com/Ktt-Development/rexedia/issues/14) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Opened issue [Application can not be deployed as modular. (#13)](https://github.com/Ktt-Development/rexedia/issues/13) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 17, 2020 at 12:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 17, 2020 at 01:51 PM (EST)</p>
