@@ -55,14 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Opened pull request [start work on watchload removal (#107)](https://github.com/Ktt-Development/simplehttpserver/pull/107) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`18 hours ago`*
- - Added commit [42fc9ed](https://github.com/Ktt-Development/simplehttpserver/commit/42fc9edf39bf9bd77896c1a9beb82ecf0dbce388) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`18 hours ago`*
+ - Added commit [0f342ec](https://github.com/Ktt-Development/simplehttpserver/commit/0f342ecb3ae26d225237f840420771a92a554af2) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`4 minutes ago`*
+   > Fixed test failures
+ - Added commit [499abf1](https://github.com/Ktt-Development/simplehttpserver/commit/499abf13f9511c2d495d6ad2c072c23ffb7c1f7a) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`48 minutes ago`*
+   > remove whitespace
+ - Added commit [cef48c4](https://github.com/Ktt-Development/simplehttpserver/commit/cef48c46989f8b6648f8f90c3c8cc026f6805d0b) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`51 minutes ago`*
+   > Make file handler more efficient
+ - Opened pull request [start work on watchload removal (#107)](https://github.com/Ktt-Development/simplehttpserver/pull/107) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`19 hours ago`*
+ - Added commit [42fc9ed](https://github.com/Ktt-Development/simplehttpserver/commit/42fc9edf39bf9bd77896c1a9beb82ecf0dbce388) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`19 hours ago`*
    > start work on watchload removal
- - Commented on issue [Replace WatchLoad (#106)](https://github.com/Ktt-Development/simplehttpserver/issues/106#issuecomment-711103756) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`19 hours ago`*
-   > Replacement of watchload must take into account directory changes (repopulate files and dirs if null).
- - Added commit [561c4ea](https://github.com/Ktt-Development/rexedia/commit/561c4eae7ff7ebb9a006c9bc4cf754cae0dd04f1) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`19 hours ago`*
-   > Fix tests (moved arg requirement)
- - Opened pull request [Prepare rexedia for deployment. (#15)](https://github.com/Ktt-Development/rexedia/pull/15) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`19 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 18, 2020 at 04:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 18, 2020 at 05:51 PM (EST)</p>
