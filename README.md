@@ -55,14 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [8c481c6](https://github.com/Ktt-Development/rexedia/commit/8c481c659e981f1aaacfaa1e92c920f4b2afb6ee) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`6 hours ago`*
+ - Added commit [561c4ea](https://github.com/Ktt-Development/rexedia/commit/561c4eae7ff7ebb9a006c9bc4cf754cae0dd04f1) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`20 minutes ago`*
+   > Fix tests (moved arg requirement)
+ - Opened pull request [Prepare rexedia for deployment. (#15)](https://github.com/Ktt-Development/rexedia/pull/15) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`22 minutes ago`*
+ - Added commit [0eb3290](https://github.com/Ktt-Development/rexedia/commit/0eb3290049ff182f99841677ae39c15dd783c04f) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`25 minutes ago`*
+   > Finish build script/icon
+ - Added commit [8c481c6](https://github.com/Ktt-Development/rexedia/commit/8c481c659e981f1aaacfaa1e92c920f4b2afb6ee) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`7 hours ago`*
    > help parameter
- - Commented on issue [jpackage causes logging to fail. (#14)](https://github.com/Ktt-Development/rexedia/issues/14#issuecomment-711053011) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`6 hours ago`*
+ - Commented on issue [jpackage causes logging to fail. (#14)](https://github.com/Ktt-Development/rexedia/issues/14#issuecomment-711053011) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`7 hours ago`*
    > This issue was indeed caused by jpackager. Fixed by adding the `--win-console` flag.
- - Commented on issue [Logger is not printing to console. (#14)](https://github.com/Ktt-Development/rexedia/issues/14#issuecomment-711043949) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`7 hours ago`*
-   > Issue is most likely caused by console logger being created AFTER command line args are parsed.
- - Opened issue [Logger is not printing to console. (#14)](https://github.com/Ktt-Development/rexedia/issues/14) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`7 hours ago`*
- - Opened issue [Application can not be deployed as modular. (#13)](https://github.com/Ktt-Development/rexedia/issues/13) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`7 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 17, 2020 at 07:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 17, 2020 at 09:24 PM (EST)</p>
