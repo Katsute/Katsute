@@ -55,14 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Opened pull request [start work on watchload removal (#107)](https://github.com/Ktt-Development/simplehttpserver/pull/107) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`53 minutes ago`*
- - Added commit [42fc9ed](https://github.com/Ktt-Development/simplehttpserver/commit/42fc9edf39bf9bd77896c1a9beb82ecf0dbce388) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`54 minutes ago`*
+ - Opened pull request [start work on watchload removal (#107)](https://github.com/Ktt-Development/simplehttpserver/pull/107) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+ - Added commit [42fc9ed](https://github.com/Ktt-Development/simplehttpserver/commit/42fc9edf39bf9bd77896c1a9beb82ecf0dbce388) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
    > start work on watchload removal
- - Commented on issue [Replace WatchLoad (#106)](https://github.com/Ktt-Development/simplehttpserver/issues/106#issuecomment-711103756) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+ - Commented on issue [Replace WatchLoad (#106)](https://github.com/Ktt-Development/simplehttpserver/issues/106#issuecomment-711103756) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
    > Replacement of watchload must take into account directory changes (repopulate files and dirs if null).
- - Added commit [561c4ea](https://github.com/Ktt-Development/rexedia/commit/561c4eae7ff7ebb9a006c9bc4cf754cae0dd04f1) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Added commit [561c4ea](https://github.com/Ktt-Development/rexedia/commit/561c4eae7ff7ebb9a006c9bc4cf754cae0dd04f1) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
    > Fix tests (moved arg requirement)
- - Opened pull request [Prepare rexedia for deployment. (#15)](https://github.com/Ktt-Development/rexedia/pull/15) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Opened pull request [Prepare rexedia for deployment. (#15)](https://github.com/Ktt-Development/rexedia/pull/15) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 17, 2020 at 10:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 17, 2020 at 11:50 PM (EST)</p>
