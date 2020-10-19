@@ -55,17 +55,17 @@
 
 ## ⚡ Recent Activity
 
- - Commented on issue [Optimize MODLOAD (removed WATCHLOAD) and Add CACHELOAD. (#107)](https://github.com/Ktt-Development/simplehttpserver/pull/107#issuecomment-711487959) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+ - Commented on issue [Optimize MODLOAD (removed WATCHLOAD) and Add CACHELOAD. (#107)](https://github.com/Ktt-Development/simplehttpserver/pull/107#issuecomment-711487959) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
    > Todo: Add one more additional test to make sure that updating a cached file doesn't update a irrelevant cached file.
- - Added commit [6d8ba67](https://github.com/Ktt-Development/simplehttpserver/commit/6d8ba67b3e3d3dc0bb7593597bad5d0843e0a458) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+ - Added commit [6d8ba67](https://github.com/Ktt-Development/simplehttpserver/commit/6d8ba67b3e3d3dc0bb7593597bad5d0843e0a458) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
    > README fixes (again)
- - Added commit [8e9cc65](https://github.com/Ktt-Development/simplehttpserver/commit/8e9cc6591c46dc720721345e10c72a497c9b0336) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+ - Added commit [8e9cc65](https://github.com/Ktt-Development/simplehttpserver/commit/8e9cc6591c46dc720721345e10c72a497c9b0336) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
    > README fixes
- - Added commit [ec6f142](https://github.com/Ktt-Development/simplehttpserver/commit/ec6f1420194da0e67ba6b11cc14be5eb6cb5bd55) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+ - Added commit [ec6f142](https://github.com/Ktt-Development/simplehttpserver/commit/ec6f1420194da0e67ba6b11cc14be5eb6cb5bd55) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
    > code cleanup
- - Added commit [0435069](https://github.com/Ktt-Development/simplehttpserver/commit/04350695890d55fa449ec1367f24f7d8f7aac17b) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
+ - Added commit [0435069](https://github.com/Ktt-Development/simplehttpserver/commit/04350695890d55fa449ec1367f24f7d8f7aac17b) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`3 hours ago`*
    > Added test cases
    >  > Feature is now ready for final review
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 19, 2020 at 12:51 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 19, 2020 at 01:51 AM (EST)</p>
