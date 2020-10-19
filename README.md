@@ -55,18 +55,18 @@
 
 ## ⚡ Recent Activity
 
- - Commented on issue [Implement caching system (#80)](https://github.com/Ktt-Development/simplehttpserver/issues/80#issuecomment-711459696) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`12 seconds ago`*
+ - Commented on issue [Implement caching system (#80)](https://github.com/Ktt-Development/simplehttpserver/issues/80#issuecomment-711459696) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`33 minutes ago`*
    > A timer will not be used because this would introduce some thread instability with multiple threads.
- - Commented on issue [Implement caching system (#80)](https://github.com/Ktt-Development/simplehttpserver/issues/80#issuecomment-711436408) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
+ - Commented on issue [Implement caching system (#80)](https://github.com/Ktt-Development/simplehttpserver/issues/80#issuecomment-711436408) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`3 hours ago`*
    > Instead of a timer instead only clear cache on an exchange.
    >  > Have a long for the closest file expiry and then iterate through each file to clear bytes.
    >  > After read set expiry to `-1` then use that to determine if to read file when accessed again.
  - Added commit [a95b02a](https://github.com/Ktt-Development/simplehttpserver/commit/a95b02ac98dddd31f6a36dd267239378d3f0efb2) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`3 hours ago`*
    > Fixed test failure
- - Added commit [0f342ec](https://github.com/Ktt-Development/simplehttpserver/commit/0f342ecb3ae26d225237f840420771a92a554af2) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`3 hours ago`*
+ - Added commit [0f342ec](https://github.com/Ktt-Development/simplehttpserver/commit/0f342ecb3ae26d225237f840420771a92a554af2) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`4 hours ago`*
    > Fixed test failures
  - Added commit [499abf1](https://github.com/Ktt-Development/simplehttpserver/commit/499abf13f9511c2d495d6ad2c072c23ffb7c1f7a) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`4 hours ago`*
    > remove whitespace
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 18, 2020 at 09:24 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 18, 2020 at 09:57 PM (EST)</p>
