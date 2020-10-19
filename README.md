@@ -55,16 +55,16 @@
 
 ## ⚡ Recent Activity
 
- - Commented on issue [Optimize MODLOAD (removed WATCHLOAD) and Add CACHELOAD. (#107)](https://github.com/Ktt-Development/simplehttpserver/pull/107#issuecomment-712295992) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`59 minutes ago`*
+ - Commented on issue [Optimize MODLOAD (removed WATCHLOAD) and Add CACHELOAD. (#107)](https://github.com/Ktt-Development/simplehttpserver/pull/107#issuecomment-712295992) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
    > CacheAdapter should keep a variable for the closest expiry, then use this to determine when to check all files to clear and set the closest expiry from this.
- - Added commit [8daa53a](https://github.com/Ktt-Development/rexedia/commit/8daa53a8be2d4296a48211fa2af8e49b8da6de16) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
+ - Added commit [8daa53a](https://github.com/Ktt-Development/rexedia/commit/8daa53a8be2d4296a48211fa2af8e49b8da6de16) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 hours ago`*
    > Update README.md
- - Added commit [b17ddc8](https://github.com/Ktt-Development/rexedia/commit/b17ddc8bb4acae926d44a85e234d2d0069e83a84) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
+ - Added commit [b17ddc8](https://github.com/Ktt-Development/rexedia/commit/b17ddc8bb4acae926d44a85e234d2d0069e83a84) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 hours ago`*
    > Update README.md
- - Added commit [aad9add](https://github.com/Ktt-Development/rexedia/commit/aad9add2795cd5e17202dd32be1b48208f3f4cec) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
+ - Added commit [aad9add](https://github.com/Ktt-Development/rexedia/commit/aad9add2795cd5e17202dd32be1b48208f3f4cec) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 hours ago`*
    > Update README.md
- - Added commit [787a93a](https://github.com/Ktt-Development/simplehttpserver/commit/787a93a7279771988c6f38a3769ec44366f74f8e) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
+ - Added commit [787a93a](https://github.com/Ktt-Development/simplehttpserver/commit/787a93a7279771988c6f38a3769ec44366f74f8e) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`3 hours ago`*
    > Update readme
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 19, 2020 at 01:50 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 19, 2020 at 02:51 PM (EST)</p>
