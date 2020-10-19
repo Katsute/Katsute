@@ -55,12 +55,12 @@
 
 ## ⚡ Recent Activity
 
- - Opened issue [Make rexedia only use local FFMPEG/FFPROBE distribution. (#18)](https://github.com/Ktt-Development/rexedia/issues/18) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`50 minutes ago`*
- - Opened pull request [Fix slow verify stage. (#17)](https://github.com/Ktt-Development/rexedia/pull/17) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`54 minutes ago`*
- - Added commit [462d5ea](https://github.com/Ktt-Development/rexedia/commit/462d5ea5c25872f5984b4b691b5f535e1081aa76) to branch [fix-verify@d7d7354](https://github.com/Ktt-Development/rexedia/tree/fix-verify@d7d7354) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`56 minutes ago`*
+ - Opened issue [Make rexedia only use local FFMPEG/FFPROBE distribution. (#18)](https://github.com/Ktt-Development/rexedia/issues/18) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Opened pull request [Fix slow verify stage. (#17)](https://github.com/Ktt-Development/rexedia/pull/17) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Added commit [462d5ea](https://github.com/Ktt-Development/rexedia/commit/462d5ea5c25872f5984b4b691b5f535e1081aa76) to branch [fix-verify@d7d7354](https://github.com/Ktt-Development/rexedia/tree/fix-verify@d7d7354) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > Removed unused method, removed ffprobe frame reading
- - Created branch [fix-verify@d7d7354](https://github.com/Ktt-Development/rexedia/tree/fix-verify@d7d7354) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`1 hour ago`*
- - Opened issue [Verify stage is lengthy (#16)](https://github.com/Ktt-Development/rexedia/issues/16) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Created branch [fix-verify@d7d7354](https://github.com/Ktt-Development/rexedia/tree/fix-verify@d7d7354) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`2 hours ago`*
+ - Opened issue [Verify stage is lengthy (#16)](https://github.com/Ktt-Development/rexedia/issues/16) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 19, 2020 at 06:50 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 19, 2020 at 07:50 PM (EST)</p>
