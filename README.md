@@ -55,19 +55,17 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [0435069](https://github.com/Ktt-Development/simplehttpserver/commit/04350695890d55fa449ec1367f24f7d8f7aac17b) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 minutes ago`*
+ - Commented on issue [Optimize MODLOAD (removed WATCHLOAD) and Add CACHELOAD. (#107)](https://github.com/Ktt-Development/simplehttpserver/pull/107#issuecomment-711487959) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`33 minutes ago`*
+   > Todo: Add one more additional test to make sure that updating a cached file doesn't update a irrelevant cached file.
+ - Added commit [6d8ba67](https://github.com/Ktt-Development/simplehttpserver/commit/6d8ba67b3e3d3dc0bb7593597bad5d0843e0a458) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`53 minutes ago`*
+   > README fixes (again)
+ - Added commit [8e9cc65](https://github.com/Ktt-Development/simplehttpserver/commit/8e9cc6591c46dc720721345e10c72a497c9b0336) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`55 minutes ago`*
+   > README fixes
+ - Added commit [ec6f142](https://github.com/Ktt-Development/simplehttpserver/commit/ec6f1420194da0e67ba6b11cc14be5eb6cb5bd55) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`57 minutes ago`*
+   > code cleanup
+ - Added commit [0435069](https://github.com/Ktt-Development/simplehttpserver/commit/04350695890d55fa449ec1367f24f7d8f7aac17b) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
    > Added test cases
    >  > Feature is now ready for final review
- - Added commit [d558e5b](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/d558e5b659f98285188932093435fdd0a9bb7e83) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`25 minutes ago`*
-   > also
- - Added commit [a26d1bf](https://github.com/Ktt-Development/simplehttpserver/commit/a26d1bf26cf557f4b152d8f3d7f4c23023e1725c) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`42 minutes ago`*
-   > Implement cache [#80](https://github.com/Ktt-Development/simplehttpserver/issues/80)
- - Commented on issue [Implement caching system (#80)](https://github.com/Ktt-Development/simplehttpserver/issues/80#issuecomment-711459696) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
-   > A timer will not be used because this would introduce some thread instability with multiple threads.
- - Commented on issue [Implement caching system (#80)](https://github.com/Ktt-Development/simplehttpserver/issues/80#issuecomment-711436408) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`3 hours ago`*
-   > Instead of a timer instead only clear cache on an exchange.
-   >  > Have a long for the closest file expiry and then iterate through each file to clear bytes.
-   >  > After read set expiry to `-1` then use that to determine if to read file when accessed again.
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 18, 2020 at 10:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 18, 2020 at 11:51 PM (EST)</p>
