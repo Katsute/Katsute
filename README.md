@@ -55,14 +55,12 @@
 
 ## ⚡ Recent Activity
 
- - Created branch [fix-verify@d7d7354](https://github.com/Ktt-Development/rexedia/tree/fix-verify@d7d7354) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`16 minutes ago`*
- - Opened issue [Verify stage is lengthy (#16)](https://github.com/Ktt-Development/rexedia/issues/16) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`18 minutes ago`*
- - Added commit [d7d7354](https://github.com/Ktt-Development/rexedia/commit/d7d7354484233693ed3254f4b51ee0d121b5837c) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
-   > Add pattern syntax tests
- - Added commit [d935a6f](https://github.com/Ktt-Development/simplehttpserver/commit/d935a6fb7d9bec9e6329b02879edabc0f78333c9) to branch [watch&cache@4788a57](https://github.com/Ktt-Development/simplehttpserver/tree/watch&cache@4788a57) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
-   > Optimize when cache is updated
- - Commented on issue [Optimize MODLOAD (removed WATCHLOAD) and Add CACHELOAD. (#107)](https://github.com/Ktt-Development/simplehttpserver/pull/107#issuecomment-712295992) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`4 hours ago`*
-   > CacheAdapter should keep a variable for the closest expiry, then use this to determine when to check all files to clear and set the closest expiry from this.
+ - Opened issue [Make rexedia only use local FFMPEG/FFPROBE distribution. (#18)](https://github.com/Ktt-Development/rexedia/issues/18) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`50 minutes ago`*
+ - Opened pull request [Fix slow verify stage. (#17)](https://github.com/Ktt-Development/rexedia/pull/17) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`54 minutes ago`*
+ - Added commit [462d5ea](https://github.com/Ktt-Development/rexedia/commit/462d5ea5c25872f5984b4b691b5f535e1081aa76) to branch [fix-verify@d7d7354](https://github.com/Ktt-Development/rexedia/tree/fix-verify@d7d7354) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`56 minutes ago`*
+   > Removed unused method, removed ffprobe frame reading
+ - Created branch [fix-verify@d7d7354](https://github.com/Ktt-Development/rexedia/tree/fix-verify@d7d7354) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`1 hour ago`*
+ - Opened issue [Verify stage is lengthy (#16)](https://github.com/Ktt-Development/rexedia/issues/16) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 19, 2020 at 05:50 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 19, 2020 at 06:50 PM (EST)</p>
