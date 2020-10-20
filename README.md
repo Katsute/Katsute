@@ -55,15 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Created branch [simplehttpserver-v4.0.0@1f57c72](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/simplehttpserver-v4.0.0@1f57c72) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com) *`35 minutes ago`*
- - Created branch [simplehttpserver-v4.0.0@ab2f158](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/simplehttpserver-v4.0.0@ab2f158) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`36 minutes ago`*
- - Deleted branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`1 hour ago`*
- - Added commit [81f5cd1](https://github.com/Ktt-Development/rexedia/commit/81f5cd1ed236547e6921d2a77ec7325c59aaad3c) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Deleted branch [simplehttpserver-v4.0.0@1f57c72](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/simplehttpserver-v4.0.0@1f57c72) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com) *`14 minutes ago`*
+ - Created branch [simplehttpserver-v4.0.0@1f57c72](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/simplehttpserver-v4.0.0@1f57c72) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com) *`1 hour ago`*
+ - Created branch [simplehttpserver-v4.0.0@ab2f158](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/simplehttpserver-v4.0.0@ab2f158) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`1 hour ago`*
+ - Deleted branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`2 hours ago`*
+ - Added commit [81f5cd1](https://github.com/Ktt-Development/rexedia/commit/81f5cd1ed236547e6921d2a77ec7325c59aaad3c) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
    > Prepare rexedia for deployment. ([#15](https://github.com/Ktt-Development/rexedia/issues/15))
    >  > * wip
    >  > * help parameter
    >  > * fix [#14](https://github.com/Ktt-Development/rexedia/issues/14); jar → exe…
- - Closed pull request [Prepare rexedia for deployment. (#15)](https://github.com/Ktt-Development/rexedia/pull/15) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 20, 2020 at 03:56 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 20, 2020 at 04:50 PM (EST)</p>
