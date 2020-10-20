@@ -55,15 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Opened issue [Metadata Presets are incomplete. (#19)](https://github.com/Ktt-Development/rexedia/issues/19) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`20 minutes ago`*
- - Added commit [6f094bd](https://github.com/Ktt-Development/ktt-development.github.io/commit/6f094bd23361b9d07a8bccf1dddee3b7f32da861) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`11 hours ago`*
+ - Opened issue [Metadata Presets are incomplete. (#19)](https://github.com/Ktt-Development/rexedia/issues/19) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Added commit [6f094bd](https://github.com/Ktt-Development/ktt-development.github.io/commit/6f094bd23361b9d07a8bccf1dddee3b7f32da861) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`12 hours ago`*
    > Link css, scroll, footer
- - Commented on issue [Prepare rexedia for deployment. (#15)](https://github.com/Ktt-Development/rexedia/pull/15#issuecomment-712539430) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`12 hours ago`*
+ - Commented on issue [Prepare rexedia for deployment. (#15)](https://github.com/Ktt-Development/rexedia/pull/15#issuecomment-712539430) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`13 hours ago`*
    > Branch can merge as soon as it passes final QA tests. First releases slated for end of this week.
- - Added commit [b1a23e2](https://github.com/Ktt-Development/ktt-development.github.io/commit/b1a23e2a5208761dd121ab8a3393b5218245bd5c) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`12 hours ago`*
+ - Added commit [b1a23e2](https://github.com/Ktt-Development/ktt-development.github.io/commit/b1a23e2a5208761dd121ab8a3393b5218245bd5c) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`13 hours ago`*
    > Fix invalid syntax
- - Added commit [f28a93c](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/f28a93cb8e0da88dda4d949f7a9d951df038b1fb) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`12 hours ago`*
+ - Added commit [f28a93c](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/f28a93cb8e0da88dda4d949f7a9d951df038b1fb) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`13 hours ago`*
    > Fix invalid syntax
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 20, 2020 at 10:51 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 20, 2020 at 11:52 AM (EST)</p>
