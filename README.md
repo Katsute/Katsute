@@ -55,15 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Deleted branch [simplehttpserver-v4.0.0@1f57c72](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/simplehttpserver-v4.0.0@1f57c72) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com) *`14 minutes ago`*
- - Created branch [simplehttpserver-v4.0.0@1f57c72](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/simplehttpserver-v4.0.0@1f57c72) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com) *`1 hour ago`*
- - Created branch [simplehttpserver-v4.0.0@ab2f158](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/simplehttpserver-v4.0.0@ab2f158) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`1 hour ago`*
- - Deleted branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`2 hours ago`*
- - Added commit [81f5cd1](https://github.com/Ktt-Development/rexedia/commit/81f5cd1ed236547e6921d2a77ec7325c59aaad3c) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
-   > Prepare rexedia for deployment. ([#15](https://github.com/Ktt-Development/rexedia/issues/15))
-   >  > * wip
-   >  > * help parameter
-   >  > * fix [#14](https://github.com/Ktt-Development/rexedia/issues/14); jar → exe…
+ - Added commit [ffc398a](https://github.com/Ktt-Development/simplehttpserver/commit/ffc398a8f41db3fc0479ed778de6245925920268) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`12 minutes ago`*
+   > Update README.md
+ - Added commit [092b109](https://github.com/Ktt-Development/simplehttpserver/commit/092b10925d5520f15776cfe1967750462f2432c5) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`19 minutes ago`*
+   > Cleaned up documentation
+ - Added commit [27e125d](https://github.com/Ktt-Development/docs.kttdevelopment.com/commit/27e125da9c1492c903ba6347eb1cfd3c5e6f61de) to branch [main](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/main) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com)  *`31 minutes ago`*
+   > Create 404.md
+ - Added commit [3bbedad](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/3bbedad4446fdc5f3d1c001eabe49d6b7ad9452b) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`32 minutes ago`*
+   > Update 404.md
+ - Opened pull request [Add 4.0.0 documentation (#6)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/pull/6) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`32 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 20, 2020 at 04:50 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 20, 2020 at 05:51 PM (EST)</p>
