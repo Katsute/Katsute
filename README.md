@@ -55,17 +55,17 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [f28a93c](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/f28a93cb8e0da88dda4d949f7a9d951df038b1fb) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 minute ago`*
+ - Commented on issue [Prepare rexedia for deployment. (#15)](https://github.com/Ktt-Development/rexedia/pull/15#issuecomment-712539430) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`52 minutes ago`*
+   > Branch can merge as soon as it passes final QA tests. First releases slated for end of this week.
+ - Added commit [b1a23e2](https://github.com/Ktt-Development/ktt-development.github.io/commit/b1a23e2a5208761dd121ab8a3393b5218245bd5c) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`53 minutes ago`*
    > Fix invalid syntax
- - Added commit [2164f30](https://github.com/Ktt-Development/rexedia/commit/2164f307cb22223a3edd08352b1573c1316b6df8) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 minutes ago`*
+ - Added commit [f28a93c](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/f28a93cb8e0da88dda4d949f7a9d951df038b1fb) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`54 minutes ago`*
+   > Fix invalid syntax
+ - Added commit [2164f30](https://github.com/Ktt-Development/rexedia/commit/2164f307cb22223a3edd08352b1573c1316b6df8) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`55 minutes ago`*
    > Fix invalid yaml syntax
- - Added commit [2164f30](https://github.com/Ktt-Development/rexedia/commit/2164f307cb22223a3edd08352b1573c1316b6df8) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 minutes ago`*
-   > Fix invalid yaml syntax
- - Added commit [a047840](https://github.com/Ktt-Development/rexedia/commit/a047840ddc0f41146d5184abaec49936e7e9dcbe) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`9 minutes ago`*
+ - Added commit [a047840](https://github.com/Ktt-Development/rexedia/commit/a047840ddc0f41146d5184abaec49936e7e9dcbe) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > Fix incorrect frame count, add file name to progress
    >  > Now awaiting final QA tests
- - Added commit [440681d](https://github.com/Ktt-Development/rexedia/commit/440681d471eefb21b4e6cb26610dd49ee66408e9) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
-   > Notify on time out +increase timeout
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 19, 2020 at 09:57 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 19, 2020 at 10:50 PM (EST)</p>
