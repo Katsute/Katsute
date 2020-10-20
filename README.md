@@ -55,16 +55,17 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [440681d](https://github.com/Ktt-Development/rexedia/commit/440681d471eefb21b4e6cb26610dd49ee66408e9) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`50 minutes ago`*
+ - Added commit [f28a93c](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/f28a93cb8e0da88dda4d949f7a9d951df038b1fb) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 minute ago`*
+   > Fix invalid syntax
+ - Added commit [2164f30](https://github.com/Ktt-Development/rexedia/commit/2164f307cb22223a3edd08352b1573c1316b6df8) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 minutes ago`*
+   > Fix invalid yaml syntax
+ - Added commit [2164f30](https://github.com/Ktt-Development/rexedia/commit/2164f307cb22223a3edd08352b1573c1316b6df8) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 minutes ago`*
+   > Fix invalid yaml syntax
+ - Added commit [a047840](https://github.com/Ktt-Development/rexedia/commit/a047840ddc0f41146d5184abaec49936e7e9dcbe) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`9 minutes ago`*
+   > Fix incorrect frame count, add file name to progress
+   >  > Now awaiting final QA tests
+ - Added commit [440681d](https://github.com/Ktt-Development/rexedia/commit/440681d471eefb21b4e6cb26610dd49ee66408e9) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > Notify on time out +increase timeout
- - Added commit [4839f1a](https://github.com/Ktt-Development/rexedia/commit/4839f1a73a523fadfc0ab24cd456585c082d7189) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`53 minutes ago`*
-   > Add [#18](https://github.com/Ktt-Development/rexedia/issues/18); Remove unused
- - Deleted branch [fix-verify@d7d7354](https://github.com/Ktt-Development/rexedia/tree/fix-verify@d7d7354) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`1 hour ago`*
- - Added commit [ebd7233](https://github.com/Ktt-Development/rexedia/commit/ebd7233eea318cee23648791dbdd0470d5bba0e6) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
-   > Fix slow verify stage. ([#17](https://github.com/Ktt-Development/rexedia/issues/17))
-   >  > * Removed unused method, removed ffprobe frame reading
-   >  > * Fix [#16](https://github.com/Ktt-Development/rexedia/issues/16)
- - Closed pull request [Fix slow verify stage. (#17)](https://github.com/Ktt-Development/rexedia/pull/17) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 19, 2020 at 09:24 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 19, 2020 at 09:57 PM (EST)</p>
