@@ -55,18 +55,18 @@
 
 ## ⚡ Recent Activity
 
- - Commented on issue [Metadata Presets are incomplete. (#19)](https://github.com/Ktt-Development/rexedia/issues/19#issuecomment-712996561) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`5 minutes ago`*
+ - Added commit [ab2f158](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/ab2f1586900ef4278c7c66bbabb11a2dbd82e160) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`26 minutes ago`*
+   > Fix invalid metadata
+ - Added commit [5b96654](https://github.com/Ktt-Development/rexedia/commit/5b9665404ddb165e82691dde2061165c8ef59036) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`27 minutes ago`*
+   > fix invalid metadata
+ - Commented on issue [Metadata Presets are incomplete. (#19)](https://github.com/Ktt-Development/rexedia/issues/19#issuecomment-712996561) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > This is dependency issue with eo-yaml and has been fixed. 
    >  > For now lists must be typed as below until the dependency is updated.
    >  > > ```yaml
    >  > > key:…
- - Opened issue [Metadata Presets are incomplete. (#19)](https://github.com/Ktt-Development/rexedia/issues/19) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
- - Added commit [6f094bd](https://github.com/Ktt-Development/ktt-development.github.io/commit/6f094bd23361b9d07a8bccf1dddee3b7f32da861) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`13 hours ago`*
+ - Opened issue [Metadata Presets are incomplete. (#19)](https://github.com/Ktt-Development/rexedia/issues/19) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 hours ago`*
+ - Added commit [6f094bd](https://github.com/Ktt-Development/ktt-development.github.io/commit/6f094bd23361b9d07a8bccf1dddee3b7f32da861) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`14 hours ago`*
    > Link css, scroll, footer
- - Commented on issue [Prepare rexedia for deployment. (#15)](https://github.com/Ktt-Development/rexedia/pull/15#issuecomment-712539430) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`14 hours ago`*
-   > Branch can merge as soon as it passes final QA tests. First releases slated for end of this week.
- - Added commit [b1a23e2](https://github.com/Ktt-Development/ktt-development.github.io/commit/b1a23e2a5208761dd121ab8a3393b5218245bd5c) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`14 hours ago`*
-   > Fix invalid syntax
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 20, 2020 at 12:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 20, 2020 at 01:50 PM (EST)</p>
