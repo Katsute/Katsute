@@ -55,18 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [ab2f158](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/ab2f1586900ef4278c7c66bbabb11a2dbd82e160) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`26 minutes ago`*
-   > Fix invalid metadata
- - Added commit [5b96654](https://github.com/Ktt-Development/rexedia/commit/5b9665404ddb165e82691dde2061165c8ef59036) to branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`27 minutes ago`*
-   > fix invalid metadata
- - Commented on issue [Metadata Presets are incomplete. (#19)](https://github.com/Ktt-Development/rexedia/issues/19#issuecomment-712996561) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
-   > This is dependency issue with eo-yaml and has been fixed. 
-   >  > For now lists must be typed as below until the dependency is updated.
-   >  > > ```yaml
-   >  > > key:…
- - Opened issue [Metadata Presets are incomplete. (#19)](https://github.com/Ktt-Development/rexedia/issues/19) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 hours ago`*
- - Added commit [6f094bd](https://github.com/Ktt-Development/ktt-development.github.io/commit/6f094bd23361b9d07a8bccf1dddee3b7f32da861) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`14 hours ago`*
-   > Link css, scroll, footer
+ - Deleted branch [jlink@3101ecc](https://github.com/Ktt-Development/rexedia/tree/jlink@3101ecc) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`23 minutes ago`*
+ - Added commit [81f5cd1](https://github.com/Ktt-Development/rexedia/commit/81f5cd1ed236547e6921d2a77ec7325c59aaad3c) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`23 minutes ago`*
+   > Prepare rexedia for deployment. ([#15](https://github.com/Ktt-Development/rexedia/issues/15))
+   >  > * wip
+   >  > * help parameter
+   >  > * fix [#14](https://github.com/Ktt-Development/rexedia/issues/14); jar → exe…
+ - Closed pull request [Prepare rexedia for deployment. (#15)](https://github.com/Ktt-Development/rexedia/pull/15) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`23 minutes ago`*
+ - Closed issue [Make rexedia only use local FFMPEG/FFPROBE distribution. (#18)](https://github.com/Ktt-Development/rexedia/issues/18) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`23 minutes ago`*
+ - Closed issue [Verify stage is lengthy (#16)](https://github.com/Ktt-Development/rexedia/issues/16) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`23 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 20, 2020 at 01:50 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 20, 2020 at 02:53 PM (EST)</p>
