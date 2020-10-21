@@ -55,16 +55,16 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [74fc750](https://github.com/Ktt-Development/ktt-development.github.io/commit/74fc750cf9f1e493729bd0107f35b272341627ce) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`8 hours ago`*
+ - Added commit [74fc750](https://github.com/Ktt-Development/ktt-development.github.io/commit/74fc750cf9f1e493729bd0107f35b272341627ce) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`9 hours ago`*
    > further optimizations
- - Added commit [d0c423c](https://github.com/Ktt-Development/ktt-development.github.io/commit/d0c423c99f18ae031efd82f079218f09e5e13594) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`8 hours ago`*
+ - Added commit [d0c423c](https://github.com/Ktt-Development/ktt-development.github.io/commit/d0c423c99f18ae031efd82f079218f09e5e13594) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`9 hours ago`*
    > optimizations
- - Added commit [f29b744](https://github.com/Ktt-Development/ktt-development.github.io/commit/f29b7449207bb872de67cbae9d0d3861ff40e694) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`12 hours ago`*
+ - Added commit [f29b744](https://github.com/Ktt-Development/ktt-development.github.io/commit/f29b7449207bb872de67cbae9d0d3861ff40e694) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`13 hours ago`*
    > 404/gh
- - Added commit [ffc398a](https://github.com/Ktt-Development/simplehttpserver/commit/ffc398a8f41db3fc0479ed778de6245925920268) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`13 hours ago`*
+ - Added commit [ffc398a](https://github.com/Ktt-Development/simplehttpserver/commit/ffc398a8f41db3fc0479ed778de6245925920268) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`14 hours ago`*
    > Update README.md
- - Added commit [092b109](https://github.com/Ktt-Development/simplehttpserver/commit/092b10925d5520f15776cfe1967750462f2432c5) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`13 hours ago`*
+ - Added commit [092b109](https://github.com/Ktt-Development/simplehttpserver/commit/092b10925d5520f15776cfe1967750462f2432c5) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`14 hours ago`*
    > Cleaned up documentation
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 21, 2020 at 06:50 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 21, 2020 at 07:51 AM (EST)</p>
