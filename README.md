@@ -57,9 +57,9 @@
 
  - Added commit [f29b744](https://github.com/Ktt-Development/ktt-development.github.io/commit/f29b7449207bb872de67cbae9d0d3861ff40e694) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`3 hours ago`*
    > 404/gh
- - Added commit [ffc398a](https://github.com/Ktt-Development/simplehttpserver/commit/ffc398a8f41db3fc0479ed778de6245925920268) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`3 hours ago`*
+ - Added commit [ffc398a](https://github.com/Ktt-Development/simplehttpserver/commit/ffc398a8f41db3fc0479ed778de6245925920268) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`4 hours ago`*
    > Update README.md
- - Added commit [092b109](https://github.com/Ktt-Development/simplehttpserver/commit/092b10925d5520f15776cfe1967750462f2432c5) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`3 hours ago`*
+ - Added commit [092b109](https://github.com/Ktt-Development/simplehttpserver/commit/092b10925d5520f15776cfe1967750462f2432c5) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`4 hours ago`*
    > Cleaned up documentation
  - Added commit [27e125d](https://github.com/Ktt-Development/docs.kttdevelopment.com/commit/27e125da9c1492c903ba6347eb1cfd3c5e6f61de) to branch [main](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/main) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com)  *`4 hours ago`*
    > Create 404.md
@@ -67,4 +67,4 @@
    > Update 404.md
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 20, 2020 at 09:22 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 20, 2020 at 09:57 PM (EST)</p>
