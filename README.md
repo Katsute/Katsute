@@ -55,14 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Created branch [preset-tool@4ba6baa](https://github.com/Ktt-Development/rexedia/tree/preset-tool@4ba6baa) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`1 hour ago`*
- - Added commit [4ba6baa](https://github.com/Ktt-Development/rexedia/commit/4ba6baae1062166b5078cb362b5a34462b3c038c) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Created branch [preset-tool@4ba6baa](https://github.com/Ktt-Development/rexedia/tree/preset-tool@4ba6baa) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`2 hours ago`*
+ - Added commit [4ba6baa](https://github.com/Ktt-Development/rexedia/commit/4ba6baae1062166b5078cb362b5a34462b3c038c) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
    > Create CNAME
- - Added commit [cd980ce](https://github.com/Ktt-Development/rexedia/commit/cd980ce18834e6c122ff8bcfdbac3f166cba361b) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Added commit [cd980ce](https://github.com/Ktt-Development/rexedia/commit/cd980ce18834e6c122ff8bcfdbac3f166cba361b) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
    > Create index.html
- - Opened issue [Online preset tool (#20)](https://github.com/Ktt-Development/rexedia/issues/20) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
- - Added commit [74fc750](https://github.com/Ktt-Development/ktt-development.github.io/commit/74fc750cf9f1e493729bd0107f35b272341627ce) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`17 hours ago`*
+ - Opened issue [Online preset tool (#20)](https://github.com/Ktt-Development/rexedia/issues/20) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
+ - Added commit [74fc750](https://github.com/Ktt-Development/ktt-development.github.io/commit/74fc750cf9f1e493729bd0107f35b272341627ce) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`18 hours ago`*
    > further optimizations
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 21, 2020 at 03:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 21, 2020 at 04:50 PM (EST)</p>
