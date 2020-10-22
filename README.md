@@ -55,8 +55,8 @@
 
 ## ⚡ Recent Activity
 
- - Opened pull request [Add online preset tool. (#21)](https://github.com/Ktt-Development/rexedia/pull/21) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 hours ago`*
- - Added commit [ba28d03](https://github.com/Ktt-Development/rexedia/commit/ba28d0310b852e17ce8dd2ab50cbb1d4b0111e5e) to branch [preset-tool@4ba6baa](https://github.com/Ktt-Development/rexedia/tree/preset-tool@4ba6baa) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`15 hours ago`*
+ - Opened pull request [Add online preset tool. (#21)](https://github.com/Ktt-Development/rexedia/pull/21) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`5 hours ago`*
+ - Added commit [ba28d03](https://github.com/Ktt-Development/rexedia/commit/ba28d0310b852e17ce8dd2ab50cbb1d4b0111e5e) to branch [preset-tool@4ba6baa](https://github.com/Ktt-Development/rexedia/tree/preset-tool@4ba6baa) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`16 hours ago`*
    > template, regex validation
  - Created branch [preset-tool@4ba6baa](https://github.com/Ktt-Development/rexedia/tree/preset-tool@4ba6baa) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`1 day ago`*
  - Added commit [4ba6baa](https://github.com/Ktt-Development/rexedia/commit/4ba6baae1062166b5078cb362b5a34462b3c038c) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 day ago`*
@@ -65,4 +65,4 @@
    > Create index.html
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 22, 2020 at 02:52 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 22, 2020 at 03:51 PM (EST)</p>
