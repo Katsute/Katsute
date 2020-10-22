@@ -55,15 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [457c56d](https://github.com/Ktt-Development/ktt-development.github.io/commit/457c56d384136a7caeda9518585c86de8c8d08c1) to branch [master](https://github.com/Ktt-Development/ktt-development.github.io/tree/master) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`51 minutes ago`*
+ - Added commit [457c56d](https://github.com/Ktt-Development/ktt-development.github.io/commit/457c56d384136a7caeda9518585c86de8c8d08c1) to branch [master](https://github.com/Ktt-Development/ktt-development.github.io/tree/master) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`1 hour ago`*
    > Update index.html
- - Added commit [e84f18c](https://github.com/Katsute/katsute.github.io/commit/e84f18c3e3368accbcb5ec7db55a253bc736f78d) to branch [main](https://github.com/Katsute/katsute.github.io/tree/main) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io)  *`1 hour ago`*
+ - Added commit [e84f18c](https://github.com/Katsute/katsute.github.io/commit/e84f18c3e3368accbcb5ec7db55a253bc736f78d) to branch [main](https://github.com/Katsute/katsute.github.io/tree/main) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io)  *`2 hours ago`*
    > py
- - Added commit [51bd160](https://github.com/Ktt-Development/rexedia/commit/51bd16069d36f3fb20d07d01f6f5e1e256c6949b) to branch [preset-tool@4ba6baa](https://github.com/Ktt-Development/rexedia/tree/preset-tool@4ba6baa) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Added commit [51bd160](https://github.com/Ktt-Development/rexedia/commit/51bd16069d36f3fb20d07d01f6f5e1e256c6949b) to branch [preset-tool@4ba6baa](https://github.com/Ktt-Development/rexedia/tree/preset-tool@4ba6baa) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
    > Add import
- - Opened pull request [Add online preset tool. (#21)](https://github.com/Ktt-Development/rexedia/pull/21) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`7 hours ago`*
- - Added commit [ba28d03](https://github.com/Ktt-Development/rexedia/commit/ba28d0310b852e17ce8dd2ab50cbb1d4b0111e5e) to branch [preset-tool@4ba6baa](https://github.com/Ktt-Development/rexedia/tree/preset-tool@4ba6baa) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`18 hours ago`*
+ - Opened pull request [Add online preset tool. (#21)](https://github.com/Ktt-Development/rexedia/pull/21) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`8 hours ago`*
+ - Added commit [ba28d03](https://github.com/Ktt-Development/rexedia/commit/ba28d0310b852e17ce8dd2ab50cbb1d4b0111e5e) to branch [preset-tool@4ba6baa](https://github.com/Ktt-Development/rexedia/tree/preset-tool@4ba6baa) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`19 hours ago`*
    > template, regex validation
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 22, 2020 at 05:50 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 22, 2020 at 06:50 PM (EST)</p>
