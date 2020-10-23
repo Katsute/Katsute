@@ -7,6 +7,7 @@ def getStatistics(config):
     gh_user = config['gh_user']
     boolean_includePrivate = config['include_private']
     arr_hideLang = config['hide_lang']
+    int_maxLang = config['max_lang']
 
     int_user_id = gh_user.id
 
@@ -50,11 +51,14 @@ def getStatistics(config):
 
     map_lang = []
 
+    index = 0
     for i in map_lang_contrib:
-        map_lang.append({
-            "name": i[0],
-            "percent": int((float(i[1]) * 100 / double_total) * 100) / 100  # as two point float
-        })
+        if index < int_maxLang:
+            map_lang.append({
+                "name": i[0],
+                "percent": int((float(i[1]) * 100 / double_total) * 100) / 100  # as two point float
+            })
+        index += 1
 
     return {
         'languages' : map_lang,

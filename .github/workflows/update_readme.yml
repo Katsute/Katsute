@@ -5,7 +5,7 @@ on:
       - main
   schedule:
     # Run every hour at an off-peak minute
-    - cron:  '47 * * * *'
+    - cron:  '37 * * * *'
 jobs:
   update_readme:
     name: Update README.md

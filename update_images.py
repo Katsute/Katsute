@@ -10,7 +10,7 @@ from pyvirtualdisplay import Display
 
 import githubUtility
 
-int_languages = 8
+int_languages = 10
 boolean_include_private = True
 arr_hide_lang = ["HTML", "JavaScript", "CSS"]
 
@@ -36,7 +36,8 @@ def main():
     map_statistics = githubUtility.getStatistics({
         'gh_user'           : user,
         'include_private'   : boolean_include_private,
-        'hide_lang'         : arr_hide_lang
+        'hide_lang'         : arr_hide_lang,
+        'max_lang'          : int_languages
     })
 
     css = codecs.open("templates/style.css", "r", encoding="utf-8").read()
