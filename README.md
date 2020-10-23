@@ -55,17 +55,11 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [1e71a31](https://github.com/Katsute/Katsute/commit/1e71a31093018654ac97c24c6e5c55a613983096) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`53 seconds ago`*
-   > typo
- - Added commit [6046b2d](https://github.com/Katsute/Katsute/commit/6046b2defb84d502139e2378c98e29c1ed170035) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`3 minutes ago`*
-   > Update update_images.py
- - Added commit [da7e67e](https://github.com/Katsute/Katsute/commit/da7e67e34f05d5fbbbc07b406e2b819d30e5fa33) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`18 hours ago`*
-   > bug fixes
- - Added commit [762e7ec](https://github.com/Ktt-Development/ktt-development.github.io/commit/762e7ecdd701123f7002e2ec9fd36834b90c921f) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`19 hours ago`*
-   > Fixed GitHub defect.
-   >  > GitHub actions can handle security, why does GitHub pages disable plugins when they are capable of security measures?
- - Added commit [700fe0c](https://github.com/Ktt-Development/ktt-development.github.io/commit/700fe0cc30541f013da0a34d5123d708528c9b65) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`19 hours ago`*
-   > github pages is defective x1
+ - Created branch [del-core@13c604c](https://github.com/Ktt-Development/rexedia/tree/del-core@13c604c) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`1 minute ago`*
+ - Opened issue [Remove volatile dependencies. (#22)](https://github.com/Ktt-Development/rexedia/issues/22) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`3 minutes ago`*
+ - Created tag [79e8dae](https://github.com/Ktt-Development/webdir/tree/79e8dae) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`27 minutes ago`*
+ - Published release [79e8dae](https://github.com/Ktt-Development/webdir/releases/tag/79e8dae) in [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`27 minutes ago`*
+ - Deleted branch [rewrite3@79e8dae](https://github.com/Ktt-Development/webdir/tree/rewrite3@79e8dae) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`29 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 23, 2020 at 04:54 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 23, 2020 at 05:43 PM (EST)</p>
