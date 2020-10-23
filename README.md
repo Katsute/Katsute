@@ -55,16 +55,16 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [da7e67e](https://github.com/Katsute/Katsute/commit/da7e67e34f05d5fbbbc07b406e2b819d30e5fa33) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`10 hours ago`*
+ - Added commit [da7e67e](https://github.com/Katsute/Katsute/commit/da7e67e34f05d5fbbbc07b406e2b819d30e5fa33) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`11 hours ago`*
    > bug fixes
  - Added commit [762e7ec](https://github.com/Ktt-Development/ktt-development.github.io/commit/762e7ecdd701123f7002e2ec9fd36834b90c921f) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`11 hours ago`*
    > Fixed GitHub defect.
    >  > GitHub actions can handle security, why does GitHub pages disable plugins when they are capable of security measures?
- - Added commit [700fe0c](https://github.com/Ktt-Development/ktt-development.github.io/commit/700fe0cc30541f013da0a34d5123d708528c9b65) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`11 hours ago`*
+ - Added commit [700fe0c](https://github.com/Ktt-Development/ktt-development.github.io/commit/700fe0cc30541f013da0a34d5123d708528c9b65) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`12 hours ago`*
    > github pages is defective x1
- - Added commit [c5503cb](https://github.com/Ktt-Development/ktt-development.github.io/commit/c5503cb3fbbc9db90ad8b42330538f93c870b517) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`11 hours ago`*
+ - Added commit [c5503cb](https://github.com/Ktt-Development/ktt-development.github.io/commit/c5503cb3fbbc9db90ad8b42330538f93c870b517) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`12 hours ago`*
    > where tf is the data??????
- - Deleted branch [master](https://github.com/Ktt-Development/ktt-development.github.io/tree/master) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io) *`11 hours ago`*
+ - Deleted branch [master](https://github.com/Ktt-Development/ktt-development.github.io/tree/master) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io) *`12 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 23, 2020 at 08:57 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 23, 2020 at 09:41 AM (EST)</p>
