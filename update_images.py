@@ -12,7 +12,7 @@ import githubUtility
 
 int_languages = 10
 boolean_include_private = True
-arr_hide_lang = ["HTML", "JavaScript", "CSS"]
+arr_hide_lang = ["HTML", "JavaScript", "CSS", "SourceMod"]
 
 int_threshold = 130
 
