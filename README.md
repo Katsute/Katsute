@@ -55,13 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [341796b](https://github.com/Ktt-Development/webdir/commit/341796bc0092e360f64a5a6ee730e74688b3e4e4) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`14 minutes ago`*
+ - Added commit [341796b](https://github.com/Ktt-Development/webdir/commit/341796bc0092e360f64a5a6ee730e74688b3e4e4) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`59 minutes ago`*
    > Clear directory for rewrite
- - Added commit [33f3607](https://github.com/Ktt-Development/rexedia/commit/33f3607de19b19f116ee0a0958aa365cd516cf7a) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`23 minutes ago`*
+ - Added commit [33f3607](https://github.com/Ktt-Development/rexedia/commit/33f3607de19b19f116ee0a0958aa365cd516cf7a) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > Closes [#22](https://github.com/Ktt-Development/rexedia/issues/22)
- - Closed issue [Remove volatile dependencies. (#22)](https://github.com/Ktt-Development/rexedia/issues/22) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`23 minutes ago`*
- - Deleted branch [del-core@13c604c](https://github.com/Ktt-Development/rexedia/tree/del-core@13c604c) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`24 minutes ago`*
- - Created branch [del-core@13c604c](https://github.com/Ktt-Development/rexedia/tree/del-core@13c604c) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`4 hours ago`*
+ - Closed issue [Remove volatile dependencies. (#22)](https://github.com/Ktt-Development/rexedia/issues/22) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Deleted branch [del-core@13c604c](https://github.com/Ktt-Development/rexedia/tree/del-core@13c604c) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`1 hour ago`*
+ - Created branch [del-core@13c604c](https://github.com/Ktt-Development/rexedia/tree/del-core@13c604c) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia) *`5 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 23, 2020 at 09:57 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 23, 2020 at 10:42 PM (EST)</p>
