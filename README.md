@@ -55,14 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Opened issue [Fix company name overflowing (#4)](https://github.com/Ktt-Development/ktt-development.github.io/issues/4) from repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`3 hours ago`*
- - Commented on issue [Dependency loader (#58)](https://github.com/Ktt-Development/webdir/issues/58#issuecomment-715933048) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`7 hours ago`*
+ - Opened issue [Fix company name overflowing (#4)](https://github.com/Ktt-Development/ktt-development.github.io/issues/4) from repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`4 hours ago`*
+ - Commented on issue [Dependency loader (#58)](https://github.com/Ktt-Development/webdir/issues/58#issuecomment-715933048) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`8 hours ago`*
    > Have plugins use their own class loader in the constructor to load external jars?
- - Added commit [341796b](https://github.com/Ktt-Development/webdir/commit/341796bc0092e360f64a5a6ee730e74688b3e4e4) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`20 hours ago`*
+ - Added commit [341796b](https://github.com/Ktt-Development/webdir/commit/341796bc0092e360f64a5a6ee730e74688b3e4e4) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`22 hours ago`*
    > Clear directory for rewrite
- - Added commit [33f3607](https://github.com/Ktt-Development/rexedia/commit/33f3607de19b19f116ee0a0958aa365cd516cf7a) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`21 hours ago`*
+ - Added commit [33f3607](https://github.com/Ktt-Development/rexedia/commit/33f3607de19b19f116ee0a0958aa365cd516cf7a) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`22 hours ago`*
    > Closes [#22](https://github.com/Ktt-Development/rexedia/issues/22)
- - Closed issue [Remove volatile dependencies. (#22)](https://github.com/Ktt-Development/rexedia/issues/22) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`21 hours ago`*
+ - Closed issue [Remove volatile dependencies. (#22)](https://github.com/Ktt-Development/rexedia/issues/22) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`22 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 24, 2020 at 06:42 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 24, 2020 at 07:42 PM (EST)</p>
