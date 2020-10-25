@@ -55,13 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Created branch [toString@ffc398a](https://github.com/Ktt-Development/simplehttpserver/tree/toString@ffc398a) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`11 hours ago`*
- - Opened issue [ToString strings are missing quotes (#108)](https://github.com/Ktt-Development/simplehttpserver/issues/108) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`11 hours ago`*
- - Added commit [63ea7f6](https://github.com/Ktt-Development/ktt-development.github.io/commit/63ea7f69c571aec910d9dae27367c412967839c3) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`13 hours ago`*
+ - Opened pull request [Fix missing quotes around toString string. (#109)](https://github.com/Ktt-Development/simplehttpserver/pull/109) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`7 minutes ago`*
+ - Added commit [8b16ab9](https://github.com/Ktt-Development/simplehttpserver/commit/8b16ab94d41eb8db46abdc26a7c1b3c666db3844) to branch [toString@ffc398a](https://github.com/Ktt-Development/simplehttpserver/tree/toString@ffc398a) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`8 minutes ago`*
+   > Fix [#108](https://github.com/Ktt-Development/simplehttpserver/issues/108)
+ - Created branch [toString@ffc398a](https://github.com/Ktt-Development/simplehttpserver/tree/toString@ffc398a) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`12 hours ago`*
+ - Opened issue [ToString strings are missing quotes (#108)](https://github.com/Ktt-Development/simplehttpserver/issues/108) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`12 hours ago`*
+ - Added commit [63ea7f6](https://github.com/Ktt-Development/ktt-development.github.io/commit/63ea7f69c571aec910d9dae27367c412967839c3) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`14 hours ago`*
    > Fix [#4](https://github.com/Ktt-Development/ktt-development.github.io/issues/4)
- - Closed issue [Fix company name overflowing (#4)](https://github.com/Ktt-Development/ktt-development.github.io/issues/4) from repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`13 hours ago`*
- - Added commit [dc6f0e5](https://github.com/Ktt-Development/webdir/commit/dc6f0e581b4f72925716d929d7eab961fe9bfd09) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`13 hours ago`*
-   > logger
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 25, 2020 at 11:43 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 25, 2020 at 12:48 PM (EST)</p>
