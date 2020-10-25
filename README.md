@@ -55,15 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [452895b](https://github.com/Ktt-Development/rexedia/commit/452895bcdc6f95db33279d605fe4938d2b021879) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`42 minutes ago`*
+ - Added commit [63ea7f6](https://github.com/Ktt-Development/ktt-development.github.io/commit/63ea7f69c571aec910d9dae27367c412967839c3) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`4 minutes ago`*
+   > Fix [#4](https://github.com/Ktt-Development/ktt-development.github.io/issues/4)
+ - Closed issue [Fix company name overflowing (#4)](https://github.com/Ktt-Development/ktt-development.github.io/issues/4) from repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`4 minutes ago`*
+ - Added commit [dc6f0e5](https://github.com/Ktt-Development/webdir/commit/dc6f0e581b4f72925716d929d7eab961fe9bfd09) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`10 minutes ago`*
+   > logger
+ - Added commit [452895b](https://github.com/Ktt-Development/rexedia/commit/452895bcdc6f95db33279d605fe4938d2b021879) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > remove indirect reference
- - Opened issue [Fix company name overflowing (#4)](https://github.com/Ktt-Development/ktt-development.github.io/issues/4) from repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`6 hours ago`*
- - Commented on issue [Dependency loader (#58)](https://github.com/Ktt-Development/webdir/issues/58#issuecomment-715933048) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`10 hours ago`*
-   > Have plugins use their own class loader in the constructor to load external jars?
- - Added commit [341796b](https://github.com/Ktt-Development/webdir/commit/341796bc0092e360f64a5a6ee730e74688b3e4e4) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`23 hours ago`*
-   > Clear directory for rewrite
- - Added commit [33f3607](https://github.com/Ktt-Development/rexedia/commit/33f3607de19b19f116ee0a0958aa365cd516cf7a) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`23 hours ago`*
-   > Closes [#22](https://github.com/Ktt-Development/rexedia/issues/22)
+ - Opened issue [Fix company name overflowing (#4)](https://github.com/Ktt-Development/ktt-development.github.io/issues/4) from repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`7 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 24, 2020 at 09:27 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 24, 2020 at 10:00 PM (EST)</p>
