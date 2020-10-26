@@ -8,6 +8,7 @@ def getStatistics(config):
     boolean_includePrivate = config['include_private']
     arr_hideLang = config['hide_lang']
     int_maxLang = config['max_lang']
+    ignore_repo = config['ignore_repo']
 
     int_user_id = gh_user.id
 
@@ -22,7 +23,7 @@ def getStatistics(config):
     }
 
     for repo in gh_user.get_repos():
-        if repo.private and not boolean_includePrivate:
+        if repo.id in ignore_repo or (repo.private and not boolean_includePrivate):
             continue
 
         # contributions

@@ -12,7 +12,8 @@ import githubUtility
 
 int_languages = 10
 boolean_include_private = True
-arr_hide_lang = ["HTML", "JavaScript", "CSS", "SourcePawn"]
+arr_hide_lang = ["HTML", "JavaScript", "CSS"]
+arr_ignore_repo = [301825182]
 
 int_threshold = 130
 
@@ -37,7 +38,8 @@ def main():
         'gh_user'           : user,
         'include_private'   : boolean_include_private,
         'hide_lang'         : arr_hide_lang,
-        'max_lang'          : int_languages
+        'max_lang'          : int_languages,
+        'ignore_repo'       : arr_ignore_repo
     })
 
     css = codecs.open("templates/style.css", "r", encoding="utf-8").read()
