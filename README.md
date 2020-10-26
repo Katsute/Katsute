@@ -55,14 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Closed issue [Dependency loader (#58)](https://github.com/Ktt-Development/webdir/issues/58) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`6 hours ago`*
- - Commented on issue [Dependency loader (#58)](https://github.com/Ktt-Development/webdir/issues/58#issuecomment-716277295) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`6 hours ago`*
+ - Closed issue [Dependency loader (#58)](https://github.com/Ktt-Development/webdir/issues/58) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`7 hours ago`*
+ - Commented on issue [Dependency loader (#58)](https://github.com/Ktt-Development/webdir/issues/58#issuecomment-716277295) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`7 hours ago`*
    > External dependency loading replies entirely on plugin developers. WebDir isn't designed for non plugin jars.
- - Added commit [e180810](https://github.com/Ktt-Development/webdir/commit/e1808103aac308fc8c2e21fd1f81424cba6bee25) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`6 hours ago`*
+ - Added commit [e180810](https://github.com/Ktt-Development/webdir/commit/e1808103aac308fc8c2e21fd1f81424cba6bee25) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`7 hours ago`*
    > Add permissions except permissions
- - Closed issue [Use glob syntax instead of strict */! (#53)](https://github.com/Ktt-Development/webdir/issues/53) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`7 hours ago`*
- - Commented on issue [Use glob syntax instead of strict */! (#53)](https://github.com/Ktt-Development/webdir/issues/53#issuecomment-716262105) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`7 hours ago`*
+ - Closed issue [Use glob syntax instead of strict */! (#53)](https://github.com/Ktt-Development/webdir/issues/53) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`8 hours ago`*
+ - Commented on issue [Use glob syntax instead of strict */! (#53)](https://github.com/Ktt-Development/webdir/issues/53#issuecomment-716262105) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`8 hours ago`*
    > The regex system is still used by a non-file class and thus makes the removal unreasonable. This request will be dropped.
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 26, 2020 at 05:44 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 26, 2020 at 06:46 AM (EST)</p>
