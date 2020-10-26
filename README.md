@@ -55,8 +55,8 @@
 
 ## ⚡ Recent Activity
 
- - Closed issue [Update to JUnit5 (#59)](https://github.com/Ktt-Development/webdir/issues/59) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
- - Added commit [6214d1c](https://github.com/Ktt-Development/webdir/commit/6214d1ca4746d9de2f7d27980f4115d8816d1198) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 hours ago`*
+ - Closed issue [Update to JUnit5 (#59)](https://github.com/Ktt-Development/webdir/issues/59) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 hours ago`*
+ - Added commit [6214d1c](https://github.com/Ktt-Development/webdir/commit/6214d1ca4746d9de2f7d27980f4115d8816d1198) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`4 hours ago`*
    > Finish configuration service
  - Added commit [1b3198b](https://github.com/Ktt-Development/webdir/commit/1b3198b3ed000320f60aa1911be9e3b9b84ba2b6) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`7 hours ago`*
    > configuration (TODO)
@@ -65,4 +65,4 @@
  - Closed issue [Distribution has duplicate binaries. (#23)](https://github.com/Ktt-Development/rexedia/issues/23) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`8 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 25, 2020 at 09:26 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 25, 2020 at 10:01 PM (EST)</p>
