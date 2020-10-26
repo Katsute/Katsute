@@ -55,14 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Closed issue [Update to JUnit5 (#59)](https://github.com/Ktt-Development/webdir/issues/59) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 hours ago`*
+ - Closed issue [Use glob syntax instead of strict */! (#53)](https://github.com/Ktt-Development/webdir/issues/53) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`40 minutes ago`*
+ - Commented on issue [Use glob syntax instead of strict */! (#53)](https://github.com/Ktt-Development/webdir/issues/53#issuecomment-716262105) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`40 minutes ago`*
+   > The regex system is still used by a non-file class and thus makes the removal unreasonable. This request will be dropped.
+ - Closed issue [Update to JUnit5 (#59)](https://github.com/Ktt-Development/webdir/issues/59) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`4 hours ago`*
  - Added commit [6214d1c](https://github.com/Ktt-Development/webdir/commit/6214d1ca4746d9de2f7d27980f4115d8816d1198) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`4 hours ago`*
    > Finish configuration service
- - Added commit [1b3198b](https://github.com/Ktt-Development/webdir/commit/1b3198b3ed000320f60aa1911be9e3b9b84ba2b6) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`7 hours ago`*
+ - Added commit [1b3198b](https://github.com/Ktt-Development/webdir/commit/1b3198b3ed000320f60aa1911be9e3b9b84ba2b6) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`8 hours ago`*
    > configuration (TODO)
- - Added commit [c5d694b](https://github.com/Ktt-Development/rexedia/commit/c5d694b522788a0f339ce90f3bdaf8576914abb9) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`8 hours ago`*
-   > Fix [#23](https://github.com/Ktt-Development/rexedia/issues/23)
- - Closed issue [Distribution has duplicate binaries. (#23)](https://github.com/Ktt-Development/rexedia/issues/23) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`8 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 25, 2020 at 10:01 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 25, 2020 at 10:44 PM (EST)</p>
