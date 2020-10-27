@@ -66,4 +66,4 @@
    > External dependency loading replies entirely on plugin developers. WebDir isn't designed for non plugin jars.
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 26, 2020 at 09:26 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 26, 2020 at 10:02 PM (EST)</p>
