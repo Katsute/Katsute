@@ -55,15 +55,17 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [31d32f9](https://github.com/Ktt-Development/webdir/commit/31d32f9ae6c3d36c2805154401a7f28e4148d3b2) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`4 hours ago`*
+ - Added commit [91dbd5b](https://github.com/Katsute/Katsute/commit/91dbd5b5ac7c59be5780e5a81291adc0d4f2b1e4) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`1 minute ago`*
+   > bug fixes
+ - Commented on commit [4f36ae5](https://github.com/Ktt-Development/webdir/commit/4f36ae5d3e8cb5682180e09e6c8848af313b89ef#commitcomment-43605716) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`12 hours ago`*
+   > Mistake: this commit finishes locale, permissions were finished in the last commit.
+ - Added commit [4f36ae5](https://github.com/Ktt-Development/webdir/commit/4f36ae5d3e8cb5682180e09e6c8848af313b89ef) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`12 hours ago`*
+   > Finish permissions; start page rendering framework
+   >  > Development is currently ahead of schedule.
+ - Added commit [31d32f9](https://github.com/Ktt-Development/webdir/commit/31d32f9ae6c3d36c2805154401a7f28e4148d3b2) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`17 hours ago`*
    > finish permissions
- - Added commit [16e61b0](https://github.com/Ktt-Development/webdir/commit/16e61b0621f8a07c9137b8afaa015aaeca1fad83) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`6 hours ago`*
+ - Added commit [16e61b0](https://github.com/Ktt-Development/webdir/commit/16e61b0621f8a07c9137b8afaa015aaeca1fad83) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`19 hours ago`*
    > Add permissions tests; bug fixes
- - Added commit [25064a1](https://github.com/Katsute/Katsute/commit/25064a159cb17a843158a9e3dfb7dae383513a21) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`8 hours ago`*
-   > Add ignore
- - Closed issue [Dependency loader (#58)](https://github.com/Ktt-Development/webdir/issues/58) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`23 hours ago`*
- - Commented on issue [Dependency loader (#58)](https://github.com/Ktt-Development/webdir/issues/58#issuecomment-716277295) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`23 hours ago`*
-   > External dependency loading replies entirely on plugin developers. WebDir isn't designed for non plugin jars.
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 26, 2020 at 10:44 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 27, 2020 at 11:51 AM (EST)</p>
