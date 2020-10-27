@@ -55,16 +55,16 @@
 
 ## ⚡ Recent Activity
 
- - Opened issue [Potential JRE dependency issues. (#60)](https://github.com/Ktt-Development/webdir/issues/60) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`7 minutes ago`*
- - Added commit [b1d1203](https://github.com/Ktt-Development/.github/commit/b1d12038dfba6d4cc040068b501c3f3ddf90c01c) to branch [main](https://github.com/Ktt-Development/.github/tree/main) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github)  *`30 minutes ago`*
+ - Opened issue [Potential JRE dependency issues. (#60)](https://github.com/Ktt-Development/webdir/issues/60) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+ - Added commit [b1d1203](https://github.com/Ktt-Development/.github/commit/b1d12038dfba6d4cc040068b501c3f3ddf90c01c) to branch [main](https://github.com/Ktt-Development/.github/tree/main) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github)  *`1 hour ago`*
    > Update CONTRIBUTING.md
- - Added commit [91dbd5b](https://github.com/Katsute/Katsute/commit/91dbd5b5ac7c59be5780e5a81291adc0d4f2b1e4) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`2 hours ago`*
+ - Added commit [91dbd5b](https://github.com/Katsute/Katsute/commit/91dbd5b5ac7c59be5780e5a81291adc0d4f2b1e4) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`3 hours ago`*
    > bug fixes
- - Commented on commit [4f36ae5](https://github.com/Ktt-Development/webdir/commit/4f36ae5d3e8cb5682180e09e6c8848af313b89ef#commitcomment-43605716) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`15 hours ago`*
+ - Commented on commit [4f36ae5](https://github.com/Ktt-Development/webdir/commit/4f36ae5d3e8cb5682180e09e6c8848af313b89ef#commitcomment-43605716) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`16 hours ago`*
    > Mistake: this commit finishes locale, permissions were finished in the last commit.
- - Added commit [4f36ae5](https://github.com/Ktt-Development/webdir/commit/4f36ae5d3e8cb5682180e09e6c8848af313b89ef) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`15 hours ago`*
+ - Added commit [4f36ae5](https://github.com/Ktt-Development/webdir/commit/4f36ae5d3e8cb5682180e09e6c8848af313b89ef) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`16 hours ago`*
    > Finish permissions; start page rendering framework
    >  > Development is currently ahead of schedule.
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 27, 2020 at 02:46 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 27, 2020 at 03:42 PM (EST)</p>
