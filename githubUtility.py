@@ -81,7 +81,7 @@ def getEventAsMarkdown(github, event, now, max_lines=4):
     if etype == "CommitCommentEvent":
         comment = payload["comment"]
         return f"Commented on commit " \
-               f"[{comment['commit']['sha'][0:7]}]({comment.html_url}) " \
+               f"[{comment['commit_id'][0:7]}]({comment['html_url']}) " \
                f"in repository {str_repo_name} " \
                f"{str_time_ago}" + \
                __quote(comment['body'], str_repo_url, max_lines)
