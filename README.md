@@ -55,15 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [11d028d](https://github.com/Ktt-Development/webdir/commit/11d028dff2c7650095b171623d2cf7cf2ea2bd60) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`11 hours ago`*
+ - Added commit [11d028d](https://github.com/Ktt-Development/webdir/commit/11d028dff2c7650095b171623d2cf7cf2ea2bd60) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`12 hours ago`*
    > Finished plugin loading except tests
    >  > Closes [#54](https://github.com/Ktt-Development/webdir/issues/54)
- - Closed issue [Switch to eo-yaml (#54)](https://github.com/Ktt-Development/webdir/issues/54) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`11 hours ago`*
- - Added commit [36bd02f](https://github.com/Ktt-Development/webdir/commit/36bd02feafaf4612ac4c83d537d710f59921b203) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`16 hours ago`*
+ - Closed issue [Switch to eo-yaml (#54)](https://github.com/Ktt-Development/webdir/issues/54) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`12 hours ago`*
+ - Added commit [36bd02f](https://github.com/Ktt-Development/webdir/commit/36bd02feafaf4612ac4c83d537d710f59921b203) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`17 hours ago`*
    > WIP: Plugin loading
- - Opened issue [Potential JRE dependency issues. (#60)](https://github.com/Ktt-Development/webdir/issues/60) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`20 hours ago`*
- - Added commit [b1d1203](https://github.com/Ktt-Development/.github/commit/b1d12038dfba6d4cc040068b501c3f3ddf90c01c) to branch [main](https://github.com/Ktt-Development/.github/tree/main) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github)  *`20 hours ago`*
+ - Opened issue [Potential JRE dependency issues. (#60)](https://github.com/Ktt-Development/webdir/issues/60) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`21 hours ago`*
+ - Added commit [b1d1203](https://github.com/Ktt-Development/.github/commit/b1d12038dfba6d4cc040068b501c3f3ddf90c01c) to branch [main](https://github.com/Ktt-Development/.github/tree/main) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github)  *`21 hours ago`*
    > Update CONTRIBUTING.md
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 28, 2020 at 10:45 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 28, 2020 at 11:48 AM (EST)</p>
