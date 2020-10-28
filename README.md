@@ -55,15 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [a73802b](https://github.com/Ktt-Development/webdir/commit/a73802b5a2d6fc58ab91050475a5bd6fec406fde) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`38 minutes ago`*
+ - Added commit [a73802b](https://github.com/Ktt-Development/webdir/commit/a73802b5a2d6fc58ab91050475a5bd6fec406fde) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
    > Finished plugin tests, bug fixes
- - Created branch [main](https://github.com/Katsute/Ktt-Development-Bot/tree/main) in repository [Katsute/Ktt-Development-Bot](https://github.com/Katsute/Ktt-Development-Bot) *`3 hours ago`*
- - Created repository [Katsute/Ktt-Development-Bot](https://github.com/Katsute/Ktt-Development-Bot)  *`3 hours ago`*
- - Added commit [8a1ff63](https://github.com/Ktt-Development/webdir/commit/8a1ff6388f0e60ae6c5071ad12e12d2c750dc3ca) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 hours ago`*
+ - Created branch [main](https://github.com/Katsute/Ktt-Development-Bot/tree/main) in repository [Katsute/Ktt-Development-Bot](https://github.com/Katsute/Ktt-Development-Bot) *`4 hours ago`*
+ - Created repository [Katsute/Ktt-Development-Bot](https://github.com/Katsute/Ktt-Development-Bot)  *`4 hours ago`*
+ - Added commit [8a1ff63](https://github.com/Ktt-Development/webdir/commit/8a1ff6388f0e60ae6c5071ad12e12d2c750dc3ca) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`4 hours ago`*
    > Added test plugins. Tests still missing.
- - Added commit [11d028d](https://github.com/Ktt-Development/webdir/commit/11d028dff2c7650095b171623d2cf7cf2ea2bd60) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`18 hours ago`*
+ - Added commit [11d028d](https://github.com/Ktt-Development/webdir/commit/11d028dff2c7650095b171623d2cf7cf2ea2bd60) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`19 hours ago`*
    > Finished plugin loading except tests
    >  > Closes [#54](https://github.com/Ktt-Development/webdir/issues/54)
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 28, 2020 at 05:44 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 28, 2020 at 06:44 PM (EST)</p>
