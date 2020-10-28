@@ -57,8 +57,8 @@
 
  - Added commit [36bd02f](https://github.com/Ktt-Development/webdir/commit/36bd02feafaf4612ac4c83d537d710f59921b203) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`4 hours ago`*
    > WIP: Plugin loading
- - Opened issue [Potential JRE dependency issues. (#60)](https://github.com/Ktt-Development/webdir/issues/60) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`7 hours ago`*
- - Added commit [b1d1203](https://github.com/Ktt-Development/.github/commit/b1d12038dfba6d4cc040068b501c3f3ddf90c01c) to branch [main](https://github.com/Ktt-Development/.github/tree/main) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github)  *`7 hours ago`*
+ - Opened issue [Potential JRE dependency issues. (#60)](https://github.com/Ktt-Development/webdir/issues/60) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`8 hours ago`*
+ - Added commit [b1d1203](https://github.com/Ktt-Development/.github/commit/b1d12038dfba6d4cc040068b501c3f3ddf90c01c) to branch [main](https://github.com/Ktt-Development/.github/tree/main) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github)  *`8 hours ago`*
    > Update CONTRIBUTING.md
  - Added commit [91dbd5b](https://github.com/Katsute/Katsute/commit/91dbd5b5ac7c59be5780e5a81291adc0d4f2b1e4) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`10 hours ago`*
    > bug fixes
@@ -66,4 +66,4 @@
    > Mistake: this commit finishes locale, permissions were finished in the last commit.
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 27, 2020 at 10:04 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 27, 2020 at 10:46 PM (EST)</p>
