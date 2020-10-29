@@ -12,8 +12,8 @@ import githubUtility
 
 int_languages = 10
 boolean_include_private = True
-arr_hide_lang = ["HTML", "JavaScript", "CSS"]
-arr_ignore_repo = [301825182]
+arr_hide_lang = []  # ["HTML", "JavaScript", "CSS"]
+arr_ignore_repo = [227929443, 282546673, 301825182]  # mf, docs, tf
 
 int_threshold = 130
 
