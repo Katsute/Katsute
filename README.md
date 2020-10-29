@@ -55,18 +55,17 @@
 
 ## ⚡ Recent Activity
 
- - Commented on issue [Multiple internal failures. (#14)](https://github.com/Katsute/GitHub-Downloader/issues/14#issuecomment-718778106) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`35 minutes ago`*
+ - Added commit [c1832c4](https://github.com/Katsute/GitHub-Downloader/commit/c1832c4366bb44c103461f02906771464c4d9204) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`7 minutes ago`*
+   > bug fixes
+ - Deleted branch [#14@ab06323](https://github.com/Katsute/GitHub-Downloader/tree/#14@ab06323) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader) *`9 minutes ago`*
+ - Added commit [903c793](https://github.com/Katsute/GitHub-Downloader/commit/903c7936f8702f9bbf0488dbe4148037db5d59b4) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`10 minutes ago`*
+   > Add warnings for [#14](https://github.com/Katsute/GitHub-Downloader/issues/14)
+ - Created branch [#14@ab06323](https://github.com/Katsute/GitHub-Downloader/tree/#14@ab06323) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader) *`38 minutes ago`*
+ - Commented on issue [Multiple internal failures. (#14)](https://github.com/Katsute/GitHub-Downloader/issues/14#issuecomment-718778106) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`1 hour ago`*
    > **Probable fixes:**
    >  > File may not be writable:
    >  > ```java
    >  > if(file.exists() && !file.canWrite()){…
- - Opened issue [Multiple internal failures. (#14)](https://github.com/Katsute/GitHub-Downloader/issues/14) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`55 minutes ago`*
- - Added commit [68dfe4c](https://github.com/Ktt-Development/webdir/commit/68dfe4cb5fa7f2a3ff26482341046bc7fa29407b) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`10 hours ago`*
-   > Update java-ci.yml
- - Added commit [471cdf0](https://github.com/Ktt-Development/webdir/commit/471cdf0f493c44303d011952705cbe87abba62fd) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`11 hours ago`*
-   > Expand YamlUtility; Add file renderer except tests
- - Added commit [a73802b](https://github.com/Ktt-Development/webdir/commit/a73802b5a2d6fc58ab91050475a5bd6fec406fde) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`17 hours ago`*
-   > Finished plugin tests, bug fixes
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 29, 2020 at 10:45 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 29, 2020 at 11:44 AM (EST)</p>
