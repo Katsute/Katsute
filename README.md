@@ -55,14 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [46163c5](https://github.com/Katsute/Katsute/commit/46163c51b17ca014be293a5614728193616fb183) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`2 hours ago`*
+ - Deleted branch [gh-pages](https://github.com/Katsute/katsute.github.io/tree/gh-pages) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io) *`8 minutes ago`*
+ - Deleted branch [convert-to-jekyll@e84f18c](https://github.com/Katsute/katsute.github.io/tree/convert-to-jekyll@e84f18c) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io) *`8 minutes ago`*
+ - Added commit [946ba85](https://github.com/Katsute/katsute.github.io/commit/946ba850f63744ab66cf18d1abb0627bf1be835f) to branch [main](https://github.com/Katsute/katsute.github.io/tree/main) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io)  *`10 minutes ago`*
+   > bug fix
+ - Added commit [a3e5350](https://github.com/Katsute/katsute.github.io/commit/a3e5350d2fd2192541abb05fcc8182e6534a17bc) to branch [main](https://github.com/Katsute/katsute.github.io/tree/main) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io)  *`13 minutes ago`*
+   > convert to jekyll pages
+ - Added commit [46163c5](https://github.com/Katsute/Katsute/commit/46163c51b17ca014be293a5614728193616fb183) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`3 hours ago`*
    > hide docs
- - Created branch [convert-to-jekyll@e84f18c](https://github.com/Katsute/katsute.github.io/tree/convert-to-jekyll@e84f18c) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io) *`2 hours ago`*
- - Commented on issue [Multiple internal failures. (#14)](https://github.com/Katsute/GitHub-Downloader/issues/14#issuecomment-718856614) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`4 hours ago`*
-   > This is [confirmed](https://appuals.com/how-to-fix-folder-keeps-reverting-to-read-only-on-windows-10/) to be an issue with the latest Windows 10 Update. No changes are needed.
- - Commented on issue [Multiple internal failures. (#14)](https://github.com/Katsute/GitHub-Downloader/issues/14#issuecomment-718846003) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`4 hours ago`*
-   > This is a windows permissions issue. Works fine depending on directory.
- - Closed issue [Multiple internal failures. (#14)](https://github.com/Katsute/GitHub-Downloader/issues/14) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`4 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 29, 2020 at 04:40 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 29, 2020 at 05:40 PM (EST)</p>
