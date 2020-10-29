@@ -55,17 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [c1832c4](https://github.com/Katsute/GitHub-Downloader/commit/c1832c4366bb44c103461f02906771464c4d9204) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`7 minutes ago`*
-   > bug fixes
- - Deleted branch [#14@ab06323](https://github.com/Katsute/GitHub-Downloader/tree/#14@ab06323) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader) *`9 minutes ago`*
- - Added commit [903c793](https://github.com/Katsute/GitHub-Downloader/commit/903c7936f8702f9bbf0488dbe4148037db5d59b4) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`10 minutes ago`*
-   > Add warnings for [#14](https://github.com/Katsute/GitHub-Downloader/issues/14)
- - Created branch [#14@ab06323](https://github.com/Katsute/GitHub-Downloader/tree/#14@ab06323) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader) *`38 minutes ago`*
- - Commented on issue [Multiple internal failures. (#14)](https://github.com/Katsute/GitHub-Downloader/issues/14#issuecomment-718778106) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`1 hour ago`*
-   > **Probable fixes:**
-   >  > File may not be writable:
-   >  > ```java
-   >  > if(file.exists() && !file.canWrite()){…
+ - Commented on issue [Multiple internal failures. (#14)](https://github.com/Katsute/GitHub-Downloader/issues/14#issuecomment-718856614) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`40 minutes ago`*
+   > This is [confirmed](https://appuals.com/how-to-fix-folder-keeps-reverting-to-read-only-on-windows-10/) to be an issue with the latest Windows 10 Update. No changes are needed.
+ - Commented on issue [Multiple internal failures. (#14)](https://github.com/Katsute/GitHub-Downloader/issues/14#issuecomment-718846003) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`56 minutes ago`*
+   > This is a windows permissions issue. Works fine depending on directory.
+ - Closed issue [Multiple internal failures. (#14)](https://github.com/Katsute/GitHub-Downloader/issues/14) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`56 minutes ago`*
+ - Added commit [4cd9105](https://github.com/Katsute/GitHub-Downloader/commit/4cd9105c4d022afa7f720bc5e390e411585de6c4) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`56 minutes ago`*
+   > catch failure
+ - Added commit [d2e37db](https://github.com/Katsute/GitHub-Downloader/commit/d2e37db9e875780b06338a42bc8e7c1be2871de6) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`1 hour ago`*
+   > revert commit
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 29, 2020 at 11:44 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 29, 2020 at 12:49 PM (EST)</p>
