@@ -55,14 +55,18 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [68dfe4c](https://github.com/Ktt-Development/webdir/commit/68dfe4cb5fa7f2a3ff26482341046bc7fa29407b) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`9 hours ago`*
+ - Commented on issue [Multiple internal failures. (#14)](https://github.com/Katsute/GitHub-Downloader/issues/14#issuecomment-718778106) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`35 minutes ago`*
+   > **Probable fixes:**
+   >  > File may not be writable:
+   >  > ```java
+   >  > if(file.exists() && !file.canWrite()){…
+ - Opened issue [Multiple internal failures. (#14)](https://github.com/Katsute/GitHub-Downloader/issues/14) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`55 minutes ago`*
+ - Added commit [68dfe4c](https://github.com/Ktt-Development/webdir/commit/68dfe4cb5fa7f2a3ff26482341046bc7fa29407b) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`10 hours ago`*
    > Update java-ci.yml
- - Added commit [471cdf0](https://github.com/Ktt-Development/webdir/commit/471cdf0f493c44303d011952705cbe87abba62fd) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`10 hours ago`*
+ - Added commit [471cdf0](https://github.com/Ktt-Development/webdir/commit/471cdf0f493c44303d011952705cbe87abba62fd) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`11 hours ago`*
    > Expand YamlUtility; Add file renderer except tests
- - Added commit [a73802b](https://github.com/Ktt-Development/webdir/commit/a73802b5a2d6fc58ab91050475a5bd6fec406fde) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`16 hours ago`*
+ - Added commit [a73802b](https://github.com/Ktt-Development/webdir/commit/a73802b5a2d6fc58ab91050475a5bd6fec406fde) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`17 hours ago`*
    > Finished plugin tests, bug fixes
- - Created branch [main](https://github.com/Katsute/Ktt-Development-Bot/tree/main) in repository [Katsute/Ktt-Development-Bot](https://github.com/Katsute/Ktt-Development-Bot) *`19 hours ago`*
- - Created repository [Katsute/Ktt-Development-Bot](https://github.com/Katsute/Ktt-Development-Bot)  *`19 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 29, 2020 at 09:43 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 29, 2020 at 10:45 AM (EST)</p>
