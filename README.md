@@ -55,14 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [6f2853e](https://github.com/Ktt-Development/docs.kttdevelopment.com/commit/6f2853e10e28d1108ae08eecd53b4ae4538e3378) to branch [add-4.0.0@27e125d](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/add-4.0.0@27e125d) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com)  *`7 hours ago`*
+ - Added commit [6f2853e](https://github.com/Ktt-Development/docs.kttdevelopment.com/commit/6f2853e10e28d1108ae08eecd53b4ae4538e3378) to branch [add-4.0.0@27e125d](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/add-4.0.0@27e125d) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com)  *`8 hours ago`*
    > api not added yet
- - Opened pull request [Add 4.0.0 docs (#2)](https://github.com/Ktt-Development/docs.kttdevelopment.com/pull/2) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com)  *`7 hours ago`*
- - Added commit [86bdeb7](https://github.com/Ktt-Development/docs.kttdevelopment.com/commit/86bdeb7cb5c7e82ba07d9d301b3b5ad791c5fafa) to branch [add-4.0.0@27e125d](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/add-4.0.0@27e125d) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com)  *`7 hours ago`*
+ - Opened pull request [Add 4.0.0 docs (#2)](https://github.com/Ktt-Development/docs.kttdevelopment.com/pull/2) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com)  *`8 hours ago`*
+ - Added commit [86bdeb7](https://github.com/Ktt-Development/docs.kttdevelopment.com/commit/86bdeb7cb5c7e82ba07d9d301b3b5ad791c5fafa) to branch [add-4.0.0@27e125d](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/add-4.0.0@27e125d) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com)  *`8 hours ago`*
    > 4.0.0
- - Created branch [add-4.0.0@27e125d](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/add-4.0.0@27e125d) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com) *`7 hours ago`*
- - Added commit [d0d7eb6](https://github.com/Ktt-Development/webdir/commit/d0d7eb6f94f9b6f503ce7ab66332280defab751a) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`8 hours ago`*
+ - Created branch [add-4.0.0@27e125d](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/add-4.0.0@27e125d) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com) *`8 hours ago`*
+ - Added commit [d0d7eb6](https://github.com/Ktt-Development/webdir/commit/d0d7eb6f94f9b6f503ce7ab66332280defab751a) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`9 hours ago`*
    > test fixes
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 30, 2020 at 06:40 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 30, 2020 at 07:40 AM (EST)</p>
