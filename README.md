@@ -55,14 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [1b61d9c](https://github.com/Katsute/katsute.github.io/commit/1b61d9c0d43b81828cca51b80d17f32ab283604e) to branch [main](https://github.com/Katsute/katsute.github.io/tree/main) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io)  *`3 hours ago`*
+ - Added commit [d0d7eb6](https://github.com/Ktt-Development/webdir/commit/d0d7eb6f94f9b6f503ce7ab66332280defab751a) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 minutes ago`*
+   > test fixes
+ - Added commit [24a01ee](https://github.com/Ktt-Development/webdir/commit/24a01eedebad00434dcd03c25a831f61b2dcdb0a) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`47 minutes ago`*
+   > adapt page render for site, bug fixes
+ - Added commit [1b61d9c](https://github.com/Katsute/katsute.github.io/commit/1b61d9c0d43b81828cca51b80d17f32ab283604e) to branch [main](https://github.com/Katsute/katsute.github.io/tree/main) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io)  *`4 hours ago`*
    > add missing title
- - Deleted branch [gh-pages](https://github.com/Katsute/katsute.github.io/tree/gh-pages) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io) *`4 hours ago`*
- - Deleted branch [convert-to-jekyll@e84f18c](https://github.com/Katsute/katsute.github.io/tree/convert-to-jekyll@e84f18c) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io) *`4 hours ago`*
- - Added commit [946ba85](https://github.com/Katsute/katsute.github.io/commit/946ba850f63744ab66cf18d1abb0627bf1be835f) to branch [main](https://github.com/Katsute/katsute.github.io/tree/main) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io)  *`4 hours ago`*
-   > bug fix
- - Added commit [a3e5350](https://github.com/Katsute/katsute.github.io/commit/a3e5350d2fd2192541abb05fcc8182e6534a17bc) to branch [main](https://github.com/Katsute/katsute.github.io/tree/main) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io)  *`4 hours ago`*
-   > convert to jekyll pages
+ - Deleted branch [gh-pages](https://github.com/Katsute/katsute.github.io/tree/gh-pages) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io) *`5 hours ago`*
+ - Deleted branch [convert-to-jekyll@e84f18c](https://github.com/Katsute/katsute.github.io/tree/convert-to-jekyll@e84f18c) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io) *`5 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 29, 2020 at 09:39 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 29, 2020 at 10:40 PM (EST)</p>
