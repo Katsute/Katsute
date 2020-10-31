@@ -55,14 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [b72ba68](https://github.com/Ktt-Development/webdir/commit/b72ba681bf3bc5fea40f3f06b1bb92a95442798e) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`10 hours ago`*
+ - Added commit [b72ba68](https://github.com/Ktt-Development/webdir/commit/b72ba681bf3bc5fea40f3f06b1bb92a95442798e) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`11 hours ago`*
    > Start work on server
- - Deleted branch [toString@ffc398a](https://github.com/Ktt-Development/simplehttpserver/tree/toString@ffc398a) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`11 hours ago`*
- - Added commit [404c062](https://github.com/Ktt-Development/webdir/commit/404c0623063dd66c4ace1e9b6af5ab95fd228a94) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`11 hours ago`*
+ - Deleted branch [toString@ffc398a](https://github.com/Ktt-Development/simplehttpserver/tree/toString@ffc398a) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`12 hours ago`*
+ - Added commit [404c062](https://github.com/Ktt-Development/webdir/commit/404c0623063dd66c4ace1e9b6af5ab95fd228a94) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`12 hours ago`*
    > default bug fixes
    >  > - fixed default being ignored
    >  > - fixed incorrect render list
- - Added commit [386db67](https://github.com/Ktt-Development/webdir/commit/386db676ab46730f486f1bdca02cdb4c6e155f01) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`15 hours ago`*
+ - Added commit [386db67](https://github.com/Ktt-Development/webdir/commit/386db676ab46730f486f1bdca02cdb4c6e155f01) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`16 hours ago`*
    > multiple bug fixes; added render tests
    >  > - fixed file render transfer
    >  > - fixed locale file
@@ -71,4 +71,4 @@
    > api not added yet
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 31, 2020 at 08:40 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 31, 2020 at 09:40 AM (EST)</p>
