@@ -55,11 +55,12 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [404c062](https://github.com/Ktt-Development/webdir/commit/404c0623063dd66c4ace1e9b6af5ab95fd228a94) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 minutes ago`*
+ - Deleted branch [toString@ffc398a](https://github.com/Ktt-Development/simplehttpserver/tree/toString@ffc398a) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`27 minutes ago`*
+ - Added commit [404c062](https://github.com/Ktt-Development/webdir/commit/404c0623063dd66c4ace1e9b6af5ab95fd228a94) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`51 minutes ago`*
    > default bug fixes
    >  > - fixed default being ignored
    >  > - fixed incorrect render list
- - Added commit [386db67](https://github.com/Ktt-Development/webdir/commit/386db676ab46730f486f1bdca02cdb4c6e155f01) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 hours ago`*
+ - Added commit [386db67](https://github.com/Ktt-Development/webdir/commit/386db676ab46730f486f1bdca02cdb4c6e155f01) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`4 hours ago`*
    > multiple bug fixes; added render tests
    >  > - fixed file render transfer
    >  > - fixed locale file
@@ -67,8 +68,6 @@
  - Added commit [6f2853e](https://github.com/Ktt-Development/docs.kttdevelopment.com/commit/6f2853e10e28d1108ae08eecd53b4ae4538e3378) to branch [add-4.0.0@27e125d](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/add-4.0.0@27e125d) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com)  *`22 hours ago`*
    > api not added yet
  - Opened pull request [Add 4.0.0 docs (#2)](https://github.com/Ktt-Development/docs.kttdevelopment.com/pull/2) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com)  *`22 hours ago`*
- - Added commit [86bdeb7](https://github.com/Ktt-Development/docs.kttdevelopment.com/commit/86bdeb7cb5c7e82ba07d9d301b3b5ad791c5fafa) to branch [add-4.0.0@27e125d](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/add-4.0.0@27e125d) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com)  *`22 hours ago`*
-   > 4.0.0
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 30, 2020 at 08:51 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 30, 2020 at 09:39 PM (EST)</p>
