@@ -55,13 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Deleted branch [simplehttpserver-v4.0.0@ab2f158](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/simplehttpserver-v4.0.0@ab2f158) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`1 hour ago`*
- - Added commit [7180db8](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/7180db831c445e55839ec2e6f7ca0d24e12432e3) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 hour ago`*
+ - Deleted branch [simplehttpserver-v4.0.0@ab2f158](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/simplehttpserver-v4.0.0@ab2f158) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`2 hours ago`*
+ - Added commit [7180db8](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/7180db831c445e55839ec2e6f7ca0d24e12432e3) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`2 hours ago`*
    > Add 4.0.0 documentation ([#6](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/6))
- - Closed pull request [Add 4.0.0 documentation (#6)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/pull/6) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 hour ago`*
- - Deleted branch [add-4.0.0@27e125d](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/add-4.0.0@27e125d) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com) *`1 hour ago`*
- - Added commit [86bdeb7](https://github.com/Ktt-Development/docs.kttdevelopment.com/commit/86bdeb7cb5c7e82ba07d9d301b3b5ad791c5fafa) to branch [main](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/main) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com)  *`1 hour ago`*
+ - Closed pull request [Add 4.0.0 documentation (#6)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/pull/6) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`2 hours ago`*
+ - Deleted branch [add-4.0.0@27e125d](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/add-4.0.0@27e125d) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com) *`2 hours ago`*
+ - Added commit [86bdeb7](https://github.com/Ktt-Development/docs.kttdevelopment.com/commit/86bdeb7cb5c7e82ba07d9d301b3b5ad791c5fafa) to branch [main](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/main) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com)  *`2 hours ago`*
    > 4.0.0
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 31, 2020 at 01:40 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated October 31, 2020 at 02:40 PM (EST)</p>
