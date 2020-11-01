@@ -55,13 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Closed issue [Application can not be deployed as modular. (#13)](https://github.com/Ktt-Development/rexedia/issues/13) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
- - Added commit [e238878](https://github.com/Ktt-Development/simplehttpserver/commit/e238878ce254497cf5737be67d2a3f21cbdcdf9c) to branch [remove@a0a4364](https://github.com/Ktt-Development/simplehttpserver/tree/remove@a0a4364) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+ - Closed issue [Application can not be deployed as modular. (#13)](https://github.com/Ktt-Development/rexedia/issues/13) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
+ - Added commit [e238878](https://github.com/Ktt-Development/simplehttpserver/commit/e238878ce254497cf5737be67d2a3f21cbdcdf9c) to branch [remove@a0a4364](https://github.com/Ktt-Development/simplehttpserver/tree/remove@a0a4364) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
    > version
- - Created branch [remove@a0a4364](https://github.com/Ktt-Development/simplehttpserver/tree/remove@a0a4364) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
+ - Created branch [remove@a0a4364](https://github.com/Ktt-Development/simplehttpserver/tree/remove@a0a4364) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`2 hours ago`*
  - Added commit [3be3820](https://github.com/Ktt-Development/webdir/commit/3be38205050f05247ea946718cfbdb04e7e507b0) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 day ago`*
    > upgrade simplehttpserver to 4.0.0
  - Opened issue [Add remove file/directory methods. (#110)](https://github.com/Ktt-Development/simplehttpserver/issues/110) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 day ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 01, 2020 at 05:40 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 01, 2020 at 06:40 PM (EST)</p>
