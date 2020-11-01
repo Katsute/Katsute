@@ -55,13 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [3be3820](https://github.com/Ktt-Development/webdir/commit/3be38205050f05247ea946718cfbdb04e7e507b0) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`18 hours ago`*
+ - Added commit [3be3820](https://github.com/Ktt-Development/webdir/commit/3be38205050f05247ea946718cfbdb04e7e507b0) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`19 hours ago`*
    > upgrade simplehttpserver to 4.0.0
- - Opened issue [Add remove file/directory methods. (#110)](https://github.com/Ktt-Development/simplehttpserver/issues/110) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`18 hours ago`*
- - Deleted branch [simplehttpserver-v4.0.0@ab2f158](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/simplehttpserver-v4.0.0@ab2f158) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`21 hours ago`*
- - Added commit [7180db8](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/7180db831c445e55839ec2e6f7ca0d24e12432e3) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`21 hours ago`*
+ - Opened issue [Add remove file/directory methods. (#110)](https://github.com/Ktt-Development/simplehttpserver/issues/110) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`19 hours ago`*
+ - Deleted branch [simplehttpserver-v4.0.0@ab2f158](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/simplehttpserver-v4.0.0@ab2f158) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com) *`22 hours ago`*
+ - Added commit [7180db8](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/7180db831c445e55839ec2e6f7ca0d24e12432e3) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`22 hours ago`*
    > Add 4.0.0 documentation ([#6](https://github.com/Ktt-Development/wiki.kttdevelopment.com/issues/6))
- - Closed pull request [Add 4.0.0 documentation (#6)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/pull/6) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`21 hours ago`*
+ - Closed pull request [Add 4.0.0 documentation (#6)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/pull/6) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`22 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 01, 2020 at 08:40 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 01, 2020 at 09:41 AM (EST)</p>
