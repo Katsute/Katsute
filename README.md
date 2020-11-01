@@ -64,4 +64,4 @@
  - Closed pull request [Add 4.0.0 documentation (#6)](https://github.com/Ktt-Development/wiki.kttdevelopment.com/pull/6) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 day ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 01, 2020 at 02:40 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 01, 2020 at 03:40 PM (EST)</p>
