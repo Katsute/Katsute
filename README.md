@@ -55,11 +55,11 @@
 
 ## ⚡ Recent Activity
 
- - Deleted tag [S-EAV-01](https://github.com/Ktt-Development/webdir/tree/S-EAV-01) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`23 minutes ago`*
- - Deleted tag [G-EAV-03](https://github.com/Ktt-Development/webdir/tree/G-EAV-03) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`24 minutes ago`*
- - Deleted tag [G-EAV-02](https://github.com/Ktt-Development/webdir/tree/G-EAV-02) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`24 minutes ago`*
- - Deleted tag [G-EAV-01](https://github.com/Ktt-Development/webdir/tree/G-EAV-01) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`24 minutes ago`*
- - Opened pull request [Add remove methods to FileHandler (#111)](https://github.com/Ktt-Development/simplehttpserver/pull/111) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`27 minutes ago`*
+ - Deleted tag [S-EAV-01](https://github.com/Ktt-Development/webdir/tree/S-EAV-01) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`1 hour ago`*
+ - Deleted tag [G-EAV-03](https://github.com/Ktt-Development/webdir/tree/G-EAV-03) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`1 hour ago`*
+ - Deleted tag [G-EAV-02](https://github.com/Ktt-Development/webdir/tree/G-EAV-02) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`1 hour ago`*
+ - Deleted tag [G-EAV-01](https://github.com/Ktt-Development/webdir/tree/G-EAV-01) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`1 hour ago`*
+ - Opened pull request [Add remove methods to FileHandler (#111)](https://github.com/Ktt-Development/simplehttpserver/pull/111) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 02, 2020 at 01:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 02, 2020 at 02:48 PM (EST)</p>
