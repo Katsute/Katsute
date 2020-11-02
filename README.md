@@ -55,16 +55,17 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [4d44fef](https://github.com/Ktt-Development/simplehttpserver/commit/4d44feff37ac91827b27a5ec1478f8e819fc98bf) to branch [remove@a0a4364](https://github.com/Ktt-Development/simplehttpserver/tree/remove@a0a4364) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`17 minutes ago`*
+ - Added commit [9547008](https://github.com/Ktt-Development/webdir/commit/95470080bb33d36aa65ddbff6b6f83bea4a7668f) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`18 minutes ago`*
+   > Add documentation
+ - Added commit [4d44fef](https://github.com/Ktt-Development/simplehttpserver/commit/4d44feff37ac91827b27a5ec1478f8e819fc98bf) to branch [remove@a0a4364](https://github.com/Ktt-Development/simplehttpserver/tree/remove@a0a4364) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
    > Add additional remove methods
    >  > - context, file
    >  > - file
    >  > - context, directory…
- - Added commit [4e27c77](https://github.com/Ktt-Development/simplehttpserver/commit/4e27c774069daa0de76fb71ea197f5dea6a45859) to branch [remove@a0a4364](https://github.com/Ktt-Development/simplehttpserver/tree/remove@a0a4364) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`38 minutes ago`*
+ - Added commit [4e27c77](https://github.com/Ktt-Development/simplehttpserver/commit/4e27c774069daa0de76fb71ea197f5dea6a45859) to branch [remove@a0a4364](https://github.com/Ktt-Development/simplehttpserver/tree/remove@a0a4364) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
    > Add [#110](https://github.com/Ktt-Development/simplehttpserver/issues/110); required tests
- - Deleted tag [S-EAV-01](https://github.com/Ktt-Development/webdir/tree/S-EAV-01) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`3 hours ago`*
- - Deleted tag [G-EAV-03](https://github.com/Ktt-Development/webdir/tree/G-EAV-03) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`3 hours ago`*
- - Deleted tag [G-EAV-02](https://github.com/Ktt-Development/webdir/tree/G-EAV-02) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`3 hours ago`*
+ - Deleted tag [S-EAV-01](https://github.com/Ktt-Development/webdir/tree/S-EAV-01) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`4 hours ago`*
+ - Deleted tag [G-EAV-03](https://github.com/Ktt-Development/webdir/tree/G-EAV-03) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`4 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 02, 2020 at 04:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 02, 2020 at 05:48 PM (EST)</p>
