@@ -55,20 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Opened issue [Directories will throw an error on server render. (#62)](https://github.com/Ktt-Development/webdir/issues/62) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
- - Opened issue [Add file filter to renderer. (#61)](https://github.com/Ktt-Development/webdir/issues/61) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
- - Added commit [446f676](https://github.com/Ktt-Development/webdir/commit/446f676ce939ab68e055afa1976992ea5abecfca) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
-   > logging, permissions
-   >  > - additional logging
-   >  > - fix renderer permissions requirement
-   >  > - testing framework
- - Added commit [9547008](https://github.com/Ktt-Development/webdir/commit/95470080bb33d36aa65ddbff6b6f83bea4a7668f) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 hours ago`*
-   > Add documentation
- - Added commit [4d44fef](https://github.com/Ktt-Development/simplehttpserver/commit/4d44feff37ac91827b27a5ec1478f8e819fc98bf) to branch [remove@a0a4364](https://github.com/Ktt-Development/simplehttpserver/tree/remove@a0a4364) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`4 hours ago`*
-   > Add additional remove methods
-   >  > - context, file
-   >  > - file
-   >  > - context, directory…
+ - Closed issue [Add file filter to renderer. (#61)](https://github.com/Ktt-Development/webdir/issues/61) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`55 minutes ago`*
+ - Added commit [497288c](https://github.com/Ktt-Development/webdir/commit/497288cca9ec37298fa632f765482b8e69521c7e) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`56 minutes ago`*
+   > 🐞 Bug fixes
+   >  > - Fix server render (shouldn't create files)
+   >  > - Fix [#62](https://github.com/Ktt-Development/webdir/issues/62)
+   >  > - Fix file handler not sending response…
+ - Closed issue [Directories will throw an error on server render. (#62)](https://github.com/Ktt-Development/webdir/issues/62) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`56 minutes ago`*
+ - Opened issue [Directories will throw an error on server render. (#62)](https://github.com/Ktt-Development/webdir/issues/62) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 hours ago`*
+ - Opened issue [Add file filter to renderer. (#61)](https://github.com/Ktt-Development/webdir/issues/61) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 02, 2020 at 08:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 02, 2020 at 09:48 PM (EST)</p>
