@@ -55,13 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [502f420](https://github.com/Katsute/Katsute/commit/502f420672d99aede32887577ff99366993cbb1a) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`59 seconds ago`*
+ - Added commit [25156ec](https://github.com/Katsute/katsute.github.io/commit/25156ecb554e8977f36013e0cf782a9cfabe17ab) to branch [main](https://github.com/Katsute/katsute.github.io/tree/main) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io)  *`3 minutes ago`*
+   > updated github calendar dependency
+ - Added commit [fea80c4](https://github.com/Ktt-Development/simplehttpserver/commit/fea80c444fda06e578c68bc64ef12d7f51e8120d) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`23 minutes ago`*
+   > Update README.md
+ - Added commit [502f420](https://github.com/Katsute/Katsute/commit/502f420672d99aede32887577ff99366993cbb1a) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`40 minutes ago`*
    > fix events from deleted repository
- - Added commit [93df103](https://github.com/Katsute/Katsute/commit/93df10353faff5afb85af3d8c64f4962062e904c) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`15 minutes ago`*
+ - Added commit [93df103](https://github.com/Katsute/Katsute/commit/93df10353faff5afb85af3d8c64f4962062e904c) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`54 minutes ago`*
    > fix delete repository
- - CreateEvent in deleted repository  *`29 minutes ago`*
- - CreateEvent in deleted repository  *`29 minutes ago`*
- - Deleted branch [remove@a0a4364](https://github.com/Ktt-Development/simplehttpserver/tree/remove@a0a4364) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`35 minutes ago`*
+ - CreateEvent in deleted repository  *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 03, 2020 at 02:09 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 03, 2020 at 02:48 PM (EST)</p>
