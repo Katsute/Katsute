@@ -3,6 +3,9 @@ import re
 
 
 # noinspection PyPep8Naming
+from github.GithubException import UnknownObjectException
+
+
 def getStatistics(config):
     gh_user = config['gh_user']
     boolean_includePrivate = config['include_private']
@@ -73,14 +76,16 @@ def getEventAsMarkdown(github, event, now, max_lines=4):
     # noinspection SpellCheckingInspection
     etype = event.type
 
-    gh_repo = github.get_repo(event.repo.id)
-    if not gh_repo:
-        return ""
+    str_time_ago = f" *`{__getTimePassed(event.created_at, now)} ago`*"
+
+    try:
+        gh_repo = github.get_repo(event.repo.id)
+    except UnknownObjectException:
+        return f"{etype} in deleted repository {str_time_ago}"
     
     str_repo_url = gh_repo.html_url
 
     str_repo_name = f"[{event.repo.name}]({str_repo_url})"
-    str_time_ago = f" *`{__getTimePassed(event.created_at, now)} ago`*"
 
     if etype == "CommitCommentEvent":
         comment = payload["comment"]
