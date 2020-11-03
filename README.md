@@ -55,17 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [dedfa32](https://github.com/Ktt-Development/webdir/commit/dedfa32daef993bbe5dbc6845674df275754c532) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`13 hours ago`*
-   > Bug/test fixes, new bug
-   >  > something is wrong with the exchange render
- - Closed issue [Add file filter to renderer. (#61)](https://github.com/Ktt-Development/webdir/issues/61) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`15 hours ago`*
- - Added commit [497288c](https://github.com/Ktt-Development/webdir/commit/497288cca9ec37298fa632f765482b8e69521c7e) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`15 hours ago`*
-   > 🐞 Bug fixes
-   >  > - Fix server render (shouldn't create files)
-   >  > - Fix [#62](https://github.com/Ktt-Development/webdir/issues/62)
-   >  > - Fix file handler not sending response…
- - Closed issue [Directories will throw an error on server render. (#62)](https://github.com/Ktt-Development/webdir/issues/62) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`15 hours ago`*
- - Opened issue [Directories will throw an error on server render. (#62)](https://github.com/Ktt-Development/webdir/issues/62) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`18 hours ago`*
+ - Added commit [502f420](https://github.com/Katsute/Katsute/commit/502f420672d99aede32887577ff99366993cbb1a) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`59 seconds ago`*
+   > fix events from deleted repository
+ - Added commit [93df103](https://github.com/Katsute/Katsute/commit/93df10353faff5afb85af3d8c64f4962062e904c) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`15 minutes ago`*
+   > fix delete repository
+ - CreateEvent in deleted repository  *`29 minutes ago`*
+ - CreateEvent in deleted repository  *`29 minutes ago`*
+ - Deleted branch [remove@a0a4364](https://github.com/Ktt-Development/simplehttpserver/tree/remove@a0a4364) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`35 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 03, 2020 at 12:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 03, 2020 at 02:09 PM (EST)</p>
