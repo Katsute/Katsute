@@ -73,7 +73,11 @@ def getEventAsMarkdown(github, event, now, max_lines=4):
     # noinspection SpellCheckingInspection
     etype = event.type
 
-    str_repo_url = github.get_repo(event.repo.id).html_url
+    gh_repo = github.get_repo(event.repo.id)
+    if not gh_repo:
+        return ""
+    
+    str_repo_url = gh_repo.html_url
 
     str_repo_name = f"[{event.repo.name}]({str_repo_url})"
     str_time_ago = f" *`{__getTimePassed(event.created_at, now)} ago`*"
