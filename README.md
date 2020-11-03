@@ -55,16 +55,16 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [b7d266b](https://github.com/Ktt-Development/rexedia/commit/b7d266b88bbfa81f8c8296cf76ecd5306c9e2368) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`56 minutes ago`*
+ - Added commit [4e8b1b8](https://github.com/Ktt-Development/webdir/commit/4e8b1b8dd34e1f1558c51a0b0db322e121870933) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`11 minutes ago`*
+   > exchange renderers may only be used in defaults
+ - Added commit [b7d266b](https://github.com/Ktt-Development/rexedia/commit/b7d266b88bbfa81f8c8296cf76ecd5306c9e2368) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > Update README.md
- - Added commit [25156ec](https://github.com/Katsute/katsute.github.io/commit/25156ecb554e8977f36013e0cf782a9cfabe17ab) to branch [main](https://github.com/Katsute/katsute.github.io/tree/main) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io)  *`1 hour ago`*
+ - Added commit [25156ec](https://github.com/Katsute/katsute.github.io/commit/25156ecb554e8977f36013e0cf782a9cfabe17ab) to branch [main](https://github.com/Katsute/katsute.github.io/tree/main) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io)  *`2 hours ago`*
    > updated github calendar dependency
- - Added commit [fea80c4](https://github.com/Ktt-Development/simplehttpserver/commit/fea80c444fda06e578c68bc64ef12d7f51e8120d) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+ - Added commit [fea80c4](https://github.com/Ktt-Development/simplehttpserver/commit/fea80c444fda06e578c68bc64ef12d7f51e8120d) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
    > Update README.md
- - Added commit [502f420](https://github.com/Katsute/Katsute/commit/502f420672d99aede32887577ff99366993cbb1a) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`1 hour ago`*
+ - Added commit [502f420](https://github.com/Katsute/Katsute/commit/502f420672d99aede32887577ff99366993cbb1a) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`2 hours ago`*
    > fix events from deleted repository
- - Added commit [93df103](https://github.com/Katsute/Katsute/commit/93df10353faff5afb85af3d8c64f4962062e904c) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`1 hour ago`*
-   > fix delete repository
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 03, 2020 at 03:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 03, 2020 at 04:48 PM (EST)</p>
