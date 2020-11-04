@@ -55,16 +55,17 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [4e8b1b8](https://github.com/Ktt-Development/webdir/commit/4e8b1b8dd34e1f1558c51a0b0db322e121870933) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`5 hours ago`*
+ - Added commit [ccaba15](https://github.com/Katsute/GitHub-Downloader/commit/ccaba1559cbbbff93d365110fb432bbfe389220c) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`13 minutes ago`*
+   > move compile to workflow
+ - Added commit [643f1aa](https://github.com/Ktt-Development/webdir/commit/643f1aabedb476360bf904382694640afc489069) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`24 minutes ago`*
+   > $
+ - Added commit [6f33f74](https://github.com/Ktt-Development/webdir/commit/6f33f74e59be865570b627c44df5f876a964576d) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`28 minutes ago`*
+   > move tests to windows
+   >  > root tests will fail on linux systems. This application is designed for windows only so linux can be dropped.
+ - Added commit [4e8b1b8](https://github.com/Ktt-Development/webdir/commit/4e8b1b8dd34e1f1558c51a0b0db322e121870933) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`6 hours ago`*
    > exchange renderers may only be used in defaults
- - Added commit [b7d266b](https://github.com/Ktt-Development/rexedia/commit/b7d266b88bbfa81f8c8296cf76ecd5306c9e2368) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`6 hours ago`*
+ - Added commit [b7d266b](https://github.com/Ktt-Development/rexedia/commit/b7d266b88bbfa81f8c8296cf76ecd5306c9e2368) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`7 hours ago`*
    > Update README.md
- - Added commit [25156ec](https://github.com/Katsute/katsute.github.io/commit/25156ecb554e8977f36013e0cf782a9cfabe17ab) to branch [main](https://github.com/Katsute/katsute.github.io/tree/main) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io)  *`7 hours ago`*
-   > updated github calendar dependency
- - Added commit [fea80c4](https://github.com/Ktt-Development/simplehttpserver/commit/fea80c444fda06e578c68bc64ef12d7f51e8120d) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`7 hours ago`*
-   > Update README.md
- - Added commit [502f420](https://github.com/Katsute/Katsute/commit/502f420672d99aede32887577ff99366993cbb1a) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`7 hours ago`*
-   > fix events from deleted repository
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 03, 2020 at 09:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 03, 2020 at 10:48 PM (EST)</p>
