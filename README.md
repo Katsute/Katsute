@@ -55,16 +55,17 @@
 
 ## ⚡ Recent Activity
 
- - Opened issue [Unable to download private releases. (#15)](https://github.com/Katsute/GitHub-Downloader/issues/15) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`1 hour ago`*
- - Commented on issue [Private repositories still returns true for false wikis (#6)](https://github.com/Katsute/GitHub-Downloader/issues/6#issuecomment-721497204) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`17 hours ago`*
+ - Added commit [ff21079](https://github.com/Ktt-Development/webdir/commit/ff21079406fad4ad74a64366f5cc778770ecd6c1) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`39 minutes ago`*
+   > Add missing tests, bug fixes
+   >  > - Fixed files context (walk)
+   >  > - Fixed `../` path issue
+ - Opened issue [Unable to download private releases. (#15)](https://github.com/Katsute/GitHub-Downloader/issues/15) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`2 hours ago`*
+ - Commented on issue [Private repositories still returns true for false wikis (#6)](https://github.com/Katsute/GitHub-Downloader/issues/6#issuecomment-721497204) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`18 hours ago`*
    > This issue has still not been resolved `11/03/2020`
- - Added commit [ccaba15](https://github.com/Katsute/GitHub-Downloader/commit/ccaba1559cbbbff93d365110fb432bbfe389220c) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`18 hours ago`*
+ - Added commit [ccaba15](https://github.com/Katsute/GitHub-Downloader/commit/ccaba1559cbbbff93d365110fb432bbfe389220c) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`19 hours ago`*
    > move compile to workflow
- - Added commit [643f1aa](https://github.com/Ktt-Development/webdir/commit/643f1aabedb476360bf904382694640afc489069) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`18 hours ago`*
+ - Added commit [643f1aa](https://github.com/Ktt-Development/webdir/commit/643f1aabedb476360bf904382694640afc489069) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`19 hours ago`*
    > $
- - Added commit [6f33f74](https://github.com/Ktt-Development/webdir/commit/6f33f74e59be865570b627c44df5f876a964576d) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`18 hours ago`*
-   > move tests to windows
-   >  > root tests will fail on linux systems. This application is designed for windows only so linux can be dropped.
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 04, 2020 at 04:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 04, 2020 at 05:49 PM (EST)</p>
