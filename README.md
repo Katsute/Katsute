@@ -55,17 +55,18 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [d89cf4a](https://github.com/Ktt-Development/webdir/commit/d89cf4a9e8a8baf207f2fba120f0e67c8f1f66d1) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`22 minutes ago`*
+ - Added commit [4c81b62](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/4c81b62775bb96130fa088215d359856d33c36a9) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`51 minutes ago`*
+   > Link wiki to documentation refs
+ - Added commit [65a13bd](https://github.com/Ktt-Development/docs.kttdevelopment.com/commit/65a13bd1b7a82f768f657308e2eca5c2e28579c4) to branch [main](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/main) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com)  *`56 minutes ago`*
+   > Add api documentation
+ - Added commit [d89cf4a](https://github.com/Ktt-Development/webdir/commit/d89cf4a9e8a8baf207f2fba120f0e67c8f1f66d1) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
    > Fixed [#63](https://github.com/Ktt-Development/webdir/issues/63)
- - Closed issue [Imports are not working properly (#63)](https://github.com/Ktt-Development/webdir/issues/63) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`22 minutes ago`*
- - Commented on issue [Imports are not working properly (#63)](https://github.com/Ktt-Development/webdir/issues/63#issuecomment-722150265) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`17 hours ago`*
+ - Closed issue [Imports are not working properly (#63)](https://github.com/Ktt-Development/webdir/issues/63) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+ - Commented on issue [Imports are not working properly (#63)](https://github.com/Ktt-Development/webdir/issues/63#issuecomment-722150265) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`18 hours ago`*
    > Relative imports are not being loaded correctly.
    >  > ```
    >  > [SEVERE] Page Rendering Service > Failed to load imports from file D:\a\webdir\webdir\webdir-client\3.yml (I/O exception).
    >  > ```…
- - Added commit [6063f5e](https://github.com/Ktt-Development/webdir/commit/6063f5e4bccec49aed5eb01b2b655fd3a1e53e50) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`18 hours ago`*
-   > import bug
- - Opened issue [Imports are not working properly (#63)](https://github.com/Ktt-Development/webdir/issues/63) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`18 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 05, 2020 at 05:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 05, 2020 at 06:48 PM (EST)</p>
