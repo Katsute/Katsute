@@ -55,21 +55,18 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [18bf20f](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/18bf20f5585b517b18aaee291dae9c1b5ec34dd4) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`38 minutes ago`*
+ - Added commit [6063f5e](https://github.com/Ktt-Development/webdir/commit/6063f5e4bccec49aed5eb01b2b655fd3a1e53e50) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`41 minutes ago`*
+   > import bug
+ - Opened issue [Imports are not working properly (#63)](https://github.com/Ktt-Development/webdir/issues/63) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`42 minutes ago`*
+ - Added commit [18bf20f](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/18bf20f5585b517b18aaee291dae9c1b5ec34dd4) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`1 hour ago`*
    > Update WebDir documentation
- - Added commit [4915efd](https://github.com/Ktt-Development/webdir/commit/4915efdfc1db045cbb95636a71b033e30b24fe46) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`46 minutes ago`*
+ - Added commit [4915efd](https://github.com/Ktt-Development/webdir/commit/4915efdfc1db045cbb95636a71b033e30b24fe46) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
    > Fixed newline issue
- - Added commit [8b5fa22](https://github.com/Ktt-Development/webdir/commit/8b5fa22fd4d44d86870a6b161cacd22b68ad1b1c) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+ - Added commit [8b5fa22](https://github.com/Ktt-Development/webdir/commit/8b5fa22fd4d44d86870a6b161cacd22b68ad1b1c) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
    > bug fixes; deployment preparation
    >  > - Fixed deployment workflow
    >  > - Fixed null root
    >  > - Added default test to files…
- - Added commit [43262e2](https://github.com/Ktt-Development/webdir/commit/43262e2b9c6b5be3c2cd5a41b76c7a7bf673e1f2) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`4 hours ago`*
-   > Update README.md
- - Added commit [ff21079](https://github.com/Ktt-Development/webdir/commit/ff21079406fad4ad74a64366f5cc778770ecd6c1) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`5 hours ago`*
-   > Add missing tests, bug fixes
-   >  > - Fixed files context (walk)
-   >  > - Fixed `../` path issue
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 04, 2020 at 10:49 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 04, 2020 at 11:48 PM (EST)</p>
