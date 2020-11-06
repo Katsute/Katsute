@@ -55,13 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Created tag [4.1.0](https://github.com/Ktt-Development/simplehttpserver/tree/4.1.0) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`2 minutes ago`*
- - Published release [4.1.0](https://github.com/Ktt-Development/simplehttpserver/releases/tag/4.1.0) in [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 minutes ago`*
- - Added commit [5b34a19](https://github.com/Katsute/GitHub-Downloader/commit/5b34a19f4921940526da2e5b8b2c6dadac6afc8f) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`11 minutes ago`*
+ - Added commit [7162547](https://github.com/Ktt-Development/webdir/commit/71625477a84f3abbd968407aff1d6ec498c7b697) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`50 minutes ago`*
+   > Bump simplehttpserver to 4.1.0
+ - Created tag [4.1.0](https://github.com/Ktt-Development/simplehttpserver/tree/4.1.0) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
+ - Published release [4.1.0](https://github.com/Ktt-Development/simplehttpserver/releases/tag/4.1.0) in [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+ - Added commit [5b34a19](https://github.com/Katsute/GitHub-Downloader/commit/5b34a19f4921940526da2e5b8b2c6dadac6afc8f) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`1 hour ago`*
    > Fix [#15](https://github.com/Katsute/GitHub-Downloader/issues/15)
- - Closed issue [Unable to download private releases. (#15)](https://github.com/Katsute/GitHub-Downloader/issues/15) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`11 minutes ago`*
- - Added commit [28b7c6b](https://github.com/Katsute/WebSys/commit/28b7c6b3695fa7db8ba18bf3c52754d9cd362d0f) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`3 hours ago`*
-   > setup
+ - Closed issue [Unable to download private releases. (#15)](https://github.com/Katsute/GitHub-Downloader/issues/15) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 06, 2020 at 05:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 06, 2020 at 06:49 PM (EST)</p>
