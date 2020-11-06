@@ -55,18 +55,18 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [4c81b62](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/4c81b62775bb96130fa088215d359856d33c36a9) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`51 minutes ago`*
+ - Added commit [4c81b62](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/4c81b62775bb96130fa088215d359856d33c36a9) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`2 hours ago`*
    > Link wiki to documentation refs
- - Added commit [65a13bd](https://github.com/Ktt-Development/docs.kttdevelopment.com/commit/65a13bd1b7a82f768f657308e2eca5c2e28579c4) to branch [main](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/main) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com)  *`56 minutes ago`*
+ - Added commit [65a13bd](https://github.com/Ktt-Development/docs.kttdevelopment.com/commit/65a13bd1b7a82f768f657308e2eca5c2e28579c4) to branch [main](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/main) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com)  *`2 hours ago`*
    > Add api documentation
- - Added commit [d89cf4a](https://github.com/Ktt-Development/webdir/commit/d89cf4a9e8a8baf207f2fba120f0e67c8f1f66d1) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+ - Added commit [d89cf4a](https://github.com/Ktt-Development/webdir/commit/d89cf4a9e8a8baf207f2fba120f0e67c8f1f66d1) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
    > Fixed [#63](https://github.com/Ktt-Development/webdir/issues/63)
- - Closed issue [Imports are not working properly (#63)](https://github.com/Ktt-Development/webdir/issues/63) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
- - Commented on issue [Imports are not working properly (#63)](https://github.com/Ktt-Development/webdir/issues/63#issuecomment-722150265) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`18 hours ago`*
+ - Closed issue [Imports are not working properly (#63)](https://github.com/Ktt-Development/webdir/issues/63) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
+ - Commented on issue [Imports are not working properly (#63)](https://github.com/Ktt-Development/webdir/issues/63#issuecomment-722150265) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`19 hours ago`*
    > Relative imports are not being loaded correctly.
    >  > ```
    >  > [SEVERE] Page Rendering Service > Failed to load imports from file D:\a\webdir\webdir\webdir-client\3.yml (I/O exception).
    >  > ```…
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 05, 2020 at 06:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 05, 2020 at 08:05 PM (EST)</p>
