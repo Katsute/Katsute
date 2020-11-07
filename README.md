@@ -55,15 +55,18 @@
 
 ## ⚡ Recent Activity
 
- - Closed issue [DepShield encountered errors while building your project (#1)](https://github.com/Katsute/WebSys/issues/1) from repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`1 hour ago`*
- - Added commit [6f63bf5](https://github.com/Katsute/WebSys/commit/6f63bf5aa0d82ea523be76be938af3efa8a72be5) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`20 hours ago`*
+ - Added commit [323f6c6](https://github.com/Katsute/WebSys/commit/323f6c66ffb13d4b553e73301b77de67efbf9fb9) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`51 minutes ago`*
+   > .gitignore
+ - Added commit [abf4636](https://github.com/Katsute/WebSys/commit/abf4636611626b5f01597f63bc849d5ea1a6dc93) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`55 minutes ago`*
+   > add dependencies
+ - Added commit [caf6d24](https://github.com/Ktt-Development/webdir/commit/caf6d2440042bcd4b6c01b7bd93a38931354c6af) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`56 minutes ago`*
+   > Fixed module-info issue
+   >  > module-info.class is not supposed to be loaded
+   >  > - updated crash logs
+   >  > - fixed uncaught exception on plugin load
+ - Closed issue [DepShield encountered errors while building your project (#1)](https://github.com/Katsute/WebSys/issues/1) from repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`2 hours ago`*
+ - Added commit [6f63bf5](https://github.com/Katsute/WebSys/commit/6f63bf5aa0d82ea523be76be938af3efa8a72be5) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`21 hours ago`*
    > plugins
- - Added commit [01d8db2](https://github.com/Ktt-Development/webdir/commit/01d8db29085f09c659bee968ff41b649b5c0c9fe) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`20 hours ago`*
-   > Fix case sensitivity
- - Added commit [c8d773f](https://github.com/Ktt-Development/webdir/commit/c8d773f487a50c5fa39a7806c54693b965388dea) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`21 hours ago`*
-   > Fix incorrect directory remove
- - Added commit [7162547](https://github.com/Ktt-Development/webdir/commit/71625477a84f3abbd968407aff1d6ec498c7b697) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`23 hours ago`*
-   > Bump simplehttpserver to 4.1.0
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 07, 2020 at 05:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 07, 2020 at 06:49 PM (EST)</p>
