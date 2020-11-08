@@ -55,18 +55,18 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [323f6c6](https://github.com/Katsute/WebSys/commit/323f6c66ffb13d4b553e73301b77de67efbf9fb9) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`51 minutes ago`*
+ - Added commit [323f6c6](https://github.com/Katsute/WebSys/commit/323f6c66ffb13d4b553e73301b77de67efbf9fb9) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`2 hours ago`*
    > .gitignore
- - Added commit [abf4636](https://github.com/Katsute/WebSys/commit/abf4636611626b5f01597f63bc849d5ea1a6dc93) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`55 minutes ago`*
+ - Added commit [abf4636](https://github.com/Katsute/WebSys/commit/abf4636611626b5f01597f63bc849d5ea1a6dc93) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`2 hours ago`*
    > add dependencies
- - Added commit [caf6d24](https://github.com/Ktt-Development/webdir/commit/caf6d2440042bcd4b6c01b7bd93a38931354c6af) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`56 minutes ago`*
+ - Added commit [caf6d24](https://github.com/Ktt-Development/webdir/commit/caf6d2440042bcd4b6c01b7bd93a38931354c6af) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
    > Fixed module-info issue
    >  > module-info.class is not supposed to be loaded
    >  > - updated crash logs
    >  > - fixed uncaught exception on plugin load
- - Closed issue [DepShield encountered errors while building your project (#1)](https://github.com/Katsute/WebSys/issues/1) from repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`2 hours ago`*
- - Added commit [6f63bf5](https://github.com/Katsute/WebSys/commit/6f63bf5aa0d82ea523be76be938af3efa8a72be5) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`21 hours ago`*
+ - Closed issue [DepShield encountered errors while building your project (#1)](https://github.com/Katsute/WebSys/issues/1) from repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`3 hours ago`*
+ - Added commit [6f63bf5](https://github.com/Katsute/WebSys/commit/6f63bf5aa0d82ea523be76be938af3efa8a72be5) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`22 hours ago`*
    > plugins
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 07, 2020 at 06:49 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 07, 2020 at 08:08 PM (EST)</p>
