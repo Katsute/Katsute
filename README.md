@@ -55,17 +55,17 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [beb2e03](https://github.com/Ktt-Development/webdir/commit/beb2e03fda47f833a2c013ee77682fae81e1dbb6) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`35 minutes ago`*
+ - Added commit [beb2e03](https://github.com/Ktt-Development/webdir/commit/beb2e03fda47f833a2c013ee77682fae81e1dbb6) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
    > Fix issue where tests uses non C drive
- - Added commit [bebcb5c](https://github.com/Ktt-Development/webdir/commit/bebcb5c807fbed3db21042408927a39b92e09805) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`45 minutes ago`*
+ - Added commit [bebcb5c](https://github.com/Ktt-Development/webdir/commit/bebcb5c807fbed3db21042408927a39b92e09805) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
    > 🐞 More bug fixes
    >  > - Fixed slash alignment with `!`
    >  > - Fixed [#64](https://github.com/Ktt-Development/webdir/issues/64)
    >  > - Fixed invalid bad chars regxp
- - Closed issue [Folders don't render correctly (#64)](https://github.com/Ktt-Development/webdir/issues/64) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`45 minutes ago`*
- - Closed issue [Context defaults do not render properly (#68)](https://github.com/Ktt-Development/webdir/issues/68) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
- - Commented on issue [Context defaults do not render properly (#68)](https://github.com/Ktt-Development/webdir/issues/68#issuecomment-723625293) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+ - Closed issue [Folders don't render correctly (#64)](https://github.com/Ktt-Development/webdir/issues/64) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
+ - Closed issue [Context defaults do not render properly (#68)](https://github.com/Ktt-Development/webdir/issues/68) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 hours ago`*
+ - Commented on issue [Context defaults do not render properly (#68)](https://github.com/Ktt-Development/webdir/issues/68#issuecomment-723625293) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 hours ago`*
    > The contexts actually do render correctly, they just use the `_site` paths. Contexts added to the server aren't subject to rendering.
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 08, 2020 at 12:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 08, 2020 at 02:48 PM (EST)</p>
