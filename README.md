@@ -55,16 +55,17 @@
 
 ## ⚡ Recent Activity
 
- - Opened issue [Context defaults do not render properly (#68)](https://github.com/Ktt-Development/webdir/issues/68) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`12 hours ago`*
- - Commented on issue [Folders don't render correctly (#64)](https://github.com/Ktt-Development/webdir/issues/64#issuecomment-723524025) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`12 hours ago`*
+ - Closed issue [Context defaults do not render properly (#68)](https://github.com/Ktt-Development/webdir/issues/68) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`15 minutes ago`*
+ - Commented on issue [Context defaults do not render properly (#68)](https://github.com/Ktt-Development/webdir/issues/68#issuecomment-723625293) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`15 minutes ago`*
+   > The contexts actually do render correctly, they just use the `_site` paths. Contexts added to the server aren't subject to rendering.
+ - Opened issue [Context defaults do not render properly (#68)](https://github.com/Ktt-Development/webdir/issues/68) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`13 hours ago`*
+ - Commented on issue [Folders don't render correctly (#64)](https://github.com/Ktt-Development/webdir/issues/64#issuecomment-723524025) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`13 hours ago`*
    > Part of the issue was caused by dependency eo-yaml converting `C:/` to `C: /` for no reason. Issue still needs further debugging.
- - Added commit [5b0dd5c](https://github.com/Ktt-Development/webdir/commit/5b0dd5cf0673348521e61a1265717e1c773e188b) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`12 hours ago`*
+ - Added commit [5b0dd5c](https://github.com/Ktt-Development/webdir/commit/5b0dd5cf0673348521e61a1265717e1c773e188b) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`13 hours ago`*
    > 🐞 Multiple bug fixes
    >  > - Fixed root name not being logged
    >  > - Fixed relative pathing
    >  > - Fixed varied slashes in defaults
- - Opened issue [Add ignore tag (#67)](https://github.com/Ktt-Development/webdir/issues/67) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`12 hours ago`*
- - Opened issue [Map plugin.yml to a Map (#66)](https://github.com/Ktt-Development/webdir/issues/66) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`12 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 08, 2020 at 10:48 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 08, 2020 at 11:52 AM (EST)</p>
