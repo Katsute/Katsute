@@ -55,17 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [467aed2](https://github.com/Katsute/WebSys/commit/467aed283b196c6ba59fc9d9759de570f60a36b1) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`13 hours ago`*
+ - Deleted tag [R-EAV-03](https://github.com/Ktt-Development/webdir/tree/R-EAV-03) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`57 minutes ago`*
+ - Deleted tag [R-EAV-02](https://github.com/Ktt-Development/webdir/tree/R-EAV-02) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`57 minutes ago`*
+ - Deleted tag [R-EAV-01](https://github.com/Ktt-Development/webdir/tree/R-EAV-01) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`57 minutes ago`*
+ - Added commit [467aed2](https://github.com/Katsute/WebSys/commit/467aed283b196c6ba59fc9d9759de570f60a36b1) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`14 hours ago`*
    > dir changes
- - Added commit [b0308e4](https://github.com/Katsute/WebSys/commit/b0308e4ac354e070aebabef17210e0952018fb22) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`18 hours ago`*
+ - Added commit [b0308e4](https://github.com/Katsute/WebSys/commit/b0308e4ac354e070aebabef17210e0952018fb22) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`19 hours ago`*
    > start work on folder render
- - Added commit [8b2a59b](https://github.com/Ktt-Development/webdir/commit/8b2a59bb7c8a7d4135ce766a1d5432dc2d2be6b2) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`19 hours ago`*
-   > Fixed issue where subdirectories weren't indexed
- - Added commit [5ce0bb1](https://github.com/Ktt-Development/webdir/commit/5ce0bb16c84422cc8900eefd7e2f13cacbd7fc4e) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`19 hours ago`*
-   > Fixed NPE on null file render
-   >  > - Fixed NPE on null file render
- - Added commit [beb2e03](https://github.com/Ktt-Development/webdir/commit/beb2e03fda47f833a2c013ee77682fae81e1dbb6) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 day ago`*
-   > Fix issue where tests uses non C drive
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 09, 2020 at 12:49 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 09, 2020 at 01:48 PM (EST)</p>
