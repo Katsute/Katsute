@@ -55,13 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [719492b](https://github.com/Katsute/GitHub-Downloader/commit/719492b98ce0f800d37ee5d0f425ce4940a3fe91) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`34 minutes ago`*
+ - Closed issue [Prepare build for JDK17 (#8)](https://github.com/Ktt-Development/rexedia/issues/8) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`12 minutes ago`*
+ - Commented on issue [Prepare build for JDK17 (#8)](https://github.com/Ktt-Development/rexedia/issues/8#issuecomment-724263569) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`12 minutes ago`*
+   > Such a small program is essentially running at the most optimal speed possible. There is no need to adapt to JDK17.
+ - Added commit [ff202f2](https://github.com/Katsute/katsute.github.io/commit/ff202f2c481732462a5a298e8868ebc68b495527) to branch [main](https://github.com/Katsute/katsute.github.io/tree/main) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io)  *`15 minutes ago`*
+   > Update data.yml
+ - Added commit [719492b](https://github.com/Katsute/GitHub-Downloader/commit/719492b98ce0f800d37ee5d0f425ce4940a3fe91) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`1 hour ago`*
    > Add build script (this does not fix [#14](https://github.com/Katsute/GitHub-Downloader/issues/14))
    >  > This confirms that the permission denied issue is caused by Windows 10 and not Java
- - Opened issue [Add config parameter for logging. (#69)](https://github.com/Ktt-Development/webdir/issues/69) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`57 minutes ago`*
- - Deleted tag [R-EAV-03](https://github.com/Ktt-Development/webdir/tree/R-EAV-03) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`1 hour ago`*
- - Deleted tag [R-EAV-02](https://github.com/Ktt-Development/webdir/tree/R-EAV-02) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`1 hour ago`*
- - Deleted tag [R-EAV-01](https://github.com/Ktt-Development/webdir/tree/R-EAV-01) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`1 hour ago`*
+ - Opened issue [Add config parameter for logging. (#69)](https://github.com/Ktt-Development/webdir/issues/69) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 09, 2020 at 02:49 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 09, 2020 at 03:48 PM (EST)</p>
