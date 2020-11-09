@@ -55,15 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Closed issue [Prepare build for JDK17 (#8)](https://github.com/Ktt-Development/rexedia/issues/8) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`12 minutes ago`*
- - Commented on issue [Prepare build for JDK17 (#8)](https://github.com/Ktt-Development/rexedia/issues/8#issuecomment-724263569) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`12 minutes ago`*
+ - Closed issue [Prepare build for JDK17 (#8)](https://github.com/Ktt-Development/rexedia/issues/8) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Commented on issue [Prepare build for JDK17 (#8)](https://github.com/Ktt-Development/rexedia/issues/8#issuecomment-724263569) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
    > Such a small program is essentially running at the most optimal speed possible. There is no need to adapt to JDK17.
- - Added commit [ff202f2](https://github.com/Katsute/katsute.github.io/commit/ff202f2c481732462a5a298e8868ebc68b495527) to branch [main](https://github.com/Katsute/katsute.github.io/tree/main) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io)  *`15 minutes ago`*
+ - Added commit [ff202f2](https://github.com/Katsute/katsute.github.io/commit/ff202f2c481732462a5a298e8868ebc68b495527) to branch [main](https://github.com/Katsute/katsute.github.io/tree/main) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io)  *`1 hour ago`*
    > Update data.yml
- - Added commit [719492b](https://github.com/Katsute/GitHub-Downloader/commit/719492b98ce0f800d37ee5d0f425ce4940a3fe91) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`1 hour ago`*
+ - Added commit [719492b](https://github.com/Katsute/GitHub-Downloader/commit/719492b98ce0f800d37ee5d0f425ce4940a3fe91) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`2 hours ago`*
    > Add build script (this does not fix [#14](https://github.com/Katsute/GitHub-Downloader/issues/14))
    >  > This confirms that the permission denied issue is caused by Windows 10 and not Java
- - Opened issue [Add config parameter for logging. (#69)](https://github.com/Ktt-Development/webdir/issues/69) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+ - Opened issue [Add config parameter for logging. (#69)](https://github.com/Ktt-Development/webdir/issues/69) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 09, 2020 at 03:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 09, 2020 at 04:48 PM (EST)</p>
