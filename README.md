@@ -55,14 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Opened issue [Empty front matter will not load bytes correctly. (#71)](https://github.com/Ktt-Development/webdir/issues/71) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`4 minutes ago`*
- - Added commit [138f6d1](https://github.com/Katsute/WebSys/commit/138f6d1d6808b5841b4bc9ac591167646ad7ea61) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`10 hours ago`*
+ - Added commit [3c0ef5f](https://github.com/Ktt-Development/webdir/commit/3c0ef5febd4136036ac0262ae56417b00f44950d) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`8 minutes ago`*
+   > Fix [#71](https://github.com/Ktt-Development/webdir/issues/71)
+ - Closed issue [Empty front matter will not load bytes correctly. (#71)](https://github.com/Ktt-Development/webdir/issues/71) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`8 minutes ago`*
+ - Opened issue [Empty front matter will not load bytes correctly. (#71)](https://github.com/Ktt-Development/webdir/issues/71) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+ - Added commit [138f6d1](https://github.com/Katsute/WebSys/commit/138f6d1d6808b5841b4bc9ac591167646ad7ea61) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`11 hours ago`*
    > navigation
- - Commented on issue [Images/icons don't render properly. (#70)](https://github.com/Ktt-Development/webdir/issues/70#issuecomment-724393713) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`13 hours ago`*
+ - Commented on issue [Images/icons don't render properly. (#70)](https://github.com/Ktt-Development/webdir/issues/70#issuecomment-724393713) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`14 hours ago`*
    > This issue was not actually cause by the read method, the bytes just aren't decoded correctly. Issue was caused when invalid front matter caused bytes to be encoded with UTF-8 when it is not supported.
- - Added commit [ddddf6c](https://github.com/Ktt-Development/webdir/commit/ddddf6c12af4ca1e235eba8acb5e6a9faaf187f5) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`13 hours ago`*
-   > Fixed [#70](https://github.com/Ktt-Development/webdir/issues/70)
- - Closed issue [Images/icons don't render properly. (#70)](https://github.com/Ktt-Development/webdir/issues/70) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`13 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 10, 2020 at 09:48 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 10, 2020 at 10:48 AM (EST)</p>
