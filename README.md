@@ -55,14 +55,14 @@
 
 ## ⚡ Recent Activity
 
+ - Commented on issue [Images/icons don't render properly. (#70)](https://github.com/Ktt-Development/webdir/issues/70#issuecomment-724393713) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`11 minutes ago`*
+   > This issue was not actually cause by the read method, the bytes just aren't decoded correctly. Issue was caused when invalid front matter caused bytes to be encoded with UTF-8 when it is not supported.
+ - Added commit [ddddf6c](https://github.com/Ktt-Development/webdir/commit/ddddf6c12af4ca1e235eba8acb5e6a9faaf187f5) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`12 minutes ago`*
+   > Fixed [#70](https://github.com/Ktt-Development/webdir/issues/70)
+ - Closed issue [Images/icons don't render properly. (#70)](https://github.com/Ktt-Development/webdir/issues/70) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`12 minutes ago`*
  - Commented on issue [Images/icons don't render properly. (#70)](https://github.com/Ktt-Development/webdir/issues/70#issuecomment-724331495) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
    > Testing has determined that this is a `READ` issue. The `Files.readAllBytes(Path)` method causes images to lose its encoding for some reason.
- - Opened issue [Images/icons don't render properly. (#70)](https://github.com/Ktt-Development/webdir/issues/70) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
- - Closed issue [Prepare build for JDK17 (#8)](https://github.com/Ktt-Development/rexedia/issues/8) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 hours ago`*
- - Commented on issue [Prepare build for JDK17 (#8)](https://github.com/Ktt-Development/rexedia/issues/8#issuecomment-724263569) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`4 hours ago`*
-   > Such a small program is essentially running at the most optimal speed possible. There is no need to adapt to JDK17.
- - Added commit [ff202f2](https://github.com/Katsute/katsute.github.io/commit/ff202f2c481732462a5a298e8868ebc68b495527) to branch [main](https://github.com/Katsute/katsute.github.io/tree/main) in repository [Katsute/katsute.github.io](https://github.com/Katsute/katsute.github.io)  *`4 hours ago`*
-   > Update data.yml
+ - Opened issue [Images/icons don't render properly. (#70)](https://github.com/Ktt-Development/webdir/issues/70) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 09, 2020 at 08:11 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 09, 2020 at 08:51 PM (EST)</p>
