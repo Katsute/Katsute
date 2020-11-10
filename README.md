@@ -55,14 +55,16 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [e96a33d](https://github.com/Ktt-Development/webdir/commit/e96a33df154649dd99253919e40a3f8e2b30330e) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`10 minutes ago`*
+ - Added commit [22c84b6](https://github.com/Ktt-Development/rexedia/commit/22c84b6af321f4bb6e9e5d8ceebd590ba1e75826) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`7 minutes ago`*
+   > Remove duplicate icon
+ - Added commit [b4a5aa7](https://github.com/Ktt-Development/webdir/commit/b4a5aa7af3d17ea4673fe9f3e87c749e3e722151) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`14 minutes ago`*
+   > Remove unused binaries
+   >  > Only the main jar needs to be inputted into the final dist, other jars are represented as dlls.
+ - Added commit [e96a33d](https://github.com/Ktt-Development/webdir/commit/e96a33df154649dd99253919e40a3f8e2b30330e) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
    > Fix incorrect logger
- - Added commit [3c0ef5f](https://github.com/Ktt-Development/webdir/commit/3c0ef5febd4136036ac0262ae56417b00f44950d) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`6 hours ago`*
+ - Added commit [3c0ef5f](https://github.com/Ktt-Development/webdir/commit/3c0ef5febd4136036ac0262ae56417b00f44950d) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`7 hours ago`*
    > Fix [#71](https://github.com/Ktt-Development/webdir/issues/71)
- - Closed issue [Empty front matter will not load bytes correctly. (#71)](https://github.com/Ktt-Development/webdir/issues/71) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`6 hours ago`*
- - Opened issue [Empty front matter will not load bytes correctly. (#71)](https://github.com/Ktt-Development/webdir/issues/71) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`7 hours ago`*
- - Added commit [138f6d1](https://github.com/Katsute/WebSys/commit/138f6d1d6808b5841b4bc9ac591167646ad7ea61) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`17 hours ago`*
-   > navigation
+ - Closed issue [Empty front matter will not load bytes correctly. (#71)](https://github.com/Ktt-Development/webdir/issues/71) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`7 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 10, 2020 at 04:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 10, 2020 at 05:48 PM (EST)</p>
