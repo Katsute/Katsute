@@ -55,14 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Commented on issue [Images/icons don't render properly. (#70)](https://github.com/Ktt-Development/webdir/issues/70#issuecomment-724393713) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
+ - Added commit [138f6d1](https://github.com/Katsute/WebSys/commit/138f6d1d6808b5841b4bc9ac591167646ad7ea61) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`47 minutes ago`*
+   > navigation
+ - Commented on issue [Images/icons don't render properly. (#70)](https://github.com/Ktt-Development/webdir/issues/70#issuecomment-724393713) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 hours ago`*
    > This issue was not actually cause by the read method, the bytes just aren't decoded correctly. Issue was caused when invalid front matter caused bytes to be encoded with UTF-8 when it is not supported.
- - Added commit [ddddf6c](https://github.com/Ktt-Development/webdir/commit/ddddf6c12af4ca1e235eba8acb5e6a9faaf187f5) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
+ - Added commit [ddddf6c](https://github.com/Ktt-Development/webdir/commit/ddddf6c12af4ca1e235eba8acb5e6a9faaf187f5) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 hours ago`*
    > Fixed [#70](https://github.com/Ktt-Development/webdir/issues/70)
- - Closed issue [Images/icons don't render properly. (#70)](https://github.com/Ktt-Development/webdir/issues/70) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
- - Commented on issue [Images/icons don't render properly. (#70)](https://github.com/Ktt-Development/webdir/issues/70#issuecomment-724331495) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`4 hours ago`*
+ - Closed issue [Images/icons don't render properly. (#70)](https://github.com/Ktt-Development/webdir/issues/70) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 hours ago`*
+ - Commented on issue [Images/icons don't render properly. (#70)](https://github.com/Ktt-Development/webdir/issues/70#issuecomment-724331495) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`5 hours ago`*
    > Testing has determined that this is a `READ` issue. The `Files.readAllBytes(Path)` method causes images to lose its encoding for some reason.
- - Opened issue [Images/icons don't render properly. (#70)](https://github.com/Ktt-Development/webdir/issues/70) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`5 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 09, 2020 at 10:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 09, 2020 at 11:48 PM (EST)</p>
