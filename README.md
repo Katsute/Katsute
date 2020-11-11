@@ -55,15 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Opened issue [Missing files will not render defaults. (#73)](https://github.com/Ktt-Development/webdir/issues/73) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`18 hours ago`*
- - Opened issue [Folder/file scope options. (#72)](https://github.com/Ktt-Development/webdir/issues/72) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`18 hours ago`*
- - Added commit [054a24a](https://github.com/Katsute/WebSys/commit/054a24af328d740b2da720a7526cc0cd964eb17b) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`18 hours ago`*
+ - Commented on issue [Missing files will not render defaults. (#73)](https://github.com/Ktt-Development/webdir/issues/73#issuecomment-725708178) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`49 minutes ago`*
+   > Note that a feature for `exists: true` / `exists: false` will not be added. Use `Objects#requireNonNull` on the bytes instead.
+ - Opened issue [Missing files will not render defaults. (#73)](https://github.com/Ktt-Development/webdir/issues/73) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`19 hours ago`*
+ - Opened issue [Folder/file scope options. (#72)](https://github.com/Ktt-Development/webdir/issues/72) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`19 hours ago`*
+ - Added commit [054a24a](https://github.com/Katsute/WebSys/commit/054a24af328d740b2da720a7526cc0cd964eb17b) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`19 hours ago`*
    > folder
  - Added commit [22c84b6](https://github.com/Ktt-Development/rexedia/commit/22c84b6af321f4bb6e9e5d8ceebd590ba1e75826) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 day ago`*
    > Remove duplicate icon
- - Added commit [b4a5aa7](https://github.com/Ktt-Development/webdir/commit/b4a5aa7af3d17ea4673fe9f3e87c749e3e722151) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 day ago`*
-   > Remove unused binaries
-   >  > Only the main jar needs to be inputted into the final dist, other jars are represented as dlls.
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 11, 2020 at 05:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 11, 2020 at 06:48 PM (EST)</p>
