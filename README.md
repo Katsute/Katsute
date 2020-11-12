@@ -55,14 +55,20 @@
 
 ## ⚡ Recent Activity
 
- - Commented on issue [Missing files will not render defaults. (#73)](https://github.com/Ktt-Development/webdir/issues/73#issuecomment-725708178) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
-   > Note that a feature for `exists: true` / `exists: false` will not be added. Use `Objects#requireNonNull` on the bytes instead.
- - Opened issue [Missing files will not render defaults. (#73)](https://github.com/Ktt-Development/webdir/issues/73) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`20 hours ago`*
- - Opened issue [Folder/file scope options. (#72)](https://github.com/Ktt-Development/webdir/issues/72) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`20 hours ago`*
- - Added commit [054a24a](https://github.com/Katsute/WebSys/commit/054a24af328d740b2da720a7526cc0cd964eb17b) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`20 hours ago`*
-   > folder
- - Added commit [22c84b6](https://github.com/Ktt-Development/rexedia/commit/22c84b6af321f4bb6e9e5d8ceebd590ba1e75826) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 day ago`*
-   > Remove duplicate icon
+ - Closed issue [Folder/file scope options. (#72)](https://github.com/Ktt-Development/webdir/issues/72) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`17 minutes ago`*
+ - Added commit [b9c3b3c](https://github.com/Ktt-Development/webdir/commit/b9c3b3c20b2feafc445661b2072a5037d2df088d) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`17 minutes ago`*
+   > Bug fixes, cleanup. [#72](https://github.com/Ktt-Development/webdir/issues/72)
+   >  > - Fixed [#73](https://github.com/Ktt-Development/webdir/issues/73) - defaults now run in all cases
+   >  > - Removed redundant asString null check
+   >  > - Added [#72](https://github.com/Ktt-Development/webdir/issues/72)…
+ - Closed issue [Missing files will not render defaults. (#73)](https://github.com/Ktt-Development/webdir/issues/73) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`17 minutes ago`*
+ - Commented on issue [Folder/file scope options. (#72)](https://github.com/Ktt-Development/webdir/issues/72#issuecomment-725766955) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`25 minutes ago`*
+   > **Warning:** Failed yaml read is subject to this same issue https://github.com/Ktt-Development/rexedia/issues/19
+   >  > > This is dependency issue with eo-yaml and is being been fixed.
+   >  > > 
+   >  > > For now lists must be typed as below until the dependency is updated.…
+ - Commented on issue [Folder/file scope options. (#72)](https://github.com/Ktt-Development/webdir/issues/72#issuecomment-725763537) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`32 minutes ago`*
+   > > Note that a feature for `exists: true` / `exists: false` will not be added. Use `Objects#requireNonNull` on the bytes instead.
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 11, 2020 at 07:59 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 11, 2020 at 08:48 PM (EST)</p>
