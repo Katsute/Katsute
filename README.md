@@ -55,16 +55,16 @@
 
 ## ⚡ Recent Activity
 
- - Reopened issue [Unable to download private releases. (#15)](https://github.com/Katsute/GitHub-Downloader/issues/15) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`1 hour ago`*
- - Added commit [717a8cc](https://github.com/Katsute/WebSys/commit/717a8ccffe333d3e793d3d72b1d1d590179b6dd9) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`17 hours ago`*
+ - Opened issue [Remove HTTPCode (#112)](https://github.com/Ktt-Development/simplehttpserver/issues/112) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`3 minutes ago`*
+ - Reopened issue [Unable to download private releases. (#15)](https://github.com/Katsute/GitHub-Downloader/issues/15) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`2 hours ago`*
+ - Added commit [717a8cc](https://github.com/Katsute/WebSys/commit/717a8ccffe333d3e793d3d72b1d1d590179b6dd9) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`18 hours ago`*
    > file adjustments
- - Closed issue [Folder/file scope options. (#72)](https://github.com/Ktt-Development/webdir/issues/72) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`20 hours ago`*
- - Added commit [b9c3b3c](https://github.com/Ktt-Development/webdir/commit/b9c3b3c20b2feafc445661b2072a5037d2df088d) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`20 hours ago`*
+ - Closed issue [Folder/file scope options. (#72)](https://github.com/Ktt-Development/webdir/issues/72) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`21 hours ago`*
+ - Added commit [b9c3b3c](https://github.com/Ktt-Development/webdir/commit/b9c3b3c20b2feafc445661b2072a5037d2df088d) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`21 hours ago`*
    > Bug fixes, cleanup. [#72](https://github.com/Ktt-Development/webdir/issues/72)
    >  > - Fixed [#73](https://github.com/Ktt-Development/webdir/issues/73) - defaults now run in all cases
    >  > - Removed redundant asString null check
    >  > - Added [#72](https://github.com/Ktt-Development/webdir/issues/72)…
- - Closed issue [Missing files will not render defaults. (#73)](https://github.com/Ktt-Development/webdir/issues/73) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`20 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 12, 2020 at 04:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 12, 2020 at 05:48 PM (EST)</p>
