@@ -55,13 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [f9c0de0](https://github.com/Ktt-Development/webdir/commit/f9c0de06fde68d90d41133ad90f61a029368649f) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+ - Added commit [f9c0de0](https://github.com/Ktt-Development/webdir/commit/f9c0de06fde68d90d41133ad90f61a029368649f) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
    > Fixed server not being multithreaded
- - Added commit [1e7c1a9](https://github.com/Katsute/GitHub-Downloader/commit/1e7c1a97e5f0445ac1d77e07df3f0910ba22b44c) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`1 hour ago`*
+ - Added commit [1e7c1a9](https://github.com/Katsute/GitHub-Downloader/commit/1e7c1a97e5f0445ac1d77e07df3f0910ba22b44c) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`2 hours ago`*
    > Fix [#15](https://github.com/Katsute/GitHub-Downloader/issues/15)
- - Closed issue [Unable to download private releases. (#15)](https://github.com/Katsute/GitHub-Downloader/issues/15) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`1 hour ago`*
- - Opened issue [Remove HTTPCode (#112)](https://github.com/Ktt-Development/simplehttpserver/issues/112) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
- - Reopened issue [Unable to download private releases. (#15)](https://github.com/Katsute/GitHub-Downloader/issues/15) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`4 hours ago`*
+ - Closed issue [Unable to download private releases. (#15)](https://github.com/Katsute/GitHub-Downloader/issues/15) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`2 hours ago`*
+ - Opened issue [Remove HTTPCode (#112)](https://github.com/Ktt-Development/simplehttpserver/issues/112) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`3 hours ago`*
+ - Reopened issue [Unable to download private releases. (#15)](https://github.com/Katsute/GitHub-Downloader/issues/15) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`5 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 12, 2020 at 08:01 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 12, 2020 at 08:49 PM (EST)</p>
