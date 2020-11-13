@@ -55,15 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [67bd43c](https://github.com/Ktt-Development/webdir/commit/67bd43c8dcf8e0050d638aeb6ab2fd78a7fb533b) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`13 hours ago`*
+ - Added commit [67bd43c](https://github.com/Ktt-Development/webdir/commit/67bd43c8dcf8e0050d638aeb6ab2fd78a7fb533b) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`14 hours ago`*
    > Cleanup, fix test failures
    >  > Test failures was caused by insufficient connection limit (was 1 now ∞)
- - Added commit [f9c0de0](https://github.com/Ktt-Development/webdir/commit/f9c0de06fde68d90d41133ad90f61a029368649f) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`16 hours ago`*
+ - Added commit [f9c0de0](https://github.com/Ktt-Development/webdir/commit/f9c0de06fde68d90d41133ad90f61a029368649f) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`17 hours ago`*
    > Fixed server not being multithreaded
- - Added commit [1e7c1a9](https://github.com/Katsute/GitHub-Downloader/commit/1e7c1a97e5f0445ac1d77e07df3f0910ba22b44c) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`16 hours ago`*
+ - Added commit [1e7c1a9](https://github.com/Katsute/GitHub-Downloader/commit/1e7c1a97e5f0445ac1d77e07df3f0910ba22b44c) to branch [main](https://github.com/Katsute/GitHub-Downloader/tree/main) in repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`17 hours ago`*
    > Fix [#15](https://github.com/Katsute/GitHub-Downloader/issues/15)
- - Closed issue [Unable to download private releases. (#15)](https://github.com/Katsute/GitHub-Downloader/issues/15) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`16 hours ago`*
- - Opened issue [Remove HTTPCode (#112)](https://github.com/Ktt-Development/simplehttpserver/issues/112) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`17 hours ago`*
+ - Closed issue [Unable to download private releases. (#15)](https://github.com/Katsute/GitHub-Downloader/issues/15) from repository [Katsute/GitHub-Downloader](https://github.com/Katsute/GitHub-Downloader)  *`17 hours ago`*
+ - Opened issue [Remove HTTPCode (#112)](https://github.com/Ktt-Development/simplehttpserver/issues/112) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`18 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 13, 2020 at 10:48 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 13, 2020 at 11:48 AM (EST)</p>
