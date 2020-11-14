@@ -55,14 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Deleted branch [fix-throttler-tests@fea80c4](https://github.com/Ktt-Development/simplehttpserver/tree/fix-throttler-tests@fea80c4) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`51 minutes ago`*
- - Added commit [165dbeb](https://github.com/Ktt-Development/simplehttpserver/commit/165dbeb920d9f54a8f8b343f3edde7762fa5fe91) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`51 minutes ago`*
+ - Deleted branch [fix-throttler-tests@fea80c4](https://github.com/Ktt-Development/simplehttpserver/tree/fix-throttler-tests@fea80c4) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`2 hours ago`*
+ - Added commit [165dbeb](https://github.com/Ktt-Development/simplehttpserver/commit/165dbeb920d9f54a8f8b343f3edde7762fa5fe91) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
    > Fix throttler tests ([#114](https://github.com/Ktt-Development/simplehttpserver/issues/114))
    >  > Throttler tests do not work unless the server is actually multithreaded
- - Closed pull request [Fix throttler tests (#114)](https://github.com/Ktt-Development/simplehttpserver/pull/114) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`51 minutes ago`*
- - Added commit [de3c280](https://github.com/Ktt-Development/webdir/commit/de3c2802448e81f21619b15ba21eefb55b6503b4) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`56 minutes ago`*
+ - Closed pull request [Fix throttler tests (#114)](https://github.com/Ktt-Development/simplehttpserver/pull/114) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
+ - Added commit [de3c280](https://github.com/Ktt-Development/webdir/commit/de3c2802448e81f21619b15ba21eefb55b6503b4) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
    > Fix [#74](https://github.com/Ktt-Development/webdir/issues/74)
- - Closed issue [Importing null value causes config to fail (#74)](https://github.com/Ktt-Development/webdir/issues/74) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`56 minutes ago`*
+ - Closed issue [Importing null value causes config to fail (#74)](https://github.com/Ktt-Development/webdir/issues/74) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 13, 2020 at 06:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 13, 2020 at 08:03 PM (EST)</p>
