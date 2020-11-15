@@ -55,9 +55,9 @@
 
 ## ⚡ Recent Activity
 
- - Opened issue [Includes within for loop is missing variables (#179)](https://github.com/bkiers/Liqp/issues/179) from repository [bkiers/Liqp](https://github.com/bkiers/Liqp)  *`1 minute ago`*
- - Opened issue [Add 'raw' context for viewing files (#75)](https://github.com/Ktt-Development/webdir/issues/75) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`7 hours ago`*
- - Added commit [d4e86f7](https://github.com/Katsute/WebSys/commit/d4e86f702b33176f9aab58606b0c15967da6f96c) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`22 hours ago`*
+ - Opened issue [Includes within for loop is missing variables (#179)](https://github.com/bkiers/Liqp/issues/179) from repository [bkiers/Liqp](https://github.com/bkiers/Liqp)  *`1 hour ago`*
+ - Opened issue [Add 'raw' context for viewing files (#75)](https://github.com/Ktt-Development/webdir/issues/75) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`8 hours ago`*
+ - Added commit [d4e86f7](https://github.com/Katsute/WebSys/commit/d4e86f702b33176f9aab58606b0c15967da6f96c) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`23 hours ago`*
    > context menu changes
  - Added commit [951a2f2](https://github.com/Ktt-Development/webdir/commit/951a2f24b18a2c56d68ee2e19a878ee8321c34d1) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 day ago`*
    > Reimplemented null checks on yaml string
@@ -65,4 +65,4 @@
  - Deleted branch [fix-throttler-tests@fea80c4](https://github.com/Ktt-Development/simplehttpserver/tree/fix-throttler-tests@fea80c4) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 day ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 14, 2020 at 08:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 14, 2020 at 09:48 PM (EST)</p>
