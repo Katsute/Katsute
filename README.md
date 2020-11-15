@@ -55,15 +55,12 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [4cc67b7](https://github.com/Katsute/WebSys/commit/4cc67b7a8d9bf6d0f7e7934cc86ffa5ae3bc4598) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`16 hours ago`*
-   > file view / cleanup
- - Opened issue [Includes within for loop is missing variables (#179)](https://github.com/bkiers/Liqp/issues/179) from repository [bkiers/Liqp](https://github.com/bkiers/Liqp)  *`18 hours ago`*
- - Opened issue [Add 'raw' context for viewing files (#75)](https://github.com/Ktt-Development/webdir/issues/75) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 day ago`*
- - Added commit [d4e86f7](https://github.com/Katsute/WebSys/commit/d4e86f702b33176f9aab58606b0c15967da6f96c) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`1 day ago`*
-   > context menu changes
- - Added commit [951a2f2](https://github.com/Ktt-Development/webdir/commit/951a2f24b18a2c56d68ee2e19a878ee8321c34d1) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 day ago`*
-   > Reimplemented null checks on yaml string
-   >  > Fix in the commit before this means that the method could potentially return null causing string methods to fail
+ - Deleted branch [remove-http-code-#112@fea80c4](https://github.com/Ktt-Development/simplehttpserver/tree/remove-http-code-#112@fea80c4) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`44 minutes ago`*
+ - Added commit [d15bc78](https://github.com/Ktt-Development/simplehttpserver/commit/d15bc781f8b165fca1ed58eb66a220e9edaa9156) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`44 minutes ago`*
+   > Remove HTTPCode [#112](https://github.com/Ktt-Development/simplehttpserver/issues/112) ([#113](https://github.com/Ktt-Development/simplehttpserver/issues/113))
+ - Closed pull request [Remove HTTPCode #112 (#113)](https://github.com/Ktt-Development/simplehttpserver/pull/113) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`44 minutes ago`*
+ - Closed issue [Remove HTTPCode (#112)](https://github.com/Ktt-Development/simplehttpserver/issues/112) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`44 minutes ago`*
+ - Deleted branch [fix-get#115@165dbeb](https://github.com/Ktt-Development/simplehttpserver/tree/fix-get#115@165dbeb) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`47 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 15, 2020 at 02:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 15, 2020 at 03:48 PM (EST)</p>
