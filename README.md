@@ -55,10 +55,10 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [4cc67b7](https://github.com/Katsute/WebSys/commit/4cc67b7a8d9bf6d0f7e7934cc86ffa5ae3bc4598) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`5 hours ago`*
+ - Added commit [4cc67b7](https://github.com/Katsute/WebSys/commit/4cc67b7a8d9bf6d0f7e7934cc86ffa5ae3bc4598) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`6 hours ago`*
    > file view / cleanup
- - Opened issue [Includes within for loop is missing variables (#179)](https://github.com/bkiers/Liqp/issues/179) from repository [bkiers/Liqp](https://github.com/bkiers/Liqp)  *`7 hours ago`*
- - Opened issue [Add 'raw' context for viewing files (#75)](https://github.com/Ktt-Development/webdir/issues/75) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`14 hours ago`*
+ - Opened issue [Includes within for loop is missing variables (#179)](https://github.com/bkiers/Liqp/issues/179) from repository [bkiers/Liqp](https://github.com/bkiers/Liqp)  *`8 hours ago`*
+ - Opened issue [Add 'raw' context for viewing files (#75)](https://github.com/Ktt-Development/webdir/issues/75) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`15 hours ago`*
  - Added commit [d4e86f7](https://github.com/Katsute/WebSys/commit/d4e86f702b33176f9aab58606b0c15967da6f96c) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`1 day ago`*
    > context menu changes
  - Added commit [951a2f2](https://github.com/Ktt-Development/webdir/commit/951a2f24b18a2c56d68ee2e19a878ee8321c34d1) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 day ago`*
@@ -66,4 +66,4 @@
    >  > Fix in the commit before this means that the method could potentially return null causing string methods to fail
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 15, 2020 at 03:48 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 15, 2020 at 04:49 AM (EST)</p>
