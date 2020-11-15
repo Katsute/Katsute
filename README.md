@@ -55,13 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [383cebb](https://github.com/Katsute/WebSys/commit/383cebba919620e02d52ca786d471811631ce139) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`9 minutes ago`*
+ - Added commit [383cebb](https://github.com/Katsute/WebSys/commit/383cebba919620e02d52ca786d471811631ce139) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`1 hour ago`*
    > File list/search filters
- - Deleted branch [remove-http-code-#112@fea80c4](https://github.com/Ktt-Development/simplehttpserver/tree/remove-http-code-#112@fea80c4) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
- - Added commit [d15bc78](https://github.com/Ktt-Development/simplehttpserver/commit/d15bc781f8b165fca1ed58eb66a220e9edaa9156) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+ - Deleted branch [remove-http-code-#112@fea80c4](https://github.com/Ktt-Development/simplehttpserver/tree/remove-http-code-#112@fea80c4) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`2 hours ago`*
+ - Added commit [d15bc78](https://github.com/Ktt-Development/simplehttpserver/commit/d15bc781f8b165fca1ed58eb66a220e9edaa9156) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
    > Remove HTTPCode [#112](https://github.com/Ktt-Development/simplehttpserver/issues/112) ([#113](https://github.com/Ktt-Development/simplehttpserver/issues/113))
- - Closed pull request [Remove HTTPCode #112 (#113)](https://github.com/Ktt-Development/simplehttpserver/pull/113) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
- - Closed issue [Remove HTTPCode (#112)](https://github.com/Ktt-Development/simplehttpserver/issues/112) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+ - Closed pull request [Remove HTTPCode #112 (#113)](https://github.com/Ktt-Development/simplehttpserver/pull/113) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
+ - Closed issue [Remove HTTPCode (#112)](https://github.com/Ktt-Development/simplehttpserver/issues/112) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 15, 2020 at 04:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 15, 2020 at 05:48 PM (EST)</p>
