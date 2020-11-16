@@ -55,13 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Commented on issue [Add config parameter for logging. (#69)](https://github.com/Ktt-Development/webdir/issues/69#issuecomment-728194488) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 hours ago`*
-   > This can not be toggled with config because the logger is loaded first. Millis logging may be removed as users can just redirect the log to a file or rename the latest file.
- - Opened issue [Add 404 to config (#77)](https://github.com/Ktt-Development/webdir/issues/77) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`20 hours ago`*
- - Opened issue [Map config.yml (#76)](https://github.com/Ktt-Development/webdir/issues/76) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`21 hours ago`*
- - Added commit [383cebb](https://github.com/Katsute/WebSys/commit/383cebba919620e02d52ca786d471811631ce139) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`23 hours ago`*
-   > File list/search filters
- - Deleted branch [remove-http-code-#112@fea80c4](https://github.com/Ktt-Development/simplehttpserver/tree/remove-http-code-#112@fea80c4) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 day ago`*
+ - Added commit [41d39b6](https://github.com/Ktt-Development/webdir/commit/41d39b6993ce49f8cd115cc17981d5a9ca23e9b1) to branch [v1.1@de3c280](https://github.com/Ktt-Development/webdir/tree/v1.1@de3c280) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`5 minutes ago`*
+   > Fix test plugins version
+ - Commented on commit [4bb0f3a](https://github.com/Ktt-Development/webdir/commit/4bb0f3aa446f1c3c4ac98946814cada54a4db22c#commitcomment-44241687) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`13 minutes ago`*
+   > ([#67](https://github.com/Ktt-Development/webdir/issues/67)) commit has wrong issue num
+ - Added commit [58c836f](https://github.com/Ktt-Development/webdir/commit/58c836f5cc562145cfa02872725afbe5ce5c72fe) to branch [v1.1@de3c280](https://github.com/Ktt-Development/webdir/tree/v1.1@de3c280) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`15 minutes ago`*
+   > bump to 1.1.0
+ - Opened pull request [v1.1 (#78)](https://github.com/Ktt-Development/webdir/pull/78) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`19 minutes ago`*
+ - Created branch [v1.1@de3c280](https://github.com/Ktt-Development/webdir/tree/v1.1@de3c280) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`37 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 16, 2020 at 03:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 16, 2020 at 04:48 PM (EST)</p>
