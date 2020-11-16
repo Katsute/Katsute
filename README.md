@@ -55,13 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Commented on issue [Add config parameter for logging. (#69)](https://github.com/Ktt-Development/webdir/issues/69#issuecomment-728194488) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+ - Commented on issue [Add config parameter for logging. (#69)](https://github.com/Ktt-Development/webdir/issues/69#issuecomment-728194488) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
    > This can not be toggled with config because the logger is loaded first. Millis logging may be removed as users can just redirect the log to a file or rename the latest file.
- - Opened issue [Add 404 to config (#77)](https://github.com/Ktt-Development/webdir/issues/77) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`18 hours ago`*
- - Opened issue [Map config.yml (#76)](https://github.com/Ktt-Development/webdir/issues/76) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`19 hours ago`*
- - Added commit [383cebb](https://github.com/Katsute/WebSys/commit/383cebba919620e02d52ca786d471811631ce139) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`21 hours ago`*
+ - Opened issue [Add 404 to config (#77)](https://github.com/Ktt-Development/webdir/issues/77) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`19 hours ago`*
+ - Opened issue [Map config.yml (#76)](https://github.com/Ktt-Development/webdir/issues/76) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`20 hours ago`*
+ - Added commit [383cebb](https://github.com/Katsute/WebSys/commit/383cebba919620e02d52ca786d471811631ce139) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`22 hours ago`*
    > File list/search filters
- - Deleted branch [remove-http-code-#112@fea80c4](https://github.com/Ktt-Development/simplehttpserver/tree/remove-http-code-#112@fea80c4) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`22 hours ago`*
+ - Deleted branch [remove-http-code-#112@fea80c4](https://github.com/Ktt-Development/simplehttpserver/tree/remove-http-code-#112@fea80c4) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`23 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 16, 2020 at 01:49 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 16, 2020 at 02:48 PM (EST)</p>
