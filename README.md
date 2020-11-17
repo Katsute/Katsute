@@ -55,20 +55,20 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [6d2b589](https://github.com/Ktt-Development/webdir/commit/6d2b5892ceb5fd818b2973dca642f9b7a0c550a7) to branch [v1.1@41d39b6](https://github.com/Ktt-Development/webdir/tree/v1.1@41d39b6) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`30 minutes ago`*
+ - Added commit [6d2b589](https://github.com/Ktt-Development/webdir/commit/6d2b5892ceb5fd818b2973dca642f9b7a0c550a7) to branch [v1.1@41d39b6](https://github.com/Ktt-Development/webdir/tree/v1.1@41d39b6) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
    > Merge main with pull ([#81](https://github.com/Ktt-Development/webdir/issues/81)) ([#82](https://github.com/Ktt-Development/webdir/issues/82))
    >  > * Update README.md
    >  > * Bump simplehttpserver from 4.1.0 to 4.2.0 ([#80](https://github.com/Ktt-Development/webdir/issues/80))
    >  > Bumps [simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) from 4.1.0 to 4.2.0.…
- - Closed pull request [Merge main with pull (#81) (#82)](https://github.com/Ktt-Development/webdir/pull/82) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`30 minutes ago`*
- - Opened pull request [Merge main with pull (#81) (#82)](https://github.com/Ktt-Development/webdir/pull/82) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`30 minutes ago`*
- - Added commit [5f0a228](https://github.com/Katsute/Katsute/commit/5f0a2281a7229e12c188f23c87a40cf760d8601f) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`40 minutes ago`*
+ - Closed pull request [Merge main with pull (#81) (#82)](https://github.com/Ktt-Development/webdir/pull/82) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+ - Opened pull request [Merge main with pull (#81) (#82)](https://github.com/Ktt-Development/webdir/pull/82) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+ - Added commit [5f0a228](https://github.com/Katsute/Katsute/commit/5f0a2281a7229e12c188f23c87a40cf760d8601f) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`1 hour ago`*
    > Update githubUtility.py
- - Added commit [97464b8](https://github.com/Ktt-Development/webdir/commit/97464b8d6c5707ed1eccdfd28d22d0893178b0ab) to branch [v1.1@de3c280](https://github.com/Ktt-Development/webdir/tree/v1.1@de3c280) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+ - Added commit [97464b8](https://github.com/Ktt-Development/webdir/commit/97464b8d6c5707ed1eccdfd28d22d0893178b0ab) to branch [v1.1@de3c280](https://github.com/Ktt-Development/webdir/tree/v1.1@de3c280) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
    > Merge main with pull ([#81](https://github.com/Ktt-Development/webdir/issues/81))
    >  > * Update README.md
    >  > * Bump simplehttpserver from 4.1.0 to 4.2.0 ([#80](https://github.com/Ktt-Development/webdir/issues/80))
    >  > Bumps [simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) from 4.1.0 to 4.2.0.…
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 17, 2020 at 02:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 17, 2020 at 03:48 PM (EST)</p>
