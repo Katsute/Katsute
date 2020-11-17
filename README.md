@@ -55,18 +55,21 @@
 
 ## ⚡ Recent Activity
 
- - Opened pull request [implement index.html -> / (#79)](https://github.com/Ktt-Development/webdir/pull/79) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
- - Added commit [6e2bd69](https://github.com/Ktt-Development/webdir/commit/6e2bd69b8025def43bc7ad5b3f603f80bad0cfa0) to branch [v1.1@de3c280](https://github.com/Ktt-Development/webdir/tree/v1.1@de3c280) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+ - Added commit [6e2bd69](https://github.com/Ktt-Development/webdir/commit/6e2bd69b8025def43bc7ad5b3f603f80bad0cfa0) to branch [v1.1@41d39b6](https://github.com/Ktt-Development/webdir/tree/v1.1@41d39b6) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`4 minutes ago`*
    > Implement [#77](https://github.com/Ktt-Development/webdir/issues/77) (404)
    >  > - Closes [#77](https://github.com/Ktt-Development/webdir/issues/77)
    >  > - Minor config adjustments
- - Deleted branch [fix#117@d15bc78](https://github.com/Ktt-Development/simplehttpserver/tree/fix#117@d15bc78) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 hour ago`*
- - Added commit [e35aa59](https://github.com/Ktt-Development/simplehttpserver/commit/e35aa594e6a37446b23d40784c6bc1987e44506a) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
+ - Opened pull request [implement index.html -> / (#79)](https://github.com/Ktt-Development/webdir/pull/79) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
+ - Added commit [6e2bd69](https://github.com/Ktt-Development/webdir/commit/6e2bd69b8025def43bc7ad5b3f603f80bad0cfa0) to branch [v1.1@de3c280](https://github.com/Ktt-Development/webdir/tree/v1.1@de3c280) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
+   > Implement [#77](https://github.com/Ktt-Development/webdir/issues/77) (404)
+   >  > - Closes [#77](https://github.com/Ktt-Development/webdir/issues/77)
+   >  > - Minor config adjustments
+ - Deleted branch [fix#117@d15bc78](https://github.com/Ktt-Development/simplehttpserver/tree/fix#117@d15bc78) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`2 hours ago`*
+ - Added commit [e35aa59](https://github.com/Ktt-Development/simplehttpserver/commit/e35aa594e6a37446b23d40784c6bc1987e44506a) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`2 hours ago`*
    > Fixed issue where file handler would sometimes return null for existing files; Optimized LIVELOAD file handler. ([#118](https://github.com/Ktt-Development/simplehttpserver/issues/118))
    >  > * Fix [#117](https://github.com/Ktt-Development/simplehttpserver/issues/117)
    >  > * bump version
    >  > * Optimized directory entry…
- - Closed pull request [Fixed issue where file handler would sometimes return null for existing files; Optimized LIVELOAD file handler. (#118)](https://github.com/Ktt-Development/simplehttpserver/pull/118) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 hour ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 16, 2020 at 09:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 16, 2020 at 10:49 PM (EST)</p>
