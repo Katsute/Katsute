@@ -148,7 +148,7 @@ def getEventAsMarkdown(github, event, now, max_lines=4):
     elif etype == "PublicEvent":
         return f"Set repository {str_repo_name} to public " \
                f"{str_time_ago}"
-    elif etype == "PullRequestEvent":
+    elif etype == "PullRequestEvent" or etype == "PullRequestReviewEvent":
         arr_pull_state = ["opened", "closed", "reopened"]
         arr_pull_assign = ["assigned", "unassigned"]
         arr_pull_labeled = ["labeled", "unlabeled"]
