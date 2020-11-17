@@ -55,15 +55,18 @@
 
 ## ⚡ Recent Activity
 
- - Opened issue [Change file name adapter so it runs on directories. (#119)](https://github.com/Ktt-Development/simplehttpserver/issues/119) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 minute ago`*
- - Added commit [cf855de](https://github.com/Ktt-Development/webdir/commit/cf855dec27a3d0560229c79348fb665031bc1bbd) to branch [v1.1@de3c280](https://github.com/Ktt-Development/webdir/tree/v1.1@de3c280) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`10 minutes ago`*
-   > Fast track features to 1.0.0 release
- - Reopened pull request [implement index.html -> / (#79)](https://github.com/Ktt-Development/webdir/pull/79) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`12 minutes ago`*
- - Closed pull request [implement index.html -> / (#79)](https://github.com/Ktt-Development/webdir/pull/79) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`13 minutes ago`*
- - Commented on issue [implement index.html -> / (#79)](https://github.com/Ktt-Development/webdir/pull/79#issuecomment-729254961) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`13 minutes ago`*
-   > This can not be implemented because of the inherent nature of the FileHandler:
-   >  > https://github.com/Ktt-Development/simplehttpserver/blob/63aa92666126ad5a73f992e1f5a16cabf480d81e/src/main/java/com/kttdevelopment/simplehttpserver/handler/DirectoryEntry.java#L149-L151
-   >  > The adapter will never run on folders, making it impossible to use the adapter to derive the file. This feature may be added in the future but it is not feasible at this time.
+ - Commented on issue [implement index.html -> / (#79)](https://github.com/Ktt-Development/webdir/pull/79#issuecomment-729275110) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`22 minutes ago`*
+   > This feature can be implemented if we move the check to the site handler, we can check if the file is a directory then test if an index file exists within that folder and then use that file in the renderer.
+ - Added commit [dc05661](https://github.com/Katsute/WebSys/commit/dc056612ae61c616cba52b1618627b0cde9a40ab) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`46 minutes ago`*
+   > update dependencies
+ - Added commit [607f415](https://github.com/Ktt-Development/webdir/commit/607f415735db1da6ada4c5a7a82d8e7407ce3aa1) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`51 minutes ago`*
+   > Update README.md
+ - Deleted branch [v1.1@de3c280](https://github.com/Ktt-Development/webdir/tree/v1.1@de3c280) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`57 minutes ago`*
+ - Added commit [20e0b7e](https://github.com/Ktt-Development/webdir/commit/20e0b7e7af897e21dc6d0fe043f6ccdcd662c338) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`57 minutes ago`*
+   > v1.1/1.0+ ([#78](https://github.com/Ktt-Development/webdir/issues/78))
+   >  > * Implement [#66](https://github.com/Ktt-Development/webdir/issues/66) (Map plugin.yml)
+   >  > - Bump version to 1.1.0
+   >  > - Closes [#66](https://github.com/Ktt-Development/webdir/issues/66)…
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 17, 2020 at 05:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 17, 2020 at 06:48 PM (EST)</p>
