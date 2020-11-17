@@ -55,19 +55,16 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [d44a49c](https://github.com/Ktt-Development/webdir/commit/d44a49c8716d0d993a1ba8ad1e2b5d4f08433e0b) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`13 hours ago`*
-   > Update README.md
- - Added commit [44d307c](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/44d307ce21864ff68516248fada11ac5698f84b5) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`13 hours ago`*
-   > Update README.md
- - Added commit [6e2bd69](https://github.com/Ktt-Development/webdir/commit/6e2bd69b8025def43bc7ad5b3f603f80bad0cfa0) to branch [v1.1@41d39b6](https://github.com/Ktt-Development/webdir/tree/v1.1@41d39b6) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`13 hours ago`*
-   > Implement [#77](https://github.com/Ktt-Development/webdir/issues/77) (404)
-   >  > - Closes [#77](https://github.com/Ktt-Development/webdir/issues/77)
-   >  > - Minor config adjustments
- - Opened pull request [implement index.html -> / (#79)](https://github.com/Ktt-Development/webdir/pull/79) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`15 hours ago`*
- - Added commit [6e2bd69](https://github.com/Ktt-Development/webdir/commit/6e2bd69b8025def43bc7ad5b3f603f80bad0cfa0) to branch [v1.1@de3c280](https://github.com/Ktt-Development/webdir/tree/v1.1@de3c280) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`15 hours ago`*
-   > Implement [#77](https://github.com/Ktt-Development/webdir/issues/77) (404)
-   >  > - Closes [#77](https://github.com/Ktt-Development/webdir/issues/77)
-   >  > - Minor config adjustments
+ - Opened pull request [Merge main with pull (#81)](https://github.com/Ktt-Development/webdir/pull/81) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`18 seconds ago`*
+ - Added commit [6b4a39c](https://github.com/Ktt-Development/webdir/commit/6b4a39c58c73802c848b3e2a9c6885ceaf6531b1) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 minute ago`*
+   > Bump simplehttpserver from 4.1.0 to 4.2.0 ([#80](https://github.com/Ktt-Development/webdir/issues/80))
+   >  > Bumps [simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) from 4.1.0 to 4.2.0.
+   >  > - [Release notes](https://github.com/Ktt-Development/simplehttpserver/releases)
+   >  > - [Commits](https://github.com/Ktt-Development/simplehttpserver/compare/4.1.0...4.2.0)…
+ - Closed pull request [Bump simplehttpserver from 4.1.0 to 4.2.0 (#80)](https://github.com/Ktt-Development/webdir/pull/80) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 minute ago`*
+ - *No template has been created for PullRequestReviewEvent*
+ - Added commit [34d9a1d](https://github.com/Ktt-Development/docs.kttdevelopment.com/commit/34d9a1d5ac36bf9b54b4d9a88be07feb145b604d) to branch [main](https://github.com/Ktt-Development/docs.kttdevelopment.com/tree/main) in repository [Ktt-Development/docs.kttdevelopment.com](https://github.com/Ktt-Development/docs.kttdevelopment.com)  *`23 minutes ago`*
+   > 4.2.0
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 17, 2020 at 11:56 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 17, 2020 at 12:48 PM (EST)</p>
