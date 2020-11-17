@@ -55,20 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [6d2b589](https://github.com/Ktt-Development/webdir/commit/6d2b5892ceb5fd818b2973dca642f9b7a0c550a7) to branch [v1.1@41d39b6](https://github.com/Ktt-Development/webdir/tree/v1.1@41d39b6) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
-   > Merge main with pull ([#81](https://github.com/Ktt-Development/webdir/issues/81)) ([#82](https://github.com/Ktt-Development/webdir/issues/82))
-   >  > * Update README.md
-   >  > * Bump simplehttpserver from 4.1.0 to 4.2.0 ([#80](https://github.com/Ktt-Development/webdir/issues/80))
-   >  > Bumps [simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) from 4.1.0 to 4.2.0.…
- - Closed pull request [Merge main with pull (#81) (#82)](https://github.com/Ktt-Development/webdir/pull/82) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
- - Opened pull request [Merge main with pull (#81) (#82)](https://github.com/Ktt-Development/webdir/pull/82) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
- - Added commit [5f0a228](https://github.com/Katsute/Katsute/commit/5f0a2281a7229e12c188f23c87a40cf760d8601f) to branch [main](https://github.com/Katsute/Katsute/tree/main) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute)  *`2 hours ago`*
-   > Update githubUtility.py
- - Added commit [97464b8](https://github.com/Ktt-Development/webdir/commit/97464b8d6c5707ed1eccdfd28d22d0893178b0ab) to branch [v1.1@de3c280](https://github.com/Ktt-Development/webdir/tree/v1.1@de3c280) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 hours ago`*
-   > Merge main with pull ([#81](https://github.com/Ktt-Development/webdir/issues/81))
-   >  > * Update README.md
-   >  > * Bump simplehttpserver from 4.1.0 to 4.2.0 ([#80](https://github.com/Ktt-Development/webdir/issues/80))
-   >  > Bumps [simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) from 4.1.0 to 4.2.0.…
+ - Opened issue [Change file name adapter so it runs on directories. (#119)](https://github.com/Ktt-Development/simplehttpserver/issues/119) from repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 minute ago`*
+ - Added commit [cf855de](https://github.com/Ktt-Development/webdir/commit/cf855dec27a3d0560229c79348fb665031bc1bbd) to branch [v1.1@de3c280](https://github.com/Ktt-Development/webdir/tree/v1.1@de3c280) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`10 minutes ago`*
+   > Fast track features to 1.0.0 release
+ - Reopened pull request [implement index.html -> / (#79)](https://github.com/Ktt-Development/webdir/pull/79) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`12 minutes ago`*
+ - Closed pull request [implement index.html -> / (#79)](https://github.com/Ktt-Development/webdir/pull/79) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`13 minutes ago`*
+ - Commented on issue [implement index.html -> / (#79)](https://github.com/Ktt-Development/webdir/pull/79#issuecomment-729254961) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`13 minutes ago`*
+   > This can not be implemented because of the inherent nature of the FileHandler:
+   >  > https://github.com/Ktt-Development/simplehttpserver/blob/63aa92666126ad5a73f992e1f5a16cabf480d81e/src/main/java/com/kttdevelopment/simplehttpserver/handler/DirectoryEntry.java#L149-L151
+   >  > The adapter will never run on folders, making it impossible to use the adapter to derive the file. This feature may be added in the future but it is not feasible at this time.
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 17, 2020 at 04:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 17, 2020 at 05:48 PM (EST)</p>
