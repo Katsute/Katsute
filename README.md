@@ -55,18 +55,15 @@
 
 ## ⚡ Recent Activity
 
- - Commented on issue [implement index.html -> / (#79)](https://github.com/Ktt-Development/webdir/pull/79#issuecomment-729275110) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
+ - Added commit [d44a49c](https://github.com/Ktt-Development/webdir/commit/d44a49c8716d0d993a1ba8ad1e2b5d4f08433e0b) to branch [v1.1@41d39b6](https://github.com/Ktt-Development/webdir/tree/v1.1@41d39b6) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`16 minutes ago`*
+   > Update README.md
+ - Commented on issue [implement index.html -> / (#79)](https://github.com/Ktt-Development/webdir/pull/79#issuecomment-729275110) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
    > This feature can be implemented if we move the check to the site handler, we can check if the file is a directory then test if an index file exists within that folder and then use that file in the renderer.
  - Added commit [dc05661](https://github.com/Katsute/WebSys/commit/dc056612ae61c616cba52b1618627b0cde9a40ab) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`2 hours ago`*
    > update dependencies
  - Added commit [607f415](https://github.com/Ktt-Development/webdir/commit/607f415735db1da6ada4c5a7a82d8e7407ce3aa1) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
    > Update README.md
  - Deleted branch [v1.1@de3c280](https://github.com/Ktt-Development/webdir/tree/v1.1@de3c280) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`2 hours ago`*
- - Added commit [20e0b7e](https://github.com/Ktt-Development/webdir/commit/20e0b7e7af897e21dc6d0fe043f6ccdcd662c338) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
-   > v1.1/1.0+ ([#78](https://github.com/Ktt-Development/webdir/issues/78))
-   >  > * Implement [#66](https://github.com/Ktt-Development/webdir/issues/66) (Map plugin.yml)
-   >  > - Bump version to 1.1.0
-   >  > - Closes [#66](https://github.com/Ktt-Development/webdir/issues/66)…
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 17, 2020 at 08:07 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 17, 2020 at 08:49 PM (EST)</p>
