@@ -55,15 +55,17 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [d44a49c](https://github.com/Ktt-Development/webdir/commit/d44a49c8716d0d993a1ba8ad1e2b5d4f08433e0b) to branch [v1.1@41d39b6](https://github.com/Ktt-Development/webdir/tree/v1.1@41d39b6) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`16 minutes ago`*
-   > Update README.md
- - Commented on issue [implement index.html -> / (#79)](https://github.com/Ktt-Development/webdir/pull/79#issuecomment-729275110) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
-   > This feature can be implemented if we move the check to the site handler, we can check if the file is a directory then test if an index file exists within that folder and then use that file in the renderer.
- - Added commit [dc05661](https://github.com/Katsute/WebSys/commit/dc056612ae61c616cba52b1618627b0cde9a40ab) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`2 hours ago`*
-   > update dependencies
- - Added commit [607f415](https://github.com/Ktt-Development/webdir/commit/607f415735db1da6ada4c5a7a82d8e7407ce3aa1) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`2 hours ago`*
-   > Update README.md
- - Deleted branch [v1.1@de3c280](https://github.com/Ktt-Development/webdir/tree/v1.1@de3c280) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`2 hours ago`*
+ - Deleted branch [move-reqmethod@b0fd553](https://github.com/Ktt-Development/simplehttpserver/tree/move-reqmethod@b0fd553) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`24 minutes ago`*
+ - Closed pull request [Replaced RequestMethod enums with HttpRequestMethod static strings. (#121)](https://github.com/Ktt-Development/simplehttpserver/pull/121) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`24 minutes ago`*
+ - Added commit [361a4d9](https://github.com/Ktt-Development/simplehttpserver/commit/361a4d95dc42954bddcb5e76b1b095ae0a46851a) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`24 minutes ago`*
+   > Replaced RequestMethod enums with HttpRequestMethod static strings. ([#121](https://github.com/Ktt-Development/simplehttpserver/issues/121))
+   >  > * move requestmethod
+   >  > single class packages don't make any sense.
+   >  > * Replace RequestMethod with static strings…
+ - Added commit [d84428c](https://github.com/Ktt-Development/simplehttpserver/commit/d84428c6f6197c7ebee6f00dc44620138bc10e06) to branch [move-reqmethod@b0fd553](https://github.com/Ktt-Development/simplehttpserver/tree/move-reqmethod@b0fd553) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`27 minutes ago`*
+   > Update module-info.java
+ - Added commit [274f8cc](https://github.com/Ktt-Development/simplehttpserver/commit/274f8cc74129b3f0021473b8a01779287f7300cc) to branch [move-reqmethod@b0fd553](https://github.com/Ktt-Development/simplehttpserver/tree/move-reqmethod@b0fd553) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`27 minutes ago`*
+   > cleanup
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 17, 2020 at 08:49 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 17, 2020 at 09:48 PM (EST)</p>
