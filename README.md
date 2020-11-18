@@ -55,17 +55,17 @@
 
 ## ⚡ Recent Activity
 
- - Deleted branch [move-reqmethod@b0fd553](https://github.com/Ktt-Development/simplehttpserver/tree/move-reqmethod@b0fd553) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`6 hours ago`*
- - Closed pull request [Replaced RequestMethod enums with HttpRequestMethod static strings. (#121)](https://github.com/Ktt-Development/simplehttpserver/pull/121) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`6 hours ago`*
- - Added commit [361a4d9](https://github.com/Ktt-Development/simplehttpserver/commit/361a4d95dc42954bddcb5e76b1b095ae0a46851a) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`6 hours ago`*
+ - Deleted branch [move-reqmethod@b0fd553](https://github.com/Ktt-Development/simplehttpserver/tree/move-reqmethod@b0fd553) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`7 hours ago`*
+ - Closed pull request [Replaced RequestMethod enums with HttpRequestMethod static strings. (#121)](https://github.com/Ktt-Development/simplehttpserver/pull/121) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`7 hours ago`*
+ - Added commit [361a4d9](https://github.com/Ktt-Development/simplehttpserver/commit/361a4d95dc42954bddcb5e76b1b095ae0a46851a) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`7 hours ago`*
    > Replaced RequestMethod enums with HttpRequestMethod static strings. ([#121](https://github.com/Ktt-Development/simplehttpserver/issues/121))
    >  > * move requestmethod
    >  > single class packages don't make any sense.
    >  > * Replace RequestMethod with static strings…
- - Added commit [d84428c](https://github.com/Ktt-Development/simplehttpserver/commit/d84428c6f6197c7ebee6f00dc44620138bc10e06) to branch [move-reqmethod@b0fd553](https://github.com/Ktt-Development/simplehttpserver/tree/move-reqmethod@b0fd553) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`6 hours ago`*
+ - Added commit [d84428c](https://github.com/Ktt-Development/simplehttpserver/commit/d84428c6f6197c7ebee6f00dc44620138bc10e06) to branch [move-reqmethod@b0fd553](https://github.com/Ktt-Development/simplehttpserver/tree/move-reqmethod@b0fd553) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`7 hours ago`*
    > Update module-info.java
- - Added commit [274f8cc](https://github.com/Ktt-Development/simplehttpserver/commit/274f8cc74129b3f0021473b8a01779287f7300cc) to branch [move-reqmethod@b0fd553](https://github.com/Ktt-Development/simplehttpserver/tree/move-reqmethod@b0fd553) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`6 hours ago`*
+ - Added commit [274f8cc](https://github.com/Ktt-Development/simplehttpserver/commit/274f8cc74129b3f0021473b8a01779287f7300cc) to branch [move-reqmethod@b0fd553](https://github.com/Ktt-Development/simplehttpserver/tree/move-reqmethod@b0fd553) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`7 hours ago`*
    > cleanup
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 18, 2020 at 03:48 AM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 18, 2020 at 04:48 AM (EST)</p>
