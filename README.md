@@ -55,13 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Created branch [fix-list-mapping@25c10fd](https://github.com/Katsute/eo-yaml/tree/fix-list-mapping@25c10fd) in repository [Katsute/eo-yaml](https://github.com/Katsute/eo-yaml) *`1 hour ago`*
- - Forked repository [decorators-squad/eo-yaml](https://github.com/decorators-squad/eo-yaml)  *`1 hour ago`*
- - Added commit [59c4c24](https://github.com/Ktt-Development/rexedia/commit/59c4c248686dcef30234280a160a8c4f6dc5c473) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`1 hour ago`*
+ - Added commit [807d406](https://github.com/Ktt-Development/ktt-development.github.io/commit/807d40685706ab434b1cbc3e10f09f219ff20479) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`36 minutes ago`*
+   > add webdir, bugfixes
+ - Added commit [bda8449](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/bda84496cd72aef38caf774a8dd1d17612985452) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`50 minutes ago`*
+   > Update webdir
+ - Created branch [fix-list-mapping@25c10fd](https://github.com/Katsute/eo-yaml/tree/fix-list-mapping@25c10fd) in repository [Katsute/eo-yaml](https://github.com/Katsute/eo-yaml) *`2 hours ago`*
+ - Forked repository [decorators-squad/eo-yaml](https://github.com/decorators-squad/eo-yaml)  *`2 hours ago`*
+ - Added commit [59c4c24](https://github.com/Ktt-Development/rexedia/commit/59c4c248686dcef30234280a160a8c4f6dc5c473) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
    > Create dependabot.yml
- - Added commit [ce506ad](https://github.com/Ktt-Development/.github/commit/ce506ad8bb4d4dda34bc86b30ae1cd88a8c3fc15) to branch [main](https://github.com/Ktt-Development/.github/tree/main) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github)  *`2 hours ago`*
-   > Update pull_request_template.md
- - Created branch [#69-remove-logging@120cf74](https://github.com/Ktt-Development/webdir/tree/#69-remove-logging@120cf74) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`2 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 19, 2020 at 02:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 19, 2020 at 03:49 PM (EST)</p>
