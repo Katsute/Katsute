@@ -55,13 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Opened issue [Front matter randomizes list order for some reason (#84)](https://github.com/Ktt-Development/webdir/issues/84) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 minutes ago`*
- - CreateEvent in deleted repository  *`1 hour ago`*
- - Forked repository [decorators-squad/eo-yaml](https://github.com/decorators-squad/eo-yaml)  *`1 hour ago`*
- - Deleted branch [#69-remove-logging@120cf74](https://github.com/Ktt-Development/webdir/tree/#69-remove-logging@120cf74) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`1 hour ago`*
- - Added commit [5499e2d](https://github.com/Ktt-Development/webdir/commit/5499e2df5e9fe92c1cb8385bdb1e5211e33bf68c) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`1 hour ago`*
-   > Remove millis logger ([#83](https://github.com/Ktt-Development/webdir/issues/83))
-   >  > - Closes [#69](https://github.com/Ktt-Development/webdir/issues/69)
+ - Opened issue [Yaml list map issue (#86)](https://github.com/Ktt-Development/webdir/issues/86) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`22 minutes ago`*
+ - Opened issue [Default Front Matter is not immutable (#85)](https://github.com/Ktt-Development/webdir/issues/85) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`47 minutes ago`*
+ - Added commit [ca3a155](https://github.com/Ktt-Development/webdir/commit/ca3a1552cd820e3382f7b66bd88dcee71c20b7a4) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`51 minutes ago`*
+   > Fixed 404 issue
+   >  > - Fixed issue where missing 404 file would cause logger spam
+ - Added commit [a12de6c](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/a12de6c668b158102d9a5454c8990ea03759e203) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`53 minutes ago`*
+   > Update configuration.md
+ - Closed issue [Front matter randomizes list order for some reason (#84)](https://github.com/Ktt-Development/webdir/issues/84) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`55 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 19, 2020 at 05:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 19, 2020 at 06:48 PM (EST)</p>
