@@ -55,14 +55,13 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [807d406](https://github.com/Ktt-Development/ktt-development.github.io/commit/807d40685706ab434b1cbc3e10f09f219ff20479) to branch [main](https://github.com/Ktt-Development/ktt-development.github.io/tree/main) in repository [Ktt-Development/ktt-development.github.io](https://github.com/Ktt-Development/ktt-development.github.io)  *`36 minutes ago`*
-   > add webdir, bugfixes
- - Added commit [bda8449](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/bda84496cd72aef38caf774a8dd1d17612985452) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`50 minutes ago`*
-   > Update webdir
- - Created branch [fix-list-mapping@25c10fd](https://github.com/Katsute/eo-yaml/tree/fix-list-mapping@25c10fd) in repository [Katsute/eo-yaml](https://github.com/Katsute/eo-yaml) *`2 hours ago`*
- - Forked repository [decorators-squad/eo-yaml](https://github.com/decorators-squad/eo-yaml)  *`2 hours ago`*
- - Added commit [59c4c24](https://github.com/Ktt-Development/rexedia/commit/59c4c248686dcef30234280a160a8c4f6dc5c473) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`2 hours ago`*
-   > Create dependabot.yml
+ - CreateEvent in deleted repository  *`19 minutes ago`*
+ - Forked repository [decorators-squad/eo-yaml](https://github.com/decorators-squad/eo-yaml)  *`20 minutes ago`*
+ - Deleted branch [#69-remove-logging@120cf74](https://github.com/Ktt-Development/webdir/tree/#69-remove-logging@120cf74) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`26 minutes ago`*
+ - Added commit [5499e2d](https://github.com/Ktt-Development/webdir/commit/5499e2df5e9fe92c1cb8385bdb1e5211e33bf68c) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`26 minutes ago`*
+   > Remove millis logger ([#83](https://github.com/Ktt-Development/webdir/issues/83))
+   >  > - Closes [#69](https://github.com/Ktt-Development/webdir/issues/69)
+ - Closed pull request [Remove millis logger (#83)](https://github.com/Ktt-Development/webdir/pull/83) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`26 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 19, 2020 at 03:49 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 19, 2020 at 04:48 PM (EST)</p>
