@@ -55,17 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Opened issue [False negatives on video validation. (#24)](https://github.com/Ktt-Development/rexedia/issues/24) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`21 hours ago`*
- - Added commit [ffd8a90](https://github.com/Ktt-Development/rexedia/commit/ffd8a9017267017623a848f9b7c95cdab64921d6) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`21 hours ago`*
+ - Added commit [ce506ad](https://github.com/Ktt-Development/.github/commit/ce506ad8bb4d4dda34bc86b30ae1cd88a8c3fc15) to branch [main](https://github.com/Ktt-Development/.github/tree/main) in repository [Ktt-Development/.github](https://github.com/Ktt-Development/.github)  *`31 minutes ago`*
+   > Update pull_request_template.md
+ - Created branch [#69-remove-logging@120cf74](https://github.com/Ktt-Development/webdir/tree/#69-remove-logging@120cf74) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`36 minutes ago`*
+ - Opened issue [False negatives on video validation. (#24)](https://github.com/Ktt-Development/rexedia/issues/24) from repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`22 hours ago`*
+ - Added commit [ffd8a90](https://github.com/Ktt-Development/rexedia/commit/ffd8a9017267017623a848f9b7c95cdab64921d6) to branch [main](https://github.com/Ktt-Development/rexedia/tree/main) in repository [Ktt-Development/rexedia](https://github.com/Ktt-Development/rexedia)  *`22 hours ago`*
    > Frames are whole numbers, no need to do approximation
    >  > There seems to be an issue of false negatives when there is a small increase of declared frames ~35, it is unclear if only negative frames lead to corrupt videos.
  - Deleted branch [move-reqmethod@b0fd553](https://github.com/Ktt-Development/simplehttpserver/tree/move-reqmethod@b0fd553) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver) *`1 day ago`*
- - Closed pull request [Replaced RequestMethod enums with HttpRequestMethod static strings. (#121)](https://github.com/Ktt-Development/simplehttpserver/pull/121) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 day ago`*
- - Added commit [361a4d9](https://github.com/Ktt-Development/simplehttpserver/commit/361a4d95dc42954bddcb5e76b1b095ae0a46851a) to branch [main](https://github.com/Ktt-Development/simplehttpserver/tree/main) in repository [Ktt-Development/simplehttpserver](https://github.com/Ktt-Development/simplehttpserver)  *`1 day ago`*
-   > Replaced RequestMethod enums with HttpRequestMethod static strings. ([#121](https://github.com/Ktt-Development/simplehttpserver/issues/121))
-   >  > * move requestmethod
-   >  > single class packages don't make any sense.
-   >  > * Replace RequestMethod with static strings…
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 19, 2020 at 12:01 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 19, 2020 at 12:48 PM (EST)</p>
