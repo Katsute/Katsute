@@ -55,15 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Added commit [98ab254](https://github.com/Katsute/WebSys/commit/98ab2542b5c162e801e9d65206136903f4fdbb87) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`20 hours ago`*
+ - Created branch [optimize@9a2033f](https://github.com/Katsute/Katsute/tree/optimize@9a2033f) in repository [Katsute/Katsute](https://github.com/Katsute/Katsute) *`34 minutes ago`*
+ - Added commit [a1a14c9](https://github.com/Katsute/WebSys/commit/a1a14c99b7347cb621581f153a68c11cc70c3bcb) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`36 minutes ago`*
+   > condense plugin
+ - Added commit [8a67ed7](https://github.com/Ktt-Development/webdir/commit/8a67ed77bf3e950f943013205661d34eed95a7c5) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`55 minutes ago`*
+   > Corrected name
+ - Added commit [98ab254](https://github.com/Katsute/WebSys/commit/98ab2542b5c162e801e9d65206136903f4fdbb87) to branch [main](https://github.com/Katsute/WebSys/tree/main) in repository [Katsute/WebSys](https://github.com/Katsute/WebSys)  *`21 hours ago`*
    > update api
- - Deleted branch [immutable-def@ca3a155](https://github.com/Ktt-Development/webdir/tree/immutable-def@ca3a155) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`20 hours ago`*
- - Added commit [5da7e81](https://github.com/Ktt-Development/webdir/commit/5da7e8186b0f31a9fa0476bd7dfef2a906e94371) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`20 hours ago`*
-   > Fix [#85](https://github.com/Ktt-Development/webdir/issues/85) ([#87](https://github.com/Ktt-Development/webdir/issues/87))
-   >  > - Changed renderer so a deep copy of defaults is used
-   >  > - Made API more generic
- - Closed issue [Default Front Matter is not immutable (#85)](https://github.com/Ktt-Development/webdir/issues/85) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`20 hours ago`*
- - Closed pull request [Fix #85 (#87)](https://github.com/Ktt-Development/webdir/pull/87) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`20 hours ago`*
+ - Deleted branch [immutable-def@ca3a155](https://github.com/Ktt-Development/webdir/tree/immutable-def@ca3a155) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`21 hours ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 20, 2020 at 04:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 20, 2020 at 05:48 PM (EST)</p>
