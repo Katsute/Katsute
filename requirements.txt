@@ -1,7 +1,8 @@
 PyGithub~=1.53
-pytz~=2020.1
-liquidpy~=0.6.0
+pytz~=2020.4
+liquidpy~=0.6.2
+pyyaml~=5.3.1
 # img
 imgkit~=1.0.2
-Pillow~=7.2.0
+Pillow~=8.0.1
 pyvirtualdisplay~=1.3.2
