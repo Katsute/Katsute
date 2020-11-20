@@ -55,14 +55,14 @@
 
 ## ⚡ Recent Activity
 
- - Opened issue [Yaml list map issue (#86)](https://github.com/Ktt-Development/webdir/issues/86) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`22 minutes ago`*
- - Opened issue [Default Front Matter is not immutable (#85)](https://github.com/Ktt-Development/webdir/issues/85) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`47 minutes ago`*
- - Added commit [ca3a155](https://github.com/Ktt-Development/webdir/commit/ca3a1552cd820e3382f7b66bd88dcee71c20b7a4) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`51 minutes ago`*
-   > Fixed 404 issue
-   >  > - Fixed issue where missing 404 file would cause logger spam
- - Added commit [a12de6c](https://github.com/Ktt-Development/wiki.kttdevelopment.com/commit/a12de6c668b158102d9a5454c8990ea03759e203) to branch [main](https://github.com/Ktt-Development/wiki.kttdevelopment.com/tree/main) in repository [Ktt-Development/wiki.kttdevelopment.com](https://github.com/Ktt-Development/wiki.kttdevelopment.com)  *`53 minutes ago`*
-   > Update configuration.md
- - Closed issue [Front matter randomizes list order for some reason (#84)](https://github.com/Ktt-Development/webdir/issues/84) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`55 minutes ago`*
+ - Deleted branch [immutable-def@ca3a155](https://github.com/Ktt-Development/webdir/tree/immutable-def@ca3a155) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir) *`12 seconds ago`*
+ - Added commit [5da7e81](https://github.com/Ktt-Development/webdir/commit/5da7e8186b0f31a9fa0476bd7dfef2a906e94371) to branch [main](https://github.com/Ktt-Development/webdir/tree/main) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`13 seconds ago`*
+   > Fix [#85](https://github.com/Ktt-Development/webdir/issues/85) ([#87](https://github.com/Ktt-Development/webdir/issues/87))
+   >  > - Changed renderer so a deep copy of defaults is used
+   >  > - Made API more generic
+ - Closed issue [Default Front Matter is not immutable (#85)](https://github.com/Ktt-Development/webdir/issues/85) from repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`14 seconds ago`*
+ - Closed pull request [Fix #85 (#87)](https://github.com/Ktt-Development/webdir/pull/87) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`15 seconds ago`*
+ - Opened pull request [Fix #85 (#87)](https://github.com/Ktt-Development/webdir/pull/87) in repository [Ktt-Development/webdir](https://github.com/Ktt-Development/webdir)  *`3 minutes ago`*
 
 ---
-<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 19, 2020 at 06:48 PM (EST)</p>
+<img align="left" src="https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg"><p align="right">Last updated November 19, 2020 at 08:12 PM (EST)</p>
