@@ -46,21 +46,25 @@ def main():
     # contributions
     str_file = "contributions"
     str_template = codecs.open("templates/contributions.html", 'r', encoding="utf-8").read()
-    str_html = Liquid(str_template, statistics=map_statistics.statistics, css=css).render()
+    str_html = Liquid(str_template, statistics=map_statistics['statistics'], css=css).render()
+    __html2image(str_html, str_file, options=config['render']['options'])
 
     # languages
     str_file = "languages"
     str_template = codecs.open("templates/languages.html", 'r', encoding="utf-8").read()
-    str_html = Liquid(str_template, languages=map_statistics.languages, css=css).render()
-    __html2image(str_html, str_file, options=config['render.options'], threshold=config['render']['chroma_threshold'])
+    str_html = Liquid(str_template, languages=map_statistics['languages'], css=css).render()
+    __html2image(str_html, str_file, options=config['render']['options'], threshold=config['render']['chroma_threshold'])
 
 # readme
+    codecs.open("README.md", 'w', encoding="utf-8").write(codecs.open("README.template.md", 'r', encoding="utf-8").read())  # skip below
+    '''
     str_template = codecs.open("README.template.md", 'r', encoding="utf-8").read()
 
     # {{ activity }}
+
     named_user = github.get_user(github.get_user().login)
     str_activity = ""
-    for i in range(config.max_history):
+    for i in range(config['max_history']):
         event = named_user.get_public_events()[i]
         str_activity += \
             ('\n' if i > 0 else '') + \
@@ -75,7 +79,7 @@ def main():
     # parse
     str_output = Liquid(str_template, activity=str_activity, updated=str_updated).render()
     codecs.open("README.md", 'w', encoding="utf-8").write(str_output)
-
+    '''
 # cleanup
     if display:
         display.stop()
