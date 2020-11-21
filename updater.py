@@ -28,7 +28,7 @@ def main():
 
     config = yaml.load(open("config.yml", 'r'), Loader=yaml.FullLoader)
 
-    display = None if sys.argv[2] else Display(size=(1920, 1080)).start()
+    display = None if len(sys.argv) >= 3 else Display(size=(1920, 1080)).start()
     if display:
         print("Loaded virtual display")
 
