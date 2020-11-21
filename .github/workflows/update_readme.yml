@@ -4,8 +4,8 @@ on:
     branches:
       - main
   schedule:
-    # Run every hour at an off-peak minute
-    - cron:  '47 * * * *'
+    - cron:  '47 5 * * *'
+
 jobs:
   update_readme:
     name: Update README.md
@@ -28,10 +28,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: 📄 Update README.md
-        run: python update_readme.py ${{ secrets.REPO_KEY }}
-
-      - name: 📄 Update Statistics
-        run: python update_images.py ${{ secrets.REPO_KEY }}
+        run: python updater.py ${{ secrets.REPO_KEY }}
 
       - name: 💾 Push to Repo
         run: |

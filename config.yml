@@ -1,0 +1,14 @@
+max_languages: 10
+include_private_repos: true
+hide_languages: []
+hide_repos: [227929443, 282546673, 301825182]  # mf, docs, tf
+
+max_history: 5
+max_lines: 4
+
+render:
+  chroma_threshold: 130
+  options:
+    format: png
+    width: 400
+    quality: 100
