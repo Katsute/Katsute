@@ -36,7 +36,8 @@
     <code><img title="GitHub Actions" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/githubactions.svg"></code>
 </p>
 
-## 📊 Statistics
+<h2 align="center">📊 Statistics</h2>
+
 <div align="center">
     <a href="https://github.com/Katsute/">
         <img src="https://github.com/Katsute/Katsute/blob/main/contributions.png">
