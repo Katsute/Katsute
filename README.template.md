@@ -28,12 +28,10 @@
     <code><img title="Maven" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/apachemaven.svg"></code>
     <code><img title="Python" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/python.svg"></code>
     <code><img title="HTML" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/html5.svg"></code>
-    <code><img title="SASS" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/sass.svg"></code>
     <code><img title="CSS" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/css3.svg"></code>
     <code><img title="JavaScript" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/javascript.svg"></code>
     <code><img title="Jekyll" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/jekyll.svg"></code>
     <code><img title="GitHub" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/github.svg"></code>
-    <code><img title="GitHub Actions" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/githubactions.svg"></code>
 </p>
 
 <h2 align="center">📊 Statistics</h2>
