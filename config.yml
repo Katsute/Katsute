@@ -7,7 +7,7 @@ max_history: 5
 max_lines: 4
 
 render:
-  chroma_threshold: 130
+  chroma_threshold: 150
   options:
     format: png
     width: 400
