@@ -1,14 +1,3 @@
-max_languages: 10
-include_private_repos: true
+include_private_repositories: true
+hide_repositories: [227929443, 282546673, 301825182]  # mf, docs, tf
 hide_languages: []
-hide_repos: [227929443, 282546673, 301825182]  # mf, docs, tf
-
-max_history: 5
-max_lines: 4
-
-render:
-  chroma_threshold: 140
-  options:
-    format: png
-    width: 400
-    quality: 100

@@ -102,7 +102,7 @@ def __html2image(str_html, str_file, config=None, options=None, threshold=0):
 
 def __remove_color(img_path, r, g, b, threshold=0):
     img  = Image.open(img_path)
-    img  = img.convert("RGBA")
+    img  = img
     data = img.getdata()
 
     new = []
