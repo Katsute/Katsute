@@ -1,0 +1,22 @@
+{
+  "data": {
+    "orientation": "h"
+  },
+  "layout": {
+    "width": 600,
+    "yaxis": {
+      "autorange": "reversed"
+    },
+    "margin": {
+      "t": 20,
+      "b": 20,
+      "l": 20,
+      "r": 20
+    },
+    "xaxis": {
+      "range": [0, 1],
+      "showgrid": false,
+      "visible": false
+    }
+  }
+}

@@ -4,4 +4,4 @@ pyyaml==5.3.1
 liquidpy==0.6.3
 
 plotly==4.14.1
-kaleido==0.1.0
+kaleido==0.1.0.post1

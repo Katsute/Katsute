@@ -34,7 +34,7 @@ def get_statistics(
     all_time = Statistics()
 
     repositories = set()
-
+    '''
     for issue in github.search_issues('', author=username, type="issues"):
         repo = issue.repository
         if repo.id in hide_repositories:
@@ -51,7 +51,7 @@ def get_statistics(
             all_time.issues += 1
             if issue.created_at >= date_init_year:
                 annual.issues += 1
-
+    '''
     for repo in user.get_repos("all" if include_private else "public"):
         repositories.add(repo.id)
 
@@ -62,12 +62,14 @@ def get_statistics(
             # % of commits by user
             percent_commits = \
                 repo.get_commits(author=user.name, since=since).totalCount / repo.get_commits(since=since).totalCount \
-                if since else \
-                repo.get_commits(author=user.name).totalCount / repo.get_commits().totalCount
+                    if since else \
+                    repo.get_commits(author=user.name).totalCount / repo.get_commits().totalCount
 
             if percent_commits <= .01:  # skip if contribution is negligible (<1%)
                 return
 
+            # assumption is incorrect, there is no outer variable named 'lang'
+            # noinspection PyShadowingNames
             for lang, count in repo.get_languages().items():
                 if lang in hide_languages:
                     continue
@@ -86,9 +88,12 @@ def get_statistics(
     for langs in [annual.languages, all_time.languages]:
         total = sum(langs.values())
         for lang in langs.keys():  # get language usage as percent
-            langs[lang] = int((float(langs[lang]) * 100 / total) * 100) / 100
+            langs[lang] = langs[lang] / total
 
-    annual.languages = sorted(annual.languages.items(), key=lambda x: x[1], reverse=True)
-    all_time.languages = sorted(all_time.languages.items(), key=lambda x: x[1], reverse=True)
+    annual.languages = sorted(annual.languages.items(), key=lambda item: item[1])
+    all_time.languages = sorted(all_time.languages.items(), key=lambda item: item[1])
+
+    print("Requests Remaining:", github.get_rate_limit().core.remaining)
+    print("Requests Used:", req - github.get_rate_limit().core.remaining)
 
     return annual, all_time
