@@ -14,7 +14,7 @@ class Card:
             "title": title
         }
         self.args.update({
-                             "width": 495,
+                             "width": 400,
                              "height": 70,  # this must be systematically generated
                              "css": {}
                          }.copy())
