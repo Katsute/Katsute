@@ -6,21 +6,21 @@
     {% assign radius = width | divided_by: 3 %}
     <g transform="translate({{ width | divided_by: 2 | minus: 25 }}, {{  height | divided_by: 2 }})">
         <g>
-            <circle fill="none" r="{{ radius }}"></circle>
-            <circle fill="none" r="{{ radius | divided_by: 3 | times: 2 }}"></circle>
-            <circle fill="none" r="{{ radius | divided_by: 3 }}"></circle>
+            <circle fill="none" r="{{ radius | divided_by: div | times: 3 }}"></circle>
+            <circle fill="none" r="{{ radius | divided_by: div | times: 2 }}"></circle>
+            <circle fill="none" r="{{ radius | divided_by: div }}"></circle>
         </g>
         <g>
             {% for coord in axis %}
                 <polyline points="0,0 {{ coord.x }},{{ coord.y }}"></polyline>
             {% endfor %}
         </g>
-        <g class="delayed" style="animation-delay: {{ languages | size | plus: 1 | times: 300 }}ms" >
+        {% assign limit = axis | size %}
+        <g class="delayed" style="animation-delay: {{ limit | plus: 1 | times: 300 }}ms" >
             <polygon points="{% for coord in percent %}{{ coord.x }},{{ coord.y }} {% endfor %}"></polygon>
         </g>
         <g>
             {% assign offset = 10 %}
-            {% assign limit = axis | size %}
             {% for language in languages %}
                 {% if forloop.index > limit %}
                     {% break %}
