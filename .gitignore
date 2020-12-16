@@ -2,7 +2,7 @@
 /.idea/
 /Pipfile
 /Pipfile.lock
-/__pycache__/
+__pycache__
 
 # Template Output
 /README.md
