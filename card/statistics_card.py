@@ -26,7 +26,7 @@ class StatisticsCard(Card):
             statistics=dict(
                 Commits         = format_num(statistics.commits),
                 Issues          = format_num(statistics.issues),
-                Pulls           = format_num(statistics.pulls),
+                PRs             = format_num(statistics.pulls),
                 Contributions   = format_num(statistics.contributions)
             ),
             all_time=dict(

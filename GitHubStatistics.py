@@ -1,6 +1,8 @@
 import datetime as datetime
 
 from github import Github
+from github.GithubException import UnknownObjectException
+from github.Issue import Issue
 
 
 class Statistics:
@@ -25,7 +27,6 @@ def get_statistics(
 
     github = Github(token)
     user = github.get_user()
-
     username = user.name
 
     req = github.get_rate_limit().core.remaining
@@ -37,76 +38,87 @@ def get_statistics(
     all_time = Statistics()
 
     repositories = set()
+    contributed = set()
 
-    for issue in github.search_issues('', author=username, type="issues"):
+    for issue in github.search_issues('', author=username):
         repo = issue.repository
         if repo.id in hide_repositories:
             continue
         repositories.add(repo.id)
 
-        pull = issue.pull_request
+        if repo.id not in contributed and issue.created_at >= date_init_year:
+            contributed.add(repo.id)
+            annual.contributions += 1
 
-        if pull:
+        try:  # if pull
+            issue.as_pull_request()
             all_time.pulls += 1
             if issue.created_at >= date_init_year:
                 annual.pulls += 1
-        else:
+        except UnknownObjectException:  # if issue
             all_time.issues += 1
             if issue.created_at >= date_init_year:
                 annual.issues += 1
 
     for repo in user.get_repos("all" if include_private else "public"):
-        repositories.add(repo.id)
-        if not repo.fork:
-            all_time.stars += repo.stargazers_count
+        if repo.id not in hide_repositories:
+            repositories.add(repo.id)
+            if not repo.fork:
+                all_time.stars += repo.stargazers_count
+            if repo.id not in contributed:
+                contributed.add(repo.id)
+                annual.contributions += 1
 
     for repository in repositories:
         repo = github.get_repo(repository)
 
         def commits(since: datetime = None):
-            annual_commits = repo.get_commits(author=user.name, since=since).totalCount
-            total_commits = repo.get_commits(author=user.name).totalCount
-
-            annual.commits += annual_commits
-            all_time.commits += total_commits
-
             # % of commits by user
             percent_commits = \
-                annual_commits / repo.get_commits(since=since).totalCount \
-                if since else \
-                total_commits / repo.get_commits().totalCount
+                repo.get_commits(author=user.name, since=since).totalCount / repo.get_commits(since=since).totalCount \
+                    if since else \
+                    repo.get_commits(author=user.name).totalCount / repo.get_commits().totalCount
 
             if percent_commits <= .01:  # skip if contribution is negligible (<1%)
                 return
 
-            # assumption is incorrect, there is no outer variable named 'lang'
-            # noinspection PyShadowingNames
+            stat = annual if since else all_time
+
             for lang, count in repo.get_languages().items():
                 if lang in hide_languages:
                     continue
 
-                stat = annual if since else all_time
-
                 if lang not in stat.languages:
-                    stat.languages['lang'] = count * percent_commits
+                    stat.languages[lang] = count * percent_commits
                 else:
-                    stat.languages['lang'] += count * percent_commits
+                    stat.languages[lang] += count * percent_commits
 
         commits()
         commits(date_init_year)
 
-    # noinspection SpellCheckingInspection
-    for langs in [annual.languages, all_time.languages]:
-        total = sum(langs.values())
-        for lang in langs.keys():  # get language usage as percent
-            langs[lang] = round(langs[lang] / total * 100, 2)
+        annual.commits += repo.get_commits(author=user.name, since=date_init_year).totalCount
+        all_time.commits += repo.get_commits(author=user.name).totalCount
 
-    annual.languages = sorted(annual.languages.items(), key=lambda item: item[1])
-    all_time.languages = sorted(all_time.languages.items(), key=lambda item: item[1])
+    total = sum(annual.languages.values())
+    # invalid inspection, variable does not conflict
+    # noinspection PyShadowingNames
+    for k, v in annual.languages.items():
+        annual.languages[k] = round(v / total * 100, 2)
+
+    total = sum(all_time.languages.values())
+    # invalid inspection, variable does not conflict
+    # noinspection PyShadowingNames
+    for k, v in all_time.languages.items():
+        all_time.languages[k] = round(v / total * 100, 2)
+
+    annual.languages = {k: v for k, v in sorted(annual.languages.items(), key=lambda item: item[1], reverse=True)}
+    all_time.languages = {k: v for k, v in sorted(all_time.languages.items(), key=lambda item: item[1], reverse=True)}
 
     all_time.followers = user.get_followers().totalCount
+    all_time.contributions = len(repositories)
 
     print("Requests Remaining:", github.get_rate_limit().core.remaining)
     print("Requests Used:", req - github.get_rate_limit().core.remaining)
+    print("Resets At:", github.get_rate_limit().core.reset)
 
     return annual, all_time

@@ -24,7 +24,7 @@ class LanguageCoverageCard(Card):
 
     def __init__(self, languages: dict, limit: int):
         super().__init__(
-            "Top 5 Languages",
+            f"Top { limit } Languages",
             "templates/languages_coverage.liquid",
             languages=languages,
             css="""
@@ -54,7 +54,7 @@ class LanguageCoverageCard(Card):
         self.args['height'] = self.args['width']
 
         # generate axis and poly coords
-        limit = min(len(languages), limit)
+        limit = len(languages) if len(languages) <= limit else limit
         angle = 2*math.pi/limit
         offset = math.radians(-90)
         radius = self.args['width'] / 3
@@ -69,7 +69,7 @@ class LanguageCoverageCard(Card):
                 'x': radius * co,
                 'y': radius * si
             })
-            taxis.append({
+            taxis.append({  # text axis
                 'x': (radius + 30) * co,
                 'y': (radius + 30) * si
             })

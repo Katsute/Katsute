@@ -20,7 +20,11 @@
         </g>
         <g>
             {% assign offset = 10 %}
+            {% assign limit = axis | size %}
             {% for language in languages %}
+                {% if forloop.index > limit %}
+                    {% break %}
+                {% endif %}
                 <text
                     class="delayed"
                     style="animation-delay: {{ forloop.index | times: 300 }}ms"
