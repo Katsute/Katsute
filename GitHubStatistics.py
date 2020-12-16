@@ -2,7 +2,6 @@ import datetime as datetime
 
 from github import Github
 from github.GithubException import UnknownObjectException
-from github.Issue import Issue
 
 
 class Statistics:
@@ -76,8 +75,8 @@ def get_statistics(
             # % of commits by user
             percent_commits = \
                 repo.get_commits(author=user.name, since=since).totalCount / repo.get_commits(since=since).totalCount \
-                    if since else \
-                    repo.get_commits(author=user.name).totalCount / repo.get_commits().totalCount
+                if since else \
+                repo.get_commits(author=user.name).totalCount / repo.get_commits().totalCount
 
             if percent_commits <= .01:  # skip if contribution is negligible (<1%)
                 return
