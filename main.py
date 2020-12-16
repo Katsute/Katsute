@@ -5,7 +5,8 @@ import yaml
 from liquid import Liquid
 
 import GitHubStatistics
-from card.languages import LanguageCard
+from card.languages_card import LanguageCard, LanguageCoverageCard
+from card.statistics_card import StatisticsCard
 
 required = dict(
     weekday_commits = False,
@@ -31,6 +32,14 @@ def main(args: list):
     #    hide_languages=config['hide_languages']
     #)
     all_time_statistics = GitHubStatistics.Statistics()
+
+    all_time_statistics.commits = 1000
+    all_time_statistics.contributions = 2500
+    all_time_statistics.issues = 23
+    all_time_statistics.pulls = 2355
+    all_time_statistics.stars = 100
+    all_time_statistics.followers = 45
+
     all_time_statistics.languages = {
         "Java": 85.9,
         "Python": 05.56,
@@ -39,7 +48,10 @@ def main(args: list):
         "JavaScript": 00.44,
     }
 
+    codecs.open("generated/statistics_annual.svg", 'w', encoding="utf-8").write(StatisticsCard(all_time_statistics, False).render())
+    codecs.open("generated/statistics.svg", 'w', encoding="utf-8").write(StatisticsCard(all_time_statistics, True).render())
     codecs.open("generated/languages.svg", 'w', encoding="utf-8").write(LanguageCard(all_time_statistics.languages).render())
+    codecs.open("generated/languages_coverage.svg", 'w', encoding="utf-8").write(LanguageCoverageCard(all_time_statistics.languages, config["top_languages"]).render())
 
     return
 

@@ -4,9 +4,12 @@ from github import Github
 
 
 class Statistics:
+    commits = 0
     contributions = 0
     issues = 0
     pulls = 0
+    stars = 0
+    followers = 0
     languages = {}
 
 
@@ -34,7 +37,7 @@ def get_statistics(
     all_time = Statistics()
 
     repositories = set()
-    '''
+
     for issue in github.search_issues('', author=username, type="issues"):
         repo = issue.repository
         if repo.id in hide_repositories:
@@ -51,19 +54,27 @@ def get_statistics(
             all_time.issues += 1
             if issue.created_at >= date_init_year:
                 annual.issues += 1
-    '''
+
     for repo in user.get_repos("all" if include_private else "public"):
         repositories.add(repo.id)
+        if not repo.fork:
+            all_time.stars += repo.stargazers_count
 
     for repository in repositories:
         repo = github.get_repo(repository)
 
         def commits(since: datetime = None):
+            annual_commits = repo.get_commits(author=user.name, since=since).totalCount
+            total_commits = repo.get_commits(author=user.name).totalCount
+
+            annual.commits += annual_commits
+            all_time.commits += total_commits
+
             # % of commits by user
             percent_commits = \
-                repo.get_commits(author=user.name, since=since).totalCount / repo.get_commits(since=since).totalCount \
-                    if since else \
-                    repo.get_commits(author=user.name).totalCount / repo.get_commits().totalCount
+                annual_commits / repo.get_commits(since=since).totalCount \
+                if since else \
+                total_commits / repo.get_commits().totalCount
 
             if percent_commits <= .01:  # skip if contribution is negligible (<1%)
                 return
@@ -92,6 +103,8 @@ def get_statistics(
 
     annual.languages = sorted(annual.languages.items(), key=lambda item: item[1])
     all_time.languages = sorted(all_time.languages.items(), key=lambda item: item[1])
+
+    all_time.followers = user.get_followers().totalCount
 
     print("Requests Remaining:", github.get_rate_limit().core.remaining)
     print("Requests Used:", req - github.get_rate_limit().core.remaining)

@@ -8,8 +8,13 @@
     <style>
         .title{
             font: 600 18px 'Segoe UI', 'Helvetica Neue', Sans-Serif, Arial;
-            fill: #2f80ed;
+            fill: #2F80ED;
             animation: fadeInAnim 0.8s ease-in-out forwards;
+        }
+
+        text{
+            font: 600 14px 'Segoe UI', "Helvetica Neue", Sans-Serif;
+            fill: #333;
         }
 
         .delayed{
@@ -54,4 +59,5 @@
         transform="translate(25, 25)">
         {{ body }}
     </g>
+    <text x="{{ width | minus: 210 }}" y="{{ height | minus: 10 }}">Created by github.com/Katsute</text>
 </svg>
