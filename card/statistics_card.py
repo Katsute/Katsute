@@ -1,6 +1,6 @@
 from datetime import date
 
-from GitHubStatistics import Statistics
+from github_statistics import Statistics
 from card.card import Card
 
 MAGNITUDE = ['', 'K', 'M', 'B', 'T']

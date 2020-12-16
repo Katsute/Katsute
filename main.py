@@ -3,7 +3,7 @@ import sys
 
 import yaml
 
-import GitHubStatistics
+import github_statistics
 from card.languages_card import LanguageCard, LanguageCoverageCard
 from card.statistics_card import StatisticsCard
 
@@ -25,7 +25,7 @@ def main(args: list):
     token = str(args[0])
     config = yaml.load(open("config.yml", 'r'), Loader=yaml.FullLoader)
 
-    annual_statistics, all_time_statistics = GitHubStatistics.get_statistics(
+    annual_statistics, all_time_statistics = github_statistics.get_statistics(
         token,
         include_private=config['include_private_repositories'],
         hide_repositories=config['hide_repositories'],

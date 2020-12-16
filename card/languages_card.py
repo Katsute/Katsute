@@ -57,8 +57,7 @@ class LanguageCoverageCard(Card):
         limit = len(languages) if len(languages) <= limit else limit
         angle = 2*math.pi/limit
         offset = math.radians(-90)
-        div = 4
-        radius = self.args['width'] / div
+        radius = self.args['width'] / 4
 
         top = list(languages.values())[0]
         axis, taxis, percent = [], [], []
@@ -71,8 +70,8 @@ class LanguageCoverageCard(Card):
                 'y': radius * si
             })
             taxis.append({  # text axis
-                'x': (radius + 30) * co,
-                'y': (radius + 30) * si
+                'x': (radius + 40) * co,
+                'y': (radius + 40) * si
             })
             percent.append({
                 'x': list(languages.values())[i] / top * radius * co,
@@ -81,6 +80,6 @@ class LanguageCoverageCard(Card):
         self.args['axis'] = axis
         self.args['taxis'] = taxis
         self.args['percent'] = percent
-        self.args['div'] = div
+        self.args['radius'] = radius
 
         return
