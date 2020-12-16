@@ -88,7 +88,7 @@ def get_statistics(
     for langs in [annual.languages, all_time.languages]:
         total = sum(langs.values())
         for lang in langs.keys():  # get language usage as percent
-            langs[lang] = langs[lang] / total
+            langs[lang] = round(langs[lang] / total * 100, 2)
 
     annual.languages = sorted(annual.languages.items(), key=lambda item: item[1])
     all_time.languages = sorted(all_time.languages.items(), key=lambda item: item[1])

@@ -1,0 +1,57 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="{{ width }}"
+    height="{{ height }}"
+    viewBox="0 0 {{ width }} {{ height }}"
+    fill="none"
+    >
+    <style>
+        .title{
+            font: 600 18px 'Segoe UI', 'Helvetica Neue', Sans-Serif, Arial;
+            fill: #2f80ed;
+            animation: fadeInAnim 0.8s ease-in-out forwards;
+        }
+
+        .delayed{
+            opacity: 0;
+            animation: fadeInAnim 0.3s ease-in-out forwards;
+        }
+
+        .bold{
+            font-weight: 700;
+        }
+
+        @keyframes fadeInAnim{
+            from{
+                opacity: 0;
+            }
+            to{
+                opacity: 1;
+            }
+        }
+
+        {{ css }}
+    </style>
+    <rect
+        x="0.5"
+        y="0.5"
+        rx="5"
+        height="{{ height | minus: 1 }}"
+        fill="#FFFEFE"
+        stroke="#E4E2E2"
+        stroke-opacity="1"
+        width="{{ width | minus: 1 }}"
+        ></rect>
+    <g
+        transform="translate(25, 35)"
+        >
+        <text
+            x="0"
+            y="0"
+            class="title">{{ title }}</text>
+    </g>
+    <g
+        transform="translate(25, 25)">
+        {{ body }}
+    </g>
+</svg>

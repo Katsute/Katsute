@@ -1,0 +1,29 @@
+<svg
+    x="0"
+    y="0"
+    width="100%"
+    >
+    {% for language in languages %}
+        <g
+            class="delayed"
+            style="animation-delay: {{ forloop.index | times: 500 }}ms"
+            transform="translate(0, {{ forloop.index | times: 25 }})"
+            >
+            <text
+                class="stat bold"
+                y="12.5">{{ language }}</text>
+            <text
+                class="stat"
+                x="400"
+                y="12.5">{{ languages[language] }}%</text>
+            <svg
+                width="270"
+                height="10"
+                x="110"
+                y="4">
+                <rect rx="4" ry="4" x="0" y="0" width="100%" height="100%" fill="#202020"></rect>
+                <rect rx="4" ry="4" x="0" y="0" height="100%" fill="#3278be" width="{{ languages[language] }}%"></rect>
+            </svg>
+        </g>
+    {% endfor %}
+</svg>
