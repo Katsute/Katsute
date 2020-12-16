@@ -38,15 +38,15 @@
 
 <div align="center">
     <a href="https://github.com/Katsute/">
-        <img src="https://github.com/Katsute/Katsute/blob/main/generated/statistics.png">
+        <img src="https://github.com/Katsute/Katsute/blob/main/generated/statistics.svg">
     </a>
     <a href="https://github.com/Katsute/">
-        <img src="https://github.com/Katsute/Katsute/blob/main/generated/statistics_annual.png">
+        <img src="https://github.com/Katsute/Katsute/blob/main/generated/statistics_annual.svg">
     </a>
     <a href="https://github.com/Katsute/">
-        <img src="https://github.com/Katsute/Katsute/blob/main/generated/languages.png">
+        <img src="https://github.com/Katsute/Katsute/blob/main/generated/languages.svg">
     </a>
     <a href="https://github.com/Katsute/">
-        <img src="https://github.com/Katsute/Katsute/blob/main/generated/languages_coverage.png">
+        <img src="https://github.com/Katsute/Katsute/blob/main/generated/languages_coverage.svg">
     </a>
 </div>
