@@ -4,7 +4,7 @@ on:
     branches:
       - main
   schedule:
-    - cron:  '47 4 * * *' # 11:47 EST
+    - cron:  '* 5 * * *' # 12:00 AM EST
 
 jobs:
   update_readme:

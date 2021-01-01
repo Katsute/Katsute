@@ -74,9 +74,9 @@ def get_statistics(
         def commits(since: datetime = None):
             # % of commits by user
             percent_commits = \
-                repo.get_commits(author=user.name, since=since).totalCount / repo.get_commits(since=since).totalCount \
+                repo.get_commits(author=user.name, since=since).totalCount / max(repo.get_commits(since=since).totalCount, 1) \
                 if since else \
-                repo.get_commits(author=user.name).totalCount / repo.get_commits().totalCount
+                repo.get_commits(author=user.name).totalCount / max(repo.get_commits().totalCount, 1)
 
             if percent_commits <= .01:  # skip if contribution is negligible (<1%)
                 return
@@ -102,13 +102,13 @@ def get_statistics(
     # invalid inspection, variable does not conflict
     # noinspection PyShadowingNames
     for k, v in annual.languages.items():
-        annual.languages[k] = round(v / total * 100, 2)
+        annual.languages[k] = round(v / max(total * 100, 1), 2)
 
     total = sum(all_time.languages.values())
     # invalid inspection, variable does not conflict
     # noinspection PyShadowingNames
     for k, v in all_time.languages.items():
-        all_time.languages[k] = round(v / total * 100, 2)
+        all_time.languages[k] = round(v / max(total * 100, 1), 2)
 
     annual.languages = {k: v for k, v in sorted(annual.languages.items(), key=lambda item: item[1], reverse=True)}
     all_time.languages = {k: v for k, v in sorted(all_time.languages.items(), key=lambda item: item[1], reverse=True)}

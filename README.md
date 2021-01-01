@@ -50,3 +50,5 @@
         <img src="https://github.com/Katsute/Katsute/blob/main/generated/languages_coverage.svg">
     </a>
 </div>
+
+[![Update README.md](https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg)](https://github.com/Katsute/Katsute/actions?query=workflow%3A%22Update+README.md%22)
