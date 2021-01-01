@@ -74,8 +74,8 @@ class LanguageCoverageCard(Card):
                 'y': (radius + 40) * si
             })
             percent.append({
-                'x': list(languages.values())[i] / max(top * radius * co, 1),
-                'y': list(languages.values())[i] / max(top * radius * si, 1)
+                'x': list(languages.values())[i] / top * radius * co,
+                'y': list(languages.values())[i] / top * radius * si
             })
         self.args['axis'] = axis
         self.args['taxis'] = taxis
