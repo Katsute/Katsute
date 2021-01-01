@@ -27,6 +27,7 @@ def get_statistics(
     github = Github(token)
     user = github.get_user()
     username = user.name
+    user_id = user.id
 
     req = github.get_rate_limit().core.remaining
     print("Request Available:", req)
@@ -45,7 +46,7 @@ def get_statistics(
             continue
         repositories.add(repo.id)
 
-        if repo.id not in contributed and issue.created_at >= date_init_year:
+        if repo.owner.id != user_id and repo.id not in contributed and issue.created_at >= date_init_year:
             contributed.add(repo.id)
             annual.contributions += 1
 
@@ -64,7 +65,7 @@ def get_statistics(
             repositories.add(repo.id)
             if not repo.fork:
                 all_time.stars += repo.stargazers_count
-            if repo.id not in contributed:
+            if repo.owner.id != user.id and repo.id not in contributed:
                 contributed.add(repo.id)
                 annual.contributions += 1
 
@@ -72,11 +73,15 @@ def get_statistics(
         repo = github.get_repo(repository)
 
         def commits(since: datetime = None):
+            if since:
+                total_user_commits = repo.get_commits(author=user.name, since=since).totalCount
+                total_repo_commits = max(repo.get_commits(since=since).totalCount, 1)
+            else:
+                total_user_commits = repo.get_commits(author=user.name).totalCount
+                total_repo_commits = max(repo.get_commits().totalCount, 1)
+
             # % of commits by user
-            percent_commits = \
-                repo.get_commits(author=user.name, since=since).totalCount / max(repo.get_commits(since=since).totalCount, 1) \
-                if since else \
-                repo.get_commits(author=user.name).totalCount / max(repo.get_commits().totalCount, 1)
+            percent_commits = total_user_commits / total_repo_commits
 
             if percent_commits <= .01:  # skip if contribution is negligible (<1%)
                 return
@@ -92,26 +97,23 @@ def get_statistics(
                 else:
                     stat.languages[lang] += count * percent_commits
 
+            stat.commits += total_user_commits
+
         commits()
         commits(date_init_year)
 
-        annual.commits += repo.get_commits(author=user.name, since=date_init_year).totalCount
-        all_time.commits += repo.get_commits(author=user.name).totalCount
+    def to_percentage(languages: dict):
+        total = sum(languages.values())
 
-    total = sum(annual.languages.values())
-    # invalid inspection, variable does not conflict
-    # noinspection PyShadowingNames
-    for k, v in annual.languages.items():
-        annual.languages[k] = round(v / max(total * 100, 1), 2)
+        percentage_languages = dict()
 
-    total = sum(all_time.languages.values())
-    # invalid inspection, variable does not conflict
-    # noinspection PyShadowingNames
-    for k, v in all_time.languages.items():
-        all_time.languages[k] = round(v / max(total * 100, 1), 2)
+        for k, v in languages.items():
+            percentage_languages[k] = round(v / max(total, 1) * 100, 2)
 
-    annual.languages = {k: v for k, v in sorted(annual.languages.items(), key=lambda item: item[1], reverse=True)}
-    all_time.languages = {k: v for k, v in sorted(all_time.languages.items(), key=lambda item: item[1], reverse=True)}
+        return {k: v for k, v in sorted(percentage_languages.items(), key=lambda item: item[1], reverse=True)}
+
+    annual.languages = to_percentage(annual.languages)
+    all_time.languages = to_percentage(all_time.languages)
 
     all_time.followers = user.get_followers().totalCount
     all_time.contributions = len(repositories)

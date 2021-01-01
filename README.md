@@ -4,7 +4,7 @@
 <h5 align="center">
     <code><a href="https://www.linkedin.com/in/keith-chiu" title="LinkedIn Profile"><img width="22" src="https://github.com/Katsute/Katsute/blob/main/icons/linkedin.svg"> LinkedIn</a></code>
     <code><a href="https://katsute.kttdevelopment.com/" title="Website"><img width="22" src="https://github.com/Katsute/Katsute/blob/main/icons/github.svg"> Website</a></code>
-    <code><a href="https://github.com/Ktt-Development" title="Organization Website"><img width="22" src="https://github.com/Katsute/Katsute/blob/main/icons/github.svg"> Ktt&nbsp;Development</a></code>
+    <code><a href="https://www.hackerrank.com/Katsute" title="HackerRank"><img width="22" src="https://github.com/Katsute/Katsute/blob/main/icons/hackerrank.svg"> HackerRank</a></code>
 </h5>
 
 <p align="center">
