@@ -1,4 +1,4 @@
 include_private_repositories: true
-hide_repositories: [227929443, 301825182]  # mf, tf
+hide_repositories: [230148900, 233707269, 227929443, 301825182]  # ijc, pyc, mf, tf
 top_languages: 5
 hide_languages: []
