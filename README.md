@@ -14,7 +14,7 @@
     <br>
     💻 I do primarily back-end development
     <br>
-    📚 Currently I am taking courses in Python
+    📚 Currently I am learning Python, node.js, and TypeScript
 </p>
 
 <h2 align="center">🔧 Technologies & Tools</h2>
