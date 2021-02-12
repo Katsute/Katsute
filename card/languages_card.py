@@ -1,11 +1,12 @@
 import math
+from typing import Dict
 
 from card.card import Card
 
 
 class LanguageCard(Card):
 
-    def __init__(self, languages: dict):
+    def __init__(self, languages: Dict[str, float]):
         super().__init__(
             "Most Used Languages",
             "templates/languages.liquid",
@@ -22,7 +23,7 @@ class LanguageCard(Card):
 
 class LanguageCoverageCard(Card):
 
-    def __init__(self, languages: dict, limit: int):
+    def __init__(self, languages: Dict[str, float], limit: int):
         super().__init__(
             f"Top { limit } Languages",
             "templates/languages_coverage.liquid",
@@ -54,16 +55,16 @@ class LanguageCoverageCard(Card):
         self.args['height'] = self.args['width']
 
         # generate axis and poly coords
-        limit = len(languages) if len(languages) <= limit else limit
-        angle = 2*math.pi/max(limit, 1)
-        offset = math.radians(-90)
-        radius = self.args['width'] / 4
+        limit: int = len(languages) if len(languages) <= limit else limit
+        angle: float = 2*math.pi/max(limit, 1)
+        offset: float = math.radians(-90)
+        radius: float = self.args['width'] / 4
 
-        top = list(languages.values())[0]
+        top: float = list(languages.values())[0]
         axis, taxis, percent = [], [], []
         for i in range(limit):
-            co = math.cos(i*angle+offset)
-            si = math.sin(i*angle+offset)
+            co: float = math.cos(i*angle+offset)
+            si: float = math.sin(i*angle+offset)
 
             axis.append({
                 'x': radius * co,

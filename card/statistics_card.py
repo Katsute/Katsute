@@ -1,9 +1,10 @@
 from datetime import date
+from typing import List
 
 from github_statistics import Statistics
 from card.card import Card
 
-MAGNITUDE = ['', 'K', 'M', 'B', 'T']
+MAGNITUDE: List[str] = ['', 'K', 'M', 'B', 'T']
 
 
 def format_num(num: int):
