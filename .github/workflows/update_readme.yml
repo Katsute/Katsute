@@ -1,8 +1,6 @@
 name: Update README.md
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch: {}
   schedule:
     - cron:  '0 5 * * *' # 12:00 AM EST
 
@@ -17,7 +15,7 @@ jobs:
       - name: 🐍 Setup Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.8'
+          python-version: '3.9'
 
       - name: 📚 Install Dependencies
         run: |

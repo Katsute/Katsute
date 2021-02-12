@@ -2,12 +2,13 @@ import codecs
 import sys
 
 import yaml
+from typing import Dict, List
 
 import github_statistics
 from card.languages_card import LanguageCard, LanguageCoverageCard
 from card.statistics_card import StatisticsCard
 
-required = dict(
+required: Dict[str, bool] = dict(
     weekday_commits=False,
     weekday_repo_commits=False,
     year_languages=False,
@@ -15,15 +16,15 @@ required = dict(
 )
 
 
-def main(args: list):
-    size = len(args)
+def main(args: List[str]):
+    size: int = len(args)
 
     if size < 1:
         print("Failed to update file (no oauth token provided)")
         return
 
-    token = str(args[0])
-    config = yaml.load(open("config.yml", 'r'), Loader=yaml.FullLoader)
+    token: str = str(args[0])
+    config: dict = yaml.load(open("config.yml", 'r'), Loader=yaml.FullLoader)
 
     annual_statistics, all_time_statistics = github_statistics.get_statistics(
         token,

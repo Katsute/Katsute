@@ -1,13 +1,14 @@
 import codecs
 import re
+from re import Pattern
 
 from liquid import Liquid
 
 
 class Card:
-    MINIFY = re.compile("^\\s+|\\r?\\n")
+    MINIFY: Pattern = re.compile("^\\s+|\\r?\\n")
 
-    TEMPLATE = codecs.open("templates/card.liquid", 'r', encoding="utf-8").read()
+    TEMPLATE: str = codecs.open("templates/card.liquid", 'r', encoding="utf-8").read()
 
     def __init__(self, title: str, body: str, **kwargs):
         self.args = {
