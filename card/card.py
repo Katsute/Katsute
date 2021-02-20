@@ -29,7 +29,7 @@ class Card:
 
     def render(self):
         return \
-            self.MINIFY.sub('',
+            self.MINIFY.sub(' ',
                             Liquid(
                                 codecs.open("templates/card.liquid", 'r', encoding="utf-8")
                                 .read()
