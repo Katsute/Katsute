@@ -6,7 +6,7 @@ from liquid import Liquid
 
 
 class Card:
-    MINIFY: Pattern = re.compile("^\\s+|\\r?\\n")
+    MINIFY: Pattern = re.compile("\\s+|\\r?\\n")
 
     TEMPLATE: str = codecs.open("templates/card.liquid", 'r', encoding="utf-8").read()
 
