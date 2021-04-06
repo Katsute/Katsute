@@ -2,7 +2,8 @@ name: Update README.md
 on:
   workflow_dispatch: {}
   schedule:
-    - cron:  '0 5 * * *' # 12:00 AM EST
+    - cron:  '0 5 * 1-2,11-12 *' # 12:00 AM EST
+    - cron:  '0 4 * 3-10 *' # 12:00 AM EST during DST
 
 jobs:
   update_readme:
