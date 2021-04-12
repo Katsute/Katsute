@@ -30,8 +30,8 @@
     <code><img title="HTML" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/html5.svg"></code>
     <code><img title="CSS" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/css3.svg"></code>
     <code><img title="JavaScript" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/javascript.svg"></code>
-    <code><imt title="TypeScript" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/typescript.svg"></code>
-    <code><imt title="Node.js" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/nodejs.svg"></code>
+    <code><img title="TypeScript" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/typescript.svg"></code>
+    <code><img title="Node.js" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/nodejs.svg"></code>
     <code><img title="Jekyll" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/jekyll.svg"></code>
     <code><img title="GitHub" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/github.svg"></code>
 </p>
