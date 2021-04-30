@@ -7,15 +7,9 @@
     <code><a href="https://www.hackerrank.com/Katsute" title="HackerRank"><img width="22" src="https://github.com/Katsute/Katsute/blob/main/icons/hackerrank.svg"> HackerRank</a></code>
 </h5>
 
-<p align="center">
-    🎓 I am currently majoring in Computer Information Systems (CIS) at Baruch College
-    <br>
-    🎓 I graduated Bayside High School with CTE endorsement in Computer Programming & Web Design
-    <br>
-    💻 I do primarily back-end development
-    <br>
-    📚 Currently I am learning Python, C++, node.js, and TypeScript
-</p>
+- 🎓 I am currently majoring in Computer Information Systems (CIS) at Baruch College
+- 💻 I do primarily back-end development
+- 📚 Currently I am learning Python, C++, node.js, and TypeScript
 
 <h2 align="center">🔧 Technologies & Tools</h2>
 
