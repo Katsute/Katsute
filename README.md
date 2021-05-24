@@ -32,7 +32,7 @@
         <img title="TypeScript" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/typescript.svg"> TypeScript,
         <img title="Node.js" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/nodejs.svg"> NodeJS</li>
     <li>
-        <img title="C++" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/cplusplus.svg">
+        <img title="C++" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/cplusplus.svg"> C++
     </li>
     <li>
         <img title="HTML" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/html5.svg"> HTML,
