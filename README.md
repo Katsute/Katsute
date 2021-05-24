@@ -9,26 +9,37 @@
 
 - 🎓 I am currently majoring in Computer Information Systems (CIS) at Baruch College
 - 💻 I do primarily back-end development
-- 📚 Currently I am learning Python, C++, node.js, and TypeScript
+- 📚 Currently I am working on an TypeScript/Electron application and some TypeScript GitHub actions
 
 <h2 align="center">🔧 Technologies & Tools</h2>
 
-<p align="center">
-    <code><img title="Windows" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/windows.svg"></code>
-    <code><img title="IntelliJ IDEA" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/intellijidea.svg"></code>
-    <code><img title="PyCharm" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/pycharm.svg"></code>
-    <code><img title="Visual Studio Code" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/visualstudiocode.svg"></code>
-    <code><img title="Java" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/java.svg"></code>
-    <code><img title="Maven" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/apachemaven.svg"></code>
-    <code><img title="Python" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/python.svg"></code>
-    <code><img title="HTML" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/html5.svg"></code>
-    <code><img title="CSS" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/css3.svg"></code>
-    <code><img title="JavaScript" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/javascript.svg"></code>
-    <code><img title="TypeScript" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/typescript.svg"></code>
-    <code><img title="Node.js" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/nodejs.svg"></code>
-    <code><img title="Jekyll" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/jekyll.svg"></code>
-    <code><img title="GitHub" height="25" src="https://github.com/Katsute/Katsute/blob/main/icons/github.svg"></code>
-</p>
+<ul>
+    <li>
+        <img title="Windows" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/windows.svg"> Windows,
+        <img title="IntelliJ IDEA" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/intellijidea.svg"> IntelliJ,
+        <img title="PyCharm" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/pycharm.svg"> PyCharm,
+        <img title="Visual Studio Code" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/visualstudiocode.svg"> Visual Studio Code,
+        <img title="GitHub" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/githubactions.svg"> GitHub Actions & Workflows
+    </li>
+    <li>
+        <img title="Java" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/java.svg"> Java,
+        <img title="Maven" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/apachemaven.svg"> Maven Central</li>
+    <li>
+        <img title="Python" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/python.svg"> Python
+    </li>
+    <li>
+        <img title="JavaScript" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/javascript.svg"> JavaScript,
+        <img title="TypeScript" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/typescript.svg"> TypeScript,
+        <img title="Node.js" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/nodejs.svg"> NodeJS</li>
+    <li>
+        <img title="C++" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/cplusplus.svg">
+    </li>
+    <li>
+        <img title="HTML" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/html5.svg"> HTML,
+        <img title="CSS" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/css3.svg"> CSS
+    </li>
+    <li><img title="Jekyll" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/jekyll.svg"> Jekyll & Liquid</li>
+</ul>
 
 <h2 align="center">📊 Statistics</h2>
 
