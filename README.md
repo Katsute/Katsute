@@ -4,12 +4,11 @@
 <h5 align="center">
     <code><a href="https://www.linkedin.com/in/keith-chiu" title="LinkedIn Profile"><img width="22" src="https://github.com/Katsute/Katsute/blob/main/icons/linkedin.svg"> LinkedIn</a></code>
     <code><a href="https://katsute.kttdevelopment.com/" title="Website"><img width="22" src="https://github.com/Katsute/Katsute/blob/main/icons/github.svg"> Website</a></code>
-    <code><a href="https://www.hackerrank.com/Katsute" title="HackerRank"><img width="22" src="https://github.com/Katsute/Katsute/blob/main/icons/hackerrank.svg"> HackerRank</a></code>
 </h5>
 
 - 🎓 I am currently majoring in Computer Information Systems (CIS) at Baruch College
 - 💻 I do primarily back-end development
-- 📚 Currently I am working on an TypeScript/Electron application and some TypeScript GitHub actions
+- 📚 Currently I am developing with nodejs and TypeScript
 
 <h2 align="center">🔧 Technologies & Tools</h2>
 
