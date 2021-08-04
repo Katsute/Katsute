@@ -3,6 +3,7 @@
 
 <h5 align="center">
     <code><a href="https://www.linkedin.com/in/keith-chiu" title="LinkedIn Profile"><img width="22" src="https://github.com/Katsute/Katsute/blob/main/icons/linkedin.svg"> LinkedIn</a></code>
+    <code><a href="https://github.com/KatsuteDev" title="Organization"><img width="22" src="https://github.com/Katsute/Katsute/blob/main/icons/github.svg"> Organization</a></code>
     <code><a href="https://katsute.kttdevelopment.com/" title="Website"><img width="22" src="https://github.com/Katsute/Katsute/blob/main/icons/github.svg"> Website</a></code>
 </h5>
 
