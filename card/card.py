@@ -35,5 +35,5 @@ class Card:
                                 .read()
                                 .replace("{{ body }}", self.BODY if self.BODY else ''),
                                 **self.args
-                            ).render()
+                            , from_file = False).render()
                             )
