@@ -1,10 +1,11 @@
 include_private_repositories: true
-hide_repositories: 
+hide_repositories:
   - 227469939 # mw
   - 230148900 # ijc
   - 233707269 # pyc
   - 239041488 # wdir
   - 227929443 # mf
   - 301825182 # tf
+  - 417291085 # mh
 top_languages: 5
 hide_languages: [Dockerfile, PHP, Shell]
