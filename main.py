@@ -24,7 +24,7 @@ def main(args: List[str]):
         return
 
     token: str = str(args[0])
-    config: dict = yaml.load(open("config.yml", 'r'), Loader=yaml.FullLoader)
+    config: dict = yaml.safe_load(open("config.yml", 'r'), Loader=yaml.FullLoader)
 
     annual_statistics, all_time_statistics = github_statistics.get_statistics(
         token,
