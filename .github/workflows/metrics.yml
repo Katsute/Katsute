@@ -1,4 +1,4 @@
-name: Update README.md
+name: Update Metrics
 on:
   push:
   workflow_dispatch: {}
@@ -57,10 +57,10 @@ jobs:
           # core
           base: ""
           delay: 60
+          verify: yes
           retries: 3
           retries_delay: 120
           output_action: none
-          config_display: columns
           use_prebuilt_image: yes
           # plugin
           filename: metrics/calendar.svg
@@ -75,10 +75,10 @@ jobs:
           # core
           base: ""
           delay: 60
+          verify: yes
           retries: 3
           retries_delay: 120
           output_action: none
-          config_display: columns
           use_prebuilt_image: yes
           # plugin
           filename: metrics/languages.svg
@@ -97,10 +97,10 @@ jobs:
           # core
           base: ""
           delay: 60
+          verify: yes
           retries: 3
           retries_delay: 120
           output_action: none
-          config_display: columns
           use_prebuilt_image: yes
           # plugin
           filename: metrics/habits.svg
@@ -123,7 +123,6 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
-          config_display: columns
           use_prebuilt_image: yes
           # plugin
           filename: metrics/issues.svg
@@ -143,10 +142,10 @@ jobs:
           # core
           base: ""
           delay: 60
+          verify: yes
           retries: 3
           retries_delay: 120
           output_action: none
-          config_display: columns
           use_prebuilt_image: yes
           # plugin
           filename: metrics/issues-organization.svg
@@ -167,10 +166,10 @@ jobs:
           # core
           base: ""
           delay: 60
+          verify: yes
           retries: 3
           retries_delay: 120
           output_action: none
-          config_display: columns
           use_prebuilt_image: yes
           # plugin
           filename: metrics/code.svg
@@ -187,10 +186,10 @@ jobs:
           # core
           base: ""
           delay: 60
+          verify: yes
           retries: 3
           retries_delay: 120
           output_action: none
-          config_display: columns
           use_prebuilt_image: yes
           # plugin
           filename: metrics/discussions.svg
@@ -204,10 +203,10 @@ jobs:
           # core
           base: ""
           delay: 60
+          verify: yes
           retries: 3
           retries_delay: 120
           output_action: none
-          config_display: columns
           use_prebuilt_image: yes
           # plugin
           filename: metrics/support.svg
