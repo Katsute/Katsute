@@ -19,10 +19,13 @@ jobs:
         uses: lowlighter/metrics@v3.16
         with:
           token: ${{ secrets.METRICS }}
-          output_action: none
+          # core
+          delay: 60
           retries: 3
           retries_delay: 120
-          delay: 60
+          output_action: none
+          use_prebuilt_image: yes
+          # plugin
           filename: metrics/user.svg
           repositories_affiliations: owner, collaborator, organization_member
           # mw, ijc, pyc, wdir, mf, tf, mh
@@ -33,10 +36,14 @@ jobs:
         uses: lowlighter/metrics@v3.16
         with:
           token: ${{ secrets.METRICS }}
-          output_action: none
+          # core
+          base: ""
+          delay: 60
           retries: 3
           retries_delay: 120
-          delay: 60
+          output_action: none
+          use_prebuilt_image: yes
+          # plugin
           filename: metrics/calendar.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -46,10 +53,14 @@ jobs:
         uses: lowlighter/metrics@v3.16
         with:
           token: ${{ secrets.METRICS }}
-          output_action: none
+          # core
+          base: ""
+          delay: 60
           retries: 3
           retries_delay: 120
-          delay: 60
+          output_action: none
+          use_prebuilt_image: yes
+          # plugin
           filename: metrics/languages.svg
           plugin_languages: yes
           plugin_languages_skipped: ${{ secrets.SKIPPED }}
@@ -63,10 +74,14 @@ jobs:
         uses: lowlighter/metrics@v3.16
         with:
           token: ${{ secrets.METRICS }}
-          output_action: none
+          # core
+          base: ""
+          delay: 60
           retries: 3
           retries_delay: 120
-          delay: 60
+          output_action: none
+          use_prebuilt_image: yes
+          # plugin
           filename: metrics/habits.svg
           plugin_habits: yes
           plugin_habits_days: 30
@@ -80,23 +95,36 @@ jobs:
         uses: lowlighter/metrics@v3.16
         with:
           token: ${{ secrets.METRICS }}
-          output_action: none
+          # core
+          base: ""
+          delay: 60
           retries: 3
           retries_delay: 120
-          delay: 60
+          output_action: none
+          use_prebuilt_image: yes
+          # plugin
           filename: metrics/issues.svg
           plugin_followup: yes
           plugin_followup_sections: repositories
+          extras_css: |
+            div.row.fill-width > section:first-of-type path[fill="#8957e5"],
+            div.row.fill-width > section:first-of-type rect[fill="#8957e5"] {
+                fill: #da3633;
+            }
 
       - name: Code
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@v3.16
         with:
           token: ${{ secrets.METRICS }}
-          output_action: none
+          # core
+          base: ""
+          delay: 60
           retries: 3
           retries_delay: 120
-          delay: 60
+          output_action: none
+          use_prebuilt_image: yes
+          # plugin
           filename: metrics/code.svg
           plugin_code: yes
           plugin_code_lines: 20
@@ -108,10 +136,14 @@ jobs:
         uses: lowlighter/metrics@v3.16
         with:
           token: ${{ secrets.METRICS }}
-          output_action: none
+          # core
+          base: ""
+          delay: 60
           retries: 3
           retries_delay: 120
-          delay: 60
+          output_action: none
+          use_prebuilt_image: yes
+          # plugin
           filename: metrics/discussions.svg
           plugin_discussions: yes
 
@@ -120,10 +152,14 @@ jobs:
         uses: lowlighter/metrics@v3.16
         with:
           token: ${{ secrets.METRICS }}
-          output_action: none
+          # core
+          base: ""
+          delay: 60
           retries: 3
           retries_delay: 120
-          delay: 60
+          output_action: none
+          use_prebuilt_image: yes
+          # plugin
           filename: metrics/support.svg
           plugin_support: yes
 
@@ -132,11 +168,15 @@ jobs:
         uses: lowlighter/metrics@v3.16
         with:
           token: ${{ secrets.METRICS }}
-          output_action: none
+          # core
+          base: ""
+          delay: 60
           retries: 3
           retries_delay: 120
-          delay: 60
-          filename: metrics/support.svg
+          output_action: none
+          use_prebuilt_image: yes
+          # plugin
+          filename: metrics/repos.svg
           plugin_traffic: yes
           plugin_traffic_skipped: ${{ secrets.SKIPPED }}
 
