@@ -24,11 +24,11 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
+          config_display: columns
           use_prebuilt_image: yes
           # plugin
           filename: metrics/user.svg
           repositories_affiliations: owner, collaborator, organization_member
-          # mw, ijc, pyc, wdir, mf, tf, mh
           repositories_skipped: ${{ secrets.SKIPPED }}
 
       - name: Organization
@@ -41,12 +41,12 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
+          config_display: columns
           use_prebuilt_image: yes
           # plugin
           filename: metrics/organization.svg
           user: KatsuteDev
           repositories_affiliations: owner, collaborator, organization_member
-          # mw, ijc, pyc, wdir, mf, tf, mh
           repositories_skipped: ${{ secrets.SKIPPED }}
 
       - name: Calendar
@@ -60,6 +60,7 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
+          config_display: columns
           use_prebuilt_image: yes
           # plugin
           filename: metrics/calendar.svg
@@ -77,14 +78,15 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
+          config_display: columns
           use_prebuilt_image: yes
           # plugin
           filename: metrics/languages.svg
           plugin_languages: yes
           plugin_languages_skipped: ${{ secrets.SKIPPED }}
-          plugin_languages_limit: 20
+          plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, lines, percentage
+          plugin_languages_details: bytes-size, percentage
           plugin_languages_threshold: 2%
 
       - name: Habits
@@ -98,6 +100,7 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
+          config_display: columns
           use_prebuilt_image: yes
           # plugin
           filename: metrics/habits.svg
@@ -116,14 +119,40 @@ jobs:
           # core
           base: ""
           delay: 60
+          verify: yes
           retries: 3
           retries_delay: 120
           output_action: none
+          config_display: columns
           use_prebuilt_image: yes
           # plugin
           filename: metrics/issues.svg
           plugin_followup: yes
           plugin_followup_sections: repositories, user
+          extras_css: |
+            div.row.fill-width > section:first-of-type path[fill="#8957e5"],
+            div.row.fill-width > section:first-of-type rect[fill="#8957e5"] {
+                fill: #da3633;
+            }
+
+      - name: Issues (organization)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@v3.16
+        with:
+          token: ${{ secrets.METRICS }}
+          # core
+          base: ""
+          delay: 60
+          retries: 3
+          retries_delay: 120
+          output_action: none
+          config_display: columns
+          use_prebuilt_image: yes
+          # plugin
+          filename: metrics/issues-organization.svg
+          user: KatsuteDev
+          plugin_followup: yes
+          plugin_followup_sections: repositories
           extras_css: |
             div.row.fill-width > section:first-of-type path[fill="#8957e5"],
             div.row.fill-width > section:first-of-type rect[fill="#8957e5"] {
@@ -141,6 +170,7 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
+          config_display: columns
           use_prebuilt_image: yes
           # plugin
           filename: metrics/code.svg
@@ -160,6 +190,7 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
+          config_display: columns
           use_prebuilt_image: yes
           # plugin
           filename: metrics/discussions.svg
@@ -176,27 +207,11 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
+          config_display: columns
           use_prebuilt_image: yes
           # plugin
           filename: metrics/support.svg
           plugin_support: yes
-
-      - name: Repos
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.16
-        with:
-          token: ${{ secrets.METRICS }}
-          # core
-          base: ""
-          delay: 60
-          retries: 3
-          retries_delay: 120
-          output_action: none
-          use_prebuilt_image: yes
-          # plugin
-          filename: metrics/repos.svg
-          plugin_traffic: yes
-          #plugin_traffic_skipped: ${{ secrets.SKIPPED }}
 
       - name: 📥 Commit Changes
         if: ${{ success() || failure() }}
