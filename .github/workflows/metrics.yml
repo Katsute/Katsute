@@ -105,7 +105,7 @@ jobs:
           # plugin
           filename: metrics/issues.svg
           plugin_followup: yes
-          plugin_followup_sections: repositories
+          plugin_followup_sections: repositories, user
           extras_css: |
             div.row.fill-width > section:first-of-type path[fill="#8957e5"],
             div.row.fill-width > section:first-of-type rect[fill="#8957e5"] {
