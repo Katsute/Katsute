@@ -1,0 +1,150 @@
+name: Update README.md
+on:
+  push:
+  workflow_dispatch: {}
+  #schedule:
+  #  - cron:  '0 5 * 1-2,11-12 *' # 12:00 AM EST
+  #  - cron:  '0 4 * 3-10 *' # 12:00 AM EST during DST
+
+jobs:
+  metrics:
+    name: Generate Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📤 Checkout Repository
+        uses: actions/checkout@v2.4.0
+
+      - name: Base
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@v3.16
+        with:
+          token: ${{ secrets.METRICS }}
+          output_action: none
+          retries: 3
+          retries_delay: 120
+          delay: 60
+          filename: metrics/user.svg
+          repositories_affiliations: owner, collaborator, organization_member
+          # mw, ijc, pyc, wdir, mf, tf, mh
+          repositories_skipped: ${{ secrets.SKIPPED }}
+
+      - name: Calendar
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@v3.16
+        with:
+          token: ${{ secrets.METRICS }}
+          output_action: none
+          retries: 3
+          retries_delay: 120
+          delay: 60
+          filename: metrics/calendar.svg
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Languages
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@v3.16
+        with:
+          token: ${{ secrets.METRICS }}
+          output_action: none
+          retries: 3
+          retries_delay: 120
+          delay: 60
+          filename: metrics/languages.svg
+          plugin_languages: yes
+          plugin_languages_skipped: ${{ secrets.SKIPPED }}
+          plugin_languages_limit: 20
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, lines, percentage
+          plugin_languages_threshold: 2%
+
+      - name: Habits
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@v3.16
+        with:
+          token: ${{ secrets.METRICS }}
+          output_action: none
+          retries: 3
+          retries_delay: 120
+          delay: 60
+          filename: metrics/habits.svg
+          plugin_habits: yes
+          plugin_habits_days: 30
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          plugin_habits_trim: no
+          config_timezone: America/New_York
+
+      - name: Issues
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@v3.16
+        with:
+          token: ${{ secrets.METRICS }}
+          output_action: none
+          retries: 3
+          retries_delay: 120
+          delay: 60
+          filename: metrics/issues.svg
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+
+      - name: Code
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@v3.16
+        with:
+          token: ${{ secrets.METRICS }}
+          output_action: none
+          retries: 3
+          retries_delay: 120
+          delay: 60
+          filename: metrics/code.svg
+          plugin_code: yes
+          plugin_code_lines: 20
+          plugin_code_visibility: public
+          plugin_code_skipped: ${{ secrets.SKIPPED }}
+
+      - name: Discussions
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@v3.16
+        with:
+          token: ${{ secrets.METRICS }}
+          output_action: none
+          retries: 3
+          retries_delay: 120
+          delay: 60
+          filename: metrics/discussions.svg
+          plugin_discussions: yes
+
+      - name: Support
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@v3.16
+        with:
+          token: ${{ secrets.METRICS }}
+          output_action: none
+          retries: 3
+          retries_delay: 120
+          delay: 60
+          filename: metrics/support.svg
+          plugin_support: yes
+
+      - name: Repos
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@v3.16
+        with:
+          token: ${{ secrets.METRICS }}
+          output_action: none
+          retries: 3
+          retries_delay: 120
+          delay: 60
+          filename: metrics/support.svg
+          plugin_traffic: yes
+          plugin_traffic_skipped: ${{ secrets.SKIPPED }}
+
+      - name: 📥 Commit Changes
+        if: ${{ success() || failure() }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f metrics
+          git diff-index --quiet HEAD || git commit -m 'Update Metrics'
+          git push
