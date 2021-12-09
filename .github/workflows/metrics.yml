@@ -24,10 +24,10 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
-          config_display: columns
+          config_output: png
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/user.svg
+          filename: metrics/user.png
           repositories_affiliations: owner, collaborator, organization_member
           repositories_skipped: ${{ secrets.SKIPPED }}
 
@@ -41,10 +41,10 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
-          config_display: columns
+          config_output: png
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/organization.svg
+          filename: metrics/organization.png
           user: KatsuteDev
           repositories_affiliations: owner, collaborator, organization_member
           repositories_skipped: ${{ secrets.SKIPPED }}
@@ -61,9 +61,10 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
+          config_output: png
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/calendar.svg
+          filename: metrics/calendar.png
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
@@ -79,9 +80,10 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
+          config_output: png
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/languages.svg
+          filename: metrics/languages.png
           plugin_languages: yes
           plugin_languages_skipped: ${{ secrets.SKIPPED }}
           plugin_languages_limit: 8
@@ -101,9 +103,10 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
+          config_output: png
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/habits.svg
+          filename: metrics/habits.png
           plugin_habits: yes
           plugin_habits_days: 30
           plugin_habits_facts: no
@@ -123,9 +126,10 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
+          config_output: png
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/issues.svg
+          filename: metrics/issues.png
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           extras_css: |
@@ -146,9 +150,10 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
+          config_output: png
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/issues-organization.svg
+          filename: metrics/issues-organization.png
           user: KatsuteDev
           plugin_followup: yes
           plugin_followup_sections: repositories
@@ -170,9 +175,10 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
+          config_output: png
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/code.svg
+          filename: metrics/code.png
           plugin_code: yes
           plugin_code_lines: 20
           plugin_code_visibility: public
@@ -190,9 +196,10 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
+          config_output: png
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/discussions.svg
+          filename: metrics/discussions.png
           plugin_discussions: yes
 
       - name: Support
@@ -207,9 +214,10 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
+          config_output: png
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/support.svg
+          filename: metrics/support.png
           plugin_support: yes
 
       - name: 📥 Commit Changes
