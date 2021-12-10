@@ -24,7 +24,6 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
-          config_output: png
           use_prebuilt_image: yes
           # plugin
           filename: metrics/user.svg
@@ -41,7 +40,6 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
-          config_output: png
           use_prebuilt_image: yes
           # plugin
           filename: metrics/organization.svg
@@ -61,7 +59,6 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
-          config_output: png
           use_prebuilt_image: yes
           # plugin
           filename: metrics/calendar.svg
@@ -80,7 +77,6 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
-          config_output: png
           use_prebuilt_image: yes
           # plugin
           filename: metrics/languages.svg
@@ -103,7 +99,6 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
-          config_output: png
           use_prebuilt_image: yes
           # plugin
           filename: metrics/habits.svg
@@ -126,7 +121,6 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
-          config_output: png
           use_prebuilt_image: yes
           # plugin
           filename: metrics/issues.svg
@@ -150,7 +144,6 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
-          config_output: png
           use_prebuilt_image: yes
           # plugin
           filename: metrics/issues-organization.svg
@@ -175,7 +168,6 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
-          config_output: png
           use_prebuilt_image: yes
           # plugin
           filename: metrics/code.svg
@@ -196,7 +188,6 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
-          config_output: png
           use_prebuilt_image: yes
           # plugin
           filename: metrics/discussions.svg
@@ -214,7 +205,6 @@ jobs:
           retries: 3
           retries_delay: 120
           output_action: none
-          config_output: png
           use_prebuilt_image: yes
           # plugin
           filename: metrics/support.svg
