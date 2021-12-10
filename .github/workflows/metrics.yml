@@ -20,6 +20,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS }}
           # core
+          base: header, activity, community, repositories
           delay: 60
           verify: yes
           retries: 3
@@ -37,6 +38,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS }}
           # core
+          base: header, activity, community, repositories
           delay: 60
           verify: yes
           retries: 3
