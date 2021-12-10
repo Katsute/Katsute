@@ -21,6 +21,7 @@ jobs:
           token: ${{ secrets.METRICS }}
           # core
           delay: 60
+          verify: yes
           retries: 3
           retries_delay: 120
           output_action: none
@@ -37,6 +38,7 @@ jobs:
           token: ${{ secrets.METRICS }}
           # core
           delay: 60
+          verify: yes
           retries: 3
           retries_delay: 120
           output_action: none
