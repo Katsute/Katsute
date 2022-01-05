@@ -6,7 +6,7 @@
     <code><a href="https://katsute.dev/" title="Website"><img width="22" src="https://github.com/Katsute/Katsute/blob/main/icons/github.svg"> Website</a></code>
     <br>
     <br>
-    <code><a href="https://github.com/Katsute?tab=repositories&q=baruch" title="link">🎓 Baruch Coursework</a></code>
+    <code><a href="https://github.com/Katsute?tab=repositories&q=baruch&sort=name" title="link">🎓 Baruch Coursework</a></code>
 </h5>
 
 - 🎓 I am currently majoring in Computer Information Systems (CIS) at Baruch College
