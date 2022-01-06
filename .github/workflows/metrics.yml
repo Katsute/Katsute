@@ -28,7 +28,7 @@ jobs:
           output_action: none
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/user.svg
+          filename: user.svg
           repositories_affiliations: owner, collaborator, organization_member
           repositories_skipped: ${{ secrets.SKIPPED }}
 
@@ -46,7 +46,7 @@ jobs:
           output_action: none
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/organization.svg
+          filename: organization.svg
           user: KatsuteDev
           repositories_affiliations: owner, collaborator, organization_member
           repositories_skipped: ${{ secrets.SKIPPED }}
@@ -65,7 +65,7 @@ jobs:
           output_action: none
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/calendar.svg
+          filename: calendar.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
@@ -83,7 +83,7 @@ jobs:
           output_action: none
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/languages.svg
+          filename: languages.svg
           plugin_languages: yes
           plugin_languages_skipped: ${{ secrets.SKIPPED }}
           plugin_languages_limit: 8
@@ -105,7 +105,7 @@ jobs:
           output_action: none
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/habits.svg
+          filename: habits.svg
           plugin_habits: yes
           plugin_habits_days: 30
           plugin_habits_facts: no
@@ -127,7 +127,7 @@ jobs:
           output_action: none
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/issues.svg
+          filename: issues.svg
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           extras_css: |
@@ -150,7 +150,7 @@ jobs:
           output_action: none
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/issues-organization.svg
+          filename: issues-organization.svg
           user: KatsuteDev
           plugin_followup: yes
           plugin_followup_sections: repositories
@@ -174,7 +174,7 @@ jobs:
           output_action: none
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/code.svg
+          filename: code.svg
           plugin_code: yes
           plugin_code_lines: 20
           plugin_code_visibility: public
@@ -194,7 +194,7 @@ jobs:
           output_action: none
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/discussions.svg
+          filename: discussions.svg
           plugin_discussions: yes
 
       - name: Support
@@ -211,7 +211,7 @@ jobs:
           output_action: none
           use_prebuilt_image: yes
           # plugin
-          filename: metrics/support.svg
+          filename: support.svg
           plugin_support: yes
 
       - name: 📥 Commit Changes
@@ -219,6 +219,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f metrics
+          git add -f metrics_renders
           git diff-index --quiet HEAD || git commit -m 'Update Metrics'
           git push
