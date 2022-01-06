@@ -214,11 +214,14 @@ jobs:
           filename: support.svg
           plugin_support: yes
 
+      - name: 📁 Move output
+        run: mv /metrics_renders/* /metrics
+
       - name: 📥 Commit Changes
         if: ${{ success() || failure() }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -f metrics_renders
+          git add -f metrics
           git diff-index --quiet HEAD || git commit -m 'Update Metrics'
           git push
