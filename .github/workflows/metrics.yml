@@ -215,6 +215,7 @@ jobs:
           plugin_support: yes
 
       - name: 📁 Move output
+        if: ${{ success() || failure() }}
         run: mv /metrics_renders/* /metrics
 
       - name: 📥 Commit Changes
