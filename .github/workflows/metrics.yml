@@ -217,7 +217,6 @@ jobs:
       - name: 📁 Move output
         if: ${{ success() || failure() }}
         run: |
-          mkdir ./metrics
           mv /metrics_renders/* ./metrics
 
       - name: 📥 Commit Changes
