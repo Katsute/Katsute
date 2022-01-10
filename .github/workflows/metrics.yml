@@ -16,7 +16,7 @@ jobs:
 
       - name: User
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.17
+        uses: lowlighter/metrics@b1004bf9ac3038ea5c973f4d5a20f0d6e3e46322
         with:
           token: ${{ secrets.METRICS }}
           # core
@@ -34,7 +34,7 @@ jobs:
 
       - name: Organization
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.17
+        uses: lowlighter/metrics@b1004bf9ac3038ea5c973f4d5a20f0d6e3e46322
         with:
           token: ${{ secrets.METRICS }}
           # core
@@ -53,7 +53,7 @@ jobs:
 
       - name: Calendar
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.17
+        uses: lowlighter/metrics@b1004bf9ac3038ea5c973f4d5a20f0d6e3e46322
         with:
           token: ${{ secrets.METRICS }}
           # core
@@ -71,7 +71,7 @@ jobs:
 
       - name: Languages
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.17
+        uses: lowlighter/metrics@b1004bf9ac3038ea5c973f4d5a20f0d6e3e46322
         with:
           token: ${{ secrets.METRICS }}
           # core
@@ -93,7 +93,7 @@ jobs:
 
       - name: Habits
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.17
+        uses: lowlighter/metrics@b1004bf9ac3038ea5c973f4d5a20f0d6e3e46322
         with:
           token: ${{ secrets.METRICS }}
           # core
@@ -115,7 +115,7 @@ jobs:
 
       - name: Issues
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.17
+        uses: lowlighter/metrics@b1004bf9ac3038ea5c973f4d5a20f0d6e3e46322
         with:
           token: ${{ secrets.METRICS }}
           # core
@@ -138,7 +138,7 @@ jobs:
 
       - name: Issues (organization)
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.17
+        uses: lowlighter/metrics@b1004bf9ac3038ea5c973f4d5a20f0d6e3e46322
         with:
           token: ${{ secrets.METRICS }}
           # core
@@ -162,7 +162,7 @@ jobs:
 
       - name: Code
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.17
+        uses: lowlighter/metrics@b1004bf9ac3038ea5c973f4d5a20f0d6e3e46322
         with:
           token: ${{ secrets.METRICS }}
           # core
@@ -182,7 +182,7 @@ jobs:
 
       - name: Discussions
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.17
+        uses: lowlighter/metrics@b1004bf9ac3038ea5c973f4d5a20f0d6e3e46322
         with:
           token: ${{ secrets.METRICS }}
           # core
@@ -199,7 +199,7 @@ jobs:
 
       - name: Support
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.17
+        uses: lowlighter/metrics@b1004bf9ac3038ea5c973f4d5a20f0d6e3e46322
         with:
           token: ${{ secrets.METRICS }}
           # core
