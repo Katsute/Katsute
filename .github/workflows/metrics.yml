@@ -6,6 +6,10 @@ on:
   #  - cron:  '0 5 * 1-2,11-12 *' # 12:00 AM EST
   #  - cron:  '0 4 * 3-10 *' # 12:00 AM EST during DST
 
+concurrency: 
+  group: metrics
+  cancel-in-progress: true
+
 jobs:
   metrics:
     name: Generate Metrics
@@ -176,6 +180,7 @@ jobs:
           # plugin
           filename: code.svg
           plugin_code: yes
+          plugin_code_load: 300
           plugin_code_lines: 20
           plugin_code_visibility: public
           plugin_code_skipped: ${{ secrets.SKIPPED }}
