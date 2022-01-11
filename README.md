@@ -1,14 +1,11 @@
-![user](https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/user.svg)
-![organization](https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/organization.svg)
+<img width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/user.svg" alt="user">
+<img width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/organization.svg" alt="organization">
 
-![calendar](https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/calendar.svg)
-![habits](https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/habits.svg)
+<img width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/languages.svg" alt="languages">
+<img width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/habits.svg" alt="habits">
 
-![issues](https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/issues.svg)
-![issues-organization](https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/issues-organization.svg)
+<img width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/issues.svg" alt="issues">
+<img width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/issues-organization.svg" alt="issues-organization">
 
-![discussions](https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/discussions.svg)
-![support](https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/support.svg)
-
-![code](https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/code.svg)
-![languages](https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/languages.svg)
+<img width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/discussions.svg" alt="discussions">
+<img width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/support.svg" alt="support">
