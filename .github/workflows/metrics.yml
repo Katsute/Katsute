@@ -77,7 +77,7 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_threshold: 2%
           plugin_languages_recent_load: 500
-          plugin_languages_recent_days: 7
+          plugin_languages_recent_days: 30
 
       - name: Habits
         if: ${{ success() || failure() }}
