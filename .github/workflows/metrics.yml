@@ -148,40 +148,6 @@ jobs:
                 fill: #da3633;
             }
 
-      - name: Discussions
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.17
-        with:
-          token: ${{ secrets.METRICS }}
-          # core
-          base: ""
-          delay: 60
-          verify: yes
-          retries: 3
-          retries_delay: 120
-          output_action: none
-          use_prebuilt_image: yes
-          # plugin
-          filename: discussions.svg
-          plugin_discussions: yes
-
-      - name: Support
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.17
-        with:
-          token: ${{ secrets.METRICS }}
-          # core
-          base: ""
-          delay: 60
-          verify: yes
-          retries: 3
-          retries_delay: 120
-          output_action: none
-          use_prebuilt_image: yes
-          # plugin
-          filename: support.svg
-          plugin_support: yes
-
       - name: 📁 Move output
         if: ${{ success() || failure() }}
         run: |
