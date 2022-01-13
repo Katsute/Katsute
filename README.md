@@ -129,15 +129,15 @@
 
 ## ⚡ Metrics
 
-<div>
+<div align="center">
     <img align="top" alt="user" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/user.svg">
     <img align="top" alt="organization" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/organization.svg">
 </div>
-<div>
+<div align="center">
     <img align="top" alt="issues" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/issues.svg">
     <img align="top" alt="issues-organization" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/issues-organization.svg">
 </div>
-<div>
+<div align="center">
     <img align="top" alt="habits" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/habits.svg">
     <img align="top" alt="languages" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/languages.svg">
 </div>
