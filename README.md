@@ -32,95 +32,95 @@
 <table>
     <tr>
         <td align="center">
-            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/java.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/java.svg">
             <br>
             <p>Java</p>
         </td>
         <td align="center">
-            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/apachemaven.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/apachemaven.svg">
             <br>
             <p>Maven</p>
         </td>
         <td align="center">
-            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/intellijidea.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/intellijidea.svg">
             <br>
             <p>IntelliJ</p>
         </td>
     </td>
     <tr>
         <td align="center">
-            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/html5.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/html5.svg">
             <br>
             <p>HTML</p>
         </td>
         <td align="center">
-            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/css3.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/css3.svg">
             <br>
             <p>CSS</p>
         </td>
         <td align="center">
-            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/bootstrap.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/bootstrap.svg">
             <br>
             <p>Bootstrap</p>
         </td>
         <td align="center">
-            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/jekyll.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/jekyll.svg">
             <br>
             <p>Jekyll</p>
         </td>
         <td align="center">
-            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/visualstudiocode.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/visualstudiocode.svg">
             <br>
             <p>VSCode</p>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/javascript.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/javascript.svg">
             <br>
             <p>JavaScript</p>
         </td>
         <td align="center">
-            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/typescript.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/typescript.svg">
             <br>
             <p>TypeScript</p>
         </td>
         <td align="center">
-            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/nodejs.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/nodejs.svg">
             <br>
             <p>NodeJS</p>
         </td>
         <td align="center">
-            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/electron.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/electron.svg">
             <br>
             <p>Electron</p>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/github.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/github.svg">
             <br>
             <p>GitHub</p>
         </td>
         <td align="center">
-            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/githubactions.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/githubactions.svg">
             <br>
             <p>Actions</p>
         </td>
         <td align="center">
-            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/python.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/python.svg">
             <br>
             <p>Python</p>
         </td>
         <td align="center">
-            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/pycharm.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/pycharm.svg">
             <br>
             <p>PyCharm</p>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/cplusplus.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/cplusplus.svg">
             <br>
             <p>C++</p>
         </td>
@@ -130,14 +130,14 @@
 ## ⚡ Metrics
 
 <div align="center">
-    <img align="top" alt="user" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/user.svg">
-    <img align="top" alt="organization" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/organization.svg">
+    <img align="top" alt="user" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/main/metrics/user.svg">
+    <img align="top" alt="organization" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/main/metrics/organization.svg">
 </div>
 <div align="center">
-    <img align="top" alt="issues" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/issues.svg">
-    <img align="top" alt="issues-organization" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/issues-organization.svg">
+    <img align="top" alt="issues" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/main/metrics/issues.svg">
+    <img align="top" alt="issues-organization" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/main/metrics/issues-organization.svg">
 </div>
 <div align="center">
-    <img align="top" alt="habits" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/habits.svg">
-    <img align="top" alt="languages" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/metrics/languages.svg">
+    <img align="top" alt="habits" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/main/metrics/habits.svg">
+    <img align="top" alt="languages" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/main/metrics/languages.svg">
 </div>
