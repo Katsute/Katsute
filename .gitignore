@@ -1,8 +1,0 @@
-# Python
-/.idea/
-/Pipfile
-/Pipfile.lock
-__pycache__
-
-# Template Output
-/README.md

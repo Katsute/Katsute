@@ -1,64 +1,137 @@
-<h3 align="center">« Katsute »</h2>
-
-<h5 align="center">
-    <code><a href="https://www.linkedin.com/in/keith-chiu" title="LinkedIn Profile"><img width="22" src="https://github.com/Katsute/Katsute/blob/main/icons/linkedin.svg"> LinkedIn</a></code>
-    <code><a href="https://github.com/KatsuteDev" title="Organization"><img width="22" src="https://github.com/Katsute/Katsute/blob/main/icons/github.svg"> Organization</a></code>
-    <code><a href="https://katsute.dev/" title="Website"><img width="22" src="https://github.com/Katsute/Katsute/blob/main/icons/github.svg"> Website</a></code>
-    <br>
-    <br>
-    <code><a href="https://github.com/Katsute?tab=repositories&q=baruch&sort=name" title="link">🎓 Baruch Coursework</a></code>
-</h5>
-
-- 🎓 I am currently majoring in Computer Information Systems (CIS) at Baruch College
-- 💻 I do primarily back-end development
-- 📚 Currently I am developing with nodejs and TypeScript
-
-<h2 align="center">🔧 Technologies & Tools</h2>
-
-<ul>
-    <li>
-        <img title="Windows" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/windows.svg"> Windows,
-        <img title="IntelliJ IDEA" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/intellijidea.svg"> IntelliJ,
-        <img title="PyCharm" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/pycharm.svg"> PyCharm,
-        <img title="Visual Studio Code" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/visualstudiocode.svg"> Visual Studio Code,
-        <img title="GitHub" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/githubactions.svg"> GitHub Actions & Workflows
-    </li>
-    <li>
-        <img title="Java" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/java.svg"> Java,
-        <img title="Maven" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/apachemaven.svg"> Maven Central</li>
-    <li>
-        <img title="Python" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/python.svg"> Python
-    </li>
-    <li>
-        <img title="JavaScript" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/javascript.svg"> JavaScript,
-        <img title="TypeScript" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/typescript.svg"> TypeScript,
-        <img title="Node.js" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/nodejs.svg"> NodeJS</li>
-    <li>
-        <img title="C++" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/cplusplus.svg"> C++
-    </li>
-    <li>
-        <img title="HTML" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/html5.svg"> HTML,
-        <img title="CSS" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/css3.svg"> CSS
-    </li>
-    <li><img title="Jekyll" height="20" src="https://github.com/Katsute/Katsute/blob/main/icons/jekyll.svg"> Jekyll & Liquid</li>
-</ul>
-
-<h2 align="center">📊 Statistics</h2>
-
 <div align="center">
-    <a href="https://github.com/Katsute/">
-        <img src="https://github.com/Katsute/Katsute/blob/main/generated/statistics.svg">
+    <a href="https://katsute.dev/">
+        <img src="https://img.shields.io/static/v1?label=&message=Website&style=flat-square&logo=Google-Chrome&color=4285F4&logoColor=white">
     </a>
-    <a href="https://github.com/Katsute/">
-        <img src="https://github.com/Katsute/Katsute/blob/main/generated/statistics_annual.svg">
+    <a href="https://www.linkedin.com/in/keith-chiu">
+        <img alt="linkedin" src="https://img.shields.io/static/v1?label=&message=LinkedIn&style=flat-square&logo=LinkedIn&color=0A66C2&logoColor=white">
     </a>
-    <a href="https://github.com/Katsute/">
-        <img src="https://github.com/Katsute/Katsute/blob/main/generated/languages.svg">
+    <a href="https://github.com/KatsuteDev">
+        <img src="https://img.shields.io/static/v1?label=&message=Organization&style=flat-square&logo=GitHub&color=181717&logoColor=white">
     </a>
-    <a href="https://github.com/Katsute/">
-        <img src="https://github.com/Katsute/Katsute/blob/main/generated/languages_coverage.svg">
+    <a href="https://paypal.me/katsutedev">
+        <img src="https://img.shields.io/static/v1?label=&message=PayPal&style=flat-square&logo=paypal&color=00457C&logoColor=black">
+    </a>
+    <a href="https://patreon.com/Katsute">
+        <img src="https://img.shields.io/static/v1?label=&message=Patreon&style=flat-square&logo=Patreon&color=FF424D&logoColor=black">
     </a>
 </div>
+
 <br>
 
-[![Update README.md](https://github.com/Katsute/Katsute/workflows/Update%20README.md/badge.svg)](https://github.com/Katsute/Katsute/actions/workflows/update_readme.yml)
+ - I develop software and libraries.
+ - I am currently majoring in Computer Information Systems (CIS) at Baruch College.
+
+## 💻 Technologies
+
+<table>
+    <tr>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/java.svg">
+            <br>
+            <p>Java</p>
+        </td>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/apachemaven.svg">
+            <br>
+            <p>Maven</p>
+        </td>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/intellijidea.svg">
+            <br>
+            <p>IntelliJ</p>
+        </td>
+    </td>
+    <tr>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/html5.svg">
+            <br>
+            <p>HTML</p>
+        </td>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/css3.svg">
+            <br>
+            <p>CSS</p>
+        </td>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/bootstrap.svg">
+            <br>
+            <p>Bootstrap</p>
+        </td>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/jekyll.svg">
+            <br>
+            <p>Jekyll</p>
+        </td>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/visualstudiocode.svg">
+            <br>
+            <p>VSCode</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/javascript.svg">
+            <br>
+            <p>JavaScript</p>
+        </td>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/typescript.svg">
+            <br>
+            <p>TypeScript</p>
+        </td>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/nodejs.svg">
+            <br>
+            <p>NodeJS</p>
+        </td>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/electron.svg">
+            <br>
+            <p>Electron</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/github.svg">
+            <br>
+            <p>GitHub</p>
+        </td>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/githubactions.svg">
+            <br>
+            <p>Actions</p>
+        </td>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/python.svg">
+            <br>
+            <p>Python</p>
+        </td>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/pycharm.svg">
+            <br>
+            <p>PyCharm</p>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/cplusplus.svg">
+            <br>
+            <p>C++</p>
+        </td>
+    </tr>
+</table>
+
+## ⚡ Metrics
+
+<div align="center">
+    <img align="top" alt="user" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/main/metrics/user.svg">
+    <img align="top" alt="organization" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/main/metrics/organization.svg">
+</div>
+<div align="center">
+    <img align="top" alt="issues" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/main/metrics/issues.svg">
+    <img align="top" alt="issues-organization" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/main/metrics/issues-organization.svg">
+</div>
+<div align="center">
+    <img align="top" alt="habits" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/main/metrics/habits.svg">
+    <img align="top" alt="languages" width="400" src="https://raw.githubusercontent.com/Katsute/Katsute/main/metrics/languages.svg">
+</div>
