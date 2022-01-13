@@ -1,4 +1,10 @@
 <div align="center">
+    <img alt="logo" width="125" src="https://avatars.githubusercontent.com/u/58778985?v=4">
+    <h3>Welcome! 👋 I'm <a href="https://github.com/Katsute">Katsute</a></h3>
+    <h4>Student and Backend Developer</h4>
+</div>
+
+<div align="center">
     <a href="https://katsute.dev/">
         <img src="https://img.shields.io/static/v1?label=&message=Website&style=flat-square&logo=Google-Chrome&color=4285F4&logoColor=white">
     </a>
