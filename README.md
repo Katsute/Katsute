@@ -25,7 +25,7 @@
 <br>
 
  - I develop software and libraries.
- - I am currently majoring in Computer Information Systems (CIS) at Baruch College
+ - I am currently majoring in Computer Information Systems (CIS) at Baruch College.
 
 ## 💻 Technologies
 
