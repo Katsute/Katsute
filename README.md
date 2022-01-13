@@ -46,6 +46,8 @@
             <br>
             <p>IntelliJ</p>
         </td>
+        <td></td>
+        <td></td>
     </td>
     <tr>
         <td align="center">
@@ -95,6 +97,7 @@
             <br>
             <p>Electron</p>
         </td>
+        <td></td>
     </tr>
     <tr>
         <td align="center">
@@ -117,6 +120,7 @@
             <br>
             <p>PyCharm</p>
         </td>
+        <td></td>
     </tr>
     <tr>
         <td align="center">
@@ -124,6 +128,10 @@
             <br>
             <p>C++</p>
         </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
 </table>
 
