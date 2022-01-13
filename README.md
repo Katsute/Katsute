@@ -24,7 +24,7 @@
 
 <br>
 
- - I develop software and libraries designed for developers.
+ - I develop software and libraries.
  - I am currently majoring in Computer Information Systems (CIS) at Baruch College
 
 ## 💻 Technologies
@@ -32,110 +32,97 @@
 <table>
     <tr>
         <td align="center">
-            <img width="30" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/java.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/java.svg">
             <br>
-            <small>Java</small>
+            <p>Java</p>
         </td>
         <td align="center">
-            <img width="30" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/apachemaven.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/apachemaven.svg">
             <br>
-            <small>Maven</small>
+            <p>Maven</p>
         </td>
         <td align="center">
-            <img width="30" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/intellijidea.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/intellijidea.svg">
             <br>
-            <small>IntelliJ</small>
+            <p>IntelliJ</p>
         </td>
     </td>
-</table>
-
-<table>
     <tr>
         <td align="center">
-            <img width="30" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/html5.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/html5.svg">
             <br>
-            <small>HTML</small>
+            <p>HTML</p>
         </td>
         <td align="center">
-            <img width="30" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/css3.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/css3.svg">
             <br>
-            <small>CSS</small>
+            <p>CSS</p>
         </td>
         <td align="center">
-            <img width="30" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/bootstrap.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/bootstrap.svg">
             <br>
-            <small>Bootstrap</small>
+            <p>Bootstrap</p>
         </td>
         <td align="center">
-            <img width="30" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/jekyll.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/jekyll.svg">
             <br>
-            <small>Jekyll</small>
+            <p>Jekyll</p>
         </td>
         <td align="center">
-            <img width="30" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/visualstudiocode.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/visualstudiocode.svg">
             <br>
-            <small>VSCode</small>
+            <p>VSCode</p>
         </td>
     </tr>
-</table>
-<table>
     <tr>
         <td align="center">
-            <img width="30" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/javascript.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/javascript.svg">
             <br>
-            <small>JavaScript</small>
+            <p>JavaScript</p>
         </td>
         <td align="center">
-            <img width="30" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/typescript.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/typescript.svg">
             <br>
-            <small>TypeScript</small>
+            <p>TypeScript</p>
         </td>
         <td align="center">
-            <img width="30" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/nodejs.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/nodejs.svg">
             <br>
-            <small>NodeJS</small>
+            <p>NodeJS</p>
         </td>
         <td align="center">
-            <img width="30" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/electron.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/electron.svg">
             <br>
-            <small>Electron</small>
+            <p>Electron</p>
         </td>
     </tr>
-</table>
-<table>
     <tr>
         <td align="center">
-            <img width="30" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/github.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/github.svg">
             <br>
-            <small>GitHub</small>
+            <p>GitHub</p>
         </td>
         <td align="center">
-            <img width="30" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/githubactions.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/githubactions.svg">
             <br>
-            <small>Actions</small>
+            <p>Actions</p>
+        </td>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/python.svg">
+            <br>
+            <p>Python</p>
+        </td>
+        <td align="center">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/pycharm.svg">
+            <br>
+            <p>PyCharm</p>
         </td>
     </tr>
-</table>
-<table>
     <tr>
         <td align="center">
-            <img width="30" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/python.svg">
+            <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/cplusplus.svg">
             <br>
-            <small>Python</small>
-        </td>
-        <td align="center">
-            <img width="30" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/pycharm.svg">
-            <br>
-            <small>PyCharm</small>
-        </td>
-    </tr>
-</table>
-<table>
-    <tr>
-        <td align="center">
-            <img width="30" src="https://raw.githubusercontent.com/Katsute/Katsute/metrics/icons/cplusplus.svg">
-            <br>
-            <small>C++</small>
+            <p>C++</p>
         </td>
     </tr>
 </table>
