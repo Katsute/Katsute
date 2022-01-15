@@ -105,7 +105,7 @@ jobs:
 
       - name: Issues
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@b1004bf9ac3038ea5c973f4d5a20f0d6e3e46322
+        uses: lowlighter/metrics@43dac8a8dce150012d23e8772b59b44dfc1c6cf0
         with:
           token: ${{ secrets.METRICS }}
           # core
@@ -128,7 +128,7 @@ jobs:
 
       - name: Issues (organization)
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@b1004bf9ac3038ea5c973f4d5a20f0d6e3e46322
+        uses: lowlighter/metrics@43dac8a8dce150012d23e8772b59b44dfc1c6cf0
         with:
           token: ${{ secrets.METRICS }}
           # core
