@@ -34,17 +34,17 @@
         <td align="center">
             <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/java.svg">
             <br>
-            <p>Java</p>
+            <small>Java</small>
         </td>
         <td align="center">
             <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/apachemaven.svg">
             <br>
-            <p>Maven</p>
+            <small>Maven</small>
         </td>
         <td align="center">
             <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/intellijidea.svg">
             <br>
-            <p>IntelliJ</p>
+            <small>IntelliJ</small>
         </td>
         <td></td>
         <td></td>
@@ -53,49 +53,49 @@
         <td align="center">
             <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/html5.svg">
             <br>
-            <p>HTML</p>
+            <small>HTML</small>
         </td>
         <td align="center">
             <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/css3.svg">
             <br>
-            <p>CSS</p>
+            <small>CSS</small>
         </td>
         <td align="center">
             <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/bootstrap.svg">
             <br>
-            <p>Bootstrap</p>
+            <small>Bootstrap</small>
         </td>
         <td align="center">
             <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/jekyll.svg">
             <br>
-            <p>Jekyll</p>
+            <small>Jekyll</small>
         </td>
         <td align="center">
             <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/visualstudiocode.svg">
             <br>
-            <p>VSCode</p>
+            <small>VSCode</small>
         </td>
     </tr>
     <tr>
         <td align="center">
             <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/javascript.svg">
             <br>
-            <p>JavaScript</p>
+            <small>JavaScript</small>
         </td>
         <td align="center">
             <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/typescript.svg">
             <br>
-            <p>TypeScript</p>
+            <small>TypeScript</small>
         </td>
         <td align="center">
             <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/nodejs.svg">
             <br>
-            <p>NodeJS</p>
+            <small>NodeJS</small>
         </td>
         <td align="center">
             <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/electron.svg">
             <br>
-            <p>Electron</p>
+            <small>Electron</small>
         </td>
         <td></td>
     </tr>
@@ -103,22 +103,22 @@
         <td align="center">
             <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/github.svg">
             <br>
-            <p>GitHub</p>
+            <small>GitHub</small>
         </td>
         <td align="center">
             <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/githubactions.svg">
             <br>
-            <p>Actions</p>
+            <small>Actions</small>
         </td>
         <td align="center">
             <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/python.svg">
             <br>
-            <p>Python</p>
+            <small>Python</small>
         </td>
         <td align="center">
             <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/pycharm.svg">
             <br>
-            <p>PyCharm</p>
+            <small>PyCharm</small>
         </td>
         <td></td>
     </tr>
@@ -126,7 +126,7 @@
         <td align="center">
             <img width="40" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/cplusplus.svg">
             <br>
-            <p>C++</p>
+            <small>C++</small>
         </td>
         <td></td>
         <td></td>
