@@ -22,7 +22,7 @@ jobs:
 
       - name: User
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.18
+        uses: lowlighter/metrics@v3.19
         with:
           token: ${{ secrets.METRICS }}
           # core
@@ -40,7 +40,7 @@ jobs:
 
       - name: Organization
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.18
+        uses: lowlighter/metrics@v3.19
         with:
           token: ${{ secrets.METRICS }}
           # core
@@ -59,7 +59,7 @@ jobs:
 
       - name: Languages
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.18
+        uses: lowlighter/metrics@v3.19
         with:
           token: ${{ secrets.METRICS }}
           # core
@@ -83,7 +83,7 @@ jobs:
 
       - name: Habits
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.18
+        uses: lowlighter/metrics@v3.19
         with:
           token: ${{ secrets.METRICS }}
           # core
@@ -105,7 +105,7 @@ jobs:
 
       - name: Issues
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.18
+        uses: lowlighter/metrics@v3.19
         with:
           token: ${{ secrets.METRICS }}
           # core
@@ -128,7 +128,7 @@ jobs:
 
       - name: Issues (organization)
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@v3.18
+        uses: lowlighter/metrics@v3.19
         with:
           token: ${{ secrets.METRICS }}
           # core
