@@ -2,14 +2,12 @@
     <img alt="logo" width="125" src="https://avatars.githubusercontent.com/u/58778985?v=4">
     <h3>Welcome! 👋 I'm <a href="https://github.com/Katsute">Katsute</a></h3>
     <h4>Student and Open Source Developer</h4>
-</div>
-
-<div align="center">
-    <a href="https://katsute.dev/">
-        <img src="https://img.shields.io/static/v1?label=&message=Website&style=flat-square&logo=Google-Chrome&color=4285F4&logoColor=white">
-    </a>
+    <p>⎯ <a href="https://katsute.dev/">katsute.dev</a> ⎯</p>
     <a href="https://www.linkedin.com/in/keith-chiu">
         <img alt="linkedin" src="https://img.shields.io/static/v1?label=&message=LinkedIn&style=flat-square&logo=LinkedIn&color=0A66C2&logoColor=white">
+    </a>
+    <a href="https://angel.co/u/katsute">
+        <img src="https://img.shields.io/static/v1?label=&message=AngelList&style=flat-square&logo=AngelList&color=000000&logoColor=white">
     </a>
     <a href="https://github.com/KatsuteDev">
         <img src="https://img.shields.io/static/v1?label=&message=Organization&style=flat-square&logo=GitHub&color=181717&logoColor=white">
