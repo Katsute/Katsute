@@ -128,14 +128,14 @@
         </td>
         <td align="center">
             <a href="https://github.com/KatsuteDev/OneMTA#readme">
-                <img src="https://avatars.githubusercontent.com/u/87244777?s=200&v=4" width="100">
+                <img src="https://raw.githubusercontent.com/KatsuteDev/OneMTA/main/assets/icon.png" width="100">
                 <br>
                 <b>OneMTA</b>
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/KatsuteDev/simplehttpserver#readme">
-                <img src="https://avatars.githubusercontent.com/u/87244777?s=200&v=4" width="100">
+                <img src="https://raw.githubusercontent.com/KatsuteDev/simplehttpserver/main/assets/icon.png" width="100">
                 <br>
                 <b><sup>simplehttpserver</sup></b>
             </a>
