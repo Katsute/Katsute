@@ -46,66 +46,90 @@
         </td>
     </tr>
     <tr>
-        <td valign="top">
+        <td>
             <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/java.svg">
             <b>Java</b>
-            <br>
+        </td>
+        <td>
+            <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/html5.svg">
+            <b>HTML</b>
+        </td>
+        <td>
+            <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/javascript.svg">
+            <b>JavaScript</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/apachemaven.svg">
             <b>Maven</b>
-            <br>
+        </td>
+        <td>
+            <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/css3.svg">
+            <b>CSS</b>
+        </td>
+        <td>
+            <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/typescript.svg">
+            <b>TypeScript</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/intellijidea.svg">
             <b>IntelliJ</b>
         </td>
-        <td valign="top">
-            <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/html5.svg">
-            <b>HTML</b>
-            <br>
-            <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/css3.svg">
-            <b>CSS</b>
-            <br>
+        <td>
             <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/bootstrap.svg">
             <b>Bootstrap</b>
-            <br>
+        </td>
+        <td>
+            <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/nodejs.svg">
+            <b>NodeJS</b>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
             <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/jekyll.svg">
             <b>Jekyll</b>
         </td>
-        <td valign="top">
-            <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/javascript.svg">
-            <b>JavaScript</b>
-            <br>
-            <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/typescript.svg">
-            <b>TypeScript</b>
-            <br>
-            <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/nodejs.svg">
-            <b>NodeJS</b>
-            <br>
+        <td>
             <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/electron.svg">
             <b>ElectronJS</b>
-            <br>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>
             <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/visualstudiocode.svg">
             <b>VSCode</b>
         </td>
     </tr>
     <tr>
-        <td valign="top">
+        <td>
             <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/github.svg">
             <b>GitHub</b>
-            <br>
-            <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/githubactions.svg">
-            <b>GitHub Actions</b>
-            <br>
         </td>
-        <td valign="top">
+        <td>
             <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/python.svg">
             <b>Python</b>
-            <br>
+        </td>
+        <td>
+            <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/cplusplus.svg">
+            <b>C++</b>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/githubactions.svg">
+            <b>GitHub Actions</b>
+        </td>
+        <td>
             <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/pycharm.svg">
             <b>PyCharm</b>
         </td>
-        <td valign="top">
-            <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/cplusplus.svg">
-            <b>C++</b>
-            <br>
+        <td>
             <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/clion.svg">
             <b>CLion</b>
         </td>
