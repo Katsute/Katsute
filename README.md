@@ -27,10 +27,9 @@
 ## &nbsp;
 
 <br>
-<br>
 
 <div align="center">
-    <p>✨ All my major projects are posted at <a href="https://github.com/KatsuteDev">@KatsuteDev</a> ✨</p>
+    <h3>✨ All my major projects are posted at <a href="https://github.com/KatsuteDev">@KatsuteDev</a> ✨</h3>
 </div>
 
 ## &nbsp;
