@@ -184,7 +184,7 @@
                 <b>Stop Chrome</b>
             </a>
         </td>
-        <td width="131">&nbsp;</td>
+        <td>&nbsp;</td>
     </tr>
     <tr>
         <td colspan="3">
@@ -200,12 +200,18 @@
             </a>
         </td>
         <td align="center">
+            <a href="https://github.com/KatsuteDev/Settings-Sync#readme">
+                <img src="https://raw.githubusercontent.com/KatsuteDev/Settings-Sync/main/assets/icon.png" width="100">
+                <br>
+                <b><sup>Settings Sync</sup></b>
+            </a>
+        </td>
+        <td align="center">
             <a href="https://github.com/Katsute/GitHub-Red-Issues#readme">
                 <img src="https://raw.githubusercontent.com/Katsute/GitHub-Red-Issues/main/assets/icon.png" width="100">
                 <br>
                 <sup><b>GitHub Red Issues</b></sup>
             </a>
         </td>
-        <td width="131">&nbsp;</td>
     </tr>
 </table>
