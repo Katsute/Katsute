@@ -203,7 +203,7 @@
             <a href="https://github.com/KatsuteDev/Settings-Sync#readme">
                 <img src="https://raw.githubusercontent.com/KatsuteDev/Settings-Sync/main/assets/icon.png" width="100">
                 <br>
-                <b><sup>Settings Sync</sup></b>
+                <b>Settings Sync</b>
             </a>
         </td>
         <td align="center">
