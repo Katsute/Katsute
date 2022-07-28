@@ -207,8 +207,8 @@
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/Katsute/GitHub-Red-Issues#readme">
-                <img src="https://raw.githubusercontent.com/Katsute/GitHub-Red-Issues/main/assets/icon.png" width="100">
+            <a href="https://github.com/KatsuteDev/GitHub-Red-Issues#readme">
+                <img src="https://raw.githubusercontent.com/KatsuteDev/GitHub-Red-Issues/main/assets/icon.png" width="100">
                 <br>
                 <sup><b>GitHub Red Issues</b></sup>
             </a>
