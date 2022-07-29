@@ -179,7 +179,7 @@
         </td>
         <td align="center">
             <a href="https://github.com/KatsuteDev/Stop-Chrome#readme">
-                <img src="https://raw.githubusercontent.com/KatsuteDev/Stop-Chrome/main/icon.png" width="100">
+                <img src="https://raw.githubusercontent.com/KatsuteDev/Stop-Chrome/main/assets/icon.png" width="100">
                 <br>
                 <b>Stop Chrome</b>
             </a>
