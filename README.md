@@ -184,7 +184,13 @@
                 <b>Stop Chrome</b>
             </a>
         </td>
-        <td>&nbsp;</td>
+        <td align="center">
+            <a href="https://github.com/KatsuteDev/MTA-Stop-Display#readme">
+                <img src="https://raw.githubusercontent.com/KatsuteDev/MTA-Stop-Display/main/assets/icon.png" width="100">
+                <br>
+                <b>Stop Chrome</b>
+            </a>
+        </td>
     </tr>
     <tr>
         <td colspan="3">
