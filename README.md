@@ -188,7 +188,7 @@
             <a href="https://github.com/KatsuteDev/MTA-Stop-Display#readme">
                 <img src="https://raw.githubusercontent.com/KatsuteDev/MTA-Stop-Display/main/assets/icon.png" width="100">
                 <br>
-                <b>Stop Chrome</b>
+                <b><sup>MTA Stop Display</sup></b>
             </a>
         </td>
     </tr>
