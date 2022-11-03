@@ -172,7 +172,7 @@
     <tr>
         <td align="center">
             <a href="https://github.com/KatsuteDev/Desktop-Flick#readme">
-                <img src="https://raw.githubusercontent.com/KatsuteDev/Desktop-Flick/main/logo.png" width="100">
+                <img src="https://raw.githubusercontent.com/KatsuteDev/Desktop-Flick/main/assets/logo.png" width="100">
                 <br>
                 <b>Desktop Flick</b>
             </a>
