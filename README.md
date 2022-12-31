@@ -18,7 +18,7 @@
     <a href="https://github.com/KatsuteDev">
         <img src="https://img.shields.io/static/v1?label=&message=Organization&style=flat-square&logo=GitHub&color=181717&logoColor=white">
     </a>
-    <p>BBA Computer Information Systems - May 2023, Full-stack open source developer.</p>
+    <p>Full-stack open source developer;<br>BBA Computer Information Systems, Baruch College, Spring 2023,<br>Minor in Mathematics and Operations Management</p>
     ⎯ <a href="https://katsute.dev/">katsute.dev</a>
     <br>
     ⎯ <a href="https://github.com/KatsuteDev">@KatsuteDev</a>
@@ -89,8 +89,8 @@
     <tr>
         <td></td>
         <td>
-            <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/jekyll.svg">
-            <b>Jekyll</b>
+            <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/tailwindcss.svg">
+            <b>TailwindCSS</b>
         </td>
         <td>
             <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/electron.svg">
@@ -99,7 +99,8 @@
     </tr>
     <tr>
         <td></td>
-        <td></td>
+        <td><img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/jekyll.svg">
+            <b>Jekyll</b></td>
         <td>
             <img width="20" src="https://raw.githubusercontent.com/Katsute/Katsute/main/icons/visualstudiocode.svg">
             <b>VSCode</b>
