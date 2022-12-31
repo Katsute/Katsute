@@ -19,6 +19,7 @@
         <img src="https://img.shields.io/static/v1?label=&message=Organization&style=flat-square&logo=GitHub&color=181717&logoColor=white">
     </a>
     <p>Full-stack open source developer;<br>BBA Computer Information Systems, Baruch College, Spring 2023,<br>Minor in Mathematics and Operations Management</p>
+    <br>
     ⎯ <a href="https://katsute.dev/">katsute.dev</a>
     <br>
     ⎯ <a href="https://github.com/KatsuteDev">@KatsuteDev</a>
@@ -34,7 +35,7 @@
 
 ## &nbsp;
 
- - Looking for work!
+ - Currently looking for work.
  - I develop open source software, libraries, and extensions.
  - I am currently majoring in Computer Information Systems (BBA) at Baruch College.
 
