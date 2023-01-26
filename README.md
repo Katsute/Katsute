@@ -9,9 +9,6 @@
     <a href="https://angel.co/u/katsute">
         <img src="https://img.shields.io/static/v1?label=&message=AngelList&style=flat-square&logo=AngelList&color=000000&logoColor=white">
     </a>
-    <a href="https://patreon.com/Katsute">
-        <img src="https://img.shields.io/static/v1?label=&message=Patreon&style=flat-square&logo=Patreon&color=FF424D&logoColor=black">
-    </a>
     <a href="https://paypal.me/katsutedev">
         <img src="https://img.shields.io/static/v1?label=&message=PayPal&style=flat-square&logo=paypal&color=00457C&logoColor=black">
     </a>
