@@ -4,16 +4,16 @@
     </a>
     <h3>Katsute</h3>
     <a href="https://www.linkedin.com/in/keith-chiu">
-        <img alt="linkedin" src="https://img.shields.io/static/v1?label=&message=LinkedIn&style=flat-square&logo=LinkedIn&color=0A66C2&logoColor=white">
+        <img alt="linkedin" src="https://img.shields.io/static/v1?label=&message=LinkedIn&style=for-the-badge&logo=LinkedIn&color=0A66C2&logoColor=white">
     </a>
     <a href="https://angel.co/u/katsute">
-        <img src="https://img.shields.io/static/v1?label=&message=AngelList&style=flat-square&logo=AngelList&color=000000&logoColor=white">
+        <img src="https://img.shields.io/static/v1?label=&message=AngelList&style=for-the-badge&logo=AngelList&color=000000&logoColor=white">
+    </a>
+    <a href="https://ko-fi.com/katsute">
+        <img src="https://img.shields.io/static/v1?label=&message=Ko-fi&style=for-the-badge&logo=KoFi&color=FF5E5B&logoColor=white">
     </a>
     <a href="https://paypal.me/katsutedev">
-        <img src="https://img.shields.io/static/v1?label=&message=PayPal&style=flat-square&logo=paypal&color=00457C&logoColor=black">
-    </a>
-    <a href="https://github.com/KatsuteDev">
-        <img src="https://img.shields.io/static/v1?label=&message=Organization&style=flat-square&logo=GitHub&color=181717&logoColor=white">
+        <img src="https://img.shields.io/static/v1?label=&message=PayPal&style=for-the-badge&logo=paypal&color=00457C&logoColor=black">
     </a>
     <p>Full-stack open source developer;<br>BBA Computer Information Systems, Baruch College, Spring 2023,<br>Minor in Mathematics and Operations Management</p>
     <br>
@@ -31,6 +31,8 @@
 </div>
 
 ## &nbsp;
+
+<br>
 
  - Currently looking for work.
  - I develop open source software, libraries, and extensions.
