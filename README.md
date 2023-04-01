@@ -6,7 +6,7 @@
     <a href="https://www.linkedin.com/in/keith-chiu">
         <img alt="linkedin" src="https://img.shields.io/static/v1?label=&message=LinkedIn&style=for-the-badge&logo=LinkedIn&color=0A66C2&logoColor=white">
     </a>
-    <a href="https://angel.co/u/katsute">
+    <a href="https://wellfound.com/u/katsute">
         <img src="https://img.shields.io/static/v1?label=&message=AngelList&style=for-the-badge&logo=AngelList&color=000000&logoColor=white">
     </a>
     <a href="https://ko-fi.com/katsute">
