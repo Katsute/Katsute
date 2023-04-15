@@ -12,9 +12,6 @@
     <a href="https://ko-fi.com/katsute">
         <img src="https://img.shields.io/static/v1?label=&message=Ko-fi&style=for-the-badge&logo=KoFi&color=FF5E5B&logoColor=white">
     </a>
-    <a href="https://paypal.me/katsutedev">
-        <img src="https://img.shields.io/static/v1?label=&message=PayPal&style=for-the-badge&logo=paypal&color=00457C&logoColor=black">
-    </a>
     <p>Full-stack open source developer;<br>BBA Computer Information Systems, Baruch College, Spring 2023,<br>Minor in Mathematics and Operations Management</p>
     <br>
     ⎯ <a href="https://katsute.dev/">katsute.dev</a>
