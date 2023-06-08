@@ -33,7 +33,6 @@
 
  - Currently looking for work.
  - I develop open source software, libraries, and extensions.
- - I am currently majoring in Computer Information Systems (BBA) at Baruch College.
 
 <table align="center">
     <tr>
