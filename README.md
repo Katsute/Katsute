@@ -1,6 +1,6 @@
 <div>
     <a href="https://github.com/Katsute">
-        <img align="left" width="150" src="https://avatars.githubusercontent.com/u/58778985?v=4">
+        <img alt="GitHub @Katsute" align="left" width="150" src="https://avatars.githubusercontent.com/u/58778985?v=4">
     </a>
     <h3>Katsute</h3>
     <a href="https://www.linkedin.com/in/keith-chiu">
@@ -168,6 +168,13 @@
     </tr>
     <tr>
         <td align="center">
+            <a href="https://github.com/KatsuteDev/Language-Board#readme">
+                <img src="https://raw.githubusercontent.com/KatsuteDev/Language-Board/main/assets/icon.png" width="100">
+                <br>
+                <b><sup>Language Board</sup></b>
+            </a>
+        </td>
+        <td align="center">
             <a href="https://github.com/KatsuteDev/Desktop-Flick#readme">
                 <img src="https://raw.githubusercontent.com/KatsuteDev/Desktop-Flick/main/assets/logo.png" width="100">
                 <br>
@@ -180,8 +187,6 @@
                 <br>
                 <b>Stop Chrome</b>
             </a>
-        </td>
-        <td align="center">
         </td>
     </tr>
     <tr>
