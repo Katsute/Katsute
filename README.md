@@ -6,8 +6,8 @@
     <a href="https://www.linkedin.com/in/keith-chiu">
         <img alt="LinkedIn @Keith-Chiu" src="https://img.shields.io/static/v1?label=&message=LinkedIn&style=for-the-badge&logo=LinkedIn&color=0A66C2&logoColor=white">
     </a>
-    <a href="https://wellfound.com/u/katsute">
-        <img alt="Wellfound @Katsute" src="https://img.shields.io/static/v1?label=&message=Wellfound&style=for-the-badge&color=000000&logoColor=white&logo=wellfound">
+    <a href="https://katsute.dev">
+        <img alt="Website" src="https://img.shields.io/static/v1?label=&message=Website&style=for-the-badge&color=202020&logoColor=white&logo=github">
     </a>
     <a href="https://ko-fi.com/katsute">
         <img alt="Ko-Fi @Katsute" src="https://img.shields.io/static/v1?label=&message=Ko-fi&style=for-the-badge&logo=KoFi&color=FF5E5B&logoColor=white">
