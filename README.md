@@ -9,9 +9,6 @@
     <a href="https://katsute.dev">
         <img alt="Website" src="https://img.shields.io/static/v1?label=&message=Website&style=for-the-badge&color=202020&logoColor=white&logo=github">
     </a>
-    <a href="https://ko-fi.com/katsute">
-        <img alt="Ko-Fi @Katsute" src="https://img.shields.io/static/v1?label=&message=Ko-fi&style=for-the-badge&logo=KoFi&color=FF5E5B&logoColor=white">
-    </a>
 </div>
 
 <br>
@@ -19,6 +16,7 @@
 * Open source developer
 * BBA Computer Information Systems at Baruch College
 * Minor in Mathematics and Operations Management
+* Research Analyst at [Green Key Resources](https://greenkeyllc.com/)
 
 <div align="center">
     <h3>✨ All major projects are posted at <a href="https://github.com/KatsuteDev">@KatsuteDev</a> ✨</h3>
