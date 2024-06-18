@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://katsute.dev">
-        <img alt="banner" src="https://raw.githubusercontent.com/Katsute/Katsute/main/banner.png">
+        <img alt="Banner" src="https://raw.githubusercontent.com/Katsute/Katsute/main/banner.png">
     </a>
     <br>
     <a href="https://www.linkedin.com/in/keith-chiu">
@@ -16,7 +16,7 @@
 * Open source developer
 * BBA Computer Information Systems at Baruch College
 * Minor in Mathematics and Operations Management
-* Junior Data Analyst at [Green Key Resources](https://greenkeyllc.com/)
+* Software Developer, Business Analyst, and End User Experience Agent at [Green Key Resources](https://greenkeyllc.com/)
 
 <div align="center">
     <h3>✨ All major projects are posted at <a href="https://github.com/KatsuteDev">@KatsuteDev</a> ✨</h3>
