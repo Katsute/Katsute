@@ -16,7 +16,7 @@
 * Open source developer
 * BBA Computer Information Systems at Baruch College
 * Minor in Mathematics and Operations Management
-* Software Developer, Business Analyst, and End User Experience Agent at [Green Key Resources](https://greenkeyllc.com/)
+* Software Developer, Business Analyst at [Green Key Resources](https://greenkeyllc.com/)
 
 <div align="center">
     <h3>✨ All major projects are posted at <a href="https://github.com/KatsuteDev">@KatsuteDev</a> ✨</h3>
